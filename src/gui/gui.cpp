@@ -344,7 +344,7 @@ namespace zero_mate::gui
         if (images[0].pixels != nullptr)
         {
         #if !defined(__APPLE__)
-            glfwSetWindowIcon(window, 1, images)
+            glfwSetWindowIcon(window, 1, images);
         #endif
         }
 
