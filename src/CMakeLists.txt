@@ -64,7 +64,7 @@ target_link_libraries(zero_mate
 if(NOT WIN32)
     set_target_properties(zero_mate 
         PROPERTIES
-            INSTALL_RPATH "$ORIGIN"
+            INSTALL_RPATH "."
             BUILD_WITH_INSTALL_RPATH TRUE
     )
 endif()

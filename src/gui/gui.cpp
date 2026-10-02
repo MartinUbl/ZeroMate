@@ -239,9 +239,17 @@ namespace zero_mate::gui
             return 1;
         }
 
-        // Set up GLFW window hints.
-        glfwWindowHint(GLFW_CONTEXT_VERSION_MAJOR, 3);
-        glfwWindowHint(GLFW_CONTEXT_VERSION_MINOR, 0);
+        #if defined(__APPLE__)
+            // GL 3.2 + GLSL 150
+            glfwWindowHint(GLFW_CONTEXT_VERSION_MAJOR, 3);
+            glfwWindowHint(GLFW_CONTEXT_VERSION_MINOR, 2);
+            glfwWindowHint(GLFW_OPENGL_PROFILE, GLFW_OPENGL_CORE_PROFILE);  // 3.2+ only
+            glfwWindowHint(GLFW_OPENGL_FORWARD_COMPAT, GL_TRUE);            // Required on Mac
+        #else
+            // Set up GLFW window hints.
+            glfwWindowHint(GLFW_CONTEXT_VERSION_MAJOR, 3);
+            glfwWindowHint(GLFW_CONTEXT_VERSION_MINOR, 0);
+        #endif
 
         // Create a GLFW window.
         GLFWwindow* window = glfwCreateWindow(Window_Width, Window_Height, Window_Title, nullptr, nullptr);
@@ -290,7 +298,11 @@ namespace zero_mate::gui
 
         // Init ImGUI GLFW with OpenGL implementation.
         ImGui_ImplGlfw_InitForOpenGL(window, true);
-        ImGui_ImplOpenGL3_Init("#version 130");
+        #if defined(__APPLE__)
+            ImGui_ImplOpenGL3_Init("#version 150");
+        #else
+            ImGui_ImplOpenGL3_Init("#version 130");
+        #endif
 
         // Attempt to load a custom font and icons.
         if (std::filesystem::exists(config::Font_Path) && std::filesystem::exists(config::Icons_Path))
@@ -331,7 +343,9 @@ namespace zero_mate::gui
         // Make sure the logo was loaded successfully.
         if (images[0].pixels != nullptr)
         {
-            glfwSetWindowIcon(window, 1, images);
+        #if !defined(__APPLE__)
+            glfwSetWindowIcon(window, 1, images)
+        #endif
         }
 
         // Free the junk of allocated memory.
