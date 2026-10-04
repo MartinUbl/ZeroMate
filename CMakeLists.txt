@@ -66,6 +66,9 @@ add_subdirectory(peripherals)
 # Add the src folder
 add_subdirectory(src)
 
+# Define the self-contained runtime layout used by release artifacts
+include(cmake/install.cmake)
+
 # Add tests
 option(ENABLE_TESTING "Enable Test Builds" ON)
 

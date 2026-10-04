@@ -5,9 +5,16 @@ on:
   push:
     branches:
       - main
+      - release-test
+    tags:
+      - "v*"
   pull_request:
     branches:
       - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
       
 env:
   CODECOV_TOKEN: ${{ secrets.CODECOV_TOKEN }}
@@ -15,10 +22,11 @@ env:
 jobs:
   build:
     # Specify the type of the machine
-    runs-on: ubuntu-latest
+    # Build on an older supported glibc baseline for wider Ubuntu compatibility.
+    runs-on: ubuntu-22.04
     
     steps:
-    - uses: actions/checkout@v3
+    - uses: actions/checkout@v7
       with:
         submodules: recursive
 
@@ -44,5 +52,73 @@ jobs:
     # Report test coverage
     - name: Upload coverage reports to Codecov
       run: bash <(curl -s https://codecov.io/bash) || echo "Codecov did not collect coverage reports"
+
+    # Build and stage a self-contained Release package
+    - name: Configure Release
+      run: cmake --preset unix_makefiles_gcc_release -DBUILD_DOC=OFF
+
+    - name: Build Release
+      run: cmake --build --preset unix_makefiles_gcc_release --parallel 4
+
+    - name: Install runtime package
+      run: >-
+        cmake --install build/unix_makefiles/gcc/release
+        --component Runtime
+        --prefix package/ZeroMate-ubuntu-x64
+
+    - name: Validate runtime package
+      shell: bash
+      run: |
+        set -euo pipefail
+        package="package/ZeroMate-ubuntu-x64"
+
+        required=(
+          "$package/zero_mate"
+          "$package/liblogging_system.so"
+          "$package/libimgui_glfw.so"
+          "$package/peripherals/libbutton.so"
+          "$package/peripherals/libdip_switch.so"
+          "$package/peripherals/libled.so"
+          "$package/peripherals/liblogic_analyzer.so"
+          "$package/peripherals/libserial_terminal.so"
+          "$package/peripherals/libseven_seg_display.so"
+          "$package/peripherals/libssd1306_oled.so"
+          "$package/fonts/Cousine-Regular.ttf"
+          "$package/icons/fa-solid-900.ttf"
+          "$package/logos/logo.png"
+          "$package/imgui.ini"
+          "$package/peripherals.json"
+          "$package/LICENSE"
+          "$package/README.md"
+        )
+
+        for path in "${required[@]}"; do
+          test -f "$path" || { echo "Missing runtime package file: $path"; exit 1; }
+        done
+        test -x "$package/zero_mate"
+
+        while IFS= read -r binary; do
+          echo "Runtime dependencies for $binary"
+          dependencies="$(ldd "$binary")"
+          echo "$dependencies"
+          if grep -q "not found" <<< "$dependencies"; then
+            exit 1
+          fi
+        done < <(find "$package" -type f \( -name zero_mate -o -name '*.so' \) -print)
+
+    - name: Create release archive
+      run: |
+        tar -C package -czf ZeroMate-ubuntu-x64.tar.gz ZeroMate-ubuntu-x64
+        sha256sum ZeroMate-ubuntu-x64.tar.gz > ZeroMate-ubuntu-x64.tar.gz.sha256
+
+    - name: Upload runtime artifact
+      uses: actions/upload-artifact@v7
+      with:
+        name: ZeroMate-ubuntu-x64
+        path: |
+          ZeroMate-ubuntu-x64.tar.gz
+          ZeroMate-ubuntu-x64.tar.gz.sha256
+        if-no-files-found: error
+        retention-days: 14
 
 # EOF

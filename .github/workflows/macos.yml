@@ -5,17 +5,32 @@ on:
   push:
     branches:
       - main
+      - release-test
+    tags:
+      - "v*"
   pull_request:
     branches:
       - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
 
 jobs:
   build:
-    # Specify the type of the machine
-    runs-on: macos-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - runner: macos-15
+            architecture: arm64
+          - runner: macos-15-intel
+            architecture: x64
+
+    runs-on: ${{ matrix.runner }}
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v7
         with:
           submodules: recursive
 
@@ -31,5 +46,76 @@ jobs:
       - name: Tests
         working-directory: build/unix_makefiles/clang/debug
         run: ctest --rerun-failed --output-on-failure
+
+      # Build and stage a self-contained Release package
+      - name: Configure Release
+        run: cmake --preset unix_makefiles_clang_release -DBUILD_DOC=OFF
+
+      - name: Build Release
+        run: cmake --build --preset unix_makefiles_clang_release --parallel 4
+
+      - name: Install runtime package
+        run: >-
+          cmake --install build/unix_makefiles/clang/release
+          --component Runtime
+          --prefix package/ZeroMate-macos-${{ matrix.architecture }}
+
+      - name: Validate runtime package
+        shell: bash
+        run: |
+          set -euo pipefail
+          package="package/ZeroMate-macos-${{ matrix.architecture }}"
+
+          required=(
+            "$package/zero_mate"
+            "$package/liblogging_system.dylib"
+            "$package/libimgui_glfw.dylib"
+            "$package/peripherals/libbutton.dylib"
+            "$package/peripherals/libdip_switch.dylib"
+            "$package/peripherals/libled.dylib"
+            "$package/peripherals/liblogic_analyzer.dylib"
+            "$package/peripherals/libserial_terminal.dylib"
+            "$package/peripherals/libseven_seg_display.dylib"
+            "$package/peripherals/libssd1306_oled.dylib"
+            "$package/fonts/Cousine-Regular.ttf"
+            "$package/icons/fa-solid-900.ttf"
+            "$package/logos/logo.png"
+            "$package/imgui.ini"
+            "$package/peripherals.json"
+            "$package/LICENSE"
+            "$package/README.md"
+          )
+
+          for path in "${required[@]}"; do
+            test -f "$path" || { echo "Missing runtime package file: $path"; exit 1; }
+          done
+          test -x "$package/zero_mate"
+
+          while IFS= read -r binary; do
+            echo "Runtime dependencies for $binary"
+            dependencies="$(otool -L "$binary")"
+            echo "$dependencies"
+            if grep -Fq "$GITHUB_WORKSPACE" <<< "$dependencies"; then
+              echo "Build-machine path found in runtime dependencies: $binary"
+              exit 1
+            fi
+          done < <(find "$package" -type f \( -name zero_mate -o -name '*.dylib' \) -print)
+
+      - name: Create release archive
+        run: |
+          tar -C package -czf ZeroMate-macos-${{ matrix.architecture }}.tar.gz \
+            ZeroMate-macos-${{ matrix.architecture }}
+          shasum -a 256 ZeroMate-macos-${{ matrix.architecture }}.tar.gz \
+            > ZeroMate-macos-${{ matrix.architecture }}.tar.gz.sha256
+
+      - name: Upload runtime artifact
+        uses: actions/upload-artifact@v7
+        with:
+          name: ZeroMate-macos-${{ matrix.architecture }}
+          path: |
+            ZeroMate-macos-${{ matrix.architecture }}.tar.gz
+            ZeroMate-macos-${{ matrix.architecture }}.tar.gz.sha256
+          if-no-files-found: error
+          retention-days: 14
 
 # EOF

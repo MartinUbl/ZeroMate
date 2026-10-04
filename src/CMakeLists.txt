@@ -60,11 +60,18 @@ target_link_libraries(zero_mate
         logging_system
 )
 
-# Set the rpath to look for shared libraries relative to the executable
-if(NOT WIN32)
+# Set the rpath to look for shared libraries relative to the executable rather
+# than relative to the process working directory.
+if(APPLE)
     set_target_properties(zero_mate 
         PROPERTIES
-            INSTALL_RPATH "."
+            INSTALL_RPATH "@executable_path"
+            BUILD_WITH_INSTALL_RPATH TRUE
+    )
+elseif(UNIX)
+    set_target_properties(zero_mate
+        PROPERTIES
+            INSTALL_RPATH "$ORIGIN"
             BUILD_WITH_INSTALL_RPATH TRUE
     )
 endif()

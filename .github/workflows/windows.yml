@@ -5,31 +5,104 @@ on:
   push:
     branches:
       - main
+      - release-test
+    tags:
+      - "v*"
   pull_request:
     branches:
       - main
+  workflow_dispatch:
+
+permissions:
+  contents: read
 
 jobs:
   build:
     # Specify the type of the machine
-    runs-on: windows-latest
+    runs-on: windows-2022
 
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v7
         with:
           submodules: recursive
 
-      # Configure the CMake project using the default generator (MSVC)
+      # Configure the CMake project using the pinned MSVC generator
       - name: Configure CMake
-        run: cmake -S . -B build/msvc
+        run: cmake --preset msvc -DBUILD_DOC=OFF
 
-      # Build the project
-      - name: Build
-        run: cmake --build build/msvc --config Debug -j4
+      # Build and test the Debug configuration used by CI
+      - name: Build Debug
+        run: cmake --build build/msvc --config Debug --parallel 4
 
-      # Run tests
       - name: Tests
         working-directory: build/msvc
         run: ctest --rerun-failed --output-on-failure --build-config Debug
+
+      # Build a clean Release configuration for distribution
+      - name: Build Release
+        run: cmake --build build/msvc --config Release --parallel 4
+
+      - name: Install runtime package
+        run: >-
+          cmake --install build/msvc
+          --config Release
+          --component Runtime
+          --prefix package/ZeroMate-windows-x64
+
+      - name: Validate runtime package
+        shell: pwsh
+        run: |
+          $package = "package/ZeroMate-windows-x64"
+          $required = @(
+            "$package/zero_mate.exe",
+            "$package/logging_system.dll",
+            "$package/peripherals/button.dll",
+            "$package/peripherals/dip_switch.dll",
+            "$package/peripherals/led.dll",
+            "$package/peripherals/logic_analyzer.dll",
+            "$package/peripherals/serial_terminal.dll",
+            "$package/peripherals/seven_seg_display.dll",
+            "$package/peripherals/ssd1306_oled.dll",
+            "$package/fonts/Cousine-Regular.ttf",
+            "$package/icons/fa-solid-900.ttf",
+            "$package/logos/logo.png",
+            "$package/imgui.ini",
+            "$package/peripherals.json",
+            "$package/LICENSE",
+            "$package/README.md"
+          )
+
+          foreach ($path in $required) {
+            if (-not (Test-Path -LiteralPath $path -PathType Leaf)) {
+              throw "Missing runtime package file: $path"
+            }
+          }
+
+          if (-not (Get-ChildItem -LiteralPath $package -Filter "vcruntime*.dll")) {
+            throw "The MSVC runtime DLLs were not included in the package"
+          }
+
+          if (-not (Get-ChildItem -LiteralPath $package -Filter "msvcp*.dll")) {
+            throw "The MSVC C++ runtime DLLs were not included in the package"
+          }
+
+      - name: Create release archive
+        shell: pwsh
+        run: |
+          Compress-Archive `
+            -Path package/ZeroMate-windows-x64 `
+            -DestinationPath ZeroMate-windows-x64.zip
+          $hash = (Get-FileHash ZeroMate-windows-x64.zip -Algorithm SHA256).Hash.ToLower()
+          "$hash  ZeroMate-windows-x64.zip" | Set-Content ZeroMate-windows-x64.zip.sha256
+
+      - name: Upload runtime artifact
+        uses: actions/upload-artifact@v7
+        with:
+          name: ZeroMate-windows-x64
+          path: |
+            ZeroMate-windows-x64.zip
+            ZeroMate-windows-x64.zip.sha256
+          if-no-files-found: error
+          retention-days: 14
 
 # EOF
