@@ -74,10 +74,10 @@ var NAVTREEINDEX =
 "classzero__mate_1_1peripheral_1_1CARM__Timer.html#a011cb47b95a355e3fa9b874ddd42b19ba4d1c8263ba1036754f8db14a98f9f006",
 "classzero__mate_1_1peripheral_1_1CBSC.html#aec40cdcf9f04dabed279f6e856764409",
 "classzero__mate_1_1peripheral_1_1CInterrupt__Controller.html#a8c0ac5183c20a4955f29c2954a18ff29",
-"classzero__mate_1_1peripheral_1_1CRAM.html#ab231821e251900b34a6a8beddb6b90a5",
-"elf__loader_8hpp.html#a168db2218bf676ff9e0baa59f6fd6696abf878a4226d73b21fb754598f64da06f",
-"namespacezero__mate_1_1soc_1_1config.html",
-"structzero__mate_1_1gui_1_1startup_1_1Args.html#a0bf88079a342c06f22ce77d6a7a5519d"
+"classzero__mate_1_1peripheral_1_1CRAM.html#a96af986ac0df7c1246dce8795233f95a",
+"elf__loader_8hpp.html#a168db2218bf676ff9e0baa59f6fd6696a7b3655191e25bd671e35caf4f5b23a7e",
+"namespacezero__mate_1_1soc.html#af3adf39477e146d5d7ff7452f3818203",
+"structzero__mate_1_1gui_1_1startup_1_1Args.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

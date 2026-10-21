@@ -1,5 +1,7 @@
 var NAVTREEINDEX14 =
 {
+"namespacezero__mate_1_1soc.html#af3adf39477e146d5d7ff7452f3818203":[0,0,0,5,8],
+"namespacezero__mate_1_1soc.html#afd2705ddec33a890cf8eff78a144e3b0":[0,0,0,5,1],
 "namespacezero__mate_1_1soc_1_1config.html":[0,0,0,5,0],
 "namespacezero__mate_1_1soc_1_1config.html#a0b9c1816e485f680330c939a4066f17d":[0,0,0,5,0,1],
 "namespacezero__mate_1_1soc_1_1config.html#a22320326abefd378425806d64368eb9b":[0,0,0,5,0,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX14 =
 "structzero__mate_1_1gui_1_1color_1_1TRGB.html#a92fa60d28877d90e9fa26e60830eb8f4":[0,0,0,3,0,0,2],
 "structzero__mate_1_1gui_1_1color_1_1TRGB.html#aba925f0df0cfb236807df09b6884eab2":[0,0,0,3,0,0,0],
 "structzero__mate_1_1gui_1_1color_1_1TRGB.html#aba925f0df0cfb236807df09b6884eab2":[1,0,0,2,0,0,0],
-"structzero__mate_1_1gui_1_1startup_1_1Args.html":[0,0,0,3,2,0],
-"structzero__mate_1_1gui_1_1startup_1_1Args.html":[1,0,0,2,1,0],
-"structzero__mate_1_1gui_1_1startup_1_1Args.html#a0bf88079a342c06f22ce77d6a7a5519d":[1,0,0,2,1,0,0]
+"structzero__mate_1_1gui_1_1startup_1_1Args.html":[0,0,0,3,2,0]
 };

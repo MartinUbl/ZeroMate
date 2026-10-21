@@ -41,6 +41,7 @@ var classzero__mate_1_1peripheral_1_1CMini__UART =
     [ "Increment_Passed_Cycles", "classzero__mate_1_1peripheral_1_1CMini__UART.html#aae5f7e2bbffa6e3881675058a0aedf6f", null ],
     [ "Is_Receive_Interrupt_Enabled", "classzero__mate_1_1peripheral_1_1CMini__UART.html#aafdd369ea20fb588fdba59b98e20b3b8", null ],
     [ "Is_Receiver_Enabled", "classzero__mate_1_1peripheral_1_1CMini__UART.html#a2a71009ed1f6227341dad8926bd73d81", null ],
+    [ "Is_RX_FIFO_Empty", "classzero__mate_1_1peripheral_1_1CMini__UART.html#a28b66036f171d72e0f8e953b05f45c80", null ],
     [ "Is_Transmission_FIFO_Empty", "classzero__mate_1_1peripheral_1_1CMini__UART.html#a2786f867a05087fc463657262594db71", null ],
     [ "Is_Transmit_Interrupt_Enabled", "classzero__mate_1_1peripheral_1_1CMini__UART.html#a1e54d90a036d327e36d06a74be1595c3", null ],
     [ "Is_Transmitter_Enabled", "classzero__mate_1_1peripheral_1_1CMini__UART.html#a968340fbf2802af5178531146bca03c8", null ],

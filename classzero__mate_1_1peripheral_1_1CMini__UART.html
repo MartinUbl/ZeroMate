@@ -195,6 +195,9 @@ Public Member Functions</h2></td></tr>
 <tr class="memitem:a38ec184d1ec7845c1d4ca77ad8743ad0" id="r_a38ec184d1ec7845c1d4ca77ad8743ad0"><td class="memItemLeft" align="right" valign="top">std::pair&lt; std::uint8_t, bool &gt;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classzero__mate_1_1peripheral_1_1CMini__UART.html#a38ec184d1ec7845c1d4ca77ad8743ad0">Pop_RX_Data</a> ()</td></tr>
 <tr class="memdesc:a38ec184d1ec7845c1d4ca77ad8743ad0"><td class="mdescLeft">&#160;</td><td class="mdescRight">Pops a byte of data from the RX queue.  <br /></td></tr>
 <tr class="separator:a38ec184d1ec7845c1d4ca77ad8743ad0"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a28b66036f171d72e0f8e953b05f45c80" id="r_a28b66036f171d72e0f8e953b05f45c80"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classzero__mate_1_1peripheral_1_1CMini__UART.html#a28b66036f171d72e0f8e953b05f45c80">Is_RX_FIFO_Empty</a> () const</td></tr>
+<tr class="memdesc:a28b66036f171d72e0f8e953b05f45c80"><td class="mdescLeft">&#160;</td><td class="mdescRight">Polls the RX queue and determines if it's empty.  <br /></td></tr>
+<tr class="separator:a28b66036f171d72e0f8e953b05f45c80"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab7b7f2053470db06fcd5b559ee013ccc" id="r_ab7b7f2053470db06fcd5b559ee013ccc"><td class="memItemLeft" align="right" valign="top">bool&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classzero__mate_1_1peripheral_1_1CMini__UART.html#ab7b7f2053470db06fcd5b559ee013ccc">Has_Pending_Receive_IRQ</a> () const</td></tr>
 <tr class="memdesc:ab7b7f2053470db06fcd5b559ee013ccc"><td class="mdescLeft">&#160;</td><td class="mdescRight">Checks whether there is a pending receive IRQ.  <br /></td></tr>
 <tr class="separator:ab7b7f2053470db06fcd5b559ee013ccc"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -219,7 +222,7 @@ Static Public Attributes</h2></td></tr>
 <tr class="memitem:a0c308ee0984d8953325206168a1b44f1" id="r_a0c308ee0984d8953325206168a1b44f1"><td class="memItemLeft" align="right" valign="top">static constexpr std::uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classzero__mate_1_1peripheral_1_1CMini__UART.html#a0c308ee0984d8953325206168a1b44f1">IIR_IRQ_Transmit_Pending</a> = 0b01U &lt;&lt; 1U</td></tr>
 <tr class="memdesc:a0c308ee0984d8953325206168a1b44f1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Pending transmit IRQ flag.  <br /></td></tr>
 <tr class="separator:a0c308ee0984d8953325206168a1b44f1"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a309f682695359665ab24aca6de2e445e" id="r_a309f682695359665ab24aca6de2e445e"><td class="memItemLeft" align="right" valign="top">static constexpr std::uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classzero__mate_1_1peripheral_1_1CMini__UART.html#a309f682695359665ab24aca6de2e445e">IIR_IRQ_Type_Mask</a> = <a class="el" href="classzero__mate_1_1peripheral_1_1CMini__UART.html#a0c308ee0984d8953325206168a1b44f1">IIR_IRQ_Transmit_Pending</a> | <a class="el" href="classzero__mate_1_1peripheral_1_1CMini__UART.html#a0c308ee0984d8953325206168a1b44f1">IIR_IRQ_Transmit_Pending</a></td></tr>
+<tr class="memitem:a309f682695359665ab24aca6de2e445e" id="r_a309f682695359665ab24aca6de2e445e"><td class="memItemLeft" align="right" valign="top">static constexpr std::uint32_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classzero__mate_1_1peripheral_1_1CMini__UART.html#a309f682695359665ab24aca6de2e445e">IIR_IRQ_Type_Mask</a> = <a class="el" href="classzero__mate_1_1peripheral_1_1CMini__UART.html#a0f29867a8be0d55c953a0a5aba5dadfa">IIR_IRQ_Receive_Pending</a> | <a class="el" href="classzero__mate_1_1peripheral_1_1CMini__UART.html#a0c308ee0984d8953325206168a1b44f1">IIR_IRQ_Transmit_Pending</a></td></tr>
 <tr class="memdesc:a309f682695359665ab24aca6de2e445e"><td class="mdescLeft">&#160;</td><td class="mdescRight">Pending IRQ type bitmask.  <br /></td></tr>
 <tr class="separator:a309f682695359665ab24aca6de2e445e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
@@ -912,6 +915,26 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><iframe scrolling="no" frameborder="0" src="classzero__mate_1_1peripheral_1_1CMini__UART_a2a71009ed1f6227341dad8926bd73d81_icgraph.svg" width="904" height="123"><p><b>This browser is not able to show SVG: try Firefox, Chrome, Safari, or Opera instead.</b></p></iframe></div>
 </div>
+
+</div>
+</div>
+<a id="a28b66036f171d72e0f8e953b05f45c80" name="a28b66036f171d72e0f8e953b05f45c80"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a28b66036f171d72e0f8e953b05f45c80">&#9670;&#160;</a></span>Is_RX_FIFO_Empty()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">bool zero_mate::peripheral::CMini_UART::Is_RX_FIFO_Empty </td>
+          <td>(</td>
+          <td class="paramname"></td><td>)</td>
+          <td> const</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Polls the RX queue and determines if it's empty. </p>
+<dl class="section return"><dt>Returns</dt><dd>If there is no data in RX queue, returns true; otherwise returns false </dd></dl>
 
 </div>
 </div>
@@ -1735,7 +1758,7 @@ Here is the caller graph for this function:</div>
   <td class="mlabels-left">
       <table class="memname">
         <tr>
-          <td class="memname">constexpr std::uint32_t zero_mate::peripheral::CMini_UART::IIR_IRQ_Type_Mask = <a class="el" href="classzero__mate_1_1peripheral_1_1CMini__UART.html#a0c308ee0984d8953325206168a1b44f1">IIR_IRQ_Transmit_Pending</a> | <a class="el" href="classzero__mate_1_1peripheral_1_1CMini__UART.html#a0c308ee0984d8953325206168a1b44f1">IIR_IRQ_Transmit_Pending</a></td>
+          <td class="memname">constexpr std::uint32_t zero_mate::peripheral::CMini_UART::IIR_IRQ_Type_Mask = <a class="el" href="classzero__mate_1_1peripheral_1_1CMini__UART.html#a0f29867a8be0d55c953a0a5aba5dadfa">IIR_IRQ_Receive_Pending</a> | <a class="el" href="classzero__mate_1_1peripheral_1_1CMini__UART.html#a0c308ee0984d8953325206168a1b44f1">IIR_IRQ_Transmit_Pending</a></td>
         </tr>
       </table>
   </td>
