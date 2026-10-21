@@ -74,7 +74,7 @@ namespace zero_mate::peripheral
 
     void CMini_UART::Clear_Pending_Receive_IRQ()
     {
-        m_aux.m_regs[static_cast<std::uint32_t>(CAUX::NRegister::MU_IIR)] &= IIR_IRQ_Receive_Pending;
+        m_aux.m_regs[static_cast<std::uint32_t>(CAUX::NRegister::MU_IIR)] &= ~IIR_IRQ_Receive_Pending;
 
         // Is the there is no transit IRQ pending, clear IRQ completely.
         if (!Has_Pending_Transmit_IRQ())
@@ -376,11 +376,11 @@ namespace zero_mate::peripheral
 
         // Set pending IRQ.
         m_aux.m_regs[static_cast<std::uint32_t>(CAUX::NRegister::MU_IIR)] &=
-        ~static_cast<std::uint32_t>(NIIR_Flags::Pending_IRQ);
+            ~static_cast<std::uint32_t>(NIIR_Flags::Pending_IRQ);
 
         // Set pending IRQ in the IRQ register of the AUX peripheral.
         m_aux.m_regs[static_cast<std::uint32_t>(CAUX::NRegister::IRQ)] |=
-        static_cast<std::uint32_t>(CAUX::NAUX_Peripheral::Mini_UART);
+            static_cast<std::uint32_t>(CAUX::NAUX_Peripheral::Mini_UART);
 
         // Signalize the interrupt controller.
         m_aux.m_ic->Signalize_IRQ(CInterrupt_Controller::NIRQ_Source::AUX);
@@ -389,11 +389,11 @@ namespace zero_mate::peripheral
     void CMini_UART::Set_Pending_IRQ_Type(bool receive)
     {
         // Clear both flags (receive + transmit).
-        m_aux.m_regs[static_cast<std::uint32_t>(CAUX::NRegister::MU_IIR)] &= IIR_IRQ_Type_Mask;
+        m_aux.m_regs[static_cast<std::uint32_t>(CAUX::NRegister::MU_IIR)] &= ~IIR_IRQ_Type_Mask;
 
         // Set the type of the pending IRQ.
         m_aux.m_regs[static_cast<std::uint32_t>(CAUX::NRegister::MU_IIR)] |=
-        receive ? IIR_IRQ_Receive_Pending : IIR_IRQ_Transmit_Pending;
+            receive ? IIR_IRQ_Receive_Pending : IIR_IRQ_Transmit_Pending;
     }
 
     void CMini_UART::UART_Reset_Transmission()
