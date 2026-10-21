@@ -106,7 +106,7 @@ namespace zero_mate::peripheral
         static constexpr std::uint32_t IIR_IRQ_Transmit_Pending = 0b01U << 1U;
 
         /// Pending IRQ type bitmask
-        static constexpr std::uint32_t IIR_IRQ_Type_Mask = IIR_IRQ_Transmit_Pending | IIR_IRQ_Transmit_Pending;
+        static constexpr std::uint32_t IIR_IRQ_Type_Mask = IIR_IRQ_Receive_Pending | IIR_IRQ_Transmit_Pending;
 
     public:
         // -------------------------------------------------------------------------------------------------------------
