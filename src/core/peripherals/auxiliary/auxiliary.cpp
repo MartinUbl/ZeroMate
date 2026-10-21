@@ -122,20 +122,20 @@ namespace zero_mate::peripheral
 
         if (reg_type == NRegister::MU_IO)
         {
-            // If we are reading from the Mini UART's IO register, clear data ready flag (it's just been read).
-            m_mini_UART->Clear_Data_Ready();
-
             // Get another byte of data from the Mini UART's RX queue.
-            const auto [RX_data, RX_queue_empty] = m_mini_UART->Pop_RX_Data();
+            const auto [RX_data, RX_success] = m_mini_UART->Pop_RX_Data();
 
-            if (!RX_queue_empty)
-            {
+            if (!RX_success) {
                 m_regs[reg_idx] = RX_data;
             }
 
+            // If we are reading from the Mini UART's IO register, clear data ready flag if the RX FIFO is empty
+            if (m_mini_UART->Is_RX_FIFO_Empty()) {
+                m_mini_UART->Clear_Data_Ready();
+            }
+
             // If there is a pending receive IRQ, clear it.
-            if (m_mini_UART->Has_Pending_Receive_IRQ())
-            {
+            if (m_mini_UART->Has_Pending_Receive_IRQ()) {
                 m_mini_UART->Clear_Pending_Receive_IRQ();
             }
         }

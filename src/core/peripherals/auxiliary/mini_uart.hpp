@@ -179,6 +179,12 @@ namespace zero_mate::peripheral
         [[nodiscard]] std::pair<std::uint8_t, bool> Pop_RX_Data();
 
         // -------------------------------------------------------------------------------------------------------------
+        /// \brief Polls the RX queue and determines if it's empty
+        /// \return If there is no data in RX queue, returns false; otherwise returns true
+        // -------------------------------------------------------------------------------------------------------------
+        [[nodiscard]] bool Is_RX_FIFO_Empty() const;
+
+        // -------------------------------------------------------------------------------------------------------------
         /// \brief Checks whether there is a pending receive IRQ.
         /// \return true, if there is a pending receive IRQ. false otherwise.
         // -------------------------------------------------------------------------------------------------------------

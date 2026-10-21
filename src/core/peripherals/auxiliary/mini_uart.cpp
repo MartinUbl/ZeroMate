@@ -112,6 +112,10 @@ namespace zero_mate::peripheral
         return data;
     }
 
+    [[nodiscard]] bool CMini_UART::Is_RX_FIFO_Empty() const {
+        return m_RX_queue.empty();
+    }
+
     void CMini_UART::Set_Transmit_Shift_Reg(std::uint8_t value)
     {
         // Store the value (byte) into the transmit FIFO.
