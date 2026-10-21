@@ -180,7 +180,7 @@ namespace zero_mate::peripheral
 
         // -------------------------------------------------------------------------------------------------------------
         /// \brief Polls the RX queue and determines if it's empty
-        /// \return If there is no data in RX queue, returns false; otherwise returns true
+        /// \return If there is no data in RX queue, returns true; otherwise returns false
         // -------------------------------------------------------------------------------------------------------------
         [[nodiscard]] bool Is_RX_FIFO_Empty() const;
 
