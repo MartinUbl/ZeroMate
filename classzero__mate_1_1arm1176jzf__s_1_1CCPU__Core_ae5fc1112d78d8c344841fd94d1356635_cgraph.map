@@ -1,31 +1,51 @@
 <map id="zero_mate::arm1176jzf_s::CCPU_Core::Execute" name="zero_mate::arm1176jzf_s::CCPU_Core::Execute">
-<area shape="rect" id="Node000001" title="Executes a halfword data transfer instruction." alt="" coords="5,318,181,358"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#ab8055407426b0f25544d2b33a89b22a7" title="Calculates the offset from the base address in a single data transfer instruction." alt="" coords="245,170,440,210"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,315,295,215,298,219,130,320"/>
-<area shape="rect" id="Node000007" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a066aca0627655bc1e068b181fb0964bd" title="Performs a halfword data read from a given address." alt="" coords="231,311,455,365"/>
-<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="182,335,217,335,217,341,182,341"/>
-<area shape="rect" id="Node000010" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a00f4cf1169d774a50886f60f5f166f8b" title="Performs a halfword data write to a given address." alt="" coords="229,389,456,444"/>
-<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="158,356,243,383,241,388,157,361"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CData__Processing.html#a73d5c3a98f3fe036a1348d4d7485d0e9" title="Returns the index of the second operand register (Rm)." alt="" coords="507,5,695,60"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="365,168,426,120,503,69,513,64,515,68,505,74,429,124,369,172"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CData__Processing.html#ae851afadd74822ec9363797ab332f45a" title="Returns the shift amount used when constructing the second operand (immediate second operand)." alt="" coords="507,84,695,139"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="408,167,497,140,498,145,410,172"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CData__Processing.html#ae43548d291eecc463c519086e7527ff2" title="Returns the shift type used when constructing the second operand." alt="" coords="507,163,695,217"/>
-<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="440,187,494,187,494,193,440,193"/>
-<area shape="rect" id="Node000006" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CData__Processing.html#a1dc73c441b156452b1467eaa5cab46f5" title="Returns the value of the I bit (bit 25 = immediate second operand)." alt="" coords="507,241,695,296"/>
-<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="410,208,498,235,497,240,408,213"/>
-<area shape="rect" id="Node000008" href="$namespacezero__mate_1_1utils_1_1math.html#afda20fa50949a9cd3a80f811b0085221" title="Sign&#45;extends the given integral value." alt="" coords="517,321,686,361"/>
-<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="455,336,503,337,503,342,455,342"/>
-<area shape="rect" id="Node000009" href="$namespacezero__mate_1_1utils_1_1math.html#af7d93c996dab2ff1b91c5a399dcfe29f" title="Tests whether a bit is set in the given integral variable." alt="" coords="763,321,933,361"/>
-<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="686,338,750,338,750,343,686,343"/>
-<area shape="rect" id="Node000011" href="$classzero__mate_1_1utils_1_1CLogging__System.html#a2bb4d37b178f29335f726875bad91bd4" title="Logs a warning message via all registered loggers." alt="" coords="504,397,699,437"/>
-<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="456,414,490,414,490,419,456,419"/>
-<area shape="rect" id="Node000012" href="$classzero__mate_1_1utils_1_1CLogging__System.html#a71ed11c796553cbe8fd99773406a1060" title="Creates a formatted message to be logged." alt="" coords="747,387,949,441"/>
-<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="699,413,733,413,733,418,699,418"/>
-<area shape="rect" id="Node000015" href="$classzero__mate_1_1utils_1_1CLogging__System.html#ad371c67ef65763966ccf9291002e86f3" title="Extract the filename from a given location within the source files." alt="" coords="749,466,947,506"/>
-<area shape="poly" id="edge14_Node000011_Node000015" title=" " alt="" coords="674,434,764,460,762,465,673,439"/>
-<area shape="rect" id="Node000013" href="$classzero__mate_1_1utils_1_1CLogging__System.html#aa70c102c805079042ffea2a6f2a5ad64" title="Formats a given timestamp." alt="" coords="997,362,1211,402"/>
-<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="949,399,983,394,984,400,950,404"/>
-<area shape="rect" id="Node000014" href="$classzero__mate_1_1utils_1_1CLogging__System.html#ae3ca637537dde05e0b9119145c840331" title="Returns the current timestamp that will be used in a log message." alt="" coords="1007,426,1201,466"/>
-<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="950,424,994,430,993,435,949,429"/>
+<area shape="rect" id="Node000001" title="Executes a halfword data transfer instruction." alt="" coords="5,381,181,426"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#ab8055407426b0f25544d2b33a89b22a7" title="Calculates the offset from the base address in a single data transfer instruction." alt="" coords="245,5,438,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,380,104,317,127,232,144,185,166,140,193,98,227,60,234,57,231,61,231,64,198,101,171,143,149,188,132,233,109,319,99,381"/>
+<area shape="rect" id="Node000010" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CHalfword__Data__Transfer.html#af87ec379c25f8b2ea217141c735a730b" title="Returns the index of the Rd register (source/destination register)." alt="" coords="254,74,429,136"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="98,380,113,332,139,269,177,204,200,173,227,146,242,136,239,141,230,150,204,176,181,207,144,272,118,334,103,381"/>
+<area shape="rect" id="Node000011" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CHalfword__Data__Transfer.html#ae49a787e52930ad0873fb5d81ba87cc5" title="Returns the index of the Rn register (base register)." alt="" coords="254,160,429,221"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="104,380,152,307,187,267,227,231,241,224,238,228,230,235,191,270,156,311,109,382"/>
+<area shape="rect" id="Node000012" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CHalfword__Data__Transfer.html#a061453b61ce7b4b3e32aa3f44a897384" title="Returns the type of the instruction (see CHalfword_Data_Transfer::NType)." alt="" coords="254,245,429,306"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="124,379,172,347,227,316,242,311,238,315,230,321,175,352,128,382"/>
+<area shape="rect" id="Node000013" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CHalfword__Data__Transfer.html#a569fdaa4b67119837d03e8741fa42f40" title="Returns the value of the L bit (Load/Store)." alt="" coords="254,330,429,392"/>
+<area shape="poly" id="edge16_Node000001_Node000013" title=" " alt="" coords="180,386,240,377,236,380,183,391"/>
+<area shape="rect" id="Node000014" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CHalfword__Data__Transfer.html#a32b2f3064b2ccb34f59fd8152ef0364d" title="Returns the value of the P bit (pre/post indexing)." alt="" coords="254,416,429,477"/>
+<area shape="poly" id="edge17_Node000001_Node000014" title=" " alt="" coords="180,416,240,427,236,430,182,421"/>
+<area shape="rect" id="Node000015" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CHalfword__Data__Transfer.html#a3290a4a9fb19ae4937df9d57114383b3" title="Returns the value of the U bit (up/down)." alt="" coords="254,501,429,562"/>
+<area shape="poly" id="edge18_Node000001_Node000015" title=" " alt="" coords="126,424,175,456,230,487,242,494,237,495,227,491,172,460,127,429"/>
+<area shape="rect" id="Node000016" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CHalfword__Data__Transfer.html#af0ba5db572b9290835e0f439d714e784" title="Returns the value of the W bit (write&#45;back)." alt="" coords="254,586,429,648"/>
+<area shape="poly" id="edge19_Node000001_Node000016" title=" " alt="" coords="107,424,156,497,191,537,230,572,242,581,237,582,227,576,187,541,152,500,107,429"/>
+<area shape="rect" id="Node000017" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a066aca0627655bc1e068b181fb0964bd" title="Performs a halfword data read from a given address." alt="" coords="230,672,453,733"/>
+<area shape="poly" id="edge20_Node000001_Node000017" title=" " alt="" coords="100,424,118,474,144,536,181,601,204,631,230,658,234,662,229,662,227,662,200,634,177,604,139,538,113,475,100,429"/>
+<area shape="rect" id="Node000021" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a00f4cf1169d774a50886f60f5f166f8b" title="Performs a halfword data write to a given address." alt="" coords="229,757,454,818"/>
+<area shape="poly" id="edge25_Node000001_Node000021" title=" " alt="" coords="97,424,110,488,133,573,151,618,172,663,199,706,231,743,233,748,228,746,227,747,194,709,167,666,146,621,128,575,105,489,97,429"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#afeea0a05cdda26114d6e03102f2d3a78" title="Performs a shift on the given value." alt="" coords="502,60,714,105"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="437,45,489,56,484,59,439,50"/>
+<area shape="rect" id="Node000004" href="$namespacezero__mate_1_1utils_1_1math.html#a00a7aae00296bd2b28674fa305507ded" title="Performs an ASR (arithmetic shift right) operation on the given integral value." alt="" coords="1038,68,1240,96"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="714,80,1025,81,1020,84,715,85"/>
+<area shape="rect" id="Node000006" href="$namespacezero__mate_1_1utils_1_1math.html#a6c9f1b8e3c02df97e6776206de0234d1" title="Performs an LSL (logical shift left) operation on the given integral value." alt="" coords="1040,120,1238,148"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="714,90,1027,122,1022,124,715,95"/>
+<area shape="rect" id="Node000007" href="$namespacezero__mate_1_1utils_1_1math.html#a35568bdda3e11a28f911c31a50dc0a48" title="Performs an LSR (logical shift right) operation on the given integral value." alt="" coords="776,171,976,199"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="655,103,763,149,809,166,804,167,761,154,656,108"/>
+<area shape="rect" id="Node000009" href="$namespacezero__mate_1_1utils_1_1math.html#acec3045831345d7d2e2b3a20ff2fd4fd" title="Performs an ROR (rotate right extended) operation on the given integral value." alt="" coords="774,18,978,46"/>
+<area shape="poly" id="edge11_Node000003_Node000009" title=" " alt="" coords="713,60,787,48,782,50,716,65"/>
+<area shape="rect" id="Node000005" href="$namespacezero__mate_1_1utils_1_1math.html#af7d93c996dab2ff1b91c5a399dcfe29f" title="Tests whether a bit is set in the given integral variable." alt="" coords="1288,112,1456,157"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1204,94,1275,112,1270,113,1205,99"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="1238,132,1275,134,1270,135,1239,137"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="976,179,1102,171,1240,157,1275,154,1270,156,1240,162,1103,176,977,184"/>
+<area shape="rect" id="Node000008" href="$namespacezero__mate_1_1utils_1_1math.html#a64baae537d736f483631d0256c6c44c1" title="Checks whether the given integral value is negative by examining the MSB." alt="" coords="1055,223,1223,267"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="939,197,1042,222,1037,223,940,202"/>
+<area shape="poly" id="edge10_Node000008_Node000005" title=" " alt="" coords="1197,220,1239,201,1315,166,1319,163,1241,206,1199,225"/>
+<area shape="poly" id="edge12_Node000009_Node000005" title=" " alt="" coords="978,24,1105,29,1174,38,1241,54,1289,75,1332,103,1326,103,1286,80,1239,60,1173,43,1105,34,979,29"/>
+<area shape="rect" id="Node000018" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a6089b52dce3c9ef88962236807c6c071" title="Reads data from the bus." alt="" coords="522,684,694,729"/>
+<area shape="poly" id="edge21_Node000017_Node000018" title=" " alt="" coords="453,701,509,704,504,705,454,707"/>
+<area shape="rect" id="Node000020" href="$namespacezero__mate_1_1utils_1_1math.html#afda20fa50949a9cd3a80f811b0085221" title="Sign&#45;extends the given integral value." alt="" coords="524,507,692,551"/>
+<area shape="poly" id="edge23_Node000017_Node000020" title=" " alt="" coords="432,669,453,657,519,610,572,564,577,561,522,614,455,662,434,673"/>
+<area shape="rect" id="Node000019" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a0ea0a4bf2d64e0418882ab2d1840a8cb" title="Converts a given virtual address into a physical address using the MMU." alt="" coords="762,712,990,773"/>
+<area shape="poly" id="edge22_Node000018_Node000019" title=" " alt="" coords="695,715,750,725,744,725,695,721"/>
+<area shape="poly" id="edge24_Node000020_Node000008" title=" " alt="" coords="651,504,1080,276,1085,274,653,509"/>
+<area shape="rect" id="Node000022" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a4e94818c05fb1ddd0a08762eb06e629d" title="Writes data to the bus." alt="" coords="522,757,694,802"/>
+<area shape="poly" id="edge26_Node000021_Node000022" title=" " alt="" coords="454,782,509,783,504,783,454,787"/>
+<area shape="poly" id="edge27_Node000022_Node000019" title=" " alt="" coords="695,765,744,761,750,760,695,770"/>
 </map>

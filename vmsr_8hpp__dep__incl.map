@@ -1,24 +1,24 @@
 <map id="src/core/coprocessors/cp10/isa/vmsr.hpp" name="src/core/coprocessors/cp10/isa/vmsr.hpp">
-<area shape="rect" id="Node000001" title="This file defines a VMSR instruction (ARM register to a special FPU register)." alt="" coords="268,5,431,45"/>
-<area shape="rect" id="Node000002" href="$coprocessors_2cp10_2isa_2isa_8hpp.html" title="This file combines different instruction type includes together." alt="" coords="175,93,337,133"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="320,57,278,95,275,91,317,53"/>
-<area shape="rect" id="Node000011" href="$vmsr_8cpp.html" title="This file implements a VMSR instruction (ARM register to a special FPU register)." alt="" coords="361,93,524,133"/>
-<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="382,53,424,91,420,95,378,57"/>
-<area shape="rect" id="Node000003" href="$cp10_8hpp.html" title="This file defines coprocessor CP10 (single&#45;precision FPU)." alt="" coords="175,181,337,221"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="259,147,259,181,253,181,253,147"/>
-<area shape="rect" id="Node000004" href="$cp10_8cpp.html" title="This file implements coprocessor CP10 (single&#45;precision FPU)." alt="" coords="5,269,168,309"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="208,230,125,272,123,267,206,225"/>
-<area shape="rect" id="Node000005" href="$soc_8hpp.html" title=" " alt="" coords="193,277,319,302"/>
-<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="259,235,259,276,253,276,253,235"/>
-<area shape="rect" id="Node000009" href="$cp10__window_8hpp.html" title="This file defines a window that displays data (information) related to coprocessor 10 (FPU)." alt="" coords="343,269,505,309"/>
-<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="306,225,388,267,386,272,304,230"/>
-<area shape="rect" id="Node000006" href="$soc_8cpp.html" title=" " alt="" coords="53,365,179,390"/>
-<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="227,312,136,367,134,362,224,307"/>
-<area shape="rect" id="Node000007" href="$gui_8cpp.html" title="This file implements the main GUI entry function that takes care of creating and rendering all window..." alt="" coords="333,365,449,390"/>
-<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="287,307,374,362,371,367,284,312"/>
-<area shape="rect" id="Node000008" href="$main_8cpp.html" title="This file defines and implements the main function of the application." alt="" coords="203,365,309,390"/>
-<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="259,316,259,364,253,364,253,316"/>
-<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="414,323,398,365,393,363,409,321"/>
-<area shape="rect" id="Node000010" href="$cp10__window_8cpp.html" title="This file implements a window that displays data (information) related to coprocessor 10 (FPU)." alt="" coords="473,357,634,397"/>
-<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="466,315,526,355,523,359,463,320"/>
+<area shape="rect" id="Node000001" title="This file defines a VMSR instruction (ARM register to a special FPU register)." alt="" coords="265,5,427,50"/>
+<area shape="rect" id="Node000002" href="$coprocessors_2cp10_2isa_2isa_8hpp.html" title="This file combines different instruction type includes together." alt="" coords="173,98,335,143"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="311,63,278,100,274,96,315,59"/>
+<area shape="rect" id="Node000011" href="$vmsr_8cpp.html" title="This file implements a VMSR instruction (ARM register to a special FPU register)." alt="" coords="359,98,520,143"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="379,58,420,98,415,98,379,63"/>
+<area shape="rect" id="Node000003" href="$cp10_8hpp.html" title="This file defines coprocessor CP10 (single&#45;precision FPU)." alt="" coords="173,191,335,235"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="255,156,257,191,251,190,253,161"/>
+<area shape="rect" id="Node000004" href="$cp10_8cpp.html" title="This file implements coprocessor CP10 (single&#45;precision FPU)." alt="" coords="5,283,167,328"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="199,245,127,285,124,281,202,241"/>
+<area shape="rect" id="Node000005" href="$soc_8hpp.html" title=" " alt="" coords="191,292,317,320"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="256,249,256,292,252,290,252,253"/>
+<area shape="rect" id="Node000009" href="$cp10__window_8hpp.html" title="This file defines a window that displays data (information) related to coprocessor 10 (FPU)." alt="" coords="342,283,502,328"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="308,240,385,283,379,283,307,246"/>
+<area shape="rect" id="Node000006" href="$soc_8cpp.html" title=" " alt="" coords="53,384,178,412"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="224,328,137,386,134,382,219,328"/>
+<area shape="rect" id="Node000007" href="$gui_8cpp.html" title="This file implements the main GUI entry function that takes care of creating and rendering all window..." alt="" coords="330,384,445,412"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="287,326,370,384,365,384,285,331"/>
+<area shape="rect" id="Node000008" href="$main_8cpp.html" title="This file defines and implements the main function of the application." alt="" coords="202,384,306,412"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="256,333,256,385,252,383,252,337"/>
+<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="411,341,394,386,391,382,406,344"/>
+<area shape="rect" id="Node000010" href="$cp10__window_8cpp.html" title="This file implements a window that displays data (information) related to coprocessor 10 (FPU)." alt="" coords="468,376,629,421"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="465,335,521,376,516,375,464,340"/>
 </map>

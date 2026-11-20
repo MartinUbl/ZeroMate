@@ -1,5 +1,5 @@
 <map id="zero_mate::gui::CRegisters_Window::Check_If_CPU_Mode_Changes" name="zero_mate::gui::CRegisters_Window::Check_If_CPU_Mode_Changes">
-<area shape="rect" id="Node000001" title="Checks if the CPU mode has changed." alt="" coords="5,5,227,60"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Context.html#aa740f9219bb413d707ac72f373e60d3a" title="Returns the current mode of the CPU." alt="" coords="275,5,448,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="227,30,261,30,261,35,227,35"/>
+<area shape="rect" id="Node000001" title="Checks if the CPU mode has changed." alt="" coords="5,5,226,67"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Context.html#aa740f9219bb413d707ac72f373e60d3a" title="Returns the current mode of the CPU." alt="" coords="274,5,446,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,34,261,36,255,36,226,39"/>
 </map>

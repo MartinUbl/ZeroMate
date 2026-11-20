@@ -1,12 +1,12 @@
 <map id="zero_mate::peripheral::CInterrupt_Controller" name="zero_mate::peripheral::CInterrupt_Controller">
-<area shape="rect" id="Node000001" title="This class represents the interrupt controller used in BCM2835." alt="" coords="751,111,917,151"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1IPeripheral.html" title="This class represents a general interface of a memory&#45;mapped peripheral." alt="" coords="380,5,545,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="559,34,642,49,728,72,767,89,802,108,800,113,765,94,726,77,641,54,558,39"/>
-<area shape="rect" id="Node000003" href="$structzero__mate_1_1peripheral_1_1CInterrupt__Controller_1_1TInterrupt__Info.html" title="This structure holds information about each IRQ/Basic IRQ source." alt="" coords="379,70,546,125"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="560,103,751,121,750,126,560,109"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Context.html" title="This class represents the context (registers) of the CPU." alt="" coords="376,212,549,252"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="563,226,644,216,726,195,769,173,806,149,809,153,772,178,728,200,645,221,564,232"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1utils_1_1CLogging__System.html" title="This class defines a logging system that is used throughout the project." alt="" coords="5,177,200,217"/>
-<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="213,185,750,136,751,141,214,190"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="214,205,376,221,376,226,214,211"/>
+<area shape="rect" id="Node000001" title="This class represents the interrupt controller used in BCM2835." alt="" coords="756,123,921,167"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1IPeripheral.html" title="This class represents a general interface of a memory&#45;mapped peripheral." alt="" coords="383,5,547,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="562,26,647,37,691,47,733,61,780,89,818,123,813,122,777,93,731,66,690,52,646,42,563,31"/>
+<area shape="rect" id="Node000003" href="$structzero__mate_1_1peripheral_1_1CInterrupt__Controller_1_1TInterrupt__Info.html" title="This structure holds information about each IRQ/Basic IRQ source." alt="" coords="382,74,548,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="563,113,758,136,753,137,563,118"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Context.html" title="This class represents the context (registers) of the CPU." alt="" coords="379,233,551,278"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="566,256,648,248,691,240,731,226,755,214,778,198,814,169,819,167,781,203,758,219,733,231,692,245,649,254,566,261"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1utils_1_1CLogging__System.html" title="This class defines a logging system that is used throughout the project." alt="" coords="5,197,200,242"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="214,202,223,201,387,185,551,170,759,152,753,153,551,175,387,190,224,206,215,207"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="215,228,381,246,376,248,215,233"/>
 </map>

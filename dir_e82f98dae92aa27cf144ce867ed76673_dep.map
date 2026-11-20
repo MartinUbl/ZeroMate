@@ -1,13 +1,13 @@
 <map id="src/core/coprocessors/cp10" name="src/core/coprocessors/cp10">
-<area shape="rect" id="node2" href="dir_08250d7d28863dc5b19adb1118edc710.html" title="isa" alt="" coords="54,136,95,161"/>
-<area shape="poly" id="edge1" href="dir_000004_000009.html" alt="" coords="77,88,77,122,72,122,72,88"/>
-<area shape="rect" id="edge1-headlabel" href="dir_000004_000009.html" title="4" alt="" coords="78,110,88,125"/>
-<area shape="rect" id="node3" href="dir_5c2a493d5805d567e6a0ff4c1ba80ec6.html" title="arm1176jzf_s" alt="" coords="134,136,245,161"/>
-<area shape="poly" id="edge2" href="dir_000004_000000.html" alt="" coords="94,86,160,126,158,131,92,90"/>
-<area shape="rect" id="edge2-headlabel" href="dir_000004_000000.html" title="1" alt="" coords="155,112,164,126"/>
-<area shape="rect" id="node4" href="dir_d44c64559bbebec7f509842c48db8b23.html" title="include" alt="" coords="269,136,339,161"/>
-<area shape="poly" id="edge3" href="dir_000004_000007.html" alt="" coords="102,82,257,130,255,135,101,87"/>
-<area shape="rect" id="edge3-headlabel" href="dir_000004_000007.html" title="2" alt="" coords="250,116,259,131"/>
-<area shape="rect" id="clust2" href="dir_e82f98dae92aa27cf144ce867ed76673.html" alt="" coords="37,52,112,172"/>
-<area shape="rect" id="clust1" href="dir_523ec841fd74605300afe43d91402cb4.html" title="coprocessors" alt="" coords="16,16,123,183"/>
+<area shape="rect" id="node2" href="dir_08250d7d28863dc5b19adb1118edc710.html" title="isa" alt="" coords="54,141,95,168"/>
+<area shape="poly" id="edge1" href="dir_000004_000009.html" alt="" coords="76,90,77,126,72,124,73,95"/>
+<area shape="rect" id="edge1-headlabel" href="dir_000004_000009.html" title="4" alt="" coords="79,114,87,131"/>
+<area shape="rect" id="node3" href="dir_5c2a493d5805d567e6a0ff4c1ba80ec6.html" title="arm1176jzf_s" alt="" coords="133,141,243,168"/>
+<area shape="poly" id="edge2" href="dir_000004_000000.html" alt="" coords="94,90,158,131,153,133,93,95"/>
+<area shape="rect" id="edge2-headlabel" href="dir_000004_000000.html" title="1" alt="" coords="153,115,161,132"/>
+<area shape="rect" id="node4" href="dir_d44c64559bbebec7f509842c48db8b23.html" title="include" alt="" coords="267,141,336,168"/>
+<area shape="poly" id="edge3" href="dir_000004_000007.html" alt="" coords="101,86,254,136,251,139,100,91"/>
+<area shape="rect" id="edge3-headlabel" href="dir_000004_000007.html" title="2" alt="" coords="248,120,256,137"/>
+<area shape="rect" id="clust2" href="dir_e82f98dae92aa27cf144ce867ed76673.html" alt="" coords="37,54,112,179"/>
+<area shape="rect" id="clust1" href="dir_523ec841fd74605300afe43d91402cb4.html" title="coprocessors" alt="" coords="16,16,123,190"/>
 </map>

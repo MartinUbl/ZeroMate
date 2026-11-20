@@ -1,5 +1,5 @@
 <map id="src/core/arm1176jzf_s/isa/coprocessor_register_transfer.hpp" name="src/core/arm1176jzf_s/isa/coprocessor_register_transfer.hpp">
-<area shape="rect" id="Node000001" title="This file defines a coprocessor register transfer (MRC, MCR)." alt="" coords="5,5,204,60"/>
-<area shape="rect" id="Node000002" href="$instruction_8hpp.html" title="This file defines the interface of a general ARM instruction." alt="" coords="45,108,164,133"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,60,107,94,102,94,102,60"/>
+<area shape="rect" id="Node000001" title="This file defines a coprocessor register transfer (MRC, MCR)." alt="" coords="5,5,203,67"/>
+<area shape="rect" id="Node000002" href="$instruction_8hpp.html" title="This file defines the interface of a general ARM instruction." alt="" coords="45,115,163,143"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,65,106,100,102,98,102,69"/>
 </map>

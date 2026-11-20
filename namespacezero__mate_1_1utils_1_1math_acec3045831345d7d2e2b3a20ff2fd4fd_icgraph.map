@@ -1,11 +1,24 @@
 <map id="zero_mate::utils::math::ROR" name="zero_mate::utils::math::ROR">
-<area shape="rect" id="Node000001" title="Performs an ROR (rotate right extended) operation on the given integral value." alt="" coords="740,49,945,74"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a6f3ef80bb3c9fbf866338e7d78270bf1" title="Executes an extend instruction." alt="" coords="503,5,679,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="740,49,678,40,679,35,741,44"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a4b9e6a828e9739a227ab6da615fb4b15" title="Calculates the second immediate operand of a given instruction." alt="" coords="489,70,692,125"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="740,79,693,85,692,80,739,73"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#abe7461d09a52f28f99037717f61975c6" title="Executes an MSR instruction (move data to CPSR/SPSR from an ARM register)." alt="" coords="229,77,441,117"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="475,100,442,100,442,95,475,95"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a3a90c040b3cbe4545a9acc5e35acdd45" title="Executes a PSR transfer instruction." alt="" coords="5,77,181,117"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="216,100,182,100,182,95,216,95"/>
+<area shape="rect" id="Node000001" title="Performs an ROR (rotate right extended) operation on the given integral value." alt="" coords="748,91,953,119"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a6f3ef80bb3c9fbf866338e7d78270bf1" title="Executes an extend instruction." alt="" coords="506,5,682,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="785,86,671,53,671,48,790,86"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a4b9e6a828e9739a227ab6da615fb4b15" title="Calculates the second immediate operand of a given instruction." alt="" coords="494,74,695,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="730,105,696,108,695,102,735,105"/>
+<area shape="rect" id="Node000008" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#afeea0a05cdda26114d6e03102f2d3a78" title="Performs a shift on the given value." alt="" coords="488,160,700,205"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="790,123,671,162,670,157,785,124"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#abe7461d09a52f28f99037717f61975c6" title="Executes an MSR instruction (move data to CPSR/SPSR from an ARM register)." alt="" coords="229,44,440,89"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="475,88,441,85,440,79,481,87"/>
+<area shape="rect" id="Node000006" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#aa5b55276e454abfced2b5714b936e98d" title="Calculates the second operand of a data processing instruction." alt="" coords="234,113,435,174"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="476,123,436,131,435,126,481,121"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a3a90c040b3cbe4545a9acc5e35acdd45" title="Executes a PSR transfer instruction." alt="" coords="5,44,181,89"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="211,68,182,69,180,64,215,65"/>
+<area shape="rect" id="Node000007" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a92c997ad914fb73cec7feb5fa26d8ead" title="Executes a data processing instruction." alt="" coords="5,121,181,166"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="216,145,182,146,180,141,221,143"/>
+<area shape="poly" id="edge11_Node000008_Node000006" title=" " alt="" coords="470,165,436,161,435,156,475,164"/>
+<area shape="rect" id="Node000009" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#ab8055407426b0f25544d2b33a89b22a7" title="Calculates the offset from the base address in a single data transfer instruction." alt="" coords="238,199,431,243"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="470,201,432,209,431,204,475,200"/>
+<area shape="rect" id="Node000010" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#ae5fc1112d78d8c344841fd94d1356635" title="Executes a halfword data transfer instruction." alt="" coords="5,195,181,239"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="220,220,182,221,181,216,225,218"/>
+<area shape="rect" id="Node000011" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#ab4697275a93c62613b13cdd77726f81c" title="Executes a single data transfer instruction." alt="" coords="5,264,181,309"/>
+<area shape="poly" id="edge10_Node000009_Node000011" title=" " alt="" coords="237,247,179,266,178,261,232,249"/>
 </map>

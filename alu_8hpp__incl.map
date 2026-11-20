@@ -1,7 +1,7 @@
 <map id="src/core/arm1176jzf_s/alu.hpp" name="src/core/arm1176jzf_s/alu.hpp">
-<area shape="rect" id="Node000001" title="This file defines the functionality of the arithmetic logic unit (ALU)." alt="" coords="19,5,170,45"/>
-<area shape="rect" id="Node000002" href="$arm1176jzf__s_2isa_2data__processing_8hpp.html" title="This file defines a data processing instruction." alt="" coords="5,93,184,119"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,46,97,79,92,79,92,46"/>
-<area shape="rect" id="Node000003" href="$instruction_8hpp.html" title="This file defines the interface of a general ARM instruction." alt="" coords="35,167,154,192"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="97,119,97,153,92,153,92,119"/>
+<area shape="rect" id="Node000001" title="This file defines the functionality of the arithmetic logic unit (ALU)." alt="" coords="19,5,170,50"/>
+<area shape="rect" id="Node000002" href="$arm1176jzf__s_2isa_2data__processing_8hpp.html" title="This file defines a data processing instruction." alt="" coords="5,98,184,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,48,97,83,92,82,93,53"/>
+<area shape="rect" id="Node000003" href="$instruction_8hpp.html" title="This file defines the interface of a general ARM instruction." alt="" coords="35,174,154,201"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="96,124,97,159,92,157,93,128"/>
 </map>

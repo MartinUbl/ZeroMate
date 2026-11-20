@@ -1,7 +1,7 @@
 <map id="src/gui/windows/peripherals/interrupt_controller_window.hpp" name="src/gui/windows/peripherals/interrupt_controller_window.hpp">
-<area shape="rect" id="Node000001" title="This file defines a window that visualizes the interrupt controller IC." alt="" coords="46,5,281,45"/>
-<area shape="rect" id="Node000002" href="$gui_8cpp.html" title="This file implements the main GUI entry function that takes care of creating and rendering all window..." alt="" coords="5,101,121,126"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,56,79,102,75,98,129,52"/>
-<area shape="rect" id="Node000003" href="$interrupt__controller__window_8cpp.html" title="This file implements a window that visualizes the interrupt controller IC." alt="" coords="146,93,381,133"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,52,243,91,239,95,194,56"/>
+<area shape="rect" id="Node000001" title="This file defines a window that visualizes the interrupt controller IC." alt="" coords="44,5,279,50"/>
+<area shape="rect" id="Node000002" href="$gui_8cpp.html" title="This file implements the main GUI entry function that takes care of creating and rendering all window..." alt="" coords="5,106,121,134"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="130,60,79,108,76,104,124,61"/>
+<area shape="rect" id="Node000003" href="$interrupt__controller__window_8cpp.html" title="This file implements a window that visualizes the interrupt controller IC." alt="" coords="145,98,378,143"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,58,240,98,235,97,196,63"/>
 </map>

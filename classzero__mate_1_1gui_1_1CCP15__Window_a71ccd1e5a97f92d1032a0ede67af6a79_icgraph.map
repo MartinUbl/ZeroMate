@@ -1,21 +1,21 @@
 <map id="zero_mate::gui::CCP15_Window::Render_Table" name="zero_mate::gui::CCP15_Window::Render_Table">
-<area shape="rect" id="Node000001" title="Renders a table (register values)." alt="" coords="703,170,877,210"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CCP15__Window.html#a27304ba7d10bb901f8fe474ccb61f57f" title="Renders registers that fall under primary register C1." alt="" coords="463,5,655,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="759,162,711,117,653,74,633,62,635,58,656,69,715,113,762,158"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1gui_1_1CCP15__Window.html#ad49346264b18c4727c832ff376dba2a9" title="Renders registers that fall under primary register C2." alt="" coords="463,84,655,139"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="717,168,639,141,641,136,718,163"/>
-<area shape="rect" id="Node000006" href="$classzero__mate_1_1gui_1_1CCP15__Window.html#ae2d74a31c2235e1756f08800427f15a6" title="Renders registers that fall under primary register C3." alt="" coords="463,163,655,217"/>
-<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="689,193,655,193,655,187,689,187"/>
-<area shape="rect" id="Node000007" href="$classzero__mate_1_1gui_1_1CCP15__Window.html#af6e61d67b6bbe3da5f321753d1891843" title="Renders registers that fall under primary register C7." alt="" coords="463,241,655,296"/>
-<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="718,217,641,244,639,239,717,212"/>
-<area shape="rect" id="Node000008" href="$classzero__mate_1_1gui_1_1CCP15__Window.html#a5a84763e3c17b33b3a13e66ea82d22f7" title="Renders registers that fall under primary register C8." alt="" coords="463,320,655,375"/>
-<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="762,222,715,266,656,310,633,322,631,317,653,305,711,262,759,218"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1gui_1_1CCP15__Window.html#a0d41be7f469e6b9493815c5cd094939a" title="Renders tabs representing the primary registers of CP15." alt="" coords="223,170,415,210"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="473,69,464,74,395,124,342,172,338,168,392,120,461,69,470,64"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1gui_1_1CCP15__Window.html#a02fdded272906e0bb3665c8b3aa03ba0" title="Renders the window (IGUI_Window interface)." alt="" coords="5,170,175,210"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="208,193,175,193,175,187,208,187"/>
-<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="462,146,381,172,380,167,461,141"/>
-<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="449,193,415,193,415,187,449,187"/>
-<area shape="poly" id="edge9_Node000007_Node000003" title=" " alt="" coords="461,239,380,213,381,208,462,234"/>
-<area shape="poly" id="edge11_Node000008_Node000003" title=" " alt="" coords="472,316,461,310,392,260,339,212,343,208,396,256,464,305,475,311"/>
+<area shape="rect" id="Node000001" title="Renders a table (register values)." alt="" coords="700,184,875,229"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CCP15__Window.html#a27304ba7d10bb901f8fe474ccb61f57f" title="Renders registers that fall under primary register C1." alt="" coords="461,5,652,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="754,172,708,127,651,81,633,70,634,65,654,77,712,123,759,173"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1gui_1_1CCP15__Window.html#ad49346264b18c4727c832ff376dba2a9" title="Renders registers that fall under primary register C2." alt="" coords="461,91,652,152"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="708,179,642,156,642,150,714,179"/>
+<area shape="rect" id="Node000006" href="$classzero__mate_1_1gui_1_1CCP15__Window.html#ae2d74a31c2235e1756f08800427f15a6" title="Renders registers that fall under primary register C3." alt="" coords="461,176,652,238"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="682,207,653,209,652,204,687,206"/>
+<area shape="rect" id="Node000007" href="$classzero__mate_1_1gui_1_1CCP15__Window.html#af6e61d67b6bbe3da5f321753d1891843" title="Renders registers that fall under primary register C7." alt="" coords="461,261,652,323"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="713,234,643,263,641,258,708,236"/>
+<area shape="rect" id="Node000008" href="$classzero__mate_1_1gui_1_1CCP15__Window.html#a5a84763e3c17b33b3a13e66ea82d22f7" title="Renders registers that fall under primary register C8." alt="" coords="461,347,652,408"/>
+<area shape="poly" id="edge10_Node000001_Node000008" title=" " alt="" coords="759,240,712,290,654,337,634,349,633,344,651,333,708,286,754,242"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1gui_1_1CCP15__Window.html#a0d41be7f469e6b9493815c5cd094939a" title="Renders tabs representing the primary registers of CP15." alt="" coords="222,184,413,229"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="465,77,463,81,394,135,341,186,338,182,391,131,459,77,469,74"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1gui_1_1CCP15__Window.html#a02fdded272906e0bb3665c8b3aa03ba0" title="Renders the window (IGUI_Window interface)." alt="" coords="5,184,174,229"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="204,208,175,209,173,204,208,206"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="452,159,383,186,381,181,456,157"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="443,207,414,209,413,204,448,206"/>
+<area shape="poly" id="edge9_Node000007_Node000003" title=" " alt="" coords="451,256,382,232,382,227,457,255"/>
+<area shape="poly" id="edge11_Node000008_Node000003" title=" " alt="" coords="464,338,459,337,391,283,339,232,340,227,394,279,463,333,469,339"/>
 </map>

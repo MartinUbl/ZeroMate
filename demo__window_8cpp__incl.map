@@ -1,13 +1,13 @@
 <map id="src/gui/windows/demo_window.cpp" name="src/gui/windows/demo_window.cpp">
-<area shape="rect" id="Node000001" title="This file implements a window that displays the ImGui and ImPlot demos (used for debugging)." alt="" coords="79,5,245,45"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,93,76,119"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,48,71,88,69,84,131,43"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="101,93,223,119"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="165,46,165,79,159,79,159,46"/>
-<area shape="rect" id="Node000004" href="$demo__window_8hpp.html" title="This file defines a window that displays the ImGui and ImPlot demos (used for debugging)." alt="" coords="248,93,391,119"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="201,43,285,85,283,89,199,48"/>
-<area shape="rect" id="Node000005" href="$window_8hpp.html" title="This file defines an interface for all windows that will be rendered by the application." alt="" coords="264,167,375,192"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="322,119,322,153,317,153,317,119"/>
-<area shape="rect" id="Node000006" title=" " alt="" coords="263,240,375,265"/>
-<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="322,192,322,226,317,226,317,192"/>
+<area shape="rect" id="Node000001" title="This file implements a window that displays the ImGui and ImPlot demos (used for debugging)." alt="" coords="77,5,244,50"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,98,76,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,53,74,91,70,87,130,48"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="100,98,221,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="161,48,163,83,158,82,160,53"/>
+<area shape="rect" id="Node000004" href="$demo__window_8hpp.html" title="This file defines a window that displays the ImGui and ImPlot demos (used for debugging)." alt="" coords="245,98,388,126"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="202,48,281,90,276,91,202,53"/>
+<area shape="rect" id="Node000005" href="$window_8hpp.html" title="This file defines an interface for all windows that will be rendered by the application." alt="" coords="261,174,372,201"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="318,124,319,159,314,157,315,128"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="261,249,372,277"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="318,200,319,235,314,232,315,204"/>
 </map>

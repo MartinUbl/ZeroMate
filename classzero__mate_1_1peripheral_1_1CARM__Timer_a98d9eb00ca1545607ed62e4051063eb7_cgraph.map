@@ -1,7 +1,5 @@
 <map id="zero_mate::peripheral::CARM_Timer::Reset" name="zero_mate::peripheral::CARM_Timer::Reset">
-<area shape="rect" id="Node000001" title="Resets/re&#45;initializes the ARM timer (IPeripheral interface)." alt="" coords="5,41,171,81"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CARM__Timer.html#a8aa88bde21b52e4ae5132f8e2a5fb73a" title="Returns the current content of a register." alt="" coords="225,5,403,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,45,211,39,212,44,172,51"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1CARM__Timer_1_1CPrescaler.html#a4d0394597d809b327d0fc83ad8dfb900" title="Resets the prescaler." alt="" coords="219,70,409,125"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="172,72,205,77,205,83,171,77"/>
+<area shape="rect" id="Node000001" title="Resets/re&#45;initializes the ARM timer (IPeripheral interface)." alt="" coords="5,5,170,50"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CARM__Timer.html#a8aa88bde21b52e4ae5132f8e2a5fb73a" title="Returns the current content of a register." alt="" coords="218,5,394,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,25,205,27,199,28,170,30"/>
 </map>

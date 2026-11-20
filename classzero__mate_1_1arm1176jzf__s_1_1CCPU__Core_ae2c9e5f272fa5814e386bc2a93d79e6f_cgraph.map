@@ -1,5 +1,5 @@
 <map id="zero_mate::arm1176jzf_s::CCPU_Core::Set_PC" name="zero_mate::arm1176jzf_s::CCPU_Core::Set_PC">
-<area shape="rect" id="Node000001" title="Sets the PC register (r15)." alt="" coords="5,5,179,45"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a423eacd01e574e782a2b7cf51f28c56c" title="Returns a reference to the PC register (r15)" alt="" coords="227,5,400,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,23,213,23,213,28,179,28"/>
+<area shape="rect" id="Node000001" title="Sets the PC register (r15)." alt="" coords="5,5,178,50"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a423eacd01e574e782a2b7cf51f28c56c" title="Returns a reference to the PC register (r15)." alt="" coords="226,5,398,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,25,213,27,208,28,178,30"/>
 </map>

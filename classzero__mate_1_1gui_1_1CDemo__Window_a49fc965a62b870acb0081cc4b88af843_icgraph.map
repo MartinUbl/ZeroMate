@@ -1,5 +1,5 @@
 <map id="zero_mate::gui::CDemo_Window::Render_ImGUI_Demo" name="zero_mate::gui::CDemo_Window::Render_ImGUI_Demo">
-<area shape="rect" id="Node000001" title="Renders the ImGui demo window." alt="" coords="228,5,456,45"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CDemo__Window.html#a136374d5b5c0dc1a1ea071ce0151519d" title="Renders the window (IGUI_Window interface)." alt="" coords="5,5,180,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,28,180,28,180,23,214,23"/>
+<area shape="rect" id="Node000001" title="Renders the ImGui demo window." alt="" coords="228,5,455,50"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CDemo__Window.html#a136374d5b5c0dc1a1ea071ce0151519d" title="Renders the window (IGUI_Window interface)." alt="" coords="5,5,180,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,28,180,30,180,25,214,27"/>
 </map>

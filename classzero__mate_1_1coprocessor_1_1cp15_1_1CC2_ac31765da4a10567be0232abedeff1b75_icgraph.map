@@ -1,13 +1,7 @@
 <map id="zero_mate::coprocessor::cp15::CC2::Extract_Bits_From_TTBR" name="zero_mate::coprocessor::cp15::CC2::Extract_Bits_From_TTBR">
-<area shape="rect" id="Node000001" title="Extracts bits determined by a given mask from a given secondary register." alt="" coords="799,77,980,132"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CC2.html#ae01856374ec8bac99ac7652c0d99de48" title="Returns the physical address of a given page table." alt="" coords="533,13,751,53"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="785,77,711,55,712,50,786,72"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CC2.html#ace026da873f481c05e741a3d0628752a" title="Returns information about whether a given translation table is inner cacheable or not." alt="" coords="549,77,735,132"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="785,107,735,107,735,102,785,102"/>
-<area shape="rect" id="Node000006" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CC2.html#ab66e2160652f6829589989b7ae05573d" title="Returns information about whether a given translation table is shared among multiple CPU cores." alt="" coords="543,157,741,197"/>
-<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="786,137,712,159,711,154,785,132"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1mmu_1_1CMMU.html#a146071c82cabc04d796985ff1e2c01a0" title="Fetches the first level page tables (tbbr0, tbbr1) from the RAM." alt="" coords="312,5,485,60"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="520,35,486,35,486,30,520,30"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1arm1176jzf__s_1_1mmu_1_1CMMU.html#a7bc1002a8f1032547deee07589cbbb84" title="Converts a given virtual address into a physical address." alt="" coords="5,13,264,53"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="298,35,264,35,264,30,298,30"/>
+<area shape="rect" id="Node000001" title="Extracts bits determined by a given mask from a given secondary register." alt="" coords="251,44,431,106"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CC2.html#ace026da873f481c05e741a3d0628752a" title="Returns information about whether a given translation table is inner cacheable or not." alt="" coords="11,5,197,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,58,197,54,197,49,238,57"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CC2.html#ab66e2160652f6829589989b7ae05573d" title="Returns information about whether a given translation table is shared among multiple CPU cores." alt="" coords="5,91,203,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="233,93,204,100,203,95,238,92"/>
 </map>

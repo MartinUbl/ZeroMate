@@ -1,5 +1,5 @@
 <map id="zero_mate::gui::CControl_Window::Render_Currently_Loaded_Kernel" name="zero_mate::gui::CControl_Window::Render_Currently_Loaded_Kernel">
-<area shape="rect" id="Node000001" title="Renders the name (filepath) of the currently loaded kernel (ELF file)." alt="" coords="236,5,437,60"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CControl__Window.html#aabafaf7d45b7c4516719dce03772ee5a" title="Renders the window (IGUI_Window interface)." alt="" coords="5,13,188,53"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,35,188,35,188,30,222,30"/>
+<area shape="rect" id="Node000001" title="Renders the name (filepath) of the currently loaded kernel (ELF file)." alt="" coords="236,5,436,67"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CControl__Window.html#aabafaf7d45b7c4516719dce03772ee5a" title="Renders the window (IGUI_Window interface)." alt="" coords="5,14,188,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,36,188,39,188,34,223,36"/>
 </map>

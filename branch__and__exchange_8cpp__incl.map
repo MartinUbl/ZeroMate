@@ -1,7 +1,7 @@
 <map id="src/core/arm1176jzf_s/isa/branch_and_exchange.cpp" name="src/core/arm1176jzf_s/isa/branch_and_exchange.cpp">
-<area shape="rect" id="Node000001" title="This file implements a branch and exchange instruction (BX) as defined in branch_and_exchange...." alt="" coords="5,5,240,45"/>
-<area shape="rect" id="Node000002" href="$branch__and__exchange_8hpp.html" title="This file defines a branch and exchange instruction (BX)." alt="" coords="25,93,220,119"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,46,125,79,120,79,120,46"/>
-<area shape="rect" id="Node000003" href="$instruction_8hpp.html" title="This file defines the interface of a general ARM instruction." alt="" coords="63,167,182,192"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="125,119,125,153,120,153,120,119"/>
+<area shape="rect" id="Node000001" title="This file implements a branch and exchange instruction (BX) as defined in branch_and_exchange...." alt="" coords="5,5,240,50"/>
+<area shape="rect" id="Node000002" href="$branch__and__exchange_8hpp.html" title="This file defines a branch and exchange instruction (BX)." alt="" coords="25,98,220,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,48,125,83,120,82,121,53"/>
+<area shape="rect" id="Node000003" href="$instruction_8hpp.html" title="This file defines the interface of a general ARM instruction." alt="" coords="63,174,182,201"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="124,124,125,159,120,157,121,128"/>
 </map>

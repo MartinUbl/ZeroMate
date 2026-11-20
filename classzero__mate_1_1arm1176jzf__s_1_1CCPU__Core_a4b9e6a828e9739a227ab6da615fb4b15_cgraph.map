@@ -1,11 +1,7 @@
 <map id="zero_mate::arm1176jzf_s::CCPU_Core::Get_Second_Operand_Imm" name="zero_mate::arm1176jzf_s::CCPU_Core::Get_Second_Operand_Imm">
-<area shape="rect" id="Node000001" title="Calculates the second immediate operand of a given instruction." alt="" coords="5,84,208,139"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CData__Processing.html#a5c64aa0622ddf4f42bccfa900673d005" title="Return the immediate value (unsigned 8&#45;bit value)." alt="" coords="265,5,453,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="194,81,257,62,258,67,196,86"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CData__Processing.html#acd5c9629ee16e0512678279f85158b72" title="Returns the shift amount to be applied to the immediate value." alt="" coords="265,84,453,139"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="208,109,251,109,251,114,208,114"/>
-<area shape="rect" id="Node000004" href="$namespacezero__mate_1_1utils_1_1math.html#acec3045831345d7d2e2b3a20ff2fd4fd" title="Performs an ROR (rotate right extended) operation on the given integral value." alt="" coords="256,163,461,188"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="209,135,257,147,293,157,292,162,255,153,208,140"/>
-<area shape="rect" id="Node000005" href="$namespacezero__mate_1_1utils_1_1math.html#af7d93c996dab2ff1b91c5a399dcfe29f" title="Tests whether a bit is set in the given integral variable." alt="" coords="509,155,679,195"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="461,173,495,173,495,178,461,178"/>
+<area shape="rect" id="Node000001" title="Calculates the second immediate operand of a given instruction." alt="" coords="5,5,207,67"/>
+<area shape="rect" id="Node000002" href="$namespacezero__mate_1_1utils_1_1math.html#acec3045831345d7d2e2b3a20ff2fd4fd" title="Performs an ROR (rotate right extended) operation on the given integral value." alt="" coords="255,22,459,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,34,242,36,237,36,207,39"/>
+<area shape="rect" id="Node000003" href="$namespacezero__mate_1_1utils_1_1math.html#af7d93c996dab2ff1b91c5a399dcfe29f" title="Tests whether a bit is set in the given integral variable." alt="" coords="507,14,675,58"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="459,34,494,36,489,36,460,39"/>
 </map>

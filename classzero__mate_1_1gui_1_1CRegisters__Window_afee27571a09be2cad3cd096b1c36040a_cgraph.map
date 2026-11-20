@@ -1,5 +1,5 @@
 <map id="zero_mate::gui::CRegisters_Window::Render_CPU_Mode" name="zero_mate::gui::CRegisters_Window::Render_CPU_Mode">
-<area shape="rect" id="Node000001" title="Renders a label displaying the current CPU mode." alt="" coords="5,13,216,53"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Context.html#aa740f9219bb413d707ac72f373e60d3a" title="Returns the current mode of the CPU." alt="" coords="264,5,437,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,30,250,30,250,35,216,35"/>
+<area shape="rect" id="Node000001" title="Renders a label displaying the current CPU mode." alt="" coords="5,14,216,58"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Context.html#aa740f9219bb413d707ac72f373e60d3a" title="Returns the current mode of the CPU." alt="" coords="264,5,436,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,34,251,36,245,36,216,39"/>
 </map>

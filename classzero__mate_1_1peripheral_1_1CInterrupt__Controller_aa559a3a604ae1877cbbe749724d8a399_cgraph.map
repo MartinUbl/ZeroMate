@@ -1,17 +1,5 @@
 <map id="zero_mate::peripheral::CInterrupt_Controller::Signalize_IRQ" name="zero_mate::peripheral::CInterrupt_Controller::Signalize_IRQ">
-<area shape="rect" id="Node000001" title="Notifies the interrupt controller about a pending interrupt triggered by an IRQ source." alt="" coords="5,138,172,193"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1utils_1_1CLogging__System.html#ade996da881888272ace7deaa82c975e9" title="Logs a debug message via all registered loggers." alt="" coords="220,73,415,113"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,137,239,115,241,120,173,142"/>
-<area shape="rect" id="Node000007" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Context.html#a0013811c3eef6d91ddfd2423a08889ef" title="Checks whether a given flag is set in the CPSR register of the current CPU mode." alt="" coords="231,138,404,193"/>
-<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="172,163,217,163,217,168,172,168"/>
-<area shape="rect" id="Node000008" href="$classzero__mate_1_1peripheral_1_1CInterrupt__Controller.html#af7cf0c917cceee8c39d16e833fc9a879" title="Checks whether an IRQ source is enabled or not." alt="" coords="227,217,408,271"/>
-<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="170,190,226,210,224,215,168,195"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1utils_1_1CLogging__System.html#a71ed11c796553cbe8fd99773406a1060" title="Creates a formatted message to be logged." alt="" coords="463,30,665,85"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="414,77,449,71,450,77,415,82"/>
-<area shape="rect" id="Node000006" href="$classzero__mate_1_1utils_1_1CLogging__System.html#ad371c67ef65763966ccf9291002e86f3" title="Extract the filename from a given location within the source files." alt="" coords="465,109,663,149"/>
-<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="415,105,452,110,451,116,414,110"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1utils_1_1CLogging__System.html#aa70c102c805079042ffea2a6f2a5ad64" title="Formats a given timestamp." alt="" coords="713,5,927,45"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="665,42,699,38,700,43,666,47"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1utils_1_1CLogging__System.html#ae3ca637537dde05e0b9119145c840331" title="Returns the current timestamp that will be used in a log message." alt="" coords="723,69,917,109"/>
-<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="666,67,710,73,709,78,665,73"/>
+<area shape="rect" id="Node000001" title="Notifies the interrupt controller about a pending interrupt triggered by an IRQ source." alt="" coords="5,5,171,67"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CInterrupt__Controller.html#af7cf0c917cceee8c39d16e833fc9a879" title="Checks whether an IRQ source is enabled or not." alt="" coords="219,5,399,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,34,206,36,201,36,171,39"/>
 </map>

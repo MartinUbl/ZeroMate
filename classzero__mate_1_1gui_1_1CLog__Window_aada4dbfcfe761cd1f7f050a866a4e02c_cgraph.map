@@ -1,7 +1,5 @@
 <map id="zero_mate::gui::CLog_Window::Render_Clear_Button" name="zero_mate::gui::CLog_Window::Render_Clear_Button">
-<area shape="rect" id="Node000001" title="Renders a clear button for clearing the message area." alt="" coords="5,5,180,60"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CLog__Window.html#aab3c1c25eedfe7230d905ae5355265c0" title="Clears all log messages." alt="" coords="228,13,387,53"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,30,214,30,214,35,180,35"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1gui_1_1CCircular__Log__Buffer.html#af165b3edecdde5d0ea7a10957849921b" title="Clears the circular buffer (deletes all log messages)." alt="" coords="435,13,621,53"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="387,30,421,30,421,35,387,35"/>
+<area shape="rect" id="Node000001" title="Renders a clear button for clearing the message area." alt="" coords="5,5,180,67"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CLog__Window.html#aab3c1c25eedfe7230d905ae5355265c0" title="Clears all log messages." alt="" coords="228,14,386,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,34,215,36,210,36,180,39"/>
 </map>

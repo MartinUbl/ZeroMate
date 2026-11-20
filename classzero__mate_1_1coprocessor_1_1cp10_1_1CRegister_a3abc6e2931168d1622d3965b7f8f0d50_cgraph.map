@@ -1,0 +1,8 @@
+<map id="zero_mate::coprocessor::cp10::CRegister::Get_NEG" name="zero_mate::coprocessor::cp10::CRegister::Get_NEG">
+<area shape="rect" id="Node000001" title="Returns the register value multiplied by &#45;1." alt="" coords="5,68,203,113"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CRegister.html#a26210f1bec263b0232b3f563f60a7db3" title="Creates an instance of the class." alt="" coords="251,29,453,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,72,238,69,233,71,204,77"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CRegister.html#a7b26cf75164000cb21ef6aea65da1ad8" title="Returns the register value as a desired data type." alt="" coords="264,98,440,160"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="203,103,251,113,246,113,203,108"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="305,28,303,19,311,10,328,5,352,3,379,5,396,14,391,14,377,10,352,8,329,10,314,15,308,21,310,30"/>
+</map>

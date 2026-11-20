@@ -1,16 +1,16 @@
 <map id="zero_mate::peripheral::CMini_UART::Get_Char_Length_Value" name="zero_mate::peripheral::CMini_UART::Get_Char_Length_Value">
-<area shape="rect" id="Node000001" title="Returns the data length from a given enumeration." alt="" coords="944,45,1120,100"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a50ba19a573540915346f49f559f8d595" title="Receives another bit of the current payload (actual data)." alt="" coords="685,5,896,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="930,59,896,53,897,48,931,53"/>
-<area shape="rect" id="Node000006" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a2c1cebe25a3de866fb30387c9d3e1093" title="Sends another bit of the current payload (actual data)." alt="" coords="695,84,886,139"/>
-<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="931,92,886,99,886,93,930,86"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a6b04378225c55c43c00805cb5bdb99b3" title="Updates the reception state machines." alt="" coords="449,17,637,57"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="672,37,638,38,637,32,672,32"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a3b75064597a5fbfe9c4c7d1f2e0c7e5f" title="Updates the state machines (transmission/reception)." alt="" coords="236,53,401,93"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="436,57,402,62,401,57,435,51"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#aae5f7e2bbffa6e3881675058a0aedf6f" title="Updates the number of passed CPU cycles (forwarded from the AUX peripheral)." alt="" coords="5,45,188,100"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="222,75,188,75,188,70,222,70"/>
-<area shape="rect" id="Node000007" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a39f26f9ac5a5cb08b2a292f5c6fab6db" title="Updates the transmission state machine." alt="" coords="450,85,637,125"/>
-<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="681,111,637,110,637,105,682,106"/>
-<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="436,92,401,87,402,82,437,87"/>
+<area shape="rect" id="Node000001" title="Returns the data length from a given enumeration." alt="" coords="940,48,1115,110"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a50ba19a573540915346f49f559f8d595" title="Receives another bit of the current payload (actual data)." alt="" coords="682,5,892,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="922,61,892,57,892,52,927,61"/>
+<area shape="rect" id="Node000006" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a2c1cebe25a3de866fb30387c9d3e1093" title="Sends another bit of the current payload (actual data)." alt="" coords="692,91,882,152"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="927,97,882,107,882,102,922,97"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a6b04378225c55c43c00805cb5bdb99b3" title="Updates the reception state machines." alt="" coords="447,18,634,62"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="664,38,635,41,635,36,669,38"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a3b75064597a5fbfe9c4c7d1f2e0c7e5f" title="Updates the state machines (transmission/reception)." alt="" coords="235,56,399,101"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="429,59,400,67,399,62,435,58"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#aae5f7e2bbffa6e3881675058a0aedf6f" title="Updates the number of passed CPU cycles (forwarded from the AUX peripheral)." alt="" coords="5,48,187,110"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="217,79,187,81,187,76,222,78"/>
+<area shape="rect" id="Node000007" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a39f26f9ac5a5cb08b2a292f5c6fab6db" title="Updates the transmission state machine." alt="" coords="448,91,634,136"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="674,118,634,119,634,114,679,118"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="430,97,399,94,400,89,435,97"/>
 </map>

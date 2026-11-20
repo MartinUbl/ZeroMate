@@ -1,10 +1,10 @@
 <map id="zero_mate::gui::CARM_Timer_Window::Render_Table" name="zero_mate::gui::CARM_Timer_Window::Render_Table">
-<area shape="rect" id="Node000001" title="Renders a table (register values)." alt="" coords="459,53,679,93"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CARM__Timer__Window.html#ae81010b350ca24a45d2bd7bb6e979d72" title="Render individual bits of the ARM timer control register." alt="" coords="232,5,411,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="445,55,410,50,411,44,446,50"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1gui_1_1CARM__Timer__Window.html#a9285c91bad23db6dc55b0fab3bd8161a" title="Renders ARM timer registers (value, load, etc.)." alt="" coords="232,84,411,139"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="446,95,411,100,410,95,445,89"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1gui_1_1CARM__Timer__Window.html#aaf519012bb20d98b58690c86ce7f2009" title="Renders the ARM timer registers (IGUI_Window interface)." alt="" coords="5,53,184,93"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="219,53,185,60,184,54,218,48"/>
-<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="218,96,184,91,185,85,219,91"/>
+<area shape="rect" id="Node000001" title="Renders a table (register values)." alt="" coords="458,56,677,101"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CARM__Timer__Window.html#ae81010b350ca24a45d2bd7bb6e979d72" title="Render individual bits of the ARM timer control register." alt="" coords="232,5,410,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="440,57,410,54,410,49,445,57"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1gui_1_1CARM__Timer__Window.html#a9285c91bad23db6dc55b0fab3bd8161a" title="Renders ARM timer registers (value, load, etc.)." alt="" coords="232,91,410,152"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="445,100,411,109,410,103,440,101"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1gui_1_1CARM__Timer__Window.html#aaf519012bb20d98b58690c86ce7f2009" title="Renders the ARM timer registers (IGUI_Window interface)." alt="" coords="5,56,184,101"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="214,57,185,65,184,59,219,55"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="214,102,184,98,184,93,219,102"/>
 </map>

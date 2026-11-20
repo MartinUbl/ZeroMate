@@ -1,35 +1,3 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$classzero__mate_1_1gui_1_1IGUI__Window.html" title="Common interface for all GUI windows." alt="" coords="19,421,174,461"/>
-<area shape="rect" id="Node000001" href="$classzero__mate_1_1gui_1_1CARM__Timer__Window.html" title="This windows visualizes the contents of the ARM timer registers." alt="" coords="268,5,435,45"/>
-<area shape="poly" id="edge41_Node000000_Node000001" title=" " alt="" coords="97,407,107,335,129,240,147,190,170,141,199,95,234,55,266,36,269,40,238,59,203,99,174,144,152,192,134,242,112,336,103,408"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CAUX__Window.html" title="This class represents the windows that visualizes auxiliary peripherals." alt="" coords="269,69,433,109"/>
-<area shape="poly" id="edge42_Node000000_Node000002" title=" " alt="" coords="100,407,113,345,138,268,156,227,177,188,203,151,234,119,267,100,270,105,238,123,207,155,182,191,160,230,143,270,119,347,105,408"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1gui_1_1CCP10__Window.html" title="This class represents a window that displays information related to CP10 (coprocessor 10)." alt="" coords="267,133,436,173"/>
-<area shape="poly" id="edge43_Node000000_Node000003" title=" " alt="" coords="104,407,121,358,147,297,185,236,208,208,234,183,265,166,268,171,238,187,212,211,189,239,152,300,126,360,109,409"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1gui_1_1CCP15__Window.html" title="This class represents a window that displays information related to CP15 (coprocessor 15)." alt="" coords="267,197,436,237"/>
-<area shape="poly" id="edge44_Node000000_Node000004" title=" " alt="" coords="110,408,130,370,158,327,193,284,234,247,265,231,268,236,238,252,197,288,162,330,135,373,115,410"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1gui_1_1CControl__Window.html" title="This class represents a window that allows the user to control CPU execution." alt="" coords="260,261,443,301"/>
-<area shape="poly" id="edge45_Node000000_Node000005" title=" " alt="" coords="121,409,170,359,201,333,235,311,261,299,263,304,237,316,204,337,174,363,125,413"/>
-<area shape="rect" id="Node000006" href="$classzero__mate_1_1gui_1_1CDemo__Window.html" title="This class displays the ImGui and ImPlot demos." alt="" coords="264,325,439,365"/>
-<area shape="poly" id="edge46_Node000000_Node000006" title=" " alt="" coords="148,413,235,375,271,363,273,368,237,380,150,418"/>
-<area shape="rect" id="Node000007" href="$classzero__mate_1_1gui_1_1CGPIO__Window.html" title="This class represents a windows that displays information about GPIO pins." alt="" coords="267,389,435,429"/>
-<area shape="poly" id="edge47_Node000000_Node000007" title=" " alt="" coords="187,427,267,417,267,423,188,433"/>
-<area shape="rect" id="Node000008" href="$classzero__mate_1_1gui_1_1CInterrupt__Controller__Window.html" title="This class defines a window that displays information about the interrupt controller." alt="" coords="255,453,447,493"/>
-<area shape="poly" id="edge48_Node000000_Node000008" title=" " alt="" coords="188,450,256,459,255,464,187,455"/>
-<area shape="rect" id="Node000009" href="$classzero__mate_1_1gui_1_1CLog__Window.html" title="This class represents a window that displays log messages." alt="" coords="272,837,431,877"/>
-<area shape="poly" id="edge49_Node000000_Node000009" title=" " alt="" coords="103,475,112,547,134,641,152,691,174,739,203,784,238,823,254,835,273,844,271,849,251,840,234,827,199,787,170,742,147,693,129,643,107,548,97,475"/>
-<area shape="rect" id="Node000012" href="$classzero__mate_1_1gui_1_1CMonitor__Window.html" title="This class represents a window that visualizes the memory&#45;mapped debug monitor." alt="" coords="258,517,445,557"/>
-<area shape="poly" id="edge50_Node000000_Node000012" title=" " alt="" coords="150,465,237,503,273,515,271,520,235,508,148,470"/>
-<area shape="rect" id="Node000013" href="$classzero__mate_1_1gui_1_1CRAM__Window.html" title="This class represents a windows that visualizes the contents of the RAM." alt="" coords="268,581,435,621"/>
-<area shape="poly" id="edge51_Node000000_Node000013" title=" " alt="" coords="125,470,174,520,204,545,237,567,269,581,267,586,235,572,201,550,170,524,121,474"/>
-<area shape="rect" id="Node000014" href="$classzero__mate_1_1gui_1_1CRegisters__Window.html" title="This class represents the window that displays the contents of all CPU registers." alt="" coords="253,645,450,685"/>
-<area shape="poly" id="edge52_Node000000_Node000014" title=" " alt="" coords="115,473,135,510,162,553,197,595,238,631,259,643,256,648,234,636,193,599,158,556,130,512,110,475"/>
-<area shape="rect" id="Node000015" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html" title="This class represents a windows that displays the contents of loaded ELF files." alt="" coords="261,709,441,749"/>
-<area shape="poly" id="edge53_Node000000_Node000015" title=" " alt="" coords="109,474,126,523,152,583,189,644,212,671,238,695,263,710,260,715,234,699,208,675,185,647,147,586,121,525,104,475"/>
-<area shape="rect" id="Node000016" href="$classzero__mate_1_1gui_1_1CTop__Bar__Menu.html" title="This class represents a top bar through which the user can load ELF files." alt="" coords="272,773,431,813"/>
-<area shape="poly" id="edge54_Node000000_Node000016" title=" " alt="" coords="105,475,119,536,143,613,160,653,182,692,207,728,238,759,254,771,273,779,271,784,252,775,234,763,203,731,177,695,156,655,138,615,113,537,100,476"/>
-<area shape="rect" id="Node000010" href="$classzero__mate_1_1utils_1_1ILogger.html" title="This class represents a logging_system interface." alt="" coords="5,873,188,898"/>
-<area shape="poly" id="edge55_Node000010_Node000009" title=" " alt="" coords="202,871,271,863,272,869,202,876"/>
-<area shape="rect" id="Node000011" href="$classzero__mate_1_1utils_1_1CLogger__STDO.html" title="This class represents a logging_system that logs messages to the standard output (STDO)." alt="" coords="236,902,467,927"/>
-<area shape="poly" id="edge56_Node000010_Node000011" title=" " alt="" coords="202,895,241,899,241,905,201,900"/>
+<area shape="rect" id="Node000000" href="$structzero__mate_1_1gui_1_1startup_1_1Args.html" title=" " alt="" coords="5,5,178,50"/>
 </map>

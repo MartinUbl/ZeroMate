@@ -1,0 +1,7 @@
+<map id="zero_mate::coprocessor::cp10::CFPSCR::CFPSCR" name="zero_mate::coprocessor::cp10::CFPSCR::CFPSCR">
+<area shape="rect" id="Node000001" title="Copy construction of the class." alt="" coords="5,40,184,85"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CFPSCR.html#a348eb9188835fcffdfa7f8a45bb61393" title="Creates an instance of the class." alt="" coords="234,5,412,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,46,221,43,216,44,185,51"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CFPSCR.html#a93a3f7ff894b184a01146047be25c3d5" title="Sets a given flag in the register value." alt="" coords="232,75,415,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,73,219,81,213,81,184,79"/>
+</map>

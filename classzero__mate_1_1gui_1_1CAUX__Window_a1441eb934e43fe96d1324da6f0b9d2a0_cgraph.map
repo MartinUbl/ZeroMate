@@ -1,15 +1,15 @@
 <map id="zero_mate::gui::CAUX_Window::Render" name="zero_mate::gui::CAUX_Window::Render">
-<area shape="rect" id="Node000001" title="Renders GPIO pins (IGUI_Window interface)." alt="" coords="5,99,169,139"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CAUX__Window.html#a8e358814f5acb7ee712a6193dbfc908f" title="Renders the ENABLES and IRQ register of the AUX peripheral." alt="" coords="238,67,407,107"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,106,224,98,225,103,170,111"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1gui_1_1CAUX__Window.html#a84134555bb7100075f909c0de2f0829b" title="Renders information related to the mini UART auxiliary peripheral." alt="" coords="217,131,428,171"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,128,204,132,203,138,169,133"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a3ab953c18059ccd52099be9bb7b6edac" title="Returns the set up baud rate." alt="" coords="491,5,669,60"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="402,129,427,117,441,106,450,94,460,82,474,69,482,64,485,69,478,74,463,85,454,97,445,109,429,122,405,134"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a2f29b39f721b4ae5acf81f61ab210325" title="Returns the length of payload (7 or 8 bits)." alt="" coords="492,84,668,139"/>
-<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="428,132,478,124,479,130,429,138"/>
-<area shape="rect" id="Node000006" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a2a71009ed1f6227341dad8926bd73d81" title="Returns information about whether the receiver is enabled or not." alt="" coords="485,163,675,217"/>
-<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="429,165,471,171,471,176,428,170"/>
-<area shape="rect" id="Node000007" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a968340fbf2802af5178531146bca03c8" title="Returns information about whether the transmitter is enabled or not." alt="" coords="476,241,684,296"/>
-<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="362,169,477,226,494,234,492,238,475,231,360,174"/>
+<area shape="rect" id="Node000001" title="Renders GPIO pins (IGUI_Window interface)." alt="" coords="5,107,169,152"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CAUX__Window.html#a8e358814f5acb7ee712a6193dbfc908f" title="Renders the ENABLES and IRQ register of the AUX peripheral." alt="" coords="238,72,406,117"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,115,225,108,220,111,170,120"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1gui_1_1CAUX__Window.html#a84134555bb7100075f909c0de2f0829b" title="Renders information related to the mini UART auxiliary peripheral." alt="" coords="217,142,427,186"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="168,139,204,145,199,147,170,144"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a3ab953c18059ccd52099be9bb7b6edac" title="Returns the set up baud rate." alt="" coords="490,5,668,67"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="404,139,426,127,440,115,449,103,458,90,473,77,478,76,483,74,477,81,462,94,453,106,444,119,428,132,406,144"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a2f29b39f721b4ae5acf81f61ab210325" title="Returns the length of payload (7 or 8 bits)." alt="" coords="491,91,666,152"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="427,144,478,138,473,139,428,149"/>
+<area shape="rect" id="Node000006" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a2a71009ed1f6227341dad8926bd73d81" title="Returns information about whether the receiver is enabled or not." alt="" coords="484,176,674,238"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="428,179,471,188,465,189,428,184"/>
+<area shape="rect" id="Node000007" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a968340fbf2802af5178531146bca03c8" title="Returns information about whether the transmitter is enabled or not." alt="" coords="475,261,682,323"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="361,184,476,247,488,255,483,254,474,252,360,189"/>
 </map>

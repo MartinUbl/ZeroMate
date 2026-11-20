@@ -1,19 +1,19 @@
 <map id="zero_mate::peripheral::CMini_UART::Set_TX_Pin" name="zero_mate::peripheral::CMini_UART::Set_TX_Pin">
-<area shape="rect" id="Node000001" title="Sets the state of the TX pin." alt="" coords="923,117,1111,157"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#aee9c1b3a2634b94002a0111d1ecdf107" title="Enables/disables the mini UART peripheral." alt="" coords="697,5,862,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="971,112,925,86,874,60,844,48,846,43,876,55,927,81,974,108"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a2c1cebe25a3de866fb30387c9d3e1093" title="Sends another bit of the current payload (actual data)." alt="" coords="684,70,875,125"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="909,122,875,116,875,111,910,117"/>
-<area shape="rect" id="Node000007" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a8af3940e255317e7282402dce11c2d33" title="Sends a start bit." alt="" coords="684,149,875,203"/>
-<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="910,157,875,163,875,158,909,152"/>
-<area shape="rect" id="Node000008" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#ad15628b6f928101a1844704a58b11cdb" title="Sends a stop bit." alt="" coords="684,227,875,282"/>
-<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="971,167,876,217,848,230,846,225,873,212,968,162"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a39f26f9ac5a5cb08b2a292f5c6fab6db" title="Updates the transmission state machine." alt="" coords="449,156,636,196"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="684,132,605,158,603,153,683,127"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a3b75064597a5fbfe9c4c7d1f2e0c7e5f" title="Updates the state machines (transmission/reception)." alt="" coords="236,156,401,196"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="435,179,402,179,402,173,435,173"/>
-<area shape="rect" id="Node000006" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#aae5f7e2bbffa6e3881675058a0aedf6f" title="Updates the number of passed CPU cycles (forwarded from the AUX peripheral)." alt="" coords="5,149,188,203"/>
-<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="222,179,188,179,188,173,222,173"/>
-<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="670,179,636,179,636,173,670,173"/>
-<area shape="poly" id="edge9_Node000008_Node000004" title=" " alt="" coords="683,225,603,199,605,194,684,220"/>
+<area shape="rect" id="Node000001" title="Sets the state of the TX pin." alt="" coords="919,125,1106,170"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#aee9c1b3a2634b94002a0111d1ecdf107" title="Enables/disables the mini UART peripheral." alt="" coords="694,5,858,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="962,116,869,65,844,53,844,48,872,60,967,117"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a2c1cebe25a3de866fb30387c9d3e1093" title="Sends another bit of the current payload (actual data)." alt="" coords="681,74,871,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="901,128,871,125,871,119,906,128"/>
+<area shape="rect" id="Node000007" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a8af3940e255317e7282402dce11c2d33" title="Sends a start bit." alt="" coords="681,160,871,221"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="906,167,872,176,871,171,901,168"/>
+<area shape="rect" id="Node000008" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#ad15628b6f928101a1844704a58b11cdb" title="Sends a stop bit." alt="" coords="681,245,871,306"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="966,178,872,235,849,247,847,242,869,231,960,179"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a39f26f9ac5a5cb08b2a292f5c6fab6db" title="Updates the transmission state machine." alt="" coords="447,168,633,213"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="677,141,605,170,603,165,672,142"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a3b75064597a5fbfe9c4c7d1f2e0c7e5f" title="Updates the state machines (transmission/reception)." alt="" coords="235,168,399,213"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="429,191,400,193,399,188,434,190"/>
+<area shape="rect" id="Node000006" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#aae5f7e2bbffa6e3881675058a0aedf6f" title="Updates the number of passed CPU cycles (forwarded from the AUX peripheral)." alt="" coords="5,160,187,221"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="217,191,188,193,186,188,222,189"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="663,191,634,193,633,188,668,190"/>
+<area shape="poly" id="edge9_Node000008_Node000004" title=" " alt="" coords="672,239,604,216,604,211,677,239"/>
 </map>

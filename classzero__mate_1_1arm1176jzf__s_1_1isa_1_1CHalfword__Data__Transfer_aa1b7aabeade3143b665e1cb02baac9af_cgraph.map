@@ -1,5 +1,5 @@
 <map id="zero_mate::arm1176jzf_s::isa::CHalfword_Data_Transfer::CHalfword_Data_Transfer" name="zero_mate::arm1176jzf_s::isa::CHalfword_Data_Transfer::CHalfword_Data_Transfer">
-<area shape="rect" id="Node000001" title="Creates an instance of the class." alt="" coords="5,5,200,75"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CInstruction.html#a33fb155ea33d9b963e8cf9009fb5adef" title="Returns the 32&#45;bit value (encoding of the instruction)." alt="" coords="248,13,421,67"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,37,234,37,234,43,201,43"/>
+<area shape="rect" id="Node000001" title="Creates an instance of the class." alt="" coords="5,5,199,84"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CInstruction.html#af0813b890400084720f720a1cfb6a683" title="Creates an instance of the class." alt="" coords="247,14,419,76"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,42,234,44,229,45,199,47"/>
 </map>

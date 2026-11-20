@@ -1,9 +1,5 @@
 <map id="zero_mate::peripheral::CARM_Timer::CPrescaler::Reset" name="zero_mate::peripheral::CARM_Timer::CPrescaler::Reset">
-<area shape="rect" id="Node000001" title="Resets the prescaler." alt="" coords="499,41,689,96"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CARM__Timer_1_1CPrescaler.html#a440710dcce7be4e7dd1940bda5de1f0e" title="Creates an instance of the class." alt="" coords="260,5,451,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="485,55,450,50,451,44,485,50"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1CARM__Timer.html#a98d9eb00ca1545607ed62e4051063eb7" title="Resets/re&#45;initializes the ARM timer (IPeripheral interface)." alt="" coords="273,85,438,125"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="485,88,439,95,438,90,484,82"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1peripheral_1_1CARM__Timer.html#a6e04a50b8de25f632bd3fd6f0650ca89" title="Creates an instance of the class." alt="" coords="5,85,212,125"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="259,107,212,107,212,102,259,102"/>
+<area shape="rect" id="Node000001" title="Resets the prescaler." alt="" coords="244,5,434,67"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CARM__Timer_1_1CPrescaler.html#a440710dcce7be4e7dd1940bda5de1f0e" title="Creates an instance of the class." alt="" coords="5,5,196,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,36,196,39,196,34,231,36"/>
 </map>

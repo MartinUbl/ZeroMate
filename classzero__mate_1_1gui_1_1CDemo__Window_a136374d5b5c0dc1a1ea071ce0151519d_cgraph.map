@@ -1,7 +1,7 @@
 <map id="zero_mate::gui::CDemo_Window::Render" name="zero_mate::gui::CDemo_Window::Render">
-<area shape="rect" id="Node000001" title="Renders the window (IGUI_Window interface)." alt="" coords="5,37,180,77"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CDemo__Window.html#a49fc965a62b870acb0081cc4b88af843" title="Renders the ImGui demo window." alt="" coords="229,5,457,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,44,215,39,215,44,181,49"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1gui_1_1CDemo__Window.html#afe28a31f82a54ce22ba832e0ef549dff" title="Renders the ImPlot demo window." alt="" coords="228,69,457,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,66,214,70,214,76,180,71"/>
+<area shape="rect" id="Node000001" title="Renders the window (IGUI_Window interface)." alt="" coords="5,40,180,85"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CDemo__Window.html#a49fc965a62b870acb0081cc4b88af843" title="Renders the ImGui demo window." alt="" coords="228,5,456,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,48,215,45,210,46,181,53"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1gui_1_1CDemo__Window.html#afe28a31f82a54ce22ba832e0ef549dff" title="Renders the ImPlot demo window." alt="" coords="228,75,456,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,72,215,79,210,79,180,77"/>
 </map>

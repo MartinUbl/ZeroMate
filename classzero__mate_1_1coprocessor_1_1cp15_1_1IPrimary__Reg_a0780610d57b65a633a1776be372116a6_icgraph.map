@@ -1,23 +1,32 @@
 <map id="zero_mate::coprocessor::cp15::IPrimary_Reg::Is_Flag_Set" name="zero_mate::coprocessor::cp15::IPrimary_Reg::Is_Flag_Set">
-<area shape="rect" id="Node000001" title="Checks whether a flag is set in a given register." alt="" coords="1376,70,1553,125"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CC1.html#ac6b22a989b3f58443f36e32999150eb6" title=" " alt="" coords="1151,70,1328,125"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1363,100,1328,100,1328,95,1363,95"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1mmu_1_1CMMU.html#a0e4282050053a8672260e9752da301bb" title="Returns information about whether the MMU is enabled or not." alt="" coords="896,5,1103,45"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1137,69,1066,48,1067,43,1138,64"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#ad6dadfc114c7d0d6b43496f9f5651be7" title="Checks if the IVT (interrupt vector table) has been reallocated to the higher address (0xFFFF0000)." alt="" coords="899,70,1100,125"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="1137,100,1100,100,1100,95,1137,95"/>
-<area shape="rect" id="Node000011" href="$classzero__mate_1_1CBus.html#a3822e274a11c99cfc0584b5755af65f5" title="Checks for unaligned memory access." alt="" coords="896,149,1103,189"/>
-<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="1138,130,1067,152,1066,147,1137,125"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a85e6ef006a36e1adb56abd3ecc6481be" title="Executes a CPU exception." alt="" coords="672,70,848,125"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="885,100,848,100,848,95,885,95"/>
-<area shape="rect" id="Node000006" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#ac81ae05305c6916b7eda83abff602dcf" title="Executes a single instruction." alt="" coords="448,41,624,81"/>
-<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="658,84,624,78,625,73,659,78"/>
-<area shape="rect" id="Node000007" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#aa327755c4c57c01f03e16fb3d1195f6a" title="Fetches the next instruction." alt="" coords="449,106,623,161"/>
-<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="659,116,623,122,622,117,658,111"/>
-<area shape="rect" id="Node000008" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a1665360d8ae71ed541b4c10f39e655a5" title=" " alt="" coords="227,113,400,153"/>
-<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="435,136,400,136,400,131,435,131"/>
-<area shape="rect" id="Node000009" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#ad07b9956fd3f7b6c64b93c69243092f4" title="Starts the execution." alt="" coords="5,81,179,121"/>
-<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="213,121,178,116,179,111,213,116"/>
-<area shape="rect" id="Node000010" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a16544e9981489e1f4a25405248e5a5c0" title=" " alt="" coords="5,145,179,185"/>
-<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="213,150,179,155,178,150,213,145"/>
+<area shape="rect" id="Node000001" title="Checks whether a flag is set in a given register." alt="" coords="1377,98,1554,160"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CC1.html#ac6b22a989b3f58443f36e32999150eb6" title=" " alt="" coords="1153,98,1329,160"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="1359,129,1330,132,1330,126,1365,129"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1mmu_1_1CMMU.html#a0e4282050053a8672260e9752da301bb" title="Returns information about whether the MMU is enabled or not." alt="" coords="899,29,1105,74"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="1135,96,1073,77,1073,72,1141,96"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#ad6dadfc114c7d0d6b43496f9f5651be7" title="Checks if the IVT (interrupt vector table) has been reallocated to the higher address (0xFFFF0000)." alt="" coords="902,98,1102,160"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="1135,129,1103,132,1102,126,1140,129"/>
+<area shape="rect" id="Node000011" href="$classzero__mate_1_1CBus.html#a3822e274a11c99cfc0584b5755af65f5" title="Checks for unaligned memory access." alt="" coords="899,189,1104,234"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="1141,164,1069,191,1068,186,1135,165"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a85e6ef006a36e1adb56abd3ecc6481be" title="Executes a CPU exception." alt="" coords="675,74,851,136"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="883,118,851,117,851,111,888,117"/>
+<area shape="rect" id="Node000006" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#ac81ae05305c6916b7eda83abff602dcf" title="Executes a single instruction." alt="" coords="449,5,624,50"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="658,70,604,53,605,48,663,70"/>
+<area shape="rect" id="Node000007" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#aa327755c4c57c01f03e16fb3d1195f6a" title="Fetches the next instruction." alt="" coords="450,74,623,136"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="658,105,624,108,623,102,663,105"/>
+<area shape="rect" id="Node000008" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a1665360d8ae71ed541b4c10f39e655a5" title=" " alt="" coords="226,83,398,127"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="432,106,399,108,398,102,437,104"/>
+<area shape="rect" id="Node000009" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#ad07b9956fd3f7b6c64b93c69243092f4" title="Starts the execution." alt="" coords="5,48,178,93"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="208,90,179,86,177,81,212,88"/>
+<area shape="rect" id="Node000010" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a16544e9981489e1f4a25405248e5a5c0" title=" " alt="" coords="5,117,178,162"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="208,122,179,129,177,124,212,120"/>
+<area shape="rect" id="Node000012" href="$classzero__mate_1_1CBus.html#a016eb46a0e573ea1e37e5c51643ca69f" title="Returns the corresponding peripheral based on the given address." alt="" coords="682,201,844,246"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="881,218,845,222,844,217,886,217"/>
+<area shape="poly" id="edge13_Node000012_Node000012" title=" " alt="" coords="798,186,786,182,763,180,742,182,729,187,724,193,724,202,720,199,718,191,726,182,741,177,763,175,788,177,804,186"/>
+<area shape="rect" id="Node000013" href="$classzero__mate_1_1CBus.html#a73e2222c5c3a5474f46a9011a50c1c7f" title="Attaches a peripheral to the bus." alt="" coords="446,160,627,205"/>
+<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="664,206,628,202,628,196,669,206"/>
+<area shape="rect" id="Node000014" href="$classzero__mate_1_1CBus.html#a1bcd53677c24f62d7cce5e95636e776a" title="Reads data from the given address in the address space." alt="" coords="450,228,623,256"/>
+<area shape="poly" id="edge14_Node000012_Node000014" title=" " alt="" coords="664,232,623,238,623,233,669,231"/>
+<area shape="rect" id="Node000015" href="$classzero__mate_1_1CBus.html#aa526b7afc98f66dbb672fe8d4f3ae88a" title="Writes data to the given address in the address space." alt="" coords="450,280,624,308"/>
+<area shape="poly" id="edge15_Node000012_Node000015" title=" " alt="" coords="681,251,628,270,588,283,587,277,627,265,676,252"/>
 </map>

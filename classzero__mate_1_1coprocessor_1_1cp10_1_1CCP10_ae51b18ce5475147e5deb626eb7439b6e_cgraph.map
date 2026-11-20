@@ -1,0 +1,15 @@
+<map id="zero_mate::coprocessor::cp10::CCP10::Execute_VSTM_VLDM" name="zero_mate::coprocessor::cp10::CCP10::Execute_VSTM_VLDM">
+<area shape="rect" id="Node000001" title="Executes a VSTM and VLDM floating point instructions." alt="" coords="5,219,182,280"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Transfer.html#ab412903500cad394c63ea4ee845892b6" title="Returns the immediate value (multiple of 4)." alt="" coords="230,5,424,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,217,159,148,191,110,228,77,235,74,232,78,231,81,195,114,163,151,115,220"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Transfer.html#a068a959c4c3c62f18cd57ee97236d558" title="Returns the index of an ARM register encoded in the instruction." alt="" coords="230,91,424,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="139,216,228,162,241,158,237,161,231,166,142,220"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Transfer.html#a1c4066c60a44cb63e60c2b8031525f10" title="Returns the index of the Vd register." alt="" coords="230,176,424,238"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="181,231,217,226,212,229,183,236"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Transfer.html#a9bf894ad02d47a4b0263547bcd7cbf70" title="Returns the offset of the Vd register (S{x} vs D{x})." alt="" coords="230,261,424,323"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="181,263,217,271,212,273,183,268"/>
+<area shape="rect" id="Node000006" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Transfer.html#a97119054087804d8f1cfb2faa70b180a" title="Checks if the U bit is set (add/subtract)." alt="" coords="230,347,424,408"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="141,278,231,333,241,339,236,340,228,337,140,283"/>
+<area shape="rect" id="Node000007" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Transfer.html#ad1d4b385c601945cc67e0988f15b4fd6" title="Checks if the W bit is set (write&#45;back)." alt="" coords="230,432,424,494"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="113,278,163,348,195,385,231,418,236,424,231,423,228,422,191,389,159,351,112,283"/>
+</map>

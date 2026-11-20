@@ -1,9 +1,9 @@
 <map id="zero_mate::gui::CSource_Code_Window::Render_Code_Table" name="zero_mate::gui::CSource_Code_Window::Render_Code_Table">
-<area shape="rect" id="Node000001" title="Renders a table that containing disassembled instructions." alt="" coords="5,41,260,81"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#a92af51ccb5ebca752cddaac27c38f1f8" title="Renders the body of a source code table." alt="" coords="308,5,563,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="260,44,294,39,295,45,261,49"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#aa46c591d1c9bb994ccee55d371919e37" title="Renders table headings (breakpoint, address, opcode, disassembly)" alt="" coords="328,70,543,125"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="261,74,315,80,314,86,260,79"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#a854994af8a4bb90df17e2e24c8d7a3a5" title="Renders a single breakpoint." alt="" coords="611,5,863,45"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="563,23,597,23,597,28,563,28"/>
+<area shape="rect" id="Node000001" title="Renders a table that containing disassembled instructions." alt="" coords="5,44,260,89"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#a92af51ccb5ebca752cddaac27c38f1f8" title="Renders the body of a source code table." alt="" coords="308,5,562,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="260,47,295,45,290,47,261,53"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#aa46c591d1c9bb994ccee55d371919e37" title="Renders table headings (breakpoint, address, opcode, disassembly)." alt="" coords="328,74,542,136"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="260,80,315,89,310,90,260,85"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#a854994af8a4bb90df17e2e24c8d7a3a5" title="Renders a single breakpoint." alt="" coords="610,5,861,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="562,25,597,27,592,28,563,30"/>
 </map>

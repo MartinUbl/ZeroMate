@@ -1,5 +1,5 @@
 <map id="zero_mate::gui::CControl_Window::Render_Control_Buttons" name="zero_mate::gui::CControl_Window::Render_Control_Buttons">
-<area shape="rect" id="Node000001" title="Renders the control button (step, stop, run)" alt="" coords="236,5,424,60"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CControl__Window.html#aabafaf7d45b7c4516719dce03772ee5a" title="Renders the window (IGUI_Window interface)." alt="" coords="5,13,188,53"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,35,188,35,188,30,222,30"/>
+<area shape="rect" id="Node000001" title="Renders the control button (step, stop, run)." alt="" coords="236,5,423,67"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CControl__Window.html#aabafaf7d45b7c4516719dce03772ee5a" title="Renders the window (IGUI_Window interface)." alt="" coords="5,14,188,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,36,188,39,188,34,223,36"/>
 </map>

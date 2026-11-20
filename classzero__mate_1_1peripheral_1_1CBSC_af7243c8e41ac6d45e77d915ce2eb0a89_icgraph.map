@@ -1,7 +1,7 @@
 <map id="zero_mate::peripheral::CBSC::Should_Transaction_Begin" name="zero_mate::peripheral::CBSC::Should_Transaction_Begin">
-<area shape="rect" id="Node000001" title="Checks whether a new data transfer (transaction) should begin." alt="" coords="481,5,687,60"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CBSC.html#ab743dd233479745864da73cf7020ba15" title="Performs actions after the control register has been written to." alt="" coords="219,13,433,53"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="467,35,434,35,434,30,467,30"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1CBSC.html#a91d31c6b0a9fa05ef7d1488f3e67247d" title="Writes data to the peripheral (IPeripheral interface)." alt="" coords="5,13,171,53"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="205,35,171,35,171,30,205,30"/>
+<area shape="rect" id="Node000001" title="Checks whether a new data transfer (transaction) should begin." alt="" coords="480,5,684,67"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CBSC.html#ab743dd233479745864da73cf7020ba15" title="Performs actions after the control register has been written to." alt="" coords="218,14,432,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="461,36,433,39,433,34,467,36"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1CBSC.html#a91d31c6b0a9fa05ef7d1488f3e67247d" title="Writes data to the peripheral (IPeripheral interface)." alt="" coords="5,14,170,58"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="199,36,170,39,170,34,205,36"/>
 </map>

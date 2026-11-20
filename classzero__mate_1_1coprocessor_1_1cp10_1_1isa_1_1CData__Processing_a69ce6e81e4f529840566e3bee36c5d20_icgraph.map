@@ -1,5 +1,45 @@
 <map id="zero_mate::coprocessor::cp10::isa::CData_Processing::Get_Vm_Offset" name="zero_mate::coprocessor::cp10::isa::CData_Processing::Get_Vm_Offset">
-<area shape="rect" id="Node000001" title="Returns the offset of the Vm register (S{x} vs D{x})." alt="" coords="267,5,480,60"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Processing.html#a8740e17ba3318dca9ca9953d79c6a7ab" title="Returns a collection of indexes of all three registers (Vd, Vn, and Vm)." alt="" coords="5,5,219,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="253,35,219,35,219,30,253,30"/>
+<area shape="rect" id="Node000001" title="Returns the offset of the Vm register (S{x} vs D{x})." alt="" coords="757,504,970,565"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Processing.html#a8740e17ba3318dca9ca9953d79c6a7ab" title="Returns a collection of indexes of all three registers (Vd, Vn, and Vm)." alt="" coords="497,504,709,565"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="739,535,710,537,709,532,744,534"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#a16093f04e482de31680843bad658a93a" title="Executes a VABS floating point instruction." alt="" coords="234,5,444,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="598,487,588,399,579,344,565,285,545,226,520,167,487,112,447,64,435,53,433,48,451,60,492,109,525,165,550,224,570,284,584,343,594,398,603,489"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#ada7b266c79cb6ab0b8cbbb33db8581c4" title="Executes a VADD floating point instruction." alt="" coords="233,75,446,119"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="595,488,582,412,555,316,536,267,512,218,483,173,447,134,434,122,433,117,451,130,487,170,517,216,541,265,560,315,587,411,600,489"/>
+<area shape="rect" id="Node000006" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#a648564bc18e05cbdd009c5e76cace9b3" title="Executes a VCMP and CMPE float point instructions." alt="" coords="251,144,428,205"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="589,488,570,429,541,357,501,283,476,249,447,219,428,204,427,199,451,215,480,246,505,280,546,354,575,427,594,489"/>
+<area shape="rect" id="Node000007" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#a8c8d7242a607176e4d1f58b1d622668d" title="Executes a VCVT (double&#45;precision to single&#45;precision) instruction." alt="" coords="248,230,430,308"/>
+<area shape="poly" id="edge8_Node000002_Node000007" title=" " alt="" coords="577,490,524,407,488,362,447,322,431,309,431,304,451,318,492,358,528,404,582,490"/>
+<area shape="rect" id="Node000008" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#ad824ae13f53109fd238a3f3bf0be77c8" title="Executes a VCVT and VCVTR floating point instructions." alt="" coords="232,332,446,411"/>
+<area shape="poly" id="edge10_Node000002_Node000008" title=" " alt="" coords="549,494,501,460,448,425,430,414,429,409,450,420,505,455,554,493"/>
+<area shape="rect" id="Node000009" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#a459029468d45e1d459286fcdc1c3c40f" title="Executes a VDIV floating point instruction." alt="" coords="235,435,444,479"/>
+<area shape="poly" id="edge12_Node000002_Node000009" title=" " alt="" coords="480,500,419,483,417,477,485,498"/>
+<area shape="rect" id="Node000010" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#aec78a50a1ff14c14ed085a80191ca6c3" title="Executes VMLA and VMLS floating point instructions." alt="" coords="251,504,428,565"/>
+<area shape="poly" id="edge14_Node000002_Node000010" title=" " alt="" coords="479,535,429,537,427,532,484,533"/>
+<area shape="rect" id="Node000011" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#afa890dda0cd156b82462bb078d87e760" title="Executes a VMOV floating point instruction." alt="" coords="231,589,448,634"/>
+<area shape="poly" id="edge16_Node000002_Node000011" title=" " alt="" coords="480,571,419,591,417,586,484,568"/>
+<area shape="rect" id="Node000012" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#a086d23f857f90771fc856d7086cec293" title="Executes a VMUL floating point instruction." alt="" coords="232,659,446,703"/>
+<area shape="poly" id="edge18_Node000002_Node000012" title=" " alt="" coords="552,577,507,614,450,649,424,660,421,656,448,644,504,610,557,574"/>
+<area shape="rect" id="Node000013" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#ab28b0d5642400307460b25383c7d1484" title="Executes a VNEG floating point instruction." alt="" coords="233,728,446,773"/>
+<area shape="poly" id="edge20_Node000002_Node000013" title=" " alt="" coords="577,576,524,651,489,687,450,718,429,730,426,725,448,713,486,683,520,647,573,580"/>
+<area shape="rect" id="Node000014" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#a021f5937f594c636f8368f100bb6f414" title="Executes VNMLA, VNMLS, and VNMUL floating point instructions." alt="" coords="247,797,432,858"/>
+<area shape="poly" id="edge22_Node000002_Node000014" title=" " alt="" coords="587,578,566,628,536,683,497,739,451,787,433,799,431,795,447,783,493,735,531,681,561,626,583,582"/>
+<area shape="rect" id="Node000015" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#aa2f1e79742997b349b0014d6550a16b0" title="Executes a VSQRT floating point instruction." alt="" coords="230,883,449,927"/>
+<area shape="poly" id="edge24_Node000002_Node000015" title=" " alt="" coords="595,578,579,646,551,724,532,764,509,804,482,840,451,872,434,884,431,880,447,868,478,837,504,801,527,762,546,722,574,644,592,583"/>
+<area shape="rect" id="Node000016" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#a6a54081b5426f55b309a71f3d7fa9754" title="Executes a VSUB floating point instruction." alt="" coords="233,952,446,997"/>
+<area shape="poly" id="edge26_Node000002_Node000016" title=" " alt="" coords="599,579,587,659,561,755,541,806,517,855,487,901,451,942,434,954,432,949,447,938,483,898,512,852,536,804,556,754,582,658,596,583"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#ad976e02e1423e39d963927ffc922f653" title="Performs a coprocessor data operation instruction (ICoprocessor interface)." alt="" coords="5,504,182,565"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="231,62,232,64,191,116,159,174,135,236,119,299,107,361,101,417,97,503,92,503,96,416,102,360,113,298,130,235,154,172,186,113,228,61,234,57"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="231,131,232,134,196,176,167,225,144,277,127,329,107,429,99,504,93,503,101,428,122,328,139,275,162,222,191,173,228,130,234,127"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="237,212,232,219,203,252,178,289,140,368,116,444,102,504,97,503,111,443,135,366,173,286,198,249,228,215,240,207"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="234,317,231,322,190,366,156,415,129,464,110,504,105,502,124,461,152,413,186,362,228,318,237,312"/>
+<area shape="poly" id="edge11_Node000008_Node000004" title=" " alt="" coords="234,421,231,425,176,465,130,505,125,502,173,461,228,420,237,417"/>
+<area shape="poly" id="edge13_Node000009_Node000004" title=" " alt="" coords="249,487,184,509,181,504,253,483"/>
+<area shape="poly" id="edge15_Node000010_Node000004" title=" " alt="" coords="233,536,184,537,181,532,237,533"/>
+<area shape="poly" id="edge17_Node000011_Node000004" title=" " alt="" coords="249,585,183,565,182,560,254,583"/>
+<area shape="poly" id="edge19_Node000012_Node000004" title=" " alt="" coords="239,653,228,649,171,609,126,568,125,563,174,605,231,644,244,651"/>
+<area shape="poly" id="edge21_Node000013_Node000004" title=" " alt="" coords="234,721,228,718,189,683,155,642,110,568,110,563,159,639,192,679,231,714,240,720"/>
+<area shape="poly" id="edge23_Node000014_Node000004" title=" " alt="" coords="232,789,228,787,203,762,181,734,145,673,118,614,104,568,104,563,123,613,149,671,185,731,207,758,231,783,237,789"/>
+<area shape="poly" id="edge25_Node000015_Node000004" title=" " alt="" coords="231,873,228,872,196,837,170,798,148,755,131,712,108,630,98,568,99,563,113,629,136,710,153,753,174,795,200,834,232,868,236,874"/>
+<area shape="poly" id="edge27_Node000016_Node000004" title=" " alt="" coords="230,942,228,941,191,898,162,848,139,796,122,742,101,641,96,568,96,563,106,641,127,741,144,794,167,846,196,895,232,938,235,943"/>
 </map>

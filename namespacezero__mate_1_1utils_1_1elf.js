@@ -1,9 +1,9 @@
 var namespacezero__mate_1_1utils_1_1elf =
 [
-    [ "TSource_Code", "structzero__mate_1_1utils_1_1elf_1_1TSource__Code.html", "structzero__mate_1_1utils_1_1elf_1_1TSource__Code" ],
-    [ "TStatus", "structzero__mate_1_1utils_1_1elf_1_1TStatus.html", "structzero__mate_1_1utils_1_1elf_1_1TStatus" ],
     [ "TText_Section_Record", "structzero__mate_1_1utils_1_1elf_1_1TText__Section__Record.html", "structzero__mate_1_1utils_1_1elf_1_1TText__Section__Record" ],
-    [ "Source_Codes_t", "namespacezero__mate_1_1utils_1_1elf.html#acfb339d8dd3c960598ed8dd03235f426", null ],
+    [ "TStatus", "structzero__mate_1_1utils_1_1elf_1_1TStatus.html", "structzero__mate_1_1utils_1_1elf_1_1TStatus" ],
+    [ "TSource_Code", "structzero__mate_1_1utils_1_1elf_1_1TSource__Code.html", "structzero__mate_1_1utils_1_1elf_1_1TSource__Code" ],
+    [ "Source_Codes_t", "namespacezero__mate_1_1utils_1_1elf.html#aee8305c299e2e19976d29908a7a2fcf8", null ],
     [ "NError_Code", "namespacezero__mate_1_1utils_1_1elf.html#a168db2218bf676ff9e0baa59f6fd6696", [
       [ "OK", "namespacezero__mate_1_1utils_1_1elf.html#a168db2218bf676ff9e0baa59f6fd6696ae0aa021e21dddbd6d8cecec71e9cf564", null ],
       [ "ELF_64_Not_Supported", "namespacezero__mate_1_1utils_1_1elf.html#a168db2218bf676ff9e0baa59f6fd6696a9b64051abf8575a988ee45fbecdd6bd1", null ],

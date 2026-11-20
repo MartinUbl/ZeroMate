@@ -1,5 +1,8 @@
 <map id="zero_mate::coprocessor::cp10::isa::CVMRS::Get_Rt_Idx" name="zero_mate::coprocessor::cp10::isa::CVMRS::Get_Rt_Idx">
-<area shape="rect" id="Node000001" title="Returns the index of an ARM destination register." alt="" coords="256,5,433,60"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CVMRS.html#a154515d0e58b411150376ac4a47c1116" title="Checks whether an FPU special register should be transferred to the ARM APSR register (flags)." alt="" coords="5,5,208,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="242,35,208,35,208,30,242,30"/>
+<area shape="rect" id="Node000001" title="Returns the index of an ARM destination register." alt="" coords="480,5,656,67"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#a86ffa2d30274ae4ebf55cf7e06447a8f" title="Executes a VMRS floating point instruction." alt="" coords="5,14,182,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="462,29,432,29,331,27,230,29,183,32,182,27,230,24,331,22,432,24,467,28"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CVMRS.html#a154515d0e58b411150376ac4a47c1116" title="Checks whether an FPU special register should be transferred to the ARM APSR register (flags)." alt="" coords="230,39,432,100"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="467,50,433,58,432,53,462,51"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="211,53,182,51,182,46,217,53"/>
 </map>

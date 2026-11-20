@@ -1,7 +1,11 @@
 <map id="zero_mate::arm1176jzf_s::CCPU_Core::Get_Second_Operand_Imm" name="zero_mate::arm1176jzf_s::CCPU_Core::Get_Second_Operand_Imm">
-<area shape="rect" id="Node000001" title="Calculates the second immediate operand of a given instruction." alt="" coords="489,5,692,60"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#abe7461d09a52f28f99037717f61975c6" title="Executes an MSR instruction (move data to CPSR/SPSR from an ARM register)." alt="" coords="229,13,441,53"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="475,35,442,35,442,30,475,30"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a3a90c040b3cbe4545a9acc5e35acdd45" title="Executes a PSR transfer instruction." alt="" coords="5,13,181,53"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="216,35,182,35,182,30,216,30"/>
+<area shape="rect" id="Node000001" title="Calculates the second immediate operand of a given instruction." alt="" coords="488,36,689,97"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#abe7461d09a52f28f99037717f61975c6" title="Executes an MSR instruction (move data to CPSR/SPSR from an ARM register)." alt="" coords="229,5,440,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="470,49,440,46,440,41,475,49"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#aa5b55276e454abfced2b5714b936e98d" title="Calculates the second operand of a data processing instruction." alt="" coords="234,74,435,136"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="475,84,436,92,435,87,470,84"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a3a90c040b3cbe4545a9acc5e35acdd45" title="Executes a PSR transfer instruction." alt="" coords="5,5,181,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="211,29,182,30,180,25,216,27"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a92c997ad914fb73cec7feb5fa26d8ead" title="Executes a data processing instruction." alt="" coords="5,83,181,127"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="215,105,181,108,181,102,221,105"/>
 </map>

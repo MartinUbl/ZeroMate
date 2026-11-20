@@ -1,5 +1,5 @@
 <map id="zero_mate::gui::CInterrupt_Controller_Window::Render_Pending_IRQ" name="zero_mate::gui::CInterrupt_Controller_Window::Render_Pending_IRQ">
-<area shape="rect" id="Node000001" title="Renders information about a pending interrupt." alt="" coords="259,5,464,60"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CInterrupt__Controller__Window.html#a9cd5d75a01cd945d4383c9291a8e392b" title="Renders interrupt controller registers (IGUI_Window interface)." alt="" coords="5,13,211,53"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="245,35,211,35,211,30,245,30"/>
+<area shape="rect" id="Node000001" title="Renders information about a pending interrupt." alt="" coords="258,5,462,67"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CInterrupt__Controller__Window.html#a9cd5d75a01cd945d4383c9291a8e392b" title="Renders interrupt controller registers (IGUI_Window interface)." alt="" coords="5,14,210,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="240,36,210,39,210,34,245,36"/>
 </map>

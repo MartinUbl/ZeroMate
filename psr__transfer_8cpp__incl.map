@@ -1,7 +1,7 @@
 <map id="src/core/arm1176jzf_s/isa/psr_transfer.cpp" name="src/core/arm1176jzf_s/isa/psr_transfer.cpp">
-<area shape="rect" id="Node000001" title="This file implements a PSR instruction (MRS, MSR) as defined in psr_transfer.hpp." alt="" coords="5,5,172,45"/>
-<area shape="rect" id="Node000002" href="$psr__transfer_8hpp.html" title="This file defines a PSR instruction (MRS, MSR)." alt="" coords="25,93,152,119"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="91,46,91,79,86,79,86,46"/>
-<area shape="rect" id="Node000003" href="$instruction_8hpp.html" title="This file defines the interface of a general ARM instruction." alt="" coords="29,167,148,192"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="91,119,91,153,86,153,86,119"/>
+<area shape="rect" id="Node000001" title="This file implements a PSR instruction (MRS, MSR) as defined in psr_transfer.hpp." alt="" coords="5,5,172,50"/>
+<area shape="rect" id="Node000002" href="$psr__transfer_8hpp.html" title="This file defines a PSR instruction (MRS, MSR)." alt="" coords="25,98,152,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="89,48,91,83,86,82,88,53"/>
+<area shape="rect" id="Node000003" href="$instruction_8hpp.html" title="This file defines the interface of a general ARM instruction." alt="" coords="29,174,148,201"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="90,124,91,159,86,157,87,128"/>
 </map>

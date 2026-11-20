@@ -1,5 +1,5 @@
 <map id="zero_mate::arm1176jzf_s::isa::CSRS::Should_SP_Be_Decremented" name="zero_mate::arm1176jzf_s::isa::CSRS::Should_SP_Be_Decremented">
-<area shape="rect" id="Node000001" title="Returns whether the Rn register should be decremented or not (helper function)." alt="" coords="5,5,179,60"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CSRS.html#a2ad7b290aa034ff43b14188c03872a8b" title="Returns the addressing mode used in the instruction." alt="" coords="227,13,485,53"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,30,213,30,213,35,179,35"/>
+<area shape="rect" id="Node000001" title="Returns whether the Rn register should be decremented or not (helper function)." alt="" coords="5,5,178,67"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CSRS.html#a2ad7b290aa034ff43b14188c03872a8b" title="Returns the addressing mode used in the instruction." alt="" coords="226,14,483,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,34,212,36,207,36,178,39"/>
 </map>

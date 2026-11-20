@@ -1,0 +1,8 @@
+<map id="zero_mate::arm1176jzf_s::isa::CBlock_Data_Transfer::Is_L_Bit_Set" name="zero_mate::arm1176jzf_s::isa::CBlock_Data_Transfer::Is_L_Bit_Set">
+<area shape="rect" id="Node000001" title="Returns the value of the L bit (bit 20)." alt="" coords="470,40,642,102"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a78980460ec7632099c51e96226a08f31" title="Determines the mode of the CPU that should be used in a block data transfer instruction." alt="" coords="229,5,422,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="452,56,422,53,423,48,457,56"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a524d4d2622a78e1c416bf4528700bc00" title="Executes a block data transfer instruction." alt="" coords="5,48,181,93"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="452,78,422,81,229,81,181,79,181,74,229,76,422,76,457,77"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="211,53,181,60,181,55,216,52"/>
+</map>

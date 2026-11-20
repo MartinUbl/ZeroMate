@@ -1,7 +1,5 @@
 <map id="zero_mate::gui::CLog_Window::Render_All_Log_Messages" name="zero_mate::gui::CLog_Window::Render_All_Log_Messages">
-<area shape="rect" id="Node000001" title="Renders all log messages (no filter activated)." alt="" coords="5,30,193,85"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CCircular__Log__Buffer.html#a6881d9292ac339ecee1a025426bb708b" title="Returns a collection of log messages currently stored in the buffer." alt="" coords="271,5,457,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,43,257,36,257,41,194,49"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1gui_1_1CLog__Window.html#acd4c871dccefcf04fb9b3bb8973086c0" title="Sets the color of a log message based on its type (error, info, etc.)" alt="" coords="241,69,487,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,66,228,70,227,75,193,71"/>
+<area shape="rect" id="Node000001" title="Renders all log messages (no filter activated)." alt="" coords="5,5,193,67"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CLog__Window.html#acd4c871dccefcf04fb9b3bb8973086c0" title="Sets the color of a log message based on its type (error, info, etc.)." alt="" coords="241,14,485,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,34,228,36,222,36,193,39"/>
 </map>

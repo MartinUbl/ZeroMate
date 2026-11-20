@@ -1,5 +1,5 @@
 <map id="zero_mate::gui::CCP10_Window::Render_FPSCR" name="zero_mate::gui::CCP10_Window::Render_FPSCR">
-<area shape="rect" id="Node000001" title="Renders the flags in the FPSCR register." alt="" coords="223,5,405,45"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CCP10__Window.html#a6d34cb82a44d4329c61c0e40028c6a54" title="Renders the window (IGUI_Window interface)." alt="" coords="5,5,175,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,28,175,28,175,23,209,23"/>
+<area shape="rect" id="Node000001" title="Renders the flags in the FPSCR register." alt="" coords="222,5,404,50"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CCP10__Window.html#a6d34cb82a44d4329c61c0e40028c6a54" title="Renders the window (IGUI_Window interface)." alt="" coords="5,5,174,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,28,174,30,174,25,209,27"/>
 </map>

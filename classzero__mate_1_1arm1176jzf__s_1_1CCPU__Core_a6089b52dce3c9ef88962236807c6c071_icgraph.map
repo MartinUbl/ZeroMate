@@ -1,0 +1,23 @@
+<map id="zero_mate::arm1176jzf_s::CCPU_Core::Read" name="zero_mate::arm1176jzf_s::CCPU_Core::Read">
+<area shape="rect" id="Node000001" title="Reads data from the bus." alt="" coords="739,152,912,197"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a524d4d2622a78e1c416bf4528700bc00" title="Executes a block data transfer instruction." alt="" coords="482,5,658,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="790,141,745,102,690,65,658,51,658,45,693,60,749,98,795,141"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a28607032a48bea557d81eec0460f4aa6" title="Executes an RFE instruction." alt="" coords="482,75,658,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="737,147,691,134,652,123,652,117,692,129,742,147"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#aa327755c4c57c01f03e16fb3d1195f6a" title="Fetches the next instruction." alt="" coords="484,144,656,205"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="721,175,657,177,656,172,726,174"/>
+<area shape="rect" id="Node000008" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a066aca0627655bc1e068b181fb0964bd" title="Performs a halfword data read from a given address." alt="" coords="458,229,682,290"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="745,201,665,231,664,226,740,203"/>
+<area shape="rect" id="Node000010" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a171b5de26cc7722b65ba23794c171bea" title="Reads/writes data to the bus." alt="" coords="449,315,691,359"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="799,208,752,259,724,284,693,305,668,317,666,312,690,300,720,279,749,255,794,210"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a1665360d8ae71ed541b4c10f39e655a5" title=" " alt="" coords="227,152,400,197"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="466,175,400,177,399,172,471,174"/>
+<area shape="rect" id="Node000006" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#ad07b9956fd3f7b6c64b93c69243092f4" title="Starts the execution." alt="" coords="5,117,178,162"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="209,160,179,156,178,151,214,157"/>
+<area shape="rect" id="Node000007" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a16544e9981489e1f4a25405248e5a5c0" title=" " alt="" coords="5,187,178,231"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="209,191,179,198,177,193,214,189"/>
+<area shape="rect" id="Node000009" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#ae5fc1112d78d8c344841fd94d1356635" title="Executes a halfword data transfer instruction." alt="" coords="226,237,401,282"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="440,260,402,262,401,257,446,259"/>
+<area shape="rect" id="Node000011" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#ab4697275a93c62613b13cdd77726f81c" title="Executes a single data transfer instruction." alt="" coords="226,315,401,359"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="431,337,402,340,402,334,436,337"/>
+</map>

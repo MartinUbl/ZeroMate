@@ -1,0 +1,11 @@
+<map id="zero_mate::coprocessor::cp10::CRegister::operator+" name="zero_mate::coprocessor::cp10::CRegister::operator+">
+<area shape="rect" id="Node000001" title="Overloaded + operator." alt="" coords="5,64,211,109"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CRegister.html#a26210f1bec263b0232b3f563f60a7db3" title="Creates an instance of the class." alt="" coords="498,29,700,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,76,483,57,481,62,211,82"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CRegister.html#a1e198241f00a01af3a1a9c36f8c9e207" title="Performs a given arithmetic operation and stores the result into this register." alt="" coords="259,89,450,150"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="211,98,246,104,241,105,211,103"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="553,27,551,19,559,10,575,5,599,3,626,5,643,14,638,14,624,10,599,8,576,10,562,15,556,21,557,30"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="450,90,499,79,504,78,451,96"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CRegister.html#a7b26cf75164000cb21ef6aea65da1ad8" title="Returns the register value as a desired data type." alt="" coords="511,98,687,160"/>
+<area shape="poly" id="edge5_Node000003_Node000004" title=" " alt="" coords="450,121,498,125,492,125,450,126"/>
+</map>

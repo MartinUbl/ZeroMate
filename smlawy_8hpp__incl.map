@@ -1,5 +1,5 @@
 <map id="src/core/arm1176jzf_s/isa/smlawy.hpp" name="src/core/arm1176jzf_s/isa/smlawy.hpp">
-<area shape="rect" id="Node000001" title="This file defines a SMLAWy instruction." alt="" coords="5,5,156,45"/>
-<area shape="rect" id="Node000002" href="$instruction_8hpp.html" title="This file defines the interface of a general ARM instruction." alt="" coords="21,93,140,119"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,46,83,79,78,79,78,46"/>
+<area shape="rect" id="Node000001" title="This file defines a SMLAWy instruction." alt="" coords="5,5,156,50"/>
+<area shape="rect" id="Node000002" href="$instruction_8hpp.html" title="This file defines the interface of a general ARM instruction." alt="" coords="21,98,140,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,48,83,83,78,82,79,52"/>
 </map>

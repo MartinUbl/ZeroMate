@@ -1,0 +1,15 @@
+<map id="zero_mate::coprocessor::ICoprocessor::ICoprocessor" name="zero_mate::coprocessor::ICoprocessor::ICoprocessor">
+<area shape="rect" id="Node000001" title="Creates an instance of the class." alt="" coords="259,179,464,223"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#af1883610af7bfda6783427ddd2e9b30b" title="Creates an instance of the class." alt="" coords="20,5,196,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="329,167,276,116,244,88,209,65,188,53,187,48,212,60,247,84,280,112,334,167"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CCP15.html#a66a5759016cdfbd2bdf4bb743a4bfec1" title="Creates an instance of the class." alt="" coords="20,75,196,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="298,173,210,134,180,123,179,117,212,129,303,171"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1coprocessor_1_1ICoprocessor.html#a986e5028e27e67dbf33124d222c63bfc" title="Deleted copy constructor (rule of five)." alt="" coords="5,144,211,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="241,186,212,183,211,178,246,184"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1coprocessor_1_1ICoprocessor.html#ae7b875b62fc669d82d9d13c420c3d42a" title="Deleted move constructor (rule of five)." alt="" coords="5,213,211,258"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="241,218,212,224,210,219,245,216"/>
+<area shape="rect" id="Node000006" href="$classzero__mate_1_1coprocessor_1_1ICoprocessor.html#ab92ef44849860946baaadef1b582c7d1" title="Deleted assignment operator (rule of five)." alt="" coords="14,283,202,327"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="298,232,212,273,181,284,178,280,210,268,303,229"/>
+<area shape="rect" id="Node000007" href="$classzero__mate_1_1coprocessor_1_1ICoprocessor.html#ad380a4c8e42186495f6413819fab93bc" title="Deleted assignment operator with an r&#45;value reference (rule of five)." alt="" coords="14,352,202,397"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="333,234,280,290,247,318,212,342,188,354,186,349,209,337,244,314,276,286,329,236"/>
+</map>

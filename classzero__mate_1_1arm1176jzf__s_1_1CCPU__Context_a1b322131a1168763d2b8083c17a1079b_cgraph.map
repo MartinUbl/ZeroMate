@@ -1,17 +1,7 @@
 <map id="zero_mate::arm1176jzf_s::CCPU_Context::Set_SPSR" name="zero_mate::arm1176jzf_s::CCPU_Context::Set_SPSR">
-<area shape="rect" id="Node000001" title="Sets the value of the SPSR register in the CPU mode passed in as a parameter." alt="" coords="5,109,212,149"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Context.html#a050dada520ca82a21874045815c596a8" title=" " alt="" coords="260,102,443,157"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,127,246,127,246,132,212,132"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1utils_1_1CLogging__System.html#a57ed77e1a5cf822cea532cc5e05c3f60" title="Logs an error message via all registered loggers." alt="" coords="491,73,685,113"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="442,113,477,108,477,113,443,118"/>
-<area shape="rect" id="Node000008" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Context.html#a6fc387fa0b0dd040c4e2463606d933e4" title="Checks if the CPU mode passed in as a parameter supports the SPSR register or not." alt="" coords="501,138,675,193"/>
-<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="443,141,488,147,487,153,442,146"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1utils_1_1CLogging__System.html#a71ed11c796553cbe8fd99773406a1060" title="Creates a formatted message to be logged." alt="" coords="733,30,936,85"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="685,77,719,71,720,77,686,82"/>
-<area shape="rect" id="Node000007" href="$classzero__mate_1_1utils_1_1CLogging__System.html#ad371c67ef65763966ccf9291002e86f3" title="Extract the filename from a given location within the source files." alt="" coords="735,109,934,149"/>
-<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="686,105,723,110,722,116,685,110"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1utils_1_1CLogging__System.html#aa70c102c805079042ffea2a6f2a5ad64" title="Formats a given timestamp." alt="" coords="984,5,1197,45"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="936,42,970,38,971,43,936,47"/>
-<area shape="rect" id="Node000006" href="$classzero__mate_1_1utils_1_1CLogging__System.html#ae3ca637537dde05e0b9119145c840331" title="Returns the current timestamp that will be used in a log message." alt="" coords="993,69,1188,109"/>
-<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="936,67,980,73,980,78,936,73"/>
+<area shape="rect" id="Node000001" title="Sets the value of the SPSR register in the CPU mode passed in as a parameter." alt="" coords="5,14,212,58"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Context.html#a050dada520ca82a21874045815c596a8" title=" " alt="" coords="260,5,442,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,34,247,36,241,36,212,39"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Context.html#a6fc387fa0b0dd040c4e2463606d933e4" title="Checks if the CPU mode passed in as a parameter supports the SPSR register or not." alt="" coords="490,5,662,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="442,34,477,36,472,36,442,39"/>
 </map>

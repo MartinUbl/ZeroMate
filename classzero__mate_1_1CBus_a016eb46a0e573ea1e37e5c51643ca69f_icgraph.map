@@ -1,6 +1,10 @@
 <map id="zero_mate::CBus::Get_Peripheral" name="zero_mate::CBus::Get_Peripheral">
-<area shape="rect" id="Node000001" title="Returns the corresponding peripheral based on the given address." alt="" coords="236,29,399,69"/>
-<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="354,18,341,11,317,8,296,10,284,15,279,21,281,28,276,30,274,20,280,10,295,5,317,3,343,6,357,13"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1CBus.html#a73e2222c5c3a5474f46a9011a50c1c7f" title="Attaches a peripheral to the bus." alt="" coords="5,29,188,69"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,52,188,52,188,47,222,47"/>
+<area shape="rect" id="Node000001" title="Returns the corresponding peripheral based on the given address." alt="" coords="235,65,397,110"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="350,50,338,46,316,44,295,46,283,51,278,57,279,66,274,63,272,55,280,46,294,41,316,39,340,41,355,50"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1CBus.html#a73e2222c5c3a5474f46a9011a50c1c7f" title="Attaches a peripheral to the bus." alt="" coords="5,5,187,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,62,181,53,180,48,222,61"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1CBus.html#a1bcd53677c24f62d7cce5e95636e776a" title="Reads data from the given address in the address space." alt="" coords="10,74,182,102"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="216,88,183,90,182,85,222,87"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1CBus.html#aa526b7afc98f66dbb672fe8d4f3ae88a" title="Writes data to the given address in the address space." alt="" coords="9,126,183,154"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="222,110,158,128,157,123,217,111"/>
 </map>

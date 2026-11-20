@@ -1,13 +1,13 @@
 <map id="src/core/peripherals/trng.hpp" name="src/core/peripherals/trng.hpp">
-<area shape="rect" id="Node000001" title="This file defines the TRNG (random number generator) used in BCM2835." alt="" coords="87,5,237,45"/>
-<area shape="rect" id="Node000002" href="$trng_8cpp.html" title="This file implements the TRNG (random number generator) used in BCM2835." alt="" coords="5,93,156,133"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,57,101,95,97,91,133,54"/>
-<area shape="rect" id="Node000003" href="$soc_8hpp.html" title=" " alt="" coords="180,101,307,126"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="192,54,234,98,230,102,188,57"/>
-<area shape="rect" id="Node000004" href="$soc_8cpp.html" title=" " alt="" coords="35,181,161,207"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="211,135,121,183,118,179,209,130"/>
-<area shape="rect" id="Node000005" href="$gui_8cpp.html" title="This file implements the main GUI entry function that takes care of creating and rendering all window..." alt="" coords="185,181,301,207"/>
-<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="246,140,246,181,241,181,241,140"/>
-<area shape="rect" id="Node000006" href="$main_8cpp.html" title="This file defines and implements the main function of the application." alt="" coords="325,181,431,207"/>
-<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="276,131,359,179,357,183,274,135"/>
+<area shape="rect" id="Node000001" title="This file defines the TRNG (random number generator) used in BCM2835." alt="" coords="85,5,235,50"/>
+<area shape="rect" id="Node000002" href="$trng_8cpp.html" title="This file implements the TRNG (random number generator) used in BCM2835." alt="" coords="5,98,155,143"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,64,101,100,97,96,133,60"/>
+<area shape="rect" id="Node000003" href="$soc_8hpp.html" title=" " alt="" coords="178,106,304,134"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="190,59,232,106,227,106,189,64"/>
+<area shape="rect" id="Node000004" href="$soc_8cpp.html" title=" " alt="" coords="35,191,160,218"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="208,142,122,192,119,188,202,142"/>
+<area shape="rect" id="Node000005" href="$gui_8cpp.html" title="This file implements the main GUI entry function that takes care of creating and rendering all window..." alt="" coords="184,191,299,218"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="243,148,244,192,239,189,239,152"/>
+<area shape="rect" id="Node000006" href="$main_8cpp.html" title="This file defines and implements the main function of the application." alt="" coords="322,191,427,218"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="277,140,356,190,351,190,275,145"/>
 </map>

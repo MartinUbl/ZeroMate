@@ -1,24 +1,9 @@
 <map id="zero_mate::gui::CTop_Bar_Menu::Reload_Kernel" name="zero_mate::gui::CTop_Bar_Menu::Reload_Kernel">
-<area shape="rect" id="Node000001" title="Reloads the kernel." alt="" coords="5,77,200,117"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1utils_1_1CLogging__System.html#a57ed77e1a5cf822cea532cc5e05c3f60" title="Logs an error message via all registered loggers." alt="" coords="489,41,684,81"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,87,475,67,476,72,200,93"/>
-<area shape="rect" id="Node000007" href="$classzero__mate_1_1gui_1_1CTop__Bar__Menu.html#af8e80293dff0c20be7ea071d50dec62c" title="Loads a single ELF file." alt="" coords="248,105,441,145"/>
-<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="201,106,235,110,234,115,200,111"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1utils_1_1CLogging__System.html#a71ed11c796553cbe8fd99773406a1060" title="Creates a formatted message to be logged." alt="" coords="732,30,935,85"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="684,57,718,57,719,62,684,62"/>
-<area shape="rect" id="Node000006" href="$classzero__mate_1_1utils_1_1CLogging__System.html#ad371c67ef65763966ccf9291002e86f3" title="Extract the filename from a given location within the source files." alt="" coords="734,109,933,149"/>
-<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="661,79,748,103,747,108,659,84"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1utils_1_1CLogging__System.html#aa70c102c805079042ffea2a6f2a5ad64" title="Formats a given timestamp." alt="" coords="983,5,1196,45"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="934,42,969,38,969,43,935,47"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1utils_1_1CLogging__System.html#ae3ca637537dde05e0b9119145c840331" title="Returns the current timestamp that will be used in a log message." alt="" coords="992,69,1187,109"/>
-<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="935,67,979,73,978,78,934,73"/>
-<area shape="poly" id="edge7_Node000007_Node000002" title=" " alt="" coords="420,103,497,82,498,87,422,108"/>
-<area shape="rect" id="Node000008" href="$classzero__mate_1_1gui_1_1CTop__Bar__Menu.html#a9374e039e857fa2f4d1e65f7edcd707f" title="Returns a filename of a given filepath." alt="" coords="491,169,683,209"/>
-<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="422,143,498,163,497,168,420,148"/>
-<area shape="rect" id="Node000009" href="$classzero__mate_1_1utils_1_1CLogging__System.html#a455d99c3614dc92ffbdbdcdb6b8b8bb8" title="Logs an info message via all registered loggers." alt="" coords="489,105,684,145"/>
-<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="442,123,475,123,475,128,442,128"/>
-<area shape="rect" id="Node000010" href="$namespacezero__mate_1_1utils_1_1elf.html#a9f6c82c3b8cd3f725d004c7b9022d69a" title="Loads a given ELF file (kernel) into the memory." alt="" coords="511,233,663,273"/>
-<area shape="poly" id="edge12_Node000007_Node000010" title=" " alt="" coords="373,143,426,181,491,219,506,226,504,231,488,224,423,186,370,148"/>
-<area shape="poly" id="edge10_Node000009_Node000003" title=" " alt="" coords="659,103,719,86,721,91,661,108"/>
-<area shape="poly" id="edge11_Node000009_Node000006" title=" " alt="" coords="684,124,720,125,720,130,684,130"/>
+<area shape="rect" id="Node000001" title="Reloads the kernel." alt="" coords="5,40,200,85"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CTop__Bar__Menu.html#af8e80293dff0c20be7ea071d50dec62c" title="Loads a single ELF file." alt="" coords="248,40,440,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,60,235,62,230,63,201,65"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1gui_1_1CTop__Bar__Menu.html#a9374e039e857fa2f4d1e65f7edcd707f" title="Returns a filename of a given filepath." alt="" coords="488,5,679,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="440,46,475,43,470,44,441,51"/>
+<area shape="rect" id="Node000004" href="$namespacezero__mate_1_1utils_1_1elf.html#a9f6c82c3b8cd3f725d004c7b9022d69a" title="Loads a given ELF file (kernel) into the memory." alt="" coords="508,75,659,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="441,74,495,84,490,84,440,79"/>
 </map>

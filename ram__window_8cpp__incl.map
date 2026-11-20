@@ -1,16 +1,16 @@
 <map id="src/gui/windows/peripherals/ram_window.cpp" name="src/gui/windows/peripherals/ram_window.cpp">
-<area shape="rect" id="Node000001" title="This file implements a window that visualizes the contents of the RAM." alt="" coords="102,5,305,45"/>
-<area shape="rect" id="Node000002" href="$ram__window_8hpp.html" title="This file defines a window that visualizes the contents of the RAM." alt="" coords="138,93,270,119"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,46,206,79,201,79,201,46"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="84,255,196,280"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="138,112,105,117,71,128,40,144,15,168,8,186,15,205,40,231,72,248,70,252,37,235,11,208,3,186,11,165,37,140,69,123,103,112,137,106"/>
-<area shape="rect" id="Node000004" title=" " alt="" coords="25,167,206,207"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="192,121,149,160,145,156,189,117"/>
-<area shape="rect" id="Node000005" href="$window_8hpp.html" title="This file defines an interface for all windows that will be rendered by the application." alt="" coords="230,174,353,199"/>
-<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="218,117,270,163,267,167,215,121"/>
-<area shape="rect" id="Node000006" href="$ram_8hpp.html" title="This file defines the RAM (random access memory) used in BCM2835." alt="" coords="377,167,540,207"/>
-<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="241,116,385,160,383,165,240,121"/>
-<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="270,202,175,251,173,246,268,197"/>
-<area shape="rect" id="Node000007" href="$peripheral_8hpp.html" title="This file defines an interface for a memory&#45;mapped peripheral." alt="" coords="400,255,516,280"/>
-<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="461,207,461,241,456,241,456,207"/>
+<area shape="rect" id="Node000001" title="This file implements a window that visualizes the contents of the RAM." alt="" coords="103,5,306,50"/>
+<area shape="rect" id="Node000002" href="$ram__window_8hpp.html" title="This file defines a window that visualizes the contents of the RAM." alt="" coords="139,98,270,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,48,207,83,202,82,203,53"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="85,266,196,294"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="136,117,105,124,72,134,41,151,16,175,8,196,16,217,40,242,72,260,68,263,37,246,12,220,3,196,12,172,38,147,70,129,104,119,140,114"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="26,174,207,218"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="192,124,153,165,149,161,188,128"/>
+<area shape="rect" id="Node000005" href="$window_8hpp.html" title="This file defines an interface for all windows that will be rendered by the application." alt="" coords="231,182,354,210"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="219,124,270,171,265,172,218,129"/>
+<area shape="rect" id="Node000006" href="$ram_8hpp.html" title="This file defines the RAM (random access memory) used in BCM2835." alt="" coords="378,174,540,218"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="246,124,379,167,375,169,245,129"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="271,210,179,261,177,256,265,211"/>
+<area shape="rect" id="Node000007" href="$peripheral_8hpp.html" title="This file defines an interface for a memory&#45;mapped peripheral." alt="" coords="402,266,517,294"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="461,217,461,252,457,249,457,221"/>
 </map>

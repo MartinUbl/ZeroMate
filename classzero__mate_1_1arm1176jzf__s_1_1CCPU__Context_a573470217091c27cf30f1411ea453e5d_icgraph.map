@@ -1,25 +1,9 @@
 <map id="zero_mate::arm1176jzf_s::CCPU_Context::Is_In_Privileged_Mode" name="zero_mate::arm1176jzf_s::CCPU_Context::Is_In_Privileged_Mode">
-<area shape="rect" id="Node000001" title="Checks if the CPU is in a privileged mode." alt="" coords="864,198,1037,253"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a0dbd5d6ffc531f762b49956d27f93be3" title="Checks whether a given coprocessor can be accessed from the current CPU mode." alt="" coords="612,62,816,117"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="904,191,861,161,815,132,789,119,792,114,817,127,864,156,907,187"/>
-<area shape="rect" id="Node000007" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#acd8902811a86afabf464f121d58628ee" title="Executes a CPS instruction." alt="" coords="626,141,802,181"/>
-<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="849,201,788,184,790,179,851,196"/>
-<area shape="rect" id="Node000008" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a28607032a48bea557d81eec0460f4aa6" title="Executes an RFE instruction." alt="" coords="626,205,802,245"/>
-<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="850,228,802,228,802,223,850,223"/>
-<area shape="rect" id="Node000009" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#aa96f69190ff05fe80c310e85b4d1002c" title="Executes an SRS instruction." alt="" coords="626,269,802,309"/>
-<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="851,255,790,272,788,267,849,250"/>
-<area shape="rect" id="Node000010" href="$classzero__mate_1_1arm1176jzf__s_1_1mmu_1_1CMMU.html#a0e32ece3d5ac208c69fa5573fcea3205" title="Verifies access privileges when accessing a page (virtual address)." alt="" coords="627,334,801,389"/>
-<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="907,264,864,294,817,324,792,336,789,331,815,319,861,290,904,259"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a9d662bbaf486e8924698ecf2208d0d73" title="Performs coprocessor accessibility checks." alt="" coords="312,62,564,117"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="598,92,564,92,564,87,598,87"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a13f003234822a261f628d8339fbff25c" title="Executes a coprocessor data operation instruction (coprocessor instruction (3))." alt="" coords="47,5,223,45"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="298,63,222,46,224,41,299,57"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a8fb15d5c9802a6971560ff8ef2a0f9dc" title="Executes a coprocessor data transfer instruction (coprocessor instruction (2))." alt="" coords="47,69,223,109"/>
-<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="298,92,223,92,223,87,298,87"/>
-<area shape="rect" id="Node000006" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#ae54c96b9b4395337b22c4ce3686d7862" title="Executes a coprocessor register transfer instruction (coprocessor instruction (1))." alt="" coords="47,133,223,173"/>
-<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="299,121,224,137,222,132,298,116"/>
-<area shape="rect" id="Node000011" href="$classzero__mate_1_1arm1176jzf__s_1_1mmu_1_1CMMU.html#ab1413e798b9ac2d3bcdf521e7dfe7bdf" title="Verifies page access (calls a chain of functions that validate the access)." alt="" coords="351,334,525,389"/>
-<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="613,364,525,364,525,359,613,359"/>
-<area shape="rect" id="Node000012" href="$classzero__mate_1_1arm1176jzf__s_1_1mmu_1_1CMMU.html#a7bc1002a8f1032547deee07589cbbb84" title="Converts a given virtual address into a physical address." alt="" coords="5,341,264,381"/>
-<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="337,364,264,364,264,359,337,359"/>
+<area shape="rect" id="Node000001" title="Checks if the CPU is in a privileged mode." alt="" coords="753,5,926,67"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1mmu_1_1CMMU.html#a0e32ece3d5ac208c69fa5573fcea3205" title="Verifies access privileges when accessing a page (virtual address)." alt="" coords="532,5,705,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="735,36,706,39,706,34,741,36"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1mmu_1_1CMMU.html#ab1413e798b9ac2d3bcdf521e7dfe7bdf" title="Verifies page access (calls a chain of functions that validate the access)." alt="" coords="311,5,484,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="514,36,485,39,484,34,519,36"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1arm1176jzf__s_1_1mmu_1_1CMMU.html#a7bc1002a8f1032547deee07589cbbb84" title="Converts a given virtual address into a physical address." alt="" coords="5,14,263,58"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="292,36,263,39,263,34,298,36"/>
 </map>

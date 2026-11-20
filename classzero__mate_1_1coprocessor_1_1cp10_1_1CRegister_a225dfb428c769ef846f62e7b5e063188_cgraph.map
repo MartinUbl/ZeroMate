@@ -1,0 +1,8 @@
+<map id="zero_mate::coprocessor::cp10::CRegister::Get_ABS" name="zero_mate::coprocessor::cp10::CRegister::Get_ABS">
+<area shape="rect" id="Node000001" title="Returns the absolute value of the register value." alt="" coords="5,68,201,113"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CRegister.html#a26210f1bec263b0232b3f563f60a7db3" title="Creates an instance of the class." alt="" coords="249,29,451,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,72,236,69,231,71,202,78"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CRegister.html#a7b26cf75164000cb21ef6aea65da1ad8" title="Returns the register value as a desired data type." alt="" coords="262,98,438,160"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="201,103,249,113,244,113,201,108"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="303,28,301,19,309,10,326,5,350,3,376,5,394,14,389,14,375,10,350,8,327,10,312,15,307,21,308,30"/>
+</map>

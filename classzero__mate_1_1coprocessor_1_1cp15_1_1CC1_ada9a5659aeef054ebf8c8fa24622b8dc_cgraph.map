@@ -1,7 +1,7 @@
 <map id="zero_mate::coprocessor::cp15::CC1::CC1" name="zero_mate::coprocessor::cp15::CC1::CC1">
-<area shape="rect" id="Node000001" title="Creates an instance of the class." alt="" coords="5,37,183,77"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CC1.html#abd6005a7102398c012f1f7cadf1ff7d7" title="Initializes secondary register C0." alt="" coords="231,5,417,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="183,42,217,38,218,43,184,48"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CC1.html#a4d1ec76aeccc474aaf3ee6d8fbcdd8aa" title="Initializes secondary register C1." alt="" coords="231,69,417,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="184,67,218,72,217,77,183,72"/>
+<area shape="rect" id="Node000001" title="Creates an instance of the class." alt="" coords="5,40,182,85"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CC1.html#abd6005a7102398c012f1f7cadf1ff7d7" title="Initializes secondary register C0." alt="" coords="230,5,415,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,46,217,43,212,45,183,52"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CC1.html#a4d1ec76aeccc474aaf3ee6d8fbcdd8aa" title="Initializes secondary register C1." alt="" coords="230,75,415,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="182,73,217,80,212,81,182,78"/>
 </map>

@@ -1,5 +1,5 @@
 <map id="zero_mate::utils::math::ROR" name="zero_mate::utils::math::ROR">
-<area shape="rect" id="Node000001" title="Performs an ROR (rotate right extended) operation on the given integral value." alt="" coords="5,13,211,38"/>
-<area shape="rect" id="Node000002" href="$namespacezero__mate_1_1utils_1_1math.html#af7d93c996dab2ff1b91c5a399dcfe29f" title="Tests whether a bit is set in the given integral variable." alt="" coords="259,5,428,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,23,245,23,245,28,211,28"/>
+<area shape="rect" id="Node000001" title="Performs an ROR (rotate right extended) operation on the given integral value." alt="" coords="5,14,210,42"/>
+<area shape="rect" id="Node000002" href="$namespacezero__mate_1_1utils_1_1math.html#af7d93c996dab2ff1b91c5a399dcfe29f" title="Tests whether a bit is set in the given integral variable." alt="" coords="258,5,426,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,25,245,27,239,28,210,30"/>
 </map>

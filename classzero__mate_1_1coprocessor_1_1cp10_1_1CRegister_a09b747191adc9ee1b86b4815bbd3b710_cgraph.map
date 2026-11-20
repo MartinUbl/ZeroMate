@@ -1,0 +1,8 @@
+<map id="zero_mate::coprocessor::cp10::CRegister::Get_SQRT" name="zero_mate::coprocessor::cp10::CRegister::Get_SQRT">
+<area shape="rect" id="Node000001" title="Returns the square root value of the register value." alt="" coords="5,68,209,113"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CRegister.html#a26210f1bec263b0232b3f563f60a7db3" title="Creates an instance of the class." alt="" coords="257,29,459,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,72,244,69,239,70,210,77"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CRegister.html#a7b26cf75164000cb21ef6aea65da1ad8" title="Returns the register value as a desired data type." alt="" coords="270,98,446,160"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="209,103,257,113,252,113,209,109"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="310,28,309,19,317,10,333,5,358,3,385,5,403,14,397,14,384,10,358,8,334,10,320,15,314,21,315,30"/>
+</map>

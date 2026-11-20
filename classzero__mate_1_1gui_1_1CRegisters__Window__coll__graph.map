@@ -1,7 +1,7 @@
 <map id="zero_mate::gui::CRegisters_Window" name="zero_mate::gui::CRegisters_Window">
-<area shape="rect" id="Node000001" title="This class represents the window that displays the contents of all CPU registers." alt="" coords="389,37,587,77"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1IGUI__Window.html" title="Common interface for all GUI windows." alt="" coords="49,5,204,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,31,389,46,389,51,217,36"/>
-<area shape="rect" id="Node000003" href="$structzero__mate_1_1gui_1_1CRegisters__Window_1_1TCPU__Mode__Tab__States.html" title="Structure containing information about what tab (CPU mode) is currently selected." alt="" coords="5,69,248,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="262,75,389,63,389,69,262,80"/>
+<area shape="rect" id="Node000001" title="This class represents the window that displays the contents of all CPU registers." alt="" coords="391,40,587,85"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1IGUI__Window.html" title="Common interface for all GUI windows." alt="" coords="49,5,203,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="219,34,393,52,388,54,219,39"/>
+<area shape="rect" id="Node000003" href="$structzero__mate_1_1gui_1_1CRegisters__Window_1_1TCPU__Mode__Tab__States.html" title="Structure containing information about what tab (CPU mode) is currently selected." alt="" coords="5,75,247,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="262,87,366,78,388,78,393,77,367,83,262,92"/>
 </map>

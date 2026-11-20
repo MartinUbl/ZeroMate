@@ -1,11 +1,11 @@
 <map id="zero_mate::arm1176jzf_s::CCPU_Core::Checks_Coprocessor_Access_Mode" name="zero_mate::arm1176jzf_s::CCPU_Core::Checks_Coprocessor_Access_Mode">
-<area shape="rect" id="Node000001" title="Checks whether a given coprocessor can be accessed from the current CPU mode." alt="" coords="529,62,733,117"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a9d662bbaf486e8924698ecf2208d0d73" title="Performs coprocessor accessibility checks." alt="" coords="229,62,481,117"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="515,92,481,92,481,87,515,87"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a13f003234822a261f628d8339fbff25c" title="Executes a coprocessor data operation instruction (coprocessor instruction (3))." alt="" coords="5,5,181,45"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="229,61,175,48,176,43,230,56"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a8fb15d5c9802a6971560ff8ef2a0f9dc" title="Executes a coprocessor data transfer instruction (coprocessor instruction (2))." alt="" coords="5,69,181,109"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="216,92,182,92,182,87,216,87"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#ae54c96b9b4395337b22c4ce3686d7862" title="Executes a coprocessor register transfer instruction (coprocessor instruction (1))." alt="" coords="5,133,181,173"/>
-<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="230,123,176,136,175,131,229,117"/>
+<area shape="rect" id="Node000001" title="Checks whether a given coprocessor can be accessed from the current CPU mode." alt="" coords="528,66,731,128"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a9d662bbaf486e8924698ecf2208d0d73" title="Performs coprocessor accessibility checks." alt="" coords="229,66,480,128"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="510,97,481,100,480,94,515,97"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a13f003234822a261f628d8339fbff25c" title="Executes a coprocessor data operation instruction (coprocessor instruction (3))." alt="" coords="5,5,181,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="219,62,180,53,180,48,224,61"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a8fb15d5c9802a6971560ff8ef2a0f9dc" title="Executes a coprocessor data transfer instruction (coprocessor instruction (2))." alt="" coords="5,75,181,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="210,98,182,100,181,94,216,96"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#ae54c96b9b4395337b22c4ce3686d7862" title="Executes a coprocessor register transfer instruction (coprocessor instruction (1))." alt="" coords="5,144,181,189"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="224,132,180,146,179,141,219,133"/>
 </map>

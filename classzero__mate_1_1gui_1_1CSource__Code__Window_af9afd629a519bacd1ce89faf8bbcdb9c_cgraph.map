@@ -1,19 +1,19 @@
 <map id="zero_mate::gui::CSource_Code_Window::Render_Code_Block" name="zero_mate::gui::CSource_Code_Window::Render_Code_Block">
-<area shape="rect" id="Node000001" title="Renders a block of code (a single function/method)." alt="" coords="5,149,263,189"/>
-<area shape="rect" id="Node000002" href="$namespacezero__mate_1_1gui_1_1color.html#a60970f5b5a08721617863b63cc7cc292" title="Assigns a string its corresponding color based on its hash value." alt="" coords="349,5,543,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,147,225,101,267,76,310,55,334,46,336,51,312,60,269,81,228,105,163,151"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#a8ab01667cca3406c621027962c2d22bd" title="Extracts the class name from a given label (function name)." alt="" coords="356,70,536,125"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="221,147,342,118,343,124,222,152"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#ad8c35af3bc3c8881eeca1de82afc6b35" title="Renders a table that containing disassembled instructions." alt="" coords="319,149,573,189"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="263,167,305,167,305,172,263,172"/>
-<area shape="rect" id="Node000008" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#ad485f4213e9fff6ac5327683e2e6abc7" title="Checks if the block of code which is currently being rendered should be highlighted or not." alt="" coords="340,214,552,269"/>
-<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="222,187,327,211,326,216,221,192"/>
-<area shape="rect" id="Node000009" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#a0fa8c26175b9585a867f343c1148d258" title="Skips a block of code (function) which is collapsed and therefore not visible to the user." alt="" coords="311,293,581,333"/>
-<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="163,188,228,234,269,258,312,279,332,287,330,292,310,284,267,263,225,238,160,192"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#a92af51ccb5ebca752cddaac27c38f1f8" title="Renders the body of a source code table." alt="" coords="629,113,884,153"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="573,152,615,147,616,152,574,157"/>
-<area shape="rect" id="Node000007" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#aa46c591d1c9bb994ccee55d371919e37" title="Renders table headings (breakpoint, address, opcode, disassembly)" alt="" coords="649,178,864,233"/>
-<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="574,181,636,189,635,194,573,187"/>
-<area shape="rect" id="Node000006" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#a854994af8a4bb90df17e2e24c8d7a3a5" title="Renders a single breakpoint." alt="" coords="932,113,1184,153"/>
-<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="884,131,918,131,918,136,884,136"/>
+<area shape="rect" id="Node000001" title="Renders a block of code (a single function/method)." alt="" coords="5,160,262,205"/>
+<area shape="rect" id="Node000002" href="$namespacezero__mate_1_1gui_1_1color.html#a60970f5b5a08721617863b63cc7cc292" title="Assigns a string its corresponding color based on its hash value." alt="" coords="348,5,541,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,158,225,108,266,82,309,60,335,52,331,55,311,65,268,87,228,113,163,162"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#a8ab01667cca3406c621027962c2d22bd" title="Extracts the class name from a given label (function name)." alt="" coords="355,74,534,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="225,157,342,129,337,133,227,162"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#ad8c35af3bc3c8881eeca1de82afc6b35" title="Renders a table that containing disassembled instructions." alt="" coords="317,160,572,205"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="261,180,304,181,299,183,263,185"/>
+<area shape="rect" id="Node000008" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#ad485f4213e9fff6ac5327683e2e6abc7" title="Checks if the block of code which is currently being rendered should be highlighted or not." alt="" coords="339,229,550,290"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="226,203,326,229,321,231,226,208"/>
+<area shape="rect" id="Node000009" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#a0fa8c26175b9585a867f343c1148d258" title="Skips a block of code (function) which is collapsed and therefore not visible to the user." alt="" coords="310,315,579,359"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="162,202,228,252,268,278,311,300,328,309,323,309,309,305,266,282,225,256,161,208"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#a92af51ccb5ebca752cddaac27c38f1f8" title="Renders the body of a source code table." alt="" coords="627,121,881,166"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="571,164,614,161,609,162,573,169"/>
+<area shape="rect" id="Node000007" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#aa46c591d1c9bb994ccee55d371919e37" title="Renders table headings (breakpoint, address, opcode, disassembly)." alt="" coords="647,190,861,252"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="572,196,634,205,629,206,572,201"/>
+<area shape="rect" id="Node000006" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#a854994af8a4bb90df17e2e24c8d7a3a5" title="Renders a single breakpoint." alt="" coords="929,121,1181,166"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="882,141,917,143,911,144,882,146"/>
 </map>

@@ -1,5 +1,5 @@
 <map id="zero_mate::gui::CTop_Bar_Menu::Render_File_Browser" name="zero_mate::gui::CTop_Bar_Menu::Render_File_Browser">
-<area shape="rect" id="Node000001" title="Renders the file browser." alt="" coords="212,5,391,60"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CTop__Bar__Menu.html#ad8f10caa7780d6c4e9fb20c4ab702a60" title="Renders the bar (IGUI_Window interface)." alt="" coords="5,13,164,53"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,35,164,35,164,30,198,30"/>
+<area shape="rect" id="Node000001" title="Renders the file browser." alt="" coords="211,5,388,67"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CTop__Bar__Menu.html#ad8f10caa7780d6c4e9fb20c4ab702a60" title="Renders the bar (IGUI_Window interface)." alt="" coords="5,14,163,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,36,163,39,163,34,198,36"/>
 </map>

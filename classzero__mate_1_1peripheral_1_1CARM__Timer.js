@@ -1,7 +1,7 @@
 var classzero__mate_1_1peripheral_1_1CARM__Timer =
 [
-    [ "CPrescaler", "classzero__mate_1_1peripheral_1_1CARM__Timer_1_1CPrescaler.html", "classzero__mate_1_1peripheral_1_1CARM__Timer_1_1CPrescaler" ],
     [ "TControl_Register", "structzero__mate_1_1peripheral_1_1CARM__Timer_1_1TControl__Register.html", "structzero__mate_1_1peripheral_1_1CARM__Timer_1_1TControl__Register" ],
+    [ "CPrescaler", "classzero__mate_1_1peripheral_1_1CARM__Timer_1_1CPrescaler.html", "classzero__mate_1_1peripheral_1_1CARM__Timer_1_1CPrescaler" ],
     [ "NPrescal_Bits", "classzero__mate_1_1peripheral_1_1CARM__Timer.html#ab9946eafcbd53c7569e55cdc4eb6c7b0", [
       [ "Prescale_None", "classzero__mate_1_1peripheral_1_1CARM__Timer.html#ab9946eafcbd53c7569e55cdc4eb6c7b0aa7e6f5a72ec02d46b9f3db25b68ee84e", null ],
       [ "Prescale_16", "classzero__mate_1_1peripheral_1_1CARM__Timer.html#ab9946eafcbd53c7569e55cdc4eb6c7b0aecc4ac5778a61c5d5031246a760da9ee", null ],

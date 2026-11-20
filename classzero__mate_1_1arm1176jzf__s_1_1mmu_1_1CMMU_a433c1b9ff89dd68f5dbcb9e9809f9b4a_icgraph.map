@@ -1,5 +1,5 @@
 <map id="zero_mate::arm1176jzf_s::mmu::CMMU::Flush_TLB_If_Needed" name="zero_mate::arm1176jzf_s::mmu::CMMU::Flush_TLB_If_Needed">
-<area shape="rect" id="Node000001" title="Checks if the TLB entries should be invalidated and if so, it clears the cache." alt="" coords="312,5,485,60"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1mmu_1_1CMMU.html#a7bc1002a8f1032547deee07589cbbb84" title="Converts a given virtual address into a physical address." alt="" coords="5,13,264,53"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="298,35,264,35,264,30,298,30"/>
+<area shape="rect" id="Node000001" title="Checks if the TLB entries should be invalidated and if so, it clears the cache." alt="" coords="311,5,483,67"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1mmu_1_1CMMU.html#a7bc1002a8f1032547deee07589cbbb84" title="Converts a given virtual address into a physical address." alt="" coords="5,14,263,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="293,36,263,39,263,34,298,36"/>
 </map>

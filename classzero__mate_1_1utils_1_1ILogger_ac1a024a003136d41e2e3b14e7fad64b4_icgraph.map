@@ -1,0 +1,13 @@
+<map id="zero_mate::utils::ILogger::Debug" name="zero_mate::utils::ILogger::Debug">
+<area shape="rect" id="Node000001" title="Logs a debug message." alt="" coords="466,109,648,154"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1utils_1_1ILogger.html#ab1600e9fcd678b302265502ed411caa2" title="Creates an instance of the class." alt="" coords="236,109,418,154"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="448,132,419,134,418,129,453,131"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1utils_1_1ILogger.html#a528dafddc8c369579e5e34cdf22d4483" title="Deleted copy constructor (rule of five)." alt="" coords="5,5,188,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="267,103,187,65,160,53,159,48,189,60,272,101"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1utils_1_1ILogger.html#a0050a3ff997362aa729cbf5a6f4c8c8c" title="Deleted move constructor (rule of five)." alt="" coords="5,75,188,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="218,117,189,113,188,108,223,115"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1utils_1_1ILogger.html#a894b69f674c7223e4d20e691c8e6d666" title="Deleted assignment operator (rule of five)." alt="" coords="5,144,188,189"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="218,149,189,155,188,150,223,147"/>
+<area shape="rect" id="Node000006" href="$classzero__mate_1_1utils_1_1ILogger.html#aa2bec353c48b3b6d3bcc6f7430478a0e" title="Deleted assignment operator with an r&#45;value reference (rule of five)." alt="" coords="5,213,188,258"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="272,161,189,203,160,215,159,210,187,199,266,162"/>
+</map>

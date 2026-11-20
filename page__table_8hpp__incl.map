@@ -1,5 +1,5 @@
 <map id="src/core/arm1176jzf_s/mmu/page_table.hpp" name="src/core/arm1176jzf_s/mmu/page_table.hpp">
-<area shape="rect" id="Node000001" title="This file defines a page table." alt="" coords="5,5,184,45"/>
-<area shape="rect" id="Node000002" href="$page__entry_8hpp.html" title="This file defines a page table entry." alt="" coords="34,93,155,119"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,46,97,79,92,79,92,46"/>
+<area shape="rect" id="Node000001" title="This file defines a page table." alt="" coords="5,5,183,50"/>
+<area shape="rect" id="Node000002" href="$page__entry_8hpp.html" title="This file defines a page table entry." alt="" coords="34,98,154,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="96,48,97,83,91,81,92,52"/>
 </map>

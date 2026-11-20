@@ -1,5 +1,5 @@
 <map id="zero_mate::coprocessor::cp15::CC2::Get_Boundary_Type" name="zero_mate::coprocessor::cp15::CC2::Get_Boundary_Type">
-<area shape="rect" id="Node000001" title="Returns the set boundary type that determines the use of either TTB0 or TTB1." alt="" coords="5,13,237,53"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CC2.html#ac791c544839c158bfba9aaa4d6a1aa91" title="Extract bits from the NCRm_C0_Register::Translation_Table_Base_Control register." alt="" coords="285,5,467,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="238,30,272,30,272,35,238,35"/>
+<area shape="rect" id="Node000001" title="Returns the set boundary type that determines the use of either TTB0 or TTB1." alt="" coords="5,14,237,58"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CC2.html#ac791c544839c158bfba9aaa4d6a1aa91" title="Extract bits from the NCRm_C0_Register::Translation_Table_Base_Control register." alt="" coords="285,5,465,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="237,34,272,36,266,36,237,39"/>
 </map>

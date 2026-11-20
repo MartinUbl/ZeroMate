@@ -1,13 +1,11 @@
 <map id="zero_mate::peripheral::CARM_Timer::Increment_Passed_Cycles" name="zero_mate::peripheral::CARM_Timer::Increment_Passed_Cycles">
-<area shape="rect" id="Node000001" title="Updates the timer (ISystem_Clock_Listener interface)." alt="" coords="5,89,193,143"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CARM__Timer.html#a6f089d92275345a7f7a363c942bc8692" title="Returns the current content of the control register." alt="" coords="241,5,472,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="173,86,240,61,281,47,283,52,242,67,174,91"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1CARM__Timer.html#a8aa88bde21b52e4ae5132f8e2a5fb73a" title="Returns the current content of a register." alt="" coords="520,63,697,103"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="193,107,506,87,506,92,194,113"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1peripheral_1_1CARM__Timer_1_1CPrescaler.html#a781c1f391f64fd775d32b65dee2ba98d" title="Sets a new limit of the prescaler." alt="" coords="261,121,452,175"/>
-<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="194,125,248,132,247,137,193,130"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1peripheral_1_1CARM__Timer.html#a9abc7d434c8ec8120e49e2add79e7346" title="This procedure is called whenever the timer reaches 0 (helper function)." alt="" coords="261,199,453,254"/>
-<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="153,141,242,184,262,192,260,197,240,189,150,146"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="446,43,508,57,506,62,445,48"/>
-<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="445,197,471,184,527,148,574,110,577,114,530,152,473,189,447,202"/>
+<area shape="rect" id="Node000001" title="Updates the timer (ISystem_Clock_Listener interface)." alt="" coords="5,57,193,118"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CARM__Timer.html#a6f089d92275345a7f7a363c942bc8692" title="Returns the current content of the control register." alt="" coords="241,5,471,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,63,245,53,240,55,194,68"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1CARM__Timer.html#a8aa88bde21b52e4ae5132f8e2a5fb73a" title="Returns the current content of a register." alt="" coords="519,65,695,110"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="193,85,504,85,502,90,193,90"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1peripheral_1_1CARM__Timer.html#a9abc7d434c8ec8120e49e2add79e7346" title="This procedure is called whenever the timer reaches 0 (helper function)." alt="" coords="260,125,452,186"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="193,110,248,126,243,127,193,115"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="452,48,506,63,501,63,452,53"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="451,127,505,115,510,114,452,132"/>
 </map>

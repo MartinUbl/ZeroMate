@@ -1,9 +1,11 @@
 <map id="zero_mate::peripheral::CGPIO_Manager::CPin::Is_Interrupt_Enabled" name="zero_mate::peripheral::CGPIO_Manager::CPin::Is_Interrupt_Enabled">
-<area shape="rect" id="Node000001" title="Checks whether or not an interrupt is enabled on the pin." alt="" coords="691,5,863,60"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CGPIO__Window.html#aeeb6f57b70b2367e666550cb69bd5d13" title="Renders information about a single GPIO pin (table row)." alt="" coords="443,13,643,53"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="677,35,643,35,643,30,677,30"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1gui_1_1CGPIO__Window.html#ad1affc13af41a19f9c66ae37082d5cb6" title="Renders a table with all GPIO pins." alt="" coords="221,5,395,60"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="429,35,395,35,395,30,429,30"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1gui_1_1CGPIO__Window.html#a8ce2c10cab6d91789adc071291c9a5be" title="Renders GPIO pins (IGUI_Window interface)." alt="" coords="5,13,173,53"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="208,35,174,35,174,30,208,30"/>
+<area shape="rect" id="Node000001" title="Checks whether or not an interrupt is enabled on the pin." alt="" coords="688,44,860,106"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CGPIO__Manager_1_1CPin.html#ac7f6a241b95b22f2f577b6047b8c6f02" title="Checks information about whether an interrupt has occurred or not." alt="" coords="455,5,626,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="671,58,627,53,627,48,676,58"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1gui_1_1CGPIO__Window.html#aeeb6f57b70b2367e666550cb69bd5d13" title="Renders information about a single GPIO pin (table row)." alt="" coords="441,91,640,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="676,91,641,100,640,94,670,92"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1gui_1_1CGPIO__Window.html#ad1affc13af41a19f9c66ae37082d5cb6" title="Renders a table with all GPIO pins." alt="" coords="221,83,393,144"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="423,114,394,116,393,111,428,113"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1gui_1_1CGPIO__Window.html#a8ce2c10cab6d91789adc071291c9a5be" title="Renders GPIO pins (IGUI_Window interface)." alt="" coords="5,91,173,136"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="203,114,173,116,173,111,208,113"/>
 </map>

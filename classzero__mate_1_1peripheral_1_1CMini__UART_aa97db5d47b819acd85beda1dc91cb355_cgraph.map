@@ -1,15 +1,5 @@
 <map id="zero_mate::peripheral::CMini_UART::Set_TX_Pin" name="zero_mate::peripheral::CMini_UART::Set_TX_Pin">
-<area shape="rect" id="Node000001" title="Sets the state of the TX pin." alt="" coords="5,73,193,113"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a9243af4f42d118a598a00c0f79d366e1" title="Sets the state of a given GPIO pin." alt="" coords="241,73,444,113"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,91,228,91,228,96,193,96"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1utils_1_1CLogging__System.html#a57ed77e1a5cf822cea532cc5e05c3f60" title="Logs an error message via all registered loggers." alt="" coords="492,73,687,113"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="444,91,478,91,478,96,444,96"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1utils_1_1CLogging__System.html#a71ed11c796553cbe8fd99773406a1060" title="Creates a formatted message to be logged." alt="" coords="735,30,937,85"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="686,77,721,71,722,77,687,82"/>
-<area shape="rect" id="Node000007" href="$classzero__mate_1_1utils_1_1CLogging__System.html#ad371c67ef65763966ccf9291002e86f3" title="Extract the filename from a given location within the source files." alt="" coords="737,109,935,149"/>
-<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="687,105,724,110,723,116,686,110"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1utils_1_1CLogging__System.html#aa70c102c805079042ffea2a6f2a5ad64" title="Formats a given timestamp." alt="" coords="985,5,1199,45"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="937,42,971,38,972,43,938,47"/>
-<area shape="rect" id="Node000006" href="$classzero__mate_1_1utils_1_1CLogging__System.html#ae3ca637537dde05e0b9119145c840331" title="Returns the current timestamp that will be used in a log message." alt="" coords="995,69,1189,109"/>
-<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="938,67,982,73,981,78,937,73"/>
+<area shape="rect" id="Node000001" title="Sets the state of the TX pin." alt="" coords="5,5,193,50"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a9243af4f42d118a598a00c0f79d366e1" title="Sets the state of a given GPIO pin." alt="" coords="241,5,443,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,25,228,27,223,28,193,30"/>
 </map>

@@ -1,9 +1,9 @@
 <map id="zero_mate::peripheral::ISystem_Clock_Listener" name="zero_mate::peripheral::ISystem_Clock_Listener">
-<area shape="rect" id="Node000001" title="This class represents a general interface for a CPU clock listener." alt="" coords="5,69,191,109"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CARM__Timer.html" title="This class represents the ARM timer used in BCM2835." alt="" coords="239,5,404,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,63,250,43,252,48,182,68"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1CAUX.html" title="This class represents the auxiliaries (UART1 &amp; SPI1, and SPI2)." alt="" coords="239,69,404,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="204,87,238,87,238,92,204,92"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1peripheral_1_1CBSC.html" title="This class represents the BSC peripheral used in BCM2835." alt="" coords="239,133,404,173"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="182,111,252,131,250,136,181,116"/>
+<area shape="rect" id="Node000001" title="This class represents a general interface for a CPU clock listener." alt="" coords="5,75,190,119"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CARM__Timer.html" title="This class represents the ARM timer used in BCM2835." alt="" coords="238,5,402,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,67,248,49,243,52,187,72"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1CAUX.html" title="This class represents the auxiliaries (UART1 &amp; SPI1, and SPI2)." alt="" coords="238,75,402,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="205,94,240,96,234,98,206,100"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1peripheral_1_1CBSC.html" title="This class represents the BSC peripheral used in BCM2835." alt="" coords="238,144,402,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="186,122,248,143,243,144,185,127"/>
 </map>

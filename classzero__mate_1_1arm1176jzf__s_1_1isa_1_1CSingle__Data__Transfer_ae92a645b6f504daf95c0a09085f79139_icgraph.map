@@ -1,0 +1,5 @@
+<map id="zero_mate::arm1176jzf_s::isa::CSingle_Data_Transfer::Is_W_Bit_Set" name="zero_mate::arm1176jzf_s::isa::CSingle_Data_Transfer::Is_W_Bit_Set">
+<area shape="rect" id="Node000001" title="Returns the value of the W bit (write&#45;back bit)." alt="" coords="229,5,401,67"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#ab4697275a93c62613b13cdd77726f81c" title="Executes a single data transfer instruction." alt="" coords="5,14,181,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,36,181,39,181,34,215,36"/>
+</map>

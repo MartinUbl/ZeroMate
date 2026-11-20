@@ -1,7 +1,7 @@
 <map id="src/core/peripherals/ram.cpp" name="src/core/peripherals/ram.cpp">
-<area shape="rect" id="Node000001" title="This file implements the RAM (random access memory) used in BCM2835." alt="" coords="5,5,156,45"/>
-<area shape="rect" id="Node000002" href="$ram_8hpp.html" title="This file defines the RAM (random access memory) used in BCM2835." alt="" coords="43,93,119,119"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,46,83,79,78,79,78,46"/>
-<area shape="rect" id="Node000003" href="$peripheral_8hpp.html" title="This file defines an interface for a memory&#45;mapped peripheral." alt="" coords="23,167,139,192"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="83,119,83,153,78,153,78,119"/>
+<area shape="rect" id="Node000001" title="This file implements the RAM (random access memory) used in BCM2835." alt="" coords="5,5,155,50"/>
+<area shape="rect" id="Node000002" href="$ram_8hpp.html" title="This file defines the RAM (random access memory) used in BCM2835." alt="" coords="42,98,118,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,48,83,83,77,82,79,53"/>
+<area shape="rect" id="Node000003" href="$peripheral_8hpp.html" title="This file defines an interface for a memory&#45;mapped peripheral." alt="" coords="22,174,138,201"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="82,124,83,159,77,157,78,128"/>
 </map>

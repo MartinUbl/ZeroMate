@@ -1,5 +1,5 @@
 <map id="zero_mate::gui::CTop_Bar_Menu::Init_File_Browser" name="zero_mate::gui::CTop_Bar_Menu::Init_File_Browser">
-<area shape="rect" id="Node000001" title="Initializes the file browser." alt="" coords="259,5,417,60"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CTop__Bar__Menu.html#a34a5fa542eed7af6ab86ee6b42b684aa" title="Creates an instance of the class." alt="" coords="5,13,211,53"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="245,35,211,35,211,30,245,30"/>
+<area shape="rect" id="Node000001" title="Initializes the file browser." alt="" coords="258,5,415,67"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CTop__Bar__Menu.html#a34a5fa542eed7af6ab86ee6b42b684aa" title="Creates an instance of the class." alt="" coords="5,14,210,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="239,36,210,39,210,34,245,36"/>
 </map>

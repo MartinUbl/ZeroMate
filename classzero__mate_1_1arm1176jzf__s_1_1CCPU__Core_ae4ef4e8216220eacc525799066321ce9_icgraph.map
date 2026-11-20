@@ -1,7 +1,7 @@
 <map id="zero_mate::arm1176jzf_s::CCPU_Core::LR" name="zero_mate::arm1176jzf_s::CCPU_Core::LR">
-<area shape="rect" id="Node000001" title="Returns a reference to the LR register (r14 = link register)" alt="" coords="229,37,403,77"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a529d163f0c99ab60a974589148a22eb2" title="Executes a branch instruction." alt="" coords="5,5,181,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,46,181,41,182,35,216,40"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#aa6f6225bcc321564fe4ce5e3f98155bb" title="Executes a branch and exchange instruction." alt="" coords="5,69,181,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,74,182,79,181,74,215,69"/>
+<area shape="rect" id="Node000001" title="Returns a reference to the LR register (r14 = link register)." alt="" coords="229,40,401,85"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a529d163f0c99ab60a974589148a22eb2" title="Executes a branch instruction." alt="" coords="5,5,181,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,47,181,44,181,39,216,46"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#aa6f6225bcc321564fe4ce5e3f98155bb" title="Executes a branch and exchange instruction." alt="" coords="5,75,181,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="211,79,182,86,181,81,216,78"/>
 </map>

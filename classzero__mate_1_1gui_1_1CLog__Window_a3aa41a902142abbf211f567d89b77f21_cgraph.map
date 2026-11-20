@@ -1,7 +1,5 @@
 <map id="zero_mate::gui::CLog_Window::CLog_Window" name="zero_mate::gui::CLog_Window::CLog_Window">
-<area shape="rect" id="Node000001" title="Creates an instance of the class." alt="" coords="5,5,184,45"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CLog__Window.html#aab3c1c25eedfe7230d905ae5355265c0" title="Clears all log messages." alt="" coords="232,5,391,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,23,218,23,218,28,184,28"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1gui_1_1CCircular__Log__Buffer.html#af165b3edecdde5d0ea7a10957849921b" title="Clears the circular buffer (deletes all log messages)." alt="" coords="439,5,625,45"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="391,23,425,23,425,28,391,28"/>
+<area shape="rect" id="Node000001" title="Creates an instance of the class." alt="" coords="5,5,184,50"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CLog__Window.html#aab3c1c25eedfe7230d905ae5355265c0" title="Clears all log messages." alt="" coords="232,5,390,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,25,218,27,213,28,184,30"/>
 </map>

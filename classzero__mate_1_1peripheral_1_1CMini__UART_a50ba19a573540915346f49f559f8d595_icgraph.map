@@ -1,9 +1,9 @@
 <map id="zero_mate::peripheral::CMini_UART::UART_Receive_Payload" name="zero_mate::peripheral::CMini_UART::UART_Receive_Payload">
-<area shape="rect" id="Node000001" title="Receives another bit of the current payload (actual data)." alt="" coords="685,5,896,60"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a6b04378225c55c43c00805cb5bdb99b3" title="Updates the reception state machines." alt="" coords="449,13,637,53"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="672,35,637,35,637,30,672,30"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a3b75064597a5fbfe9c4c7d1f2e0c7e5f" title="Updates the state machines (transmission/reception)." alt="" coords="236,13,401,53"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="436,35,402,35,402,30,436,30"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#aae5f7e2bbffa6e3881675058a0aedf6f" title="Updates the number of passed CPU cycles (forwarded from the AUX peripheral)." alt="" coords="5,5,188,60"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="222,35,188,35,188,30,222,30"/>
+<area shape="rect" id="Node000001" title="Receives another bit of the current payload (actual data)." alt="" coords="682,5,892,67"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a6b04378225c55c43c00805cb5bdb99b3" title="Updates the reception state machines." alt="" coords="447,14,634,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="664,36,635,39,635,34,669,36"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a3b75064597a5fbfe9c4c7d1f2e0c7e5f" title="Updates the state machines (transmission/reception)." alt="" coords="235,14,399,58"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="429,36,399,39,399,34,434,36"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#aae5f7e2bbffa6e3881675058a0aedf6f" title="Updates the number of passed CPU cycles (forwarded from the AUX peripheral)." alt="" coords="5,5,187,67"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="217,36,187,39,187,34,222,36"/>
 </map>

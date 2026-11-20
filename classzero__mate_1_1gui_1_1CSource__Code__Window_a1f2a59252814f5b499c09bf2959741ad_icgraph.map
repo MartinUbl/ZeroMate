@@ -1,5 +1,5 @@
 <map id="zero_mate::gui::CSource_Code_Window::Render_Source_Codes" name="zero_mate::gui::CSource_Code_Window::Render_Source_Codes">
-<area shape="rect" id="Node000001" title="Renders the disassembled contents of all ELF loaded into the emulator." alt="" coords="233,5,505,45"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#a24d4560bdcaf8c4fb0611de1b55ac687" title="Renders the window (IGUI_Window interface)." alt="" coords="5,5,185,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="220,28,186,28,186,23,220,23"/>
+<area shape="rect" id="Node000001" title="Renders the disassembled contents of all ELF loaded into the emulator." alt="" coords="233,5,504,50"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#a24d4560bdcaf8c4fb0611de1b55ac687" title="Renders the window (IGUI_Window interface)." alt="" coords="5,5,185,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,28,185,30,185,25,219,27"/>
 </map>

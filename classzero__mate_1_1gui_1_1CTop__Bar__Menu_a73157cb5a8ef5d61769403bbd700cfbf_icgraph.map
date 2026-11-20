@@ -1,5 +1,5 @@
 <map id="zero_mate::gui::CTop_Bar_Menu::Reload_Kernel" name="zero_mate::gui::CTop_Bar_Menu::Reload_Kernel">
-<area shape="rect" id="Node000001" title="Reloads the kernel." alt="" coords="212,5,407,45"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CTop__Bar__Menu.html#ad8f10caa7780d6c4e9fb20c4ab702a60" title="Renders the bar (IGUI_Window interface)." alt="" coords="5,5,164,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,28,164,28,164,23,198,23"/>
+<area shape="rect" id="Node000001" title="Reloads the kernel." alt="" coords="211,5,405,50"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CTop__Bar__Menu.html#ad8f10caa7780d6c4e9fb20c4ab702a60" title="Renders the bar (IGUI_Window interface)." alt="" coords="5,5,163,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="192,28,163,30,163,25,198,27"/>
 </map>

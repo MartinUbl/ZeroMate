@@ -1,5 +1,5 @@
 <map id="src/core/arm1176jzf_s/isa/single_data_transfer.hpp" name="src/core/arm1176jzf_s/isa/single_data_transfer.hpp">
-<area shape="rect" id="Node000001" title="This file defines single data transfer instruction (LDR, STR)." alt="" coords="5,5,228,45"/>
-<area shape="rect" id="Node000002" href="$instruction_8hpp.html" title="This file defines the interface of a general ARM instruction." alt="" coords="57,93,176,119"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,46,119,79,114,79,114,46"/>
+<area shape="rect" id="Node000001" title="This file defines single data transfer instruction (LDR, STR)." alt="" coords="5,5,228,50"/>
+<area shape="rect" id="Node000002" href="$instruction_8hpp.html" title="This file defines the interface of a general ARM instruction." alt="" coords="57,98,176,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,48,119,83,114,81,115,52"/>
 </map>

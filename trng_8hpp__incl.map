@@ -1,5 +1,5 @@
 <map id="src/core/peripherals/trng.hpp" name="src/core/peripherals/trng.hpp">
-<area shape="rect" id="Node000001" title="This file defines the TRNG (random number generator) used in BCM2835." alt="" coords="5,5,156,45"/>
-<area shape="rect" id="Node000002" href="$peripheral_8hpp.html" title="This file defines an interface for a memory&#45;mapped peripheral." alt="" coords="23,93,139,119"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,46,83,79,78,79,78,46"/>
+<area shape="rect" id="Node000001" title="This file defines the TRNG (random number generator) used in BCM2835." alt="" coords="5,5,155,50"/>
+<area shape="rect" id="Node000002" href="$peripheral_8hpp.html" title="This file defines an interface for a memory&#45;mapped peripheral." alt="" coords="22,98,138,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,48,83,83,77,82,78,52"/>
 </map>

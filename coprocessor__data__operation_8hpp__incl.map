@@ -1,5 +1,5 @@
 <map id="src/core/arm1176jzf_s/isa/coprocessor_data_operation.hpp" name="src/core/arm1176jzf_s/isa/coprocessor_data_operation.hpp">
-<area shape="rect" id="Node000001" title="This file defines a coprocessor data operation (CDP)." alt="" coords="5,5,183,60"/>
-<area shape="rect" id="Node000002" href="$instruction_8hpp.html" title="This file defines the interface of a general ARM instruction." alt="" coords="35,108,153,133"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,60,97,94,91,94,91,60"/>
+<area shape="rect" id="Node000001" title="This file defines a coprocessor data operation (CDP)." alt="" coords="5,5,182,67"/>
+<area shape="rect" id="Node000002" href="$instruction_8hpp.html" title="This file defines the interface of a general ARM instruction." alt="" coords="34,115,153,143"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,65,96,100,91,98,92,69"/>
 </map>

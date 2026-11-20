@@ -8,7 +8,7 @@ var searchData=
   ['adc_5',['ADC',['../classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CData__Processing.html#a284d8a29100285a49905113f3355fcb8a72c1bba79e6502c017bd14bc00a68491',1,'zero_mate::arm1176jzf_s::isa::CData_Processing']]],
   ['add_6',['ADD',['../classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CData__Processing.html#a284d8a29100285a49905113f3355fcb8a9eeb52badb613229884838847294b90d',1,'zero_mate::arm1176jzf_s::isa::CData_Processing']]],
   ['addr_5fcollision_7',['Addr_Collision',['../classzero__mate_1_1CBus.html#a92a635080cf15efc7048a64b67b8785ba52c00429932e89ab0f17c76575ecc130',1,'zero_mate::CBus']]],
-  ['address_8',['address',['../classzero__mate_1_1coprocessor_1_1cp15_1_1CC2.html#a6af13186244db4c58cf623b6e502824dadd7bf230fde8d4836917806aff6a6b27',1,'zero_mate::coprocessor::cp15::CC2::Address'],['../classzero__mate_1_1peripheral_1_1CBSC.html#aec40cdcf9f04dabed279f6e856764409add7bf230fde8d4836917806aff6a6b27',1,'zero_mate::peripheral::CBSC::Address']]],
+  ['address_8',['Address',['../classzero__mate_1_1peripheral_1_1CBSC.html#aec40cdcf9f04dabed279f6e856764409add7bf230fde8d4836917806aff6a6b27',1,'zero_mate::peripheral::CBSC']]],
   ['al_9',['AL',['../classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CInstruction.html#a110957aeccf83857a9f32afefa6b7803ae892e780304dc3ef15e69b9f3fed3669',1,'zero_mate::arm1176jzf_s::isa::CInstruction']]],
   ['allocation_5ferror_10',['Allocation_Error',['../classzero__mate_1_1IExternal__Peripheral.html#aba83a741de9b3e2eb214906d4aa51a00aea185f1055f80afb4d86c1ea0f981c63',1,'zero_mate::IExternal_Peripheral']]],
   ['alt_5f0_11',['Alt_0',['../classzero__mate_1_1peripheral_1_1CGPIO__Manager_1_1CPin.html#a08eacac474c38044fd85dd1898194cf6a44d6ce732770afbebbfcb330fbfc6909',1,'zero_mate::peripheral::CGPIO_Manager::CPin']]],

@@ -1,7 +1,7 @@
 <map id="zero_mate::arm1176jzf_s::CCPU_Core::Get_Offset" name="zero_mate::arm1176jzf_s::CCPU_Core::Get_Offset">
-<area shape="rect" id="Node000001" title="Calculates the offset from the base address in a single data transfer instruction." alt="" coords="229,37,424,77"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#ae5fc1112d78d8c344841fd94d1356635" title="Executes a halfword data transfer instruction." alt="" coords="5,5,181,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,45,181,40,182,35,216,39"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#ab4697275a93c62613b13cdd77726f81c" title="Executes a single data transfer instruction." alt="" coords="5,69,181,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,75,182,80,181,75,215,70"/>
+<area shape="rect" id="Node000001" title="Calculates the offset from the base address in a single data transfer instruction." alt="" coords="229,40,422,85"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#ae5fc1112d78d8c344841fd94d1356635" title="Executes a halfword data transfer instruction." alt="" coords="5,5,181,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,46,181,43,181,38,216,45"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#ab4697275a93c62613b13cdd77726f81c" title="Executes a single data transfer instruction." alt="" coords="5,75,181,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="211,79,181,87,181,81,216,79"/>
 </map>

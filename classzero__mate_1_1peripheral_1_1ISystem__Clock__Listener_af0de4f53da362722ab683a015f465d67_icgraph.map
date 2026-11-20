@@ -1,0 +1,11 @@
+<map id="zero_mate::peripheral::ISystem_Clock_Listener::ISystem_Clock_Listener" name="zero_mate::peripheral::ISystem_Clock_Listener::ISystem_Clock_Listener">
+<area shape="rect" id="Node000001" title="Creates an instance of the class (default non&#45;parameterized constructor)." alt="" coords="238,133,422,195"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1ISystem__Clock__Listener.html#ae5c0596189c0f183b5d21062d0731df9" title="Deleted copy constructor (rule of five)." alt="" coords="5,5,190,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="265,126,188,81,168,70,167,65,191,76,270,124"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1ISystem__Clock__Listener.html#a341f1b8f26de9250e330000168ca6f46" title="Deleted move constructor (rule of five)." alt="" coords="5,91,190,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="220,145,191,141,190,136,225,143"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1peripheral_1_1ISystem__Clock__Listener.html#aba42a283a00c9bacf1d99790baf35f30" title="Deleted assignment operator (rule of five)." alt="" coords="5,176,190,238"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="220,185,191,192,189,187,225,183"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1peripheral_1_1ISystem__Clock__Listener.html#a1e1e20d40348f88553e8f1ccac28b111" title="Deleted assignment operator with an r&#45;value reference (rule of five)." alt="" coords="5,261,190,323"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="270,203,191,252,169,263,167,258,188,247,265,205"/>
+</map>

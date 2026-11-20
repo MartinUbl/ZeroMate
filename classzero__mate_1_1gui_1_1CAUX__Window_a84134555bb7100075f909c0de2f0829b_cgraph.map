@@ -1,11 +1,11 @@
 <map id="zero_mate::gui::CAUX_Window::Render_Mini_UART" name="zero_mate::gui::CAUX_Window::Render_Mini_UART">
-<area shape="rect" id="Node000001" title="Renders information related to the mini UART auxiliary peripheral." alt="" coords="5,131,216,171"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a3ab953c18059ccd52099be9bb7b6edac" title="Returns the set up baud rate." alt="" coords="279,5,457,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="146,129,263,69,277,63,279,68,265,74,148,134"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a2f29b39f721b4ae5acf81f61ab210325" title="Returns the length of payload (7 or 8 bits)." alt="" coords="280,84,456,139"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="216,132,266,124,267,130,217,138"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a2a71009ed1f6227341dad8926bd73d81" title="Returns information about whether the receiver is enabled or not." alt="" coords="273,163,463,217"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="217,165,259,171,259,176,216,170"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a968340fbf2802af5178531146bca03c8" title="Returns information about whether the transmitter is enabled or not." alt="" coords="264,241,472,296"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="150,169,265,226,282,234,280,238,263,231,148,174"/>
+<area shape="rect" id="Node000001" title="Renders information related to the mini UART auxiliary peripheral." alt="" coords="5,142,216,186"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a3ab953c18059ccd52099be9bb7b6edac" title="Returns the set up baud rate." alt="" coords="278,5,456,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="148,139,262,76,276,72,272,75,265,81,151,144"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a2f29b39f721b4ae5acf81f61ab210325" title="Returns the length of payload (7 or 8 bits)." alt="" coords="280,91,455,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="215,144,267,137,262,140,217,149"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a2a71009ed1f6227341dad8926bd73d81" title="Returns information about whether the receiver is enabled or not." alt="" coords="272,176,462,238"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="216,179,259,188,254,189,217,184"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a968340fbf2802af5178531146bca03c8" title="Returns information about whether the transmitter is enabled or not." alt="" coords="264,261,471,323"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="150,184,265,247,277,255,271,254,262,252,149,189"/>
 </map>

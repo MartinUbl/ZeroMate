@@ -1,43 +1,25 @@
 <map id="zero_mate::arm1176jzf_s::CCPU_Core::Execute_MSR" name="zero_mate::arm1176jzf_s::CCPU_Core::Execute_MSR">
-<area shape="rect" id="Node000001" title="Executes an MSR instruction (move data to CPSR/SPSR from an ARM register)." alt="" coords="5,223,217,263"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Context.html#acf66c6ff905975912dbf52133ddfeceb" title="Returns a reference the CPSR register of the current CPU mode." alt="" coords="265,79,476,119"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,221,191,176,264,130,283,122,285,127,267,135,194,180,137,225"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a4b9e6a828e9739a227ab6da615fb4b15" title="Calculates the second immediate operand of a given instruction." alt="" coords="269,144,472,199"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,221,258,200,259,205,185,226"/>
-<area shape="rect" id="Node000008" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Context.html#ae00681efcbc4adfcfde001a67c5baeca" title="Returns the value of the SPSR register of the current CPU mode." alt="" coords="266,223,475,263"/>
-<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="217,241,252,241,252,246,217,246"/>
-<area shape="rect" id="Node000016" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Context.html#a53765299c790cc790e15deb2c701bd2a" title="Sets a new value to the CPSR register." alt="" coords="267,358,475,398"/>
-<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="142,261,199,299,267,337,297,351,295,355,264,342,196,303,139,266"/>
-<area shape="rect" id="Node000020" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Context.html#a1b322131a1168763d2b8083c17a1079b" title="Sets the value of the SPSR register in the CPU mode passed in as a parameter." alt="" coords="267,287,474,327"/>
-<area shape="poly" id="edge20_Node000001_Node000020" title=" " alt="" coords="194,261,277,281,275,287,193,266"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CData__Processing.html#a5c64aa0622ddf4f42bccfa900673d005" title="Return the immediate value (unsigned 8&#45;bit value)." alt="" coords="533,5,721,60"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="454,142,474,129,489,115,498,100,507,85,522,69,529,65,532,69,526,73,511,88,502,103,493,118,478,133,457,146"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CData__Processing.html#acd5c9629ee16e0512678279f85158b72" title="Returns the shift amount to be applied to the immediate value." alt="" coords="533,84,721,139"/>
-<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="472,145,519,134,520,139,473,150"/>
-<area shape="rect" id="Node000006" href="$namespacezero__mate_1_1utils_1_1math.html#acec3045831345d7d2e2b3a20ff2fd4fd" title="Performs an ROR (rotate right extended) operation on the given integral value." alt="" coords="524,163,729,188"/>
-<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="472,170,510,171,510,176,472,176"/>
-<area shape="rect" id="Node000007" href="$namespacezero__mate_1_1utils_1_1math.html#af7d93c996dab2ff1b91c5a399dcfe29f" title="Tests whether a bit is set in the given integral variable." alt="" coords="790,151,959,191"/>
-<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="730,171,776,170,776,176,730,176"/>
-<area shape="rect" id="Node000009" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Context.html#a050dada520ca82a21874045815c596a8" title=" " alt="" coords="535,217,718,272"/>
-<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="475,241,522,241,522,247,475,247"/>
-<area shape="rect" id="Node000010" href="$classzero__mate_1_1utils_1_1CLogging__System.html#a57ed77e1a5cf822cea532cc5e05c3f60" title="Logs an error message via all registered loggers." alt="" coords="777,295,972,335"/>
-<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="719,268,791,289,789,294,718,273"/>
-<area shape="rect" id="Node000015" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Context.html#a6fc387fa0b0dd040c4e2463606d933e4" title="Checks if the CPU mode passed in as a parameter supports the SPSR register or not." alt="" coords="788,216,961,271"/>
-<area shape="poly" id="edge14_Node000009_Node000015" title=" " alt="" coords="718,242,774,241,774,247,718,247"/>
-<area shape="rect" id="Node000011" href="$classzero__mate_1_1utils_1_1CLogging__System.html#a71ed11c796553cbe8fd99773406a1060" title="Creates a formatted message to be logged." alt="" coords="1020,252,1223,307"/>
-<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="972,299,1006,293,1007,299,972,304"/>
-<area shape="rect" id="Node000014" href="$classzero__mate_1_1utils_1_1CLogging__System.html#ad371c67ef65763966ccf9291002e86f3" title="Extract the filename from a given location within the source files." alt="" coords="1022,331,1221,371"/>
-<area shape="poly" id="edge13_Node000010_Node000014" title=" " alt="" coords="972,327,1009,332,1008,338,972,332"/>
-<area shape="rect" id="Node000012" href="$classzero__mate_1_1utils_1_1CLogging__System.html#aa70c102c805079042ffea2a6f2a5ad64" title="Formats a given timestamp." alt="" coords="1271,227,1484,267"/>
-<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="1222,264,1257,260,1257,265,1223,269"/>
-<area shape="rect" id="Node000013" href="$classzero__mate_1_1utils_1_1CLogging__System.html#ae3ca637537dde05e0b9119145c840331" title="Returns the current timestamp that will be used in a log message." alt="" coords="1280,291,1475,331"/>
-<area shape="poly" id="edge12_Node000011_Node000013" title=" " alt="" coords="1223,289,1267,295,1266,300,1222,295"/>
-<area shape="poly" id="edge16_Node000016_Node000010" title=" " alt="" coords="439,355,524,337,648,322,763,315,764,320,648,327,524,342,441,361"/>
-<area shape="rect" id="Node000017" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Context.html#aa740f9219bb413d707ac72f373e60d3a" title="Returns the current mode of the CPU." alt="" coords="540,351,713,405"/>
-<area shape="poly" id="edge17_Node000016_Node000017" title=" " alt="" coords="475,375,526,375,526,381,475,381"/>
-<area shape="rect" id="Node000018" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Context.html#aa53dae8f0dd16d916a852e572dfa95ba" title="Checks if there is an invalid attempt to change the control bits of the CPSR register." alt="" coords="531,429,722,484"/>
-<area shape="poly" id="edge18_Node000016_Node000018" title=" " alt="" coords="437,396,525,423,523,428,436,401"/>
-<area shape="rect" id="Node000019" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Context.html#a7efff674f8141eab73cb69099220f0d5" title="Sets the mode of the CPU." alt="" coords="540,508,713,563"/>
-<area shape="poly" id="edge19_Node000016_Node000019" title=" " alt="" coords="395,396,452,444,525,494,535,500,533,504,523,499,449,449,392,400"/>
-<area shape="poly" id="edge21_Node000020_Node000009" title=" " alt="" coords="452,285,521,268,522,273,453,290"/>
+<area shape="rect" id="Node000001" title="Executes an MSR instruction (move data to CPSR/SPSR from an ARM register)." alt="" coords="5,312,217,357"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CPSR__Transfer.html#a01a26a3a6acf88a634a319d0a8a49daa" title="Returns a mask that protects different part of the special register." alt="" coords="279,133,452,195"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,310,190,259,263,205,273,201,269,205,266,209,193,263,137,314"/>
+<area shape="rect" id="Node000007" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CPSR__Transfer.html#ada397b14e5cf27991a1b575c95f945bc" title="Returns the type of the special register involved in the operation." alt="" coords="279,219,452,280"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="178,310,267,281,263,285,181,314"/>
+<area shape="rect" id="Node000008" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CPSR__Transfer.html#a65b16ce34a4591e78de88f812105b58b" title="Returns the index of the Rm register (source register; see Is_Immediate)." alt="" coords="279,304,452,366"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="216,332,266,334,261,336,218,337"/>
+<area shape="rect" id="Node000009" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a4b9e6a828e9739a227ab6da615fb4b15" title="Calculates the second immediate operand of a given instruction." alt="" coords="265,389,466,451"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="180,355,259,383,254,385,180,360"/>
+<area shape="rect" id="Node000012" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CPSR__Transfer.html#ae211666723c56b5f5ea617c8fe51619f" title="Returns the value of the I bit." alt="" coords="279,475,452,536"/>
+<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="136,355,193,407,266,461,274,467,269,467,263,465,190,411,134,360"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CPSR__Transfer.html#a57095b246ae459c4135f5d5d9f6cbc85" title="Returns the value of the C bit (helper function)." alt="" coords="530,5,702,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="416,131,513,76,526,72,522,75,515,81,419,135"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CPSR__Transfer.html#aa2fa7591782207b606ca5542f57622cb" title="Returns the value of the F bit (helper function)." alt="" coords="530,91,702,152"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="451,147,517,137,512,140,453,152"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CPSR__Transfer.html#a6a0b2b90bc8fa9d50266f4416f2b5a0d" title="Returns the value of the S bit (helper function)." alt="" coords="530,176,702,238"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="452,176,517,189,512,190,453,181"/>
+<area shape="rect" id="Node000006" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CPSR__Transfer.html#ad7c504ddc0bf7e0d391e49993b6159ef" title="Returns the value of the X bit (helper function)." alt="" coords="530,261,702,323"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="446,193,468,205,492,226,516,247,523,254,518,253,512,252,488,230,464,209,446,198"/>
+<area shape="rect" id="Node000010" href="$namespacezero__mate_1_1utils_1_1math.html#acec3045831345d7d2e2b3a20ff2fd4fd" title="Performs an ROR (rotate right extended) operation on the given integral value." alt="" coords="514,406,718,434"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="466,418,501,420,496,421,467,423"/>
+<area shape="rect" id="Node000011" href="$namespacezero__mate_1_1utils_1_1math.html#af7d93c996dab2ff1b91c5a399dcfe29f" title="Tests whether a bit is set in the given integral variable." alt="" coords="766,398,935,442"/>
+<area shape="poly" id="edge10_Node000010_Node000011" title=" " alt="" coords="719,418,753,420,748,420,719,423"/>
 </map>

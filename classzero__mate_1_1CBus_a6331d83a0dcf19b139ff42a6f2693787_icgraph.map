@@ -1,8 +1,12 @@
 <map id="zero_mate::CBus::Is_Peripheral_Accessible" name="zero_mate::CBus::Is_Peripheral_Accessible">
-<area shape="rect" id="Node000001" title="Checks if a peripheral was found and is accessible." alt="" coords="447,29,617,69"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1CBus.html#a016eb46a0e573ea1e37e5c51643ca69f" title="Returns the corresponding peripheral based on the given address." alt="" coords="236,29,399,69"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="433,52,399,52,399,47,433,47"/>
-<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="353,18,341,11,317,8,297,10,285,15,280,21,282,28,277,30,275,20,281,10,296,5,317,3,342,6,356,13"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1CBus.html#a73e2222c5c3a5474f46a9011a50c1c7f" title="Attaches a peripheral to the bus." alt="" coords="5,29,188,69"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="222,52,188,52,188,47,222,47"/>
+<area shape="rect" id="Node000001" title="Checks if a peripheral was found and is accessible." alt="" coords="445,65,615,110"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1CBus.html#a016eb46a0e573ea1e37e5c51643ca69f" title="Returns the corresponding peripheral based on the given address." alt="" coords="235,65,397,110"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="427,88,398,90,397,85,432,87"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="349,50,338,46,316,44,296,46,284,51,279,57,280,66,275,63,273,55,280,46,295,41,316,39,339,41,354,50"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1CBus.html#a73e2222c5c3a5474f46a9011a50c1c7f" title="Attaches a peripheral to the bus." alt="" coords="5,5,187,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="217,62,181,53,180,48,222,61"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1CBus.html#a1bcd53677c24f62d7cce5e95636e776a" title="Reads data from the given address in the address space." alt="" coords="10,74,182,102"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="216,88,183,90,182,85,222,87"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1CBus.html#aa526b7afc98f66dbb672fe8d4f3ae88a" title="Writes data to the given address in the address space." alt="" coords="9,126,183,154"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="222,110,158,128,157,123,217,111"/>
 </map>

@@ -1,5 +1,6 @@
 <map id="zero_mate::arm1176jzf_s::CCPU_Context::Enable_IRQ" name="zero_mate::arm1176jzf_s::CCPU_Context::Enable_IRQ">
-<area shape="rect" id="Node000001" title="Globally enables/disables IRQ (interrupts)" alt="" coords="5,5,225,45"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Context.html#a984bace2773aca71cf04701aa0ce9c54" title="Sets/resets a flag in the CPSR register of the current CPU mode." alt="" coords="273,5,476,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,23,260,23,260,28,226,28"/>
+<area shape="rect" id="Node000001" title="Globally enables/disables IRQ (interrupts)." alt="" coords="5,29,225,74"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Context.html#a984bace2773aca71cf04701aa0ce9c54" title="Sets/resets a flag in the CPSR register of the current CPU mode." alt="" coords="273,29,474,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="225,49,260,52,255,52,225,54"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="325,27,323,19,331,10,348,5,373,3,401,5,419,14,414,14,400,10,373,8,349,10,334,15,328,21,329,30"/>
 </map>

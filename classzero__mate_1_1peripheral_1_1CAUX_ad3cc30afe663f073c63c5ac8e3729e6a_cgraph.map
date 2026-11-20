@@ -1,5 +1,8 @@
 <map id="zero_mate::peripheral::CAUX::CAUX" name="zero_mate::peripheral::CAUX::CAUX">
-<area shape="rect" id="Node000001" title="Creates an instance of the class." alt="" coords="5,5,171,45"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CAUX.html#a1749e56df5e00f1d917c2b0d4eba8b74" title="Resets/re&#45;initializes the peripheral (IPeripheral interface)." alt="" coords="219,5,384,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,23,205,23,205,28,171,28"/>
+<area shape="rect" id="Node000001" title="Creates an instance of the class." alt="" coords="5,64,170,109"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CAUX.html#aaa8b75d23e9bf4d03b0a0a56fbeaf04d" title=" " alt="" coords="218,29,382,74"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,70,205,67,200,68,171,76"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1CAUX.html#a1749e56df5e00f1d917c2b0d4eba8b74" title="Resets/re&#45;initializes the peripheral (IPeripheral interface)." alt="" coords="218,99,382,143"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="170,97,205,105,200,105,170,102"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="259,28,258,19,265,10,279,5,300,3,323,5,338,14,333,14,321,10,300,8,280,10,268,15,263,21,264,30"/>
 </map>

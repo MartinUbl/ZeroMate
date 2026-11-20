@@ -1,9 +1,9 @@
 <map id="zero_mate::peripheral::CMini_UART::UART_Reset_Transmission" name="zero_mate::peripheral::CMini_UART::UART_Reset_Transmission">
-<area shape="rect" id="Node000001" title="Resets transmission (end of the current UART frame)." alt="" coords="5,41,200,96"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a1e54d90a036d327e36d06a74be1595c3" title="Returns information about a transmit interrupt is enabled." alt="" coords="248,5,439,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,51,234,46,235,52,201,57"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a8711d81118c89d5174a68d5b63ad3fac" title="Triggers an interrupt." alt="" coords="248,85,439,125"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,81,235,86,234,91,200,86"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#aeedc743fe9b70dfb0019b775e2ea714a" title="Sets the type of a pending IRQ in the IIR register." alt="" coords="487,77,683,132"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="439,102,473,102,473,107,439,107"/>
+<area shape="rect" id="Node000001" title="Resets transmission (end of the current UART frame)." alt="" coords="5,44,200,106"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a1e54d90a036d327e36d06a74be1595c3" title="Returns information about a transmit interrupt is enabled." alt="" coords="248,5,437,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,57,235,53,230,55,201,62"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a8711d81118c89d5174a68d5b63ad3fac" title="Triggers an interrupt." alt="" coords="248,91,437,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,88,235,96,230,96,200,93"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#aeedc743fe9b70dfb0019b775e2ea714a" title="Sets the type of a pending IRQ in the IIR register." alt="" coords="485,83,680,144"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="438,111,472,113,467,114,438,116"/>
 </map>

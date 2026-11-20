@@ -1,5 +1,5 @@
 <map id="zero_mate::utils::math::LSL" name="zero_mate::utils::math::LSL">
-<area shape="rect" id="Node000001" title="Performs an LSL (logical shift left) operation on the given integral value." alt="" coords="5,13,204,38"/>
-<area shape="rect" id="Node000002" href="$namespacezero__mate_1_1utils_1_1math.html#af7d93c996dab2ff1b91c5a399dcfe29f" title="Tests whether a bit is set in the given integral variable." alt="" coords="252,5,421,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,23,238,23,238,28,205,28"/>
+<area shape="rect" id="Node000001" title="Performs an LSL (logical shift left) operation on the given integral value." alt="" coords="5,14,204,42"/>
+<area shape="rect" id="Node000002" href="$namespacezero__mate_1_1utils_1_1math.html#af7d93c996dab2ff1b91c5a399dcfe29f" title="Tests whether a bit is set in the given integral variable." alt="" coords="252,5,420,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,25,238,27,233,28,204,30"/>
 </map>

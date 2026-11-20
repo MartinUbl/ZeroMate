@@ -1,5 +1,7 @@
 <map id="zero_mate::utils::math::Sign_Extend_Value" name="zero_mate::utils::math::Sign_Extend_Value">
-<area shape="rect" id="Node000001" title="Sign&#45;extends the given integral value." alt="" coords="5,5,175,45"/>
-<area shape="rect" id="Node000002" href="$namespacezero__mate_1_1utils_1_1math.html#af7d93c996dab2ff1b91c5a399dcfe29f" title="Tests whether a bit is set in the given integral variable." alt="" coords="223,5,392,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="175,23,209,23,209,28,175,28"/>
+<area shape="rect" id="Node000001" title="Sign&#45;extends the given integral value." alt="" coords="5,5,174,50"/>
+<area shape="rect" id="Node000002" href="$namespacezero__mate_1_1utils_1_1math.html#a64baae537d736f483631d0256c6c44c1" title="Checks whether the given integral value is negative by examining the MSB." alt="" coords="222,5,390,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,25,209,27,203,28,174,30"/>
+<area shape="rect" id="Node000003" href="$namespacezero__mate_1_1utils_1_1math.html#af7d93c996dab2ff1b91c5a399dcfe29f" title="Tests whether a bit is set in the given integral variable." alt="" coords="438,5,606,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="390,25,425,28,420,28,390,30"/>
 </map>

@@ -1,5 +1,5 @@
 <map id="zero_mate::arm1176jzf_s::isa::CCoprocessor_Data_Operation::CCoprocessor_Data_Operation" name="zero_mate::arm1176jzf_s::isa::CCoprocessor_Data_Operation::CCoprocessor_Data_Operation">
-<area shape="rect" id="Node000001" title="Creates an instance of the class." alt="" coords="5,5,233,75"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CInstruction.html#a33fb155ea33d9b963e8cf9009fb5adef" title="Returns the 32&#45;bit value (encoding of the instruction)." alt="" coords="281,13,455,67"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="234,37,268,37,268,43,234,43"/>
+<area shape="rect" id="Node000001" title="Creates an instance of the class." alt="" coords="5,5,233,84"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CInstruction.html#af0813b890400084720f720a1cfb6a683" title="Creates an instance of the class." alt="" coords="281,14,453,76"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,42,268,44,262,45,233,47"/>
 </map>

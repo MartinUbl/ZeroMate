@@ -1,0 +1,11 @@
+<map id="zero_mate::coprocessor::cp10::CCP10::Execute" name="zero_mate::coprocessor::cp10::CCP10::Execute">
+<area shape="rect" id="Node000001" title="Executes a VMOV (from an ARM register to S{x} register) floating point instruction." alt="" coords="5,177,182,222"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CVMOV__ARM__Register__Single__Precision__Register.html#ab33560f651d52fba2269919b655f23cf" title="Returns the index of an ARM register encoded in the instruction." alt="" coords="233,5,428,84"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,175,169,135,228,93,237,90,233,94,231,98,172,139,123,179"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CVMOV__ARM__Register__Single__Precision__Register.html#a6e809edf3d3dd1e1a63731997dc90493" title="Returns the index of an FPU register encoded in the instruction." alt="" coords="233,108,428,187"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,178,220,171,215,174,183,182"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CVMOV__ARM__Register__Single__Precision__Register.html#a98a28403434fde13dd6487c71be53477" title="Returns the offset of the Vn register (S{x} vs D{x})." alt="" coords="233,211,428,289"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="182,216,220,225,215,227,183,221"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CVMOV__ARM__Register__Single__Precision__Register.html#a80ded312b38bef0fc78b8598ea0af371" title="Checks whether a register should be moved from the FPU to ARM or vice versa." alt="" coords="230,313,432,392"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="123,219,173,258,231,298,240,305,234,305,228,303,170,262,122,225"/>
+</map>

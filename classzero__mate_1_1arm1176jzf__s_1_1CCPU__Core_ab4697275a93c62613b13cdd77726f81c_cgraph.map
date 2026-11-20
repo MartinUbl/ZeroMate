@@ -1,15 +1,46 @@
 <map id="zero_mate::arm1176jzf_s::CCPU_Core::Execute" name="zero_mate::arm1176jzf_s::CCPU_Core::Execute">
-<area shape="rect" id="Node000001" title="Executes a single data transfer instruction." alt="" coords="5,163,181,203"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#ab8055407426b0f25544d2b33a89b22a7" title="Calculates the offset from the base address in a single data transfer instruction." alt="" coords="229,131,424,171"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,169,215,164,216,169,182,174"/>
-<area shape="rect" id="Node000007" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a423eacd01e574e782a2b7cf51f28c56c" title="Returns a reference to the PC register (r15)" alt="" coords="240,195,413,235"/>
-<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="182,193,227,199,226,204,182,198"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CData__Processing.html#a73d5c3a98f3fe036a1348d4d7485d0e9" title="Returns the index of the second operand register (Rm)." alt="" coords="472,5,660,60"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="360,129,471,69,483,63,485,68,473,74,363,134"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CData__Processing.html#ae851afadd74822ec9363797ab332f45a" title="Returns the shift amount used when constructing the second operand (immediate second operand)." alt="" coords="472,84,660,139"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="424,132,458,127,459,132,425,138"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CData__Processing.html#ae43548d291eecc463c519086e7527ff2" title="Returns the shift type used when constructing the second operand." alt="" coords="472,163,660,217"/>
-<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="425,164,459,170,458,175,424,170"/>
-<area shape="rect" id="Node000006" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CData__Processing.html#a1dc73c441b156452b1467eaa5cab46f5" title="Returns the value of the I bit (bit 25 = immediate second operand)." alt="" coords="472,241,660,296"/>
-<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="401,169,425,181,441,193,450,204,460,215,474,226,483,233,481,237,470,231,456,219,446,207,437,196,423,186,399,174"/>
+<area shape="rect" id="Node000001" title="Executes a single data transfer instruction." alt="" coords="5,365,181,410"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#ab8055407426b0f25544d2b33a89b22a7" title="Calculates the offset from the base address in a single data transfer instruction." alt="" coords="253,74,446,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="97,364,112,315,138,252,175,186,199,156,227,129,241,121,238,126,230,133,203,159,180,189,142,254,117,317,102,365"/>
+<area shape="rect" id="Node000010" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CSingle__Data__Transfer.html#a4a6b5641474ee20e1769c9bb78cba455" title="Returns the index of the Rd register (source/destination register)." alt="" coords="264,143,436,205"/>
+<area shape="poly" id="edge13_Node000001_Node000010" title=" " alt="" coords="104,363,152,291,187,250,227,214,251,202,248,206,230,219,190,254,156,294,109,366"/>
+<area shape="rect" id="Node000011" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CSingle__Data__Transfer.html#aa6666ca103c2681300c2f3b7fdb7ea0d" title="Returns the index of the Rn register (base register)." alt="" coords="264,228,436,290"/>
+<area shape="poly" id="edge14_Node000001_Node000011" title=" " alt="" coords="124,363,172,331,227,299,251,291,247,294,230,304,175,335,128,366"/>
+<area shape="rect" id="Node000012" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CSingle__Data__Transfer.html#ab2bd06becd608f8810e8da5fe41b031c" title="Returns the value of the B bit (byte/word bit)." alt="" coords="264,314,436,375"/>
+<area shape="poly" id="edge15_Node000001_Node000012" title=" " alt="" coords="180,370,251,359,247,363,182,375"/>
+<area shape="rect" id="Node000013" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CSingle__Data__Transfer.html#a4adfebcac49e96096806ede7e5fbeb81" title="Returns the value of the P bit (pre/post indexing bit)." alt="" coords="264,399,436,461"/>
+<area shape="poly" id="edge16_Node000001_Node000013" title=" " alt="" coords="180,399,251,412,247,415,182,404"/>
+<area shape="rect" id="Node000014" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CSingle__Data__Transfer.html#ae92a645b6f504daf95c0a09085f79139" title="Returns the value of the W bit (write&#45;back bit)." alt="" coords="264,484,436,546"/>
+<area shape="poly" id="edge17_Node000001_Node000014" title=" " alt="" coords="125,407,175,439,230,470,252,481,247,483,227,475,172,444,126,413"/>
+<area shape="rect" id="Node000015" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a423eacd01e574e782a2b7cf51f28c56c" title="Returns a reference to the PC register (r15)." alt="" coords="264,570,436,615"/>
+<area shape="poly" id="edge18_Node000001_Node000015" title=" " alt="" coords="106,407,128,441,155,481,190,521,230,556,252,569,246,570,227,560,186,525,151,484,123,444,106,412"/>
+<area shape="rect" id="Node000016" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a171b5de26cc7722b65ba23794c171bea" title="Reads/writes data to the bus." alt="" coords="229,640,471,684"/>
+<area shape="poly" id="edge19_Node000001_Node000016" title=" " alt="" coords="101,407,119,455,145,513,182,574,204,601,230,625,237,631,231,631,227,629,201,605,177,577,140,516,114,457,100,413"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#afeea0a05cdda26114d6e03102f2d3a78" title="Performs a shift on the given value." alt="" coords="519,74,731,119"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="446,94,506,95,501,98,448,99"/>
+<area shape="rect" id="Node000004" href="$namespacezero__mate_1_1utils_1_1math.html#a00a7aae00296bd2b28674fa305507ded" title="Performs an ASR (arithmetic shift right) operation on the given integral value." alt="" coords="1055,5,1257,33"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="729,71,779,62,914,42,1042,29,1037,32,914,48,780,67,731,76"/>
+<area shape="rect" id="Node000006" href="$namespacezero__mate_1_1utils_1_1math.html#a6c9f1b8e3c02df97e6776206de0234d1" title="Performs an LSL (logical shift left) operation on the given integral value." alt="" coords="1057,57,1255,85"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="731,89,1044,75,1039,78,732,94"/>
+<area shape="rect" id="Node000007" href="$namespacezero__mate_1_1utils_1_1math.html#a35568bdda3e11a28f911c31a50dc0a48" title="Performs an LSR (logical shift right) operation on the given integral value." alt="" coords="793,108,993,136"/>
+<area shape="poly" id="edge7_Node000003_Node000007" title=" " alt="" coords="731,104,780,110,775,112,732,109"/>
+<area shape="rect" id="Node000009" href="$namespacezero__mate_1_1utils_1_1math.html#acec3045831345d7d2e2b3a20ff2fd4fd" title="Performs an ROR (rotate right extended) operation on the given integral value." alt="" coords="791,193,995,221"/>
+<area shape="poly" id="edge11_Node000003_Node000009" title=" " alt="" coords="681,117,846,186,840,188,682,122"/>
+<area shape="rect" id="Node000005" href="$namespacezero__mate_1_1utils_1_1math.html#af7d93c996dab2ff1b91c5a399dcfe29f" title="Tests whether a bit is set in the given integral variable." alt="" coords="1305,100,1473,144"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1221,31,1258,43,1302,65,1344,91,1339,91,1300,70,1256,48,1222,36"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="1222,83,1292,100,1287,101,1223,88"/>
+<area shape="poly" id="edge8_Node000007_Node000005" title=" " alt="" coords="993,119,1292,121,1287,123,994,124"/>
+<area shape="rect" id="Node000008" href="$namespacezero__mate_1_1utils_1_1math.html#a64baae537d736f483631d0256c6c44c1" title="Checks whether the given integral value is negative by examining the MSB." alt="" coords="1072,160,1240,204"/>
+<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="956,134,1059,159,1054,160,957,139"/>
+<area shape="poly" id="edge10_Node000008_Node000005" title=" " alt="" coords="1240,158,1293,146,1288,148,1241,163"/>
+<area shape="poly" id="edge12_Node000009_Node000005" title=" " alt="" coords="959,219,1024,228,1099,234,1179,230,1218,224,1256,214,1283,203,1309,187,1352,156,1357,154,1312,192,1286,207,1258,219,1219,229,1179,235,1099,239,1023,234,960,224"/>
+<area shape="rect" id="Node000017" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CSingle__Data__Transfer.html#aaca2c8a6c643bdc3d892aa18a63e0b04" title="Returns the value of the L bit (load/store bit)." alt="" coords="539,554,711,615"/>
+<area shape="poly" id="edge20_Node000016_Node000017" title=" " alt="" coords="432,636,521,614,526,612,433,641"/>
+<area shape="rect" id="Node000018" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a6089b52dce3c9ef88962236807c6c071" title="Reads data from the bus." alt="" coords="539,640,711,684"/>
+<area shape="poly" id="edge21_Node000016_Node000018" title=" " alt="" coords="471,659,526,662,521,662,472,664"/>
+<area shape="rect" id="Node000020" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a4e94818c05fb1ddd0a08762eb06e629d" title="Writes data to the bus." alt="" coords="539,709,711,754"/>
+<area shape="poly" id="edge23_Node000016_Node000020" title=" " alt="" coords="442,682,527,706,521,706,441,687"/>
+<area shape="rect" id="Node000019" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a0ea0a4bf2d64e0418882ab2d1840a8cb" title="Converts a given virtual address into a physical address using the MMU." alt="" coords="779,666,1007,727"/>
+<area shape="poly" id="edge22_Node000018_Node000019" title=" " alt="" coords="712,670,767,680,761,680,712,676"/>
+<area shape="poly" id="edge24_Node000020_Node000019" title=" " alt="" coords="712,717,761,713,767,713,712,723"/>
 </map>

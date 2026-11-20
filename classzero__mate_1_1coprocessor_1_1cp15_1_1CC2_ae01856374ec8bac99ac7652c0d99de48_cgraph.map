@@ -1,5 +1,7 @@
 <map id="zero_mate::coprocessor::cp15::CC2::Get_TTB_Address" name="zero_mate::coprocessor::cp15::CC2::Get_TTB_Address">
-<area shape="rect" id="Node000001" title="Returns the physical address of a given page table." alt="" coords="5,13,223,53"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CC2.html#ac31765da4a10567be0232abedeff1b75" title="Extracts bits determined by a given mask from a given secondary register." alt="" coords="271,5,452,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="223,30,257,30,257,35,223,35"/>
+<area shape="rect" id="Node000001" title="Returns the physical address of a given page table." alt="" coords="5,14,222,58"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CC2.html#a254552682bdf6d29017d76ac916f542b" title="Returns the set boundary type that determines the use of either TTB0 or TTB1." alt="" coords="270,14,501,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="222,34,257,36,251,36,222,39"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CC2.html#ac791c544839c158bfba9aaa4d6a1aa91" title="Extract bits from the NCRm_C0_Register::Translation_Table_Base_Control register." alt="" coords="549,5,729,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="502,34,536,36,531,36,502,39"/>
 </map>

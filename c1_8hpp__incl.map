@@ -1,10 +1,10 @@
 <map id="src/core/coprocessors/cp15/c1.hpp" name="src/core/coprocessors/cp15/c1.hpp">
-<area shape="rect" id="Node000001" title="This file defines the primary register C1 of coprocessor CP15." alt="" coords="39,5,202,45"/>
-<area shape="rect" id="Node000002" href="$primary__reg_8hpp.html" title="This file defines a primary register interface of coprocessor CP15." alt="" coords="5,93,135,119"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,47,87,83,83,80,106,44"/>
-<area shape="rect" id="Node000003" href="$logging__system_8hpp.html" title="This file defines a logging system that is used in the project." alt="" coords="33,167,208,207"/>
-<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="132,45,149,93,148,125,139,155,134,153,143,124,143,94,127,46"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="80,117,103,153,99,156,75,120"/>
-<area shape="rect" id="Node000004" href="$logger_8hpp.html" title="This file defines a general logger interface." alt="" coords="75,255,166,280"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="123,207,123,241,118,241,118,207"/>
+<area shape="rect" id="Node000001" title="This file defines the primary register C1 of coprocessor CP15." alt="" coords="40,5,201,50"/>
+<area shape="rect" id="Node000002" href="$primary__reg_8hpp.html" title="This file defines a primary register interface of coprocessor CP15." alt="" coords="5,98,134,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,53,88,86,83,83,108,48"/>
+<area shape="rect" id="Node000003" href="$logging__system_8hpp.html" title="This file defines a logging system that is used in the project." alt="" coords="33,174,207,218"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="131,48,148,98,148,130,140,160,135,158,143,129,143,98,130,53"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="78,124,101,160,96,160,77,129"/>
+<area shape="rect" id="Node000004" href="$logger_8hpp.html" title="This file defines a general logger interface." alt="" coords="76,266,165,294"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="122,217,123,252,118,250,118,221"/>
 </map>

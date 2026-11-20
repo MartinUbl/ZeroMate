@@ -1,0 +1,5 @@
+<map id="zero_mate::arm1176jzf_s::isa::CMultiply::Get_Rs_Idx" name="zero_mate::arm1176jzf_s::isa::CMultiply::Get_Rs_Idx">
+<area shape="rect" id="Node000001" title="Returns the index of the Rs register (first operand)." alt="" coords="229,5,401,67"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a576d9777886ed0e80a7bac6366848911" title="Executes a multiply instruction." alt="" coords="5,14,181,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,36,181,39,181,34,215,36"/>
+</map>

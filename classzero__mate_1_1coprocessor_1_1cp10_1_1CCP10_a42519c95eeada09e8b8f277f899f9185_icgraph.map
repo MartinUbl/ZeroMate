@@ -1,7 +1,7 @@
 <map id="zero_mate::coprocessor::cp10::CCP10::Is_FPU_Enabled" name="zero_mate::coprocessor::cp10::CCP10::Is_FPU_Enabled">
-<area shape="rect" id="Node000001" title="Checks whether the coprocessor is enabled or not." alt="" coords="231,45,408,100"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#ad976e02e1423e39d963927ffc922f653" title="Performs a coprocessor data operation instruction (ICoprocessor interface)." alt="" coords="5,5,183,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,57,182,51,183,46,218,52"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#a334d07e718be5e14129a54f28bbf84b2" title="Performs a coprocessor data transfer instruction (ICoprocessor interface)." alt="" coords="5,84,183,139"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,93,183,99,182,94,217,88"/>
+<area shape="rect" id="Node000001" title="Checks whether the coprocessor is enabled or not." alt="" coords="230,48,406,110"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#ad976e02e1423e39d963927ffc922f653" title="Performs a coprocessor data operation instruction (ICoprocessor interface)." alt="" coords="5,5,182,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,60,182,56,182,50,217,59"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#a334d07e718be5e14129a54f28bbf84b2" title="Performs a coprocessor data transfer instruction (ICoprocessor interface)." alt="" coords="5,91,182,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="212,99,183,107,182,102,217,98"/>
 </map>

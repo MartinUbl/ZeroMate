@@ -1,7 +1,7 @@
 <map id="zero_mate::peripheral::CMini_UART::Clear_Pending_Receive_IRQ" name="zero_mate::peripheral::CMini_UART::Clear_Pending_Receive_IRQ">
-<area shape="rect" id="Node000001" title="Clears a pending receive IRQ." alt="" coords="5,45,215,100"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a14bb04f8e7b1c5e26088e3779463b737" title="Helper function to clear global IRQ flags (not those related to a particular IRQ type)." alt="" coords="263,5,462,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,53,249,48,250,53,215,59"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#aade3f3d1075daa5531f1ab1b27f202de" title="Checks whether there is a pending transmit IRQ." alt="" coords="263,84,463,139"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="215,86,249,91,249,97,214,91"/>
+<area shape="rect" id="Node000001" title="Clears a pending receive IRQ." alt="" coords="5,48,214,110"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a14bb04f8e7b1c5e26088e3779463b737" title="Helper function to clear global IRQ flags (not those related to a particular IRQ type)." alt="" coords="262,5,460,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,59,249,55,244,56,215,64"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#aade3f3d1075daa5531f1ab1b27f202de" title="Checks whether there is a pending transmit IRQ." alt="" coords="262,91,461,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="214,94,249,102,244,102,214,99"/>
 </map>

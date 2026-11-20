@@ -1,5 +1,5 @@
 <map id="zero_mate::arm1176jzf_s::CCPU_Core::Set_Interrupt_Mask_Bits" name="zero_mate::arm1176jzf_s::CCPU_Core::Set_Interrupt_Mask_Bits">
-<area shape="rect" id="Node000001" title="Sets interrupt mask bits (A, I, and F) in the given value that is treated as the new value of the CPS..." alt="" coords="229,5,439,60"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#acd8902811a86afabf464f121d58628ee" title="Executes a CPS instruction." alt="" coords="5,13,181,53"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,35,182,35,182,30,216,30"/>
+<area shape="rect" id="Node000001" title="Sets interrupt mask bits (A, I, and F) in the given value that is treated as the new value of the CPS..." alt="" coords="229,5,437,67"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#acd8902811a86afabf464f121d58628ee" title="Executes a CPS instruction." alt="" coords="5,14,181,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,36,181,39,181,34,216,36"/>
 </map>

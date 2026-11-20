@@ -1,0 +1,10 @@
+<map id="zero_mate::arm1176jzf_s::isa::CPSR_Transfer::Get_Register_Type" name="zero_mate::arm1176jzf_s::isa::CPSR_Transfer::Get_Register_Type">
+<area shape="rect" id="Node000001" title="Returns the type of the special register involved in the operation." alt="" coords="488,32,660,93"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a82f0fa55ec787c7a39bac81b7437aec2" title="Executes an MRS instruction (move data from CPSR/SPSR to an ARM register)." alt="" coords="229,5,440,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="470,48,440,46,440,40,475,48"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#abe7461d09a52f28f99037717f61975c6" title="Executes an MSR instruction (move data to CPSR/SPSR from an ARM register)." alt="" coords="229,75,440,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="475,77,441,84,440,79,470,77"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a3a90c040b3cbe4545a9acc5e35acdd45" title="Executes a PSR transfer instruction." alt="" coords="5,40,181,85"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="211,46,182,52,180,47,216,44"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="211,80,181,78,181,72,216,79"/>
+</map>

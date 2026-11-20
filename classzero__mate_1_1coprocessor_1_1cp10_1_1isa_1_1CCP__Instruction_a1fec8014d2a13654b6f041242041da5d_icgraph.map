@@ -1,0 +1,15 @@
+<map id="zero_mate::coprocessor::cp10::isa::CCP_Instruction::Get_Type" name="zero_mate::coprocessor::cp10::isa::CCP_Instruction::Get_Type">
+<area shape="rect" id="Node000001" title="Returns the type of the instruction." alt="" coords="475,91,672,152"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CCP__Data__Processing__Inst.html#a2cc04522678dbc4d71afc612e6db6f28" title="Returns the type of the instruction." alt="" coords="230,5,427,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="466,85,419,70,419,65,471,85"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CCP__Data__Transfer__Inst.html#ac490656635197503e5b572d091f56067" title="Returns the type of the instruction." alt="" coords="239,91,418,152"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="457,122,419,124,418,119,462,121"/>
+<area shape="rect" id="Node000006" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CCP__Register__Transfer__Inst.html#a28c8ac851ef5d99994e2498cb20d8262" title="Returns the type of the instruction." alt="" coords="237,176,420,238"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="471,157,420,178,419,173,466,159"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#ad976e02e1423e39d963927ffc922f653" title="Performs a coprocessor data operation instruction (ICoprocessor interface)." alt="" coords="5,5,182,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="212,37,183,39,181,34,216,35"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#a334d07e718be5e14129a54f28bbf84b2" title="Performs a coprocessor data transfer instruction (ICoprocessor interface)." alt="" coords="5,91,182,152"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="221,122,183,124,182,119,226,121"/>
+<area shape="rect" id="Node000007" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#a892715f65d765e9646efd9b1995ad16e" title="Performs a coprocessor register transfer instruction (ICoprocessor interface)." alt="" coords="5,176,182,238"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="219,207,182,209,182,204,224,207"/>
+</map>

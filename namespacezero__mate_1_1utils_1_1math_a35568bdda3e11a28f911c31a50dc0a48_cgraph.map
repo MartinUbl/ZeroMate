@@ -1,5 +1,8 @@
 <map id="zero_mate::utils::math::LSR" name="zero_mate::utils::math::LSR">
-<area shape="rect" id="Node000001" title="Performs an LSR (logical shift right) operation on the given integral value." alt="" coords="5,13,207,38"/>
-<area shape="rect" id="Node000002" href="$namespacezero__mate_1_1utils_1_1math.html#af7d93c996dab2ff1b91c5a399dcfe29f" title="Tests whether a bit is set in the given integral variable." alt="" coords="255,5,424,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,23,241,23,241,28,207,28"/>
+<area shape="rect" id="Node000001" title="Performs an LSR (logical shift right) operation on the given integral value." alt="" coords="5,14,206,42"/>
+<area shape="rect" id="Node000002" href="$namespacezero__mate_1_1utils_1_1math.html#af7d93c996dab2ff1b91c5a399dcfe29f" title="Tests whether a bit is set in the given integral variable." alt="" coords="470,5,638,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,21,254,20,422,20,457,23,452,23,422,25,254,25,206,26"/>
+<area shape="rect" id="Node000003" href="$namespacezero__mate_1_1utils_1_1math.html#a64baae537d736f483631d0256c6c44c1" title="Checks whether the given integral value is negative by examining the MSB." alt="" coords="254,35,422,79"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="206,38,241,44,235,45,206,43"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="422,43,452,41,457,41,423,48"/>
 </map>

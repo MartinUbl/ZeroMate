@@ -1,7 +1,34 @@
 <map id="zero_mate::arm1176jzf_s::CCPU_Core::Convert_Virtual_Addr_To_Physical_Addr" name="zero_mate::arm1176jzf_s::CCPU_Core::Convert_Virtual_Addr_To_Physical_Addr">
-<area shape="rect" id="Node000001" title="Converts a given virtual address into a physical address using the MMU." alt="" coords="227,30,455,85"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a6089b52dce3c9ef88962236807c6c071" title="Reads data from the bus." alt="" coords="5,5,179,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="213,44,178,39,179,34,213,38"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a4e94818c05fb1ddd0a08762eb06e629d" title="Writes data to the bus." alt="" coords="5,69,179,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="213,76,179,81,178,76,213,71"/>
+<area shape="rect" id="Node000001" title="Converts a given virtual address into a physical address using the MMU." alt="" coords="960,225,1187,286"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a6089b52dce3c9ef88962236807c6c071" title="Reads data from the bus." alt="" coords="739,268,912,313"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="942,274,913,281,912,276,947,273"/>
+<area shape="rect" id="Node000013" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a4e94818c05fb1ddd0a08762eb06e629d" title="Writes data to the bus." alt="" coords="739,160,912,205"/>
+<area shape="poly" id="edge12_Node000001_Node000013" title=" " alt="" coords="950,220,903,208,904,203,955,220"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a524d4d2622a78e1c416bf4528700bc00" title="Executes a block data transfer instruction." alt="" coords="482,229,658,274"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="722,275,659,268,658,262,727,275"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a28607032a48bea557d81eec0460f4aa6" title="Executes an RFE instruction." alt="" coords="482,469,658,514"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="807,325,761,395,729,429,693,459,659,476,657,471,690,455,725,426,757,391,803,327"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#aa327755c4c57c01f03e16fb3d1195f6a" title="Fetches the next instruction." alt="" coords="484,384,656,445"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="781,321,693,374,658,389,656,384,690,369,776,322"/>
+<area shape="rect" id="Node000009" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a066aca0627655bc1e068b181fb0964bd" title="Performs a halfword data read from a given address." alt="" coords="458,298,682,360"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="722,306,683,315,682,309,727,305"/>
+<area shape="rect" id="Node000011" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a171b5de26cc7722b65ba23794c171bea" title="Reads/writes data to the bus." alt="" coords="449,160,691,205"/>
+<area shape="poly" id="edge10_Node000002_Node000011" title=" " alt="" coords="772,260,690,219,659,208,659,203,692,215,778,260"/>
+<area shape="rect" id="Node000006" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a1665360d8ae71ed541b4c10f39e655a5" title=" " alt="" coords="227,392,400,437"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="466,415,400,417,400,412,471,414"/>
+<area shape="rect" id="Node000007" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#ad07b9956fd3f7b6c64b93c69243092f4" title="Starts the execution." alt="" coords="5,357,178,402"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="209,399,179,396,178,391,214,398"/>
+<area shape="rect" id="Node000008" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a16544e9981489e1f4a25405248e5a5c0" title=" " alt="" coords="5,427,178,471"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="209,431,179,438,178,433,214,429"/>
+<area shape="rect" id="Node000010" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#ae5fc1112d78d8c344841fd94d1356635" title="Executes a halfword data transfer instruction." alt="" coords="226,268,401,313"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="441,310,402,306,401,301,446,309"/>
+<area shape="rect" id="Node000012" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#ab4697275a93c62613b13cdd77726f81c" title="Executes a single data transfer instruction." alt="" coords="226,160,401,205"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="431,183,402,185,401,180,436,181"/>
+<area shape="poly" id="edge13_Node000013_Node000003" title=" " alt="" coords="723,210,656,231,654,226,729,208"/>
+<area shape="poly" id="edge17_Node000013_Node000011" title=" " alt="" coords="721,183,692,185,691,180,726,182"/>
+<area shape="rect" id="Node000014" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#aa96f69190ff05fe80c310e85b4d1002c" title="Executes an SRS instruction." alt="" coords="482,5,658,50"/>
+<area shape="poly" id="edge14_Node000013_Node000014" title=" " alt="" coords="792,148,747,106,690,65,658,50,658,45,693,60,750,102,797,149"/>
+<area shape="rect" id="Node000015" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a00f4cf1169d774a50886f60f5f166f8b" title="Performs a halfword data write to a given address." alt="" coords="458,74,683,136"/>
+<area shape="poly" id="edge15_Node000013_Node000015" title=" " alt="" coords="732,155,675,139,674,134,737,155"/>
+<area shape="poly" id="edge16_Node000015_Node000010" title=" " alt="" coords="452,146,451,150,435,166,426,182,417,199,403,219,347,269,344,265,399,215,413,196,421,179,430,163,447,146,456,143"/>
 </map>

@@ -1,5 +1,5 @@
 <map id="zero_mate::peripheral::CTRNG::CTRNG" name="zero_mate::peripheral::CTRNG::CTRNG">
-<area shape="rect" id="Node000001" title="Creates an instance of the class." alt="" coords="5,5,171,45"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CTRNG.html#a3a5abd59d64cb3ff975e85b829a83665" title="Resets/re&#45;initializes the random number generator (IPeripheral interface)." alt="" coords="219,5,384,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="171,23,205,23,205,28,171,28"/>
+<area shape="rect" id="Node000001" title="Creates an instance of the class." alt="" coords="5,5,170,50"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CTRNG.html#a3a5abd59d64cb3ff975e85b829a83665" title="Resets/re&#45;initializes the random number generator (IPeripheral interface)." alt="" coords="218,5,382,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,25,205,27,200,28,170,30"/>
 </map>

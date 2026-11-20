@@ -1,5 +1,5 @@
 <map id="zero_mate::arm1176jzf_s::isa::CSMULxy::CSMULxy" name="zero_mate::arm1176jzf_s::isa::CSMULxy::CSMULxy">
-<area shape="rect" id="Node000001" title="Creates an instance of the class." alt="" coords="5,13,208,53"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CInstruction.html#a33fb155ea33d9b963e8cf9009fb5adef" title="Returns the 32&#45;bit value (encoding of the instruction)." alt="" coords="256,5,429,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,30,242,30,242,35,208,35"/>
+<area shape="rect" id="Node000001" title="Creates an instance of the class." alt="" coords="5,14,207,58"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CInstruction.html#af0813b890400084720f720a1cfb6a683" title="Creates an instance of the class." alt="" coords="255,5,427,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="207,34,241,36,236,36,207,39"/>
 </map>

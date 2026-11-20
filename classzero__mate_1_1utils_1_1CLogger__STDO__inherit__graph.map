@@ -1,5 +1,5 @@
 <map id="zero_mate::utils::CLogger_STDO" name="zero_mate::utils::CLogger_STDO">
-<area shape="rect" id="Node000001" title="This class represents a logging_system that logs messages to the standard output (STDO)." alt="" coords="5,79,236,104"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1utils_1_1ILogger.html" title="This class represents a logging_system interface." alt="" coords="29,5,212,31"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,44,123,79,118,79,118,44"/>
+<area shape="rect" id="Node000001" title="This class represents a logging_system that logs messages to the standard output (STDO)." alt="" coords="5,81,236,109"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1utils_1_1ILogger.html" title="This class represents a logging_system interface." alt="" coords="29,5,212,33"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="122,47,123,82,118,79,119,51"/>
 </map>

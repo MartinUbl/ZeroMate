@@ -1,11 +1,11 @@
 <map id="src/gui/windows/peripherals/monitor_window.hpp" name="src/gui/windows/peripherals/monitor_window.hpp">
-<area shape="rect" id="Node000001" title="This file defines a window that visualizes the memory&#45;mapped debug monitor." alt="" coords="48,5,251,45"/>
-<area shape="rect" id="Node000002" href="$window_8hpp.html" title="This file defines an interface for all windows that will be rendered by the application." alt="" coords="5,101,128,126"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,47,89,92,86,89,129,44"/>
-<area shape="rect" id="Node000004" href="$monitor_8hpp.html" title="This file defines an 80x25 8&#45;bit memory&#45;mapped monitor which is used as a debug output." alt="" coords="152,93,315,133"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="170,44,207,82,203,85,166,47"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="11,181,123,207"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="69,126,69,167,64,167,64,126"/>
-<area shape="rect" id="Node000005" href="$peripheral_8hpp.html" title="This file defines an interface for a memory&#45;mapped peripheral." alt="" coords="175,181,291,207"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="236,134,236,167,231,167,231,134"/>
+<area shape="rect" id="Node000001" title="This file defines a window that visualizes the memory&#45;mapped debug monitor." alt="" coords="48,5,250,50"/>
+<area shape="rect" id="Node000002" href="$window_8hpp.html" title="This file defines an interface for all windows that will be rendered by the application." alt="" coords="5,106,128,134"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,53,91,96,87,93,131,48"/>
+<area shape="rect" id="Node000004" href="$monitor_8hpp.html" title="This file defines an 80x25 8&#45;bit memory&#45;mapped monitor which is used as a debug output." alt="" coords="152,98,314,143"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="170,48,206,87,200,87,169,53"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="11,191,122,218"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="68,133,69,176,64,175,65,137"/>
+<area shape="rect" id="Node000005" href="$peripheral_8hpp.html" title="This file defines an interface for a memory&#45;mapped peripheral." alt="" coords="176,191,291,218"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="235,141,235,176,231,174,231,145"/>
 </map>

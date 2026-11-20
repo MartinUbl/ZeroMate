@@ -1,0 +1,5 @@
+<map id="zero_mate::arm1176jzf_s::isa::CCoprocessor_Reg_Transfer::Is_L_Bit_Set" name="zero_mate::arm1176jzf_s::isa::CCoprocessor_Reg_Transfer::Is_L_Bit_Set">
+<area shape="rect" id="Node000001" title="Returns the value of the L bit (bit 20 = load/store bit)." alt="" coords="230,5,428,67"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CCP15.html#acf21d27cfbac80830347b0e69c1385c1" title="Performs a coprocessor register transfer instruction (ICoprocessor interface)." alt="" coords="5,5,182,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="211,36,182,39,182,34,217,36"/>
+</map>

@@ -1,7 +1,7 @@
 <map id="zero_mate::peripheral::CBSC::Clear_FIFO" name="zero_mate::peripheral::CBSC::Clear_FIFO">
-<area shape="rect" id="Node000001" title="Clears the FIFO." alt="" coords="481,5,647,45"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CBSC.html#ab743dd233479745864da73cf7020ba15" title="Performs actions after the control register has been written to." alt="" coords="219,5,433,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="468,28,434,28,434,23,468,23"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1CBSC.html#a91d31c6b0a9fa05ef7d1488f3e67247d" title="Writes data to the peripheral (IPeripheral interface)." alt="" coords="5,5,171,45"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="205,28,171,28,171,23,205,23"/>
+<area shape="rect" id="Node000001" title="Clears the FIFO." alt="" coords="480,5,644,50"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CBSC.html#ab743dd233479745864da73cf7020ba15" title="Performs actions after the control register has been written to." alt="" coords="218,5,432,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="462,28,433,30,433,25,467,28"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1CBSC.html#a91d31c6b0a9fa05ef7d1488f3e67247d" title="Writes data to the peripheral (IPeripheral interface)." alt="" coords="5,5,170,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="199,28,170,30,170,25,205,27"/>
 </map>

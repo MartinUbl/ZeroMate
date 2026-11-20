@@ -1,45 +1,45 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CInstruction.html" title="This class represents a parent class for all ARM instructions used in the emulator." alt="" coords="5,730,179,770"/>
-<area shape="rect" id="Node000001" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CBlock__Data__Transfer.html" title="This class represents a data block transfer instruction." alt="" coords="234,5,407,60"/>
-<area shape="poly" id="edge10_Node000000_Node000001" title=" " alt="" coords="93,716,106,578,131,387,149,288,170,198,195,124,209,94,225,71,238,58,241,62,229,74,214,97,200,126,176,200,154,289,137,387,111,579,98,717"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CBranch.html" title="This class represents a branch instruction." alt="" coords="234,85,407,125"/>
-<area shape="poly" id="edge11_Node000000_Node000002" title=" " alt="" coords="94,716,108,589,134,416,151,328,172,247,197,181,225,135,239,123,242,127,229,138,201,183,177,249,157,329,139,417,113,590,99,717"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CBranch__And__Exchange.html" title="This class represents a branch and exchange instruction." alt="" coords="234,149,407,204"/>
-<area shape="poly" id="edge12_Node000000_Node000003" title=" " alt="" coords="95,716,112,605,140,456,158,381,178,312,200,255,225,215,238,202,242,206,229,218,205,257,183,314,163,382,146,457,117,606,100,717"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CCLZ.html" title="This class represents a count leading zeros instruction." alt="" coords="234,229,407,269"/>
-<area shape="poly" id="edge13_Node000000_Node000004" title=" " alt="" coords="90,716,95,630,102,574,113,513,130,451,153,389,185,331,225,279,240,267,243,271,229,283,189,334,158,391,135,452,118,514,107,575,100,630,96,716"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CCPS.html" title="This class represents a change processor state instruction." alt="" coords="234,293,407,333"/>
-<area shape="poly" id="edge14_Node000000_Node000005" title=" " alt="" coords="92,716,100,641,121,541,138,488,160,436,189,386,225,343,240,331,244,335,229,347,193,389,165,438,143,490,126,542,105,642,97,717"/>
-<area shape="rect" id="Node000006" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CCoprocessor__Data__Operation.html" title="This class represents a coprocessor data operation." alt="" coords="234,357,407,412"/>
-<area shape="poly" id="edge15_Node000000_Node000006" title=" " alt="" coords="96,716,109,654,133,576,150,535,171,494,195,456,225,421,238,410,242,414,229,425,200,459,175,497,155,537,138,578,114,656,101,717"/>
-<area shape="rect" id="Node000007" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CCoprocessor__Data__Transfer.html" title="This class represents a coprocessor data transfer instruction." alt="" coords="234,436,407,491"/>
-<area shape="poly" id="edge16_Node000000_Node000007" title=" " alt="" coords="101,716,118,669,144,611,179,552,225,500,240,489,243,493,228,504,184,555,149,614,123,671,106,718"/>
-<area shape="rect" id="Node000008" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CCoprocessor__Reg__Transfer.html" title="This class represents a coprocessor register transfer instruction." alt="" coords="234,515,407,569"/>
-<area shape="poly" id="edge17_Node000000_Node000008" title=" " alt="" coords="110,717,157,649,189,612,225,580,245,567,248,572,228,584,193,616,161,652,114,720"/>
-<area shape="rect" id="Node000009" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CData__Processing.html" title="This class represents a data processing instruction." alt="" coords="227,594,415,634"/>
-<area shape="poly" id="edge18_Node000000_Node000009" title=" " alt="" coords="123,719,170,680,225,644,251,632,254,637,228,648,173,685,126,723"/>
-<area shape="rect" id="Node000010" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CExtend.html" title="This class represents an extend instruction." alt="" coords="234,658,407,698"/>
-<area shape="poly" id="edge19_Node000000_Node000010" title=" " alt="" coords="168,723,256,696,257,701,170,728"/>
-<area shape="rect" id="Node000011" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CHalfword__Data__Transfer.html" title="This class represents a Halfword data transfer instruction." alt="" coords="233,723,409,777"/>
-<area shape="poly" id="edge20_Node000000_Node000011" title=" " alt="" coords="192,747,233,747,233,753,192,753"/>
-<area shape="rect" id="Node000012" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CMultiply.html" title="This class represents a multiplication instruction." alt="" coords="234,802,407,842"/>
-<area shape="poly" id="edge21_Node000000_Node000012" title=" " alt="" coords="170,772,257,799,256,804,168,777"/>
-<area shape="rect" id="Node000013" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CMultiply__Long.html" title="This class represents a multiplication long instruction." alt="" coords="234,866,407,906"/>
-<area shape="poly" id="edge22_Node000000_Node000013" title=" " alt="" coords="126,777,173,815,228,852,254,863,251,868,225,856,170,820,123,781"/>
-<area shape="rect" id="Node000014" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CPSR__Transfer.html" title="This class represents a PSR instruction." alt="" coords="234,930,407,970"/>
-<area shape="poly" id="edge23_Node000000_Node000014" title=" " alt="" coords="113,780,160,849,192,885,228,916,249,928,246,932,225,920,188,889,156,852,109,783"/>
-<area shape="rect" id="Node000015" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CRFE.html" title="This class represents an RFE instruction (return from exception)." alt="" coords="234,994,407,1034"/>
-<area shape="poly" id="edge24_Node000000_Node000015" title=" " alt="" coords="106,782,124,827,150,880,185,934,228,980,246,992,243,996,225,984,180,937,145,882,119,829,101,784"/>
-<area shape="rect" id="Node000016" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CSMLAWy.html" title="This class represents a CSMLAWy instruction." alt="" coords="234,1058,407,1098"/>
-<area shape="poly" id="edge25_Node000000_Node000016" title=" " alt="" coords="102,783,116,839,140,909,177,981,201,1015,228,1044,245,1056,242,1060,225,1048,197,1018,173,984,135,911,111,841,97,784"/>
-<area shape="rect" id="Node000017" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CSMLAxy.html" title="This class represents a CSMLAxy instruction." alt="" coords="234,1122,407,1162"/>
-<area shape="poly" id="edge26_Node000000_Node000017" title=" " alt="" coords="99,784,110,851,132,938,149,984,170,1029,197,1071,228,1108,244,1120,241,1124,225,1112,192,1074,166,1032,144,986,127,940,104,852,94,784"/>
-<area shape="rect" id="Node000018" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CSMULWy.html" title="This class represents a CSMULWy instruction." alt="" coords="234,1186,407,1226"/>
-<area shape="poly" id="edge27_Node000000_Node000018" title=" " alt="" coords="97,784,104,862,124,966,140,1021,163,1076,192,1127,229,1172,244,1184,240,1188,225,1176,188,1130,158,1078,135,1023,118,967,98,863,91,784"/>
-<area shape="rect" id="Node000019" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CSMULxy.html" title="This class represents a SMULxy instruction." alt="" coords="234,1250,407,1290"/>
-<area shape="poly" id="edge28_Node000000_Node000019" title=" " alt="" coords="95,784,99,873,105,931,116,994,132,1059,156,1123,188,1183,229,1236,243,1248,240,1252,225,1240,183,1186,151,1125,127,1060,111,995,100,932,93,873,90,784"/>
-<area shape="rect" id="Node000020" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CSRS.html" title="his class represents an SRS instruction (store return state onto a stack)." alt="" coords="234,1314,407,1354"/>
-<area shape="poly" id="edge29_Node000000_Node000020" title=" " alt="" coords="100,784,116,899,143,1054,161,1132,181,1203,204,1261,229,1300,242,1312,239,1316,225,1304,199,1263,176,1204,156,1133,138,1055,110,900,95,785"/>
-<area shape="rect" id="Node000021" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CSingle__Data__Transfer.html" title="This class represents a single data transfer instruction." alt="" coords="234,1379,407,1433"/>
-<area shape="poly" id="edge30_Node000000_Node000021" title=" " alt="" coords="99,783,114,910,140,1083,158,1171,179,1252,202,1318,229,1364,242,1377,238,1381,225,1368,198,1321,174,1253,153,1173,135,1084,109,911,94,784"/>
+<area shape="rect" id="Node000000" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CInstruction.html" title="This class represents a parent class for all ARM instructions used in the emulator." alt="" coords="5,787,178,832"/>
+<area shape="rect" id="Node000001" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CBlock__Data__Transfer.html" title="This class represents a data block transfer instruction." alt="" coords="233,5,406,67"/>
+<area shape="poly" id="edge10_Node000000_Node000001" title=" " alt="" coords="93,772,105,623,129,416,146,311,168,214,193,134,208,102,224,77,238,65,236,70,228,80,213,105,198,136,173,216,152,312,134,417,110,623,98,772"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CBranch.html" title="This class represents a branch instruction." alt="" coords="233,91,406,136"/>
+<area shape="poly" id="edge11_Node000000_Node000002" title=" " alt="" coords="93,771,106,634,131,448,149,354,170,268,195,196,209,168,224,146,240,134,237,139,228,150,213,171,200,198,175,269,154,355,137,449,111,635,98,772"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CBranch__And__Exchange.html" title="This class represents a branch and exchange instruction." alt="" coords="233,160,406,222"/>
+<area shape="poly" id="edge12_Node000000_Node000003" title=" " alt="" coords="95,772,111,651,138,491,156,410,176,336,199,275,224,232,238,220,236,225,228,235,203,277,181,338,161,412,143,492,116,652,100,772"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CCLZ.html" title="This class represents a count leading zeros instruction." alt="" coords="233,246,406,290"/>
+<area shape="poly" id="edge13_Node000000_Node000004" title=" " alt="" coords="89,772,92,679,98,619,109,554,126,487,150,420,182,357,224,301,241,289,238,293,228,305,187,360,155,422,131,488,114,555,104,620,97,679,94,772"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CCPS.html" title="This class represents a change processor state instruction." alt="" coords="233,315,406,360"/>
+<area shape="poly" id="edge14_Node000000_Node000005" title=" " alt="" coords="91,771,98,690,118,583,135,526,158,470,187,418,224,370,241,358,239,363,228,374,191,420,162,473,140,528,123,584,103,691,96,772"/>
+<area shape="rect" id="Node000006" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CCoprocessor__Data__Operation.html" title="This class represents a coprocessor data operation." alt="" coords="233,384,406,446"/>
+<area shape="poly" id="edge15_Node000000_Node000006" title=" " alt="" coords="95,771,107,705,131,622,148,578,169,534,194,493,224,456,240,444,237,448,228,459,198,496,173,537,153,580,136,624,113,707,100,772"/>
+<area shape="rect" id="Node000007" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CCoprocessor__Data__Transfer.html" title="This class represents a coprocessor data transfer instruction." alt="" coords="233,469,406,531"/>
+<area shape="poly" id="edge16_Node000000_Node000007" title=" " alt="" coords="100,772,117,721,143,660,178,597,200,568,224,541,241,529,238,534,228,545,204,571,182,600,147,662,122,723,105,773"/>
+<area shape="rect" id="Node000008" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CCoprocessor__Reg__Transfer.html" title="This class represents a coprocessor register transfer instruction." alt="" coords="233,555,406,616"/>
+<area shape="poly" id="edge17_Node000000_Node000008" title=" " alt="" coords="109,772,156,700,188,661,224,626,243,615,240,619,227,630,192,664,161,703,114,775"/>
+<area shape="rect" id="Node000009" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CData__Processing.html" title="This class represents a data processing instruction." alt="" coords="226,640,413,685"/>
+<area shape="poly" id="edge18_Node000000_Node000009" title=" " alt="" coords="124,775,170,734,224,695,251,684,248,688,227,700,173,738,128,777"/>
+<area shape="rect" id="Node000010" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CExtend.html" title="This class represents an extend instruction." alt="" coords="233,710,406,754"/>
+<area shape="poly" id="edge19_Node000000_Node000010" title=" " alt="" coords="172,780,253,753,250,757,176,784"/>
+<area shape="rect" id="Node000011" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CHalfword__Data__Transfer.html" title="This class represents a Halfword data transfer instruction." alt="" coords="232,779,407,840"/>
+<area shape="poly" id="edge20_Node000000_Node000011" title=" " alt="" coords="192,807,233,808,229,811,195,812"/>
+<area shape="rect" id="Node000012" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CMultiply.html" title="This class represents a multiplication instruction." alt="" coords="233,864,406,909"/>
+<area shape="poly" id="edge21_Node000000_Node000012" title=" " alt="" coords="173,835,254,863,249,865,175,840"/>
+<area shape="rect" id="Node000013" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CMultiply__Long.html" title="This class represents a multiplication long instruction." alt="" coords="233,934,406,978"/>
+<area shape="poly" id="edge22_Node000000_Node000013" title=" " alt="" coords="125,840,173,881,227,919,252,932,247,934,224,924,170,885,127,845"/>
+<area shape="rect" id="Node000014" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CPSR__Transfer.html" title="This class represents a PSR instruction." alt="" coords="233,1003,406,1048"/>
+<area shape="poly" id="edge23_Node000000_Node000014" title=" " alt="" coords="111,843,159,917,191,955,227,989,247,1002,242,1004,224,993,187,959,155,920,111,848"/>
+<area shape="rect" id="Node000015" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CRFE.html" title="This class represents an RFE instruction (return from exception)." alt="" coords="233,1072,406,1117"/>
+<area shape="poly" id="edge24_Node000000_Node000015" title=" " alt="" coords="103,844,123,894,148,951,183,1008,204,1035,227,1058,245,1071,240,1073,224,1062,200,1038,179,1011,144,953,118,896,104,850"/>
+<area shape="rect" id="Node000016" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CSMLAWy.html" title="This class represents a CSMLAWy instruction." alt="" coords="233,1142,406,1186"/>
+<area shape="poly" id="edge25_Node000000_Node000016" title=" " alt="" coords="98,844,114,907,138,982,175,1060,199,1096,227,1128,244,1141,239,1142,224,1131,195,1099,171,1063,133,984,109,909,99,850"/>
+<area shape="rect" id="Node000017" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CSMLAxy.html" title="This class represents a CSMLAxy instruction." alt="" coords="233,1211,406,1256"/>
+<area shape="poly" id="edge26_Node000000_Node000017" title=" " alt="" coords="95,845,108,920,129,1014,146,1063,168,1111,195,1157,228,1197,243,1210,238,1211,224,1201,190,1160,163,1114,141,1065,124,1015,102,921,95,850"/>
+<area shape="rect" id="Node000018" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CSMULWy.html" title="This class represents a CSMULWy instruction." alt="" coords="233,1280,406,1325"/>
+<area shape="poly" id="edge27_Node000000_Node000018" title=" " alt="" coords="93,845,101,932,120,1044,137,1103,160,1162,190,1217,228,1266,243,1280,237,1280,224,1270,185,1220,155,1164,132,1105,115,1045,96,933,93,850"/>
+<area shape="rect" id="Node000019" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CSMULxy.html" title="This class represents a SMULxy instruction." alt="" coords="233,1350,406,1394"/>
+<area shape="poly" id="edge28_Node000000_Node000019" title=" " alt="" coords="98,844,117,958,145,1104,163,1178,182,1244,204,1298,228,1336,242,1349,237,1349,224,1339,199,1301,177,1246,157,1179,140,1106,112,959,98,850"/>
+<area shape="rect" id="Node000020" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CSRS.html" title="his class represents an SRS instruction (store return state onto a stack)." alt="" coords="233,1419,406,1464"/>
+<area shape="poly" id="edge29_Node000000_Node000020" title=" " alt="" coords="97,845,114,972,140,1139,158,1223,178,1299,202,1362,228,1405,242,1419,236,1419,224,1409,197,1364,173,1301,153,1224,135,1140,109,973,96,850"/>
+<area shape="rect" id="Node000021" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CSingle__Data__Transfer.html" title="This class represents a single data transfer instruction." alt="" coords="233,1488,406,1550"/>
+<area shape="poly" id="edge30_Node000000_Node000021" title=" " alt="" coords="96,845,112,985,138,1171,156,1266,176,1353,200,1425,228,1475,239,1488,234,1487,224,1478,196,1427,171,1354,150,1267,133,1172,107,985,96,850"/>
 </map>

@@ -1,5 +1,5 @@
 <map id="zero_mate::gui::CMonitor_Window::Render_Monitor" name="zero_mate::gui::CMonitor_Window::Render_Monitor">
-<area shape="rect" id="Node000001" title="Renders the contents of the memory&#45;mapped debug monitor." alt="" coords="240,5,431,45"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CMonitor__Window.html#a603ab2808379078762eea4a99b7cdc7b" title="Renders the debug memory&#45;mapped monitor (IGUI_Window interface)." alt="" coords="5,5,192,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="226,28,192,28,192,23,226,23"/>
+<area shape="rect" id="Node000001" title="Renders the contents of the memory&#45;mapped debug monitor." alt="" coords="239,5,429,50"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CMonitor__Window.html#a603ab2808379078762eea4a99b7cdc7b" title="Renders the debug memory&#45;mapped monitor (IGUI_Window interface)." alt="" coords="5,5,191,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="221,28,191,30,191,25,226,27"/>
 </map>

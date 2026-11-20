@@ -1,7 +1,7 @@
 <map id="zero_mate::gui::CLog_Window::Render_Filter" name="zero_mate::gui::CLog_Window::Render_Filter">
-<area shape="rect" id="Node000001" title="Renders a message filer." alt="" coords="452,5,627,45"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CLog__Window.html#ab5d91eb4a2187a347f7c4a9ba84a527d" title="Renders the top bar of the window (the options, clear button, and the filter)" alt="" coords="212,5,404,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="438,28,404,28,404,23,438,23"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1gui_1_1CLog__Window.html#a679fe192aa1335396f06e63678bb71d5" title="Renders the window (IGUI_Window interface)." alt="" coords="5,5,164,45"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="198,28,164,28,164,23,198,23"/>
+<area shape="rect" id="Node000001" title="Renders a message filer." alt="" coords="451,5,624,50"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CLog__Window.html#ab5d91eb4a2187a347f7c4a9ba84a527d" title="Renders the top bar of the window (the options, clear button, and the filter)." alt="" coords="212,5,403,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="433,28,403,30,403,25,438,28"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1gui_1_1CLog__Window.html#a679fe192aa1335396f06e63678bb71d5" title="Renders the window (IGUI_Window interface)." alt="" coords="5,5,164,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="193,28,164,30,164,25,199,27"/>
 </map>

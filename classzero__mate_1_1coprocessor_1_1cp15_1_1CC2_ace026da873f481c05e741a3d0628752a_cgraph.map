@@ -1,5 +1,5 @@
 <map id="zero_mate::coprocessor::cp15::CC2::Is_TTB_Inner_Cacheable" name="zero_mate::coprocessor::cp15::CC2::Is_TTB_Inner_Cacheable">
-<area shape="rect" id="Node000001" title="Returns information about whether a given translation table is inner cacheable or not." alt="" coords="5,5,192,60"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CC2.html#ac31765da4a10567be0232abedeff1b75" title="Extracts bits determined by a given mask from a given secondary register." alt="" coords="240,5,421,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,30,226,30,226,35,193,35"/>
+<area shape="rect" id="Node000001" title="Returns information about whether a given translation table is inner cacheable or not." alt="" coords="5,5,191,67"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CC2.html#ac31765da4a10567be0232abedeff1b75" title="Extracts bits determined by a given mask from a given secondary register." alt="" coords="239,5,419,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,34,226,36,220,36,191,39"/>
 </map>

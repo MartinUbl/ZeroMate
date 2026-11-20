@@ -1,5 +1,5 @@
 <map id="src/core/arm1176jzf_s/isa/branch_and_exchange.hpp" name="src/core/arm1176jzf_s/isa/branch_and_exchange.hpp">
-<area shape="rect" id="Node000001" title="This file defines a branch and exchange instruction (BX)." alt="" coords="5,5,241,45"/>
-<area shape="rect" id="Node000002" href="$instruction_8hpp.html" title="This file defines the interface of a general ARM instruction." alt="" coords="64,93,183,119"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="126,46,126,79,121,79,121,46"/>
+<area shape="rect" id="Node000001" title="This file defines a branch and exchange instruction (BX)." alt="" coords="5,5,241,50"/>
+<area shape="rect" id="Node000002" href="$instruction_8hpp.html" title="This file defines the interface of a general ARM instruction." alt="" coords="64,98,182,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,48,125,83,121,81,121,52"/>
 </map>

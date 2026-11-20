@@ -1,5 +1,5 @@
 <map id="zero_mate::gui::CCP15_Window::Render_Primary_Register_C7" name="zero_mate::gui::CCP15_Window::Render_Primary_Register_C7">
-<area shape="rect" id="Node000001" title="Renders registers that fall under primary register C7." alt="" coords="5,5,197,60"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CCP15__Window.html#a71ccd1e5a97f92d1032a0ede67af6a79" title="Renders a table (register values)." alt="" coords="245,13,420,53"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,30,231,30,231,35,198,35"/>
+<area shape="rect" id="Node000001" title="Renders registers that fall under primary register C7." alt="" coords="5,5,197,67"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CCP15__Window.html#a71ccd1e5a97f92d1032a0ede67af6a79" title="Renders a table (register values)." alt="" coords="245,14,419,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,34,231,36,226,36,197,39"/>
 </map>

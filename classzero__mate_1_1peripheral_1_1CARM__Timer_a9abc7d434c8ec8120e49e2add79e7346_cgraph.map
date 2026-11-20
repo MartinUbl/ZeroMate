@@ -1,5 +1,5 @@
 <map id="zero_mate::peripheral::CARM_Timer::Timer_Has_Reached_Zero" name="zero_mate::peripheral::CARM_Timer::Timer_Has_Reached_Zero">
-<area shape="rect" id="Node000001" title="This procedure is called whenever the timer reaches 0 (helper function)." alt="" coords="5,5,197,60"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CARM__Timer.html#a8aa88bde21b52e4ae5132f8e2a5fb73a" title="Returns the current content of a register." alt="" coords="245,13,423,53"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,30,231,30,231,35,198,35"/>
+<area shape="rect" id="Node000001" title="This procedure is called whenever the timer reaches 0 (helper function)." alt="" coords="5,5,197,67"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CARM__Timer.html#a8aa88bde21b52e4ae5132f8e2a5fb73a" title="Returns the current content of a register." alt="" coords="245,14,421,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,34,232,36,226,36,197,39"/>
 </map>

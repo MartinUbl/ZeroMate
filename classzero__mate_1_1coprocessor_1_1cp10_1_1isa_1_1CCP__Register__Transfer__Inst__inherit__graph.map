@@ -1,5 +1,5 @@
 <map id="zero_mate::coprocessor::cp10::isa::CCP_Register_Transfer_Inst" name="zero_mate::coprocessor::cp10::isa::CCP_Register_Transfer_Inst">
-<area shape="rect" id="Node000001" title="This class represents a general CP10 register transfer instruction." alt="" coords="13,93,196,148"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CCP__Instruction.html" title="This class represents a general CP10 instruction." alt="" coords="5,5,204,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,59,107,93,102,93,102,59"/>
+<area shape="rect" id="Node000001" title="This class represents a general CP10 register transfer instruction." alt="" coords="13,98,195,160"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CCP__Instruction.html" title="This class represents a general CP10 instruction." alt="" coords="5,5,203,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="106,63,107,98,101,97,102,68"/>
 </map>

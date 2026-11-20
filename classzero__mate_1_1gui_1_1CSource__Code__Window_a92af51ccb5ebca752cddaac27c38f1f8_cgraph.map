@@ -1,5 +1,5 @@
 <map id="zero_mate::gui::CSource_Code_Window::Render_Table_Body" name="zero_mate::gui::CSource_Code_Window::Render_Table_Body">
-<area shape="rect" id="Node000001" title="Renders the body of a source code table." alt="" coords="5,5,260,45"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#a854994af8a4bb90df17e2e24c8d7a3a5" title="Renders a single breakpoint." alt="" coords="308,5,560,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="260,23,294,23,294,28,260,28"/>
+<area shape="rect" id="Node000001" title="Renders the body of a source code table." alt="" coords="5,5,260,50"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#a854994af8a4bb90df17e2e24c8d7a3a5" title="Renders a single breakpoint." alt="" coords="308,5,559,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="260,25,295,28,290,28,260,30"/>
 </map>

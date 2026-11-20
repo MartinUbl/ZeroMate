@@ -1,7 +1,13 @@
 <map id="zero_mate::arm1176jzf_s::CCPU_Core::Perform_Halfword_Data_Transfer_Read" name="zero_mate::arm1176jzf_s::CCPU_Core::Perform_Halfword_Data_Transfer_Read">
-<area shape="rect" id="Node000001" title="Performs a halfword data read from a given address." alt="" coords="5,5,229,60"/>
-<area shape="rect" id="Node000002" href="$namespacezero__mate_1_1utils_1_1math.html#afda20fa50949a9cd3a80f811b0085221" title="Sign&#45;extends the given integral value." alt="" coords="277,13,447,53"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,30,264,30,264,35,229,35"/>
-<area shape="rect" id="Node000003" href="$namespacezero__mate_1_1utils_1_1math.html#af7d93c996dab2ff1b91c5a399dcfe29f" title="Tests whether a bit is set in the given integral variable." alt="" coords="495,13,664,53"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="447,30,481,30,481,35,447,35"/>
+<area shape="rect" id="Node000001" title="Performs a halfword data read from a given address." alt="" coords="5,44,229,106"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a6089b52dce3c9ef88962236807c6c071" title="Reads data from the bus." alt="" coords="277,16,449,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="229,56,264,53,258,54,230,61"/>
+<area shape="rect" id="Node000004" href="$namespacezero__mate_1_1utils_1_1math.html#afda20fa50949a9cd3a80f811b0085221" title="Sign&#45;extends the given integral value." alt="" coords="279,87,447,132"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="229,88,266,95,260,96,229,93"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a0ea0a4bf2d64e0418882ab2d1840a8cb" title="Converts a given virtual address into a physical address using the MMU." alt="" coords="497,5,724,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="449,35,484,37,479,38,450,41"/>
+<area shape="rect" id="Node000005" href="$namespacezero__mate_1_1utils_1_1math.html#a64baae537d736f483631d0256c6c44c1" title="Checks whether the given integral value is negative by examining the MSB." alt="" coords="526,91,695,136"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="447,108,514,112,508,112,448,114"/>
+<area shape="rect" id="Node000006" href="$namespacezero__mate_1_1utils_1_1math.html#af7d93c996dab2ff1b91c5a399dcfe29f" title="Tests whether a bit is set in the given integral variable." alt="" coords="772,91,941,136"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="695,111,759,113,754,114,695,116"/>
 </map>

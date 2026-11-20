@@ -1,12 +1,12 @@
 <map id="zero_mate::arm1176jzf_s::CCPU_Core::Execute" name="zero_mate::arm1176jzf_s::CCPU_Core::Execute">
-<area shape="rect" id="Node000001" title=" " alt="" coords="451,37,627,77"/>
-<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="577,26,563,19,539,16,517,18,504,23,499,29,502,36,497,38,494,28,501,18,516,13,539,11,565,14,579,21"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#ac81ae05305c6916b7eda83abff602dcf" title="Executes a single instruction." alt="" coords="227,5,403,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="437,45,403,41,403,35,438,40"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a1665360d8ae71ed541b4c10f39e655a5" title=" " alt="" coords="228,69,401,109"/>
-<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="438,74,402,80,401,74,437,69"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#ad07b9956fd3f7b6c64b93c69243092f4" title="Starts the execution." alt="" coords="5,37,179,77"/>
-<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="214,78,178,72,179,67,215,72"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a16544e9981489e1f4a25405248e5a5c0" title=" " alt="" coords="5,101,179,141"/>
-<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="215,106,179,112,178,106,214,101"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="449,40,624,85"/>
+<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="572,25,560,21,537,19,516,21,503,25,498,31,499,41,494,38,493,30,500,21,515,15,537,13,561,16,577,25"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#ac81ae05305c6916b7eda83abff602dcf" title="Executes a single instruction." alt="" coords="226,5,401,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="431,47,401,44,401,39,436,46"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a1665360d8ae71ed541b4c10f39e655a5" title=" " alt="" coords="227,75,400,119"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="431,79,400,86,399,81,437,78"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#ad07b9956fd3f7b6c64b93c69243092f4" title="Starts the execution." alt="" coords="5,40,178,85"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="209,82,178,79,178,73,214,81"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a16544e9981489e1f4a25405248e5a5c0" title=" " alt="" coords="5,109,178,154"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="209,113,179,121,178,116,214,112"/>
 </map>

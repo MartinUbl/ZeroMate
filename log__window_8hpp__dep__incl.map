@@ -1,7 +1,7 @@
 <map id="src/gui/windows/log_window.hpp" name="src/gui/windows/log_window.hpp">
-<area shape="rect" id="Node000001" title="This file defines a window that displays log messages." alt="" coords="67,5,217,45"/>
-<area shape="rect" id="Node000002" href="$gui_8cpp.html" title="This file implements the main GUI entry function that takes care of creating and rendering all window..." alt="" coords="5,101,121,126"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,57,76,102,72,98,113,54"/>
-<area shape="rect" id="Node000003" href="$log__window_8cpp.html" title="This file implements a window that displays log messages." alt="" coords="145,93,296,133"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,54,205,91,201,95,167,57"/>
+<area shape="rect" id="Node000001" title="This file defines a window that displays log messages." alt="" coords="66,5,215,50"/>
+<area shape="rect" id="Node000002" href="$gui_8cpp.html" title="This file implements the main GUI entry function that takes care of creating and rendering all window..." alt="" coords="5,106,121,134"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,61,76,108,72,104,109,63"/>
+<area shape="rect" id="Node000003" href="$log__window_8cpp.html" title="This file implements a window that displays log messages." alt="" coords="144,98,294,143"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,59,203,98,198,98,168,64"/>
 </map>

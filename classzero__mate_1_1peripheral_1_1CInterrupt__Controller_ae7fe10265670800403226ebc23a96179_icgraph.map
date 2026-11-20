@@ -1,5 +1,5 @@
 <map id="zero_mate::peripheral::CInterrupt_Controller::Reset" name="zero_mate::peripheral::CInterrupt_Controller::Reset">
-<area shape="rect" id="Node000001" title="Resets/re&#45;initializes the interrupt controller (IPeripheral interface)." alt="" coords="220,5,387,60"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CInterrupt__Controller.html#afa2b9bbd779dc5d6958c5fba99b5b72f" title="Creates an instance of the class." alt="" coords="5,5,172,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,35,172,35,172,30,206,30"/>
+<area shape="rect" id="Node000001" title="Resets/re&#45;initializes the interrupt controller (IPeripheral interface)." alt="" coords="219,5,384,67"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CInterrupt__Controller.html#afa2b9bbd779dc5d6958c5fba99b5b72f" title="Creates an instance of the class." alt="" coords="5,5,171,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="201,36,171,39,171,34,206,36"/>
 </map>

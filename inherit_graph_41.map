@@ -1,3 +1,23 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$structzero__mate_1_1peripheral_1_1CMini__UART_1_1TState__Machine__Data.html" title="Encapsulation of state machine related data (transmission/reception)." alt="" coords="5,5,171,60"/>
+<area shape="rect" id="Node000000" href="$classzero__mate_1_1peripheral_1_1IPeripheral.html" title="This class represents a general interface of a memory&#45;mapped peripheral." alt="" coords="15,248,180,293"/>
+<area shape="rect" id="Node000001" href="$classzero__mate_1_1peripheral_1_1CARM__Timer.html" title="This class represents the ARM timer used in BCM2835." alt="" coords="238,5,402,50"/>
+<area shape="poly" id="edge57_Node000000_Node000001" title=" " alt="" coords="120,233,236,60,257,48,253,53,240,64,125,236"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1CAUX.html" title="This class represents the auxiliaries (UART1 &amp; SPI1, and SPI2)." alt="" coords="238,75,402,119"/>
+<area shape="poly" id="edge58_Node000000_Node000003" title=" " alt="" coords="124,235,174,182,236,129,260,118,256,122,239,134,177,185,129,238"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1peripheral_1_1CBSC.html" title="This class represents the BSC peripheral used in BCM2835." alt="" coords="238,144,402,189"/>
+<area shape="poly" id="edge59_Node000000_Node000004" title=" " alt="" coords="155,238,237,199,266,187,262,191,239,203,158,243"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1peripheral_1_1CGPIO__Manager.html" title="This class represents a GPIO (general&#45;purpose I/O) manager." alt="" coords="238,491,402,535"/>
+<area shape="poly" id="edge60_Node000000_Node000005" title=" " alt="" coords="115,304,137,344,165,390,199,436,239,476,258,491,253,490,236,480,195,439,161,393,133,347,114,309"/>
+<area shape="rect" id="Node000006" href="$classzero__mate_1_1peripheral_1_1CInterrupt__Controller.html" title="This class represents the interrupt controller used in BCM2835." alt="" coords="238,213,403,258"/>
+<area shape="poly" id="edge61_Node000000_Node000006" title=" " alt="" coords="194,253,239,247,235,250,196,258"/>
+<area shape="rect" id="Node000007" href="$classzero__mate_1_1peripheral_1_1CMonitor.html" title="This class represents a memory&#45;mapped monitor used to print out debug messages." alt="" coords="238,283,402,327"/>
+<area shape="poly" id="edge62_Node000000_Node000007" title=" " alt="" coords="195,283,240,291,235,293,196,288"/>
+<area shape="rect" id="Node000008" href="$classzero__mate_1_1peripheral_1_1CRAM.html" title="This class represents the RAM used in BCM2835." alt="" coords="238,352,402,397"/>
+<area shape="poly" id="edge63_Node000000_Node000008" title=" " alt="" coords="157,297,239,337,267,351,261,352,237,342,157,303"/>
+<area shape="rect" id="Node000009" href="$classzero__mate_1_1peripheral_1_1CTRNG.html" title="This class represents a TRNG (random number generator)." alt="" coords="238,421,402,466"/>
+<area shape="poly" id="edge64_Node000000_Node000009" title=" " alt="" coords="127,302,177,355,239,407,261,421,255,421,236,411,174,359,126,307"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1ISystem__Clock__Listener.html" title="This class represents a general interface for a CPU clock listener." alt="" coords="5,75,190,119"/>
+<area shape="poly" id="edge65_Node000002_Node000001" title=" " alt="" coords="184,68,248,49,244,53,187,72"/>
+<area shape="poly" id="edge66_Node000002_Node000003" title=" " alt="" coords="204,95,240,95,235,99,207,99"/>
+<area shape="poly" id="edge67_Node000002_Node000004" title=" " alt="" coords="185,122,248,142,244,145,187,127"/>
 </map>

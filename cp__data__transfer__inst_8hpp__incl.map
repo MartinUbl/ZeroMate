@@ -1,5 +1,5 @@
 <map id="src/core/coprocessors/cp10/isa/cp_data_transfer_inst.hpp" name="src/core/coprocessors/cp10/isa/cp_data_transfer_inst.hpp">
-<area shape="rect" id="Node000001" title="This file defines a general CP10 data transfer instruction (load and store)." alt="" coords="5,5,199,60"/>
-<area shape="rect" id="Node000002" href="$cp__instruction_8hpp.html" title="This file defines a general CP10 instruction." alt="" coords="31,108,173,133"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,60,105,94,99,94,99,60"/>
+<area shape="rect" id="Node000001" title="This file defines a general CP10 data transfer instruction (load and store)." alt="" coords="5,5,198,67"/>
+<area shape="rect" id="Node000002" href="$cp__instruction_8hpp.html" title="This file defines a general CP10 instruction." alt="" coords="31,115,172,143"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,65,104,100,99,98,100,69"/>
 </map>

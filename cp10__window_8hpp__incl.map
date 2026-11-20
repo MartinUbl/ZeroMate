@@ -1,88 +1,88 @@
 <map id="src/gui/windows/cp10_window.hpp" name="src/gui/windows/cp10_window.hpp">
-<area shape="rect" id="Node000001" title="This file defines a window that displays data (information) related to coprocessor 10 (FPU)." alt="" coords="540,5,701,45"/>
-<area shape="rect" id="Node000002" href="$window_8hpp.html" title="This file defines an interface for all windows that will be rendered by the application." alt="" coords="485,101,596,126"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="605,47,563,92,559,88,601,44"/>
-<area shape="rect" id="Node000004" href="$cp10_8hpp.html" title="This file defines coprocessor CP10 (single&#45;precision FPU)." alt="" coords="933,93,1095,133"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="702,42,920,89,918,94,701,47"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="173,189,285,214"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="499,129,297,184,284,188,282,183,296,179,498,124"/>
-<area shape="rect" id="Node000005" href="$fpexc_8hpp.html" title="This file defines the FPEXC register of coprocessor CP10." alt="" coords="1372,189,1459,214"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1096,124,1222,147,1361,179,1372,182,1371,187,1360,184,1221,152,1095,130"/>
-<area shape="rect" id="Node000006" href="$fpscr_8hpp.html" title="This file defines the FPSCR register of coprocessor CP10." alt="" coords="1483,189,1564,214"/>
-<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="1096,119,1270,140,1371,157,1472,179,1482,182,1481,187,1471,184,1370,162,1269,145,1095,124"/>
-<area shape="rect" id="Node000007" href="$register_8hpp.html" title="This file defines a custom single&#45;precision floating point register." alt="" coords="309,189,407,214"/>
-<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="933,122,701,142,560,159,420,184,405,187,404,182,419,179,559,154,700,136,932,116"/>
-<area shape="rect" id="Node000008" href="$coprocessors_2cp10_2isa_2isa_8hpp.html" title="This file combines different instruction type includes together." alt="" coords="432,189,524,214"/>
-<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="933,124,751,146,643,163,537,184,524,187,523,182,536,179,643,158,750,141,932,119"/>
-<area shape="rect" id="Node000014" href="$cp__data__processing__inst_8hpp.html" title="This file defines a general CP10 data processing instruction." alt="" coords="927,181,1101,221"/>
-<area shape="poly" id="edge13_Node000004_Node000014" title=" " alt="" coords="1017,134,1017,167,1011,167,1011,134"/>
-<area shape="rect" id="Node000016" href="$cp__data__transfer__inst_8hpp.html" title="This file defines a general CP10 data transfer instruction (load and store)." alt="" coords="549,181,703,221"/>
-<area shape="poly" id="edge15_Node000004_Node000016" title=" " alt="" coords="933,135,718,183,717,177,932,130"/>
-<area shape="rect" id="Node000017" href="$cp__register__transfer__inst_8hpp.html" title="This file defines a general CP10 register transfer instruction." alt="" coords="728,181,903,221"/>
-<area shape="poly" id="edge17_Node000004_Node000017" title=" " alt="" coords="971,136,872,178,870,173,969,131"/>
-<area shape="rect" id="Node000018" href="$logging__system_8hpp.html" title="This file defines a logging system that is used in the project." alt="" coords="1403,533,1577,573"/>
-<area shape="poly" id="edge19_Node000004_Node000018" title=" " alt="" coords="1065,131,1104,152,1141,179,1167,213,1180,244,1193,275,1217,308,1243,331,1268,347,1315,368,1363,389,1389,405,1416,429,1452,474,1478,520,1473,522,1448,477,1412,433,1386,410,1361,394,1313,373,1265,351,1240,335,1213,311,1188,277,1175,246,1163,215,1137,183,1101,156,1063,136"/>
-<area shape="rect" id="Node000020" href="$coprocessor_8hpp.html" title="This file defines a general interface of a coprocessor." alt="" coords="1069,357,1207,383"/>
-<area shape="poly" id="edge21_Node000004_Node000020" title=" " alt="" coords="1059,131,1089,152,1115,180,1133,222,1142,267,1145,309,1143,344,1138,343,1139,309,1137,267,1128,224,1110,183,1086,156,1056,136"/>
-<area shape="rect" id="Node000026" href="$bus_8hpp.html" title="This file defines an interface the CPU uses to access different memory&#45;mapped peripherals." alt="" coords="1251,189,1348,214"/>
-<area shape="poly" id="edge30_Node000004_Node000026" title=" " alt="" coords="1077,131,1249,182,1248,187,1076,136"/>
-<area shape="rect" id="Node000009" href="$vmsr_8hpp.html" title="This file defines a VMSR instruction (ARM register to a special FPU register)." alt="" coords="565,277,647,302"/>
-<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="497,212,579,267,576,271,494,216"/>
-<area shape="rect" id="Node000010" href="$vmrs_8hpp.html" title="This file defines a VMRS instruction (FPU special register to an ARM register)." alt="" coords="671,277,754,302"/>
-<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="511,212,669,269,667,274,509,217"/>
-<area shape="rect" id="Node000011" href="$coprocessors_2cp10_2isa_2data__processing_8hpp.html" title="This file defines a data processing instruction." alt="" coords="5,277,161,302"/>
-<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="445,217,420,224,298,250,174,272,152,277,151,271,174,267,297,245,419,219,443,212"/>
-<area shape="rect" id="Node000012" href="$data__transfer_8hpp.html" title="This file defines a data transfer instruction." alt="" coords="186,277,322,302"/>
-<area shape="poly" id="edge11_Node000008_Node000012" title=" " alt="" coords="449,217,298,274,296,269,447,212"/>
-<area shape="rect" id="Node000013" href="$vmov__arm__register__single__precision__register_8hpp.html" title="This file defines a VMOV instruction between an ARM register and an FPU register." alt="" coords="346,269,541,309"/>
-<area shape="poly" id="edge12_Node000008_Node000013" title=" " alt="" coords="476,215,459,257,454,255,471,213"/>
-<area shape="rect" id="Node000015" href="$cp__instruction_8hpp.html" title="This file defines a general CP10 instruction." alt="" coords="778,277,919,302"/>
-<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="979,224,884,273,881,268,976,219"/>
-<area shape="poly" id="edge16_Node000016_Node000015" title=" " alt="" coords="676,219,808,269,806,274,674,224"/>
-<area shape="poly" id="edge18_Node000017_Node000015" title=" " alt="" coords="825,221,842,263,837,265,820,223"/>
-<area shape="rect" id="Node000019" href="$logger_8hpp.html" title="This file defines a general logger interface." alt="" coords="1445,621,1535,647"/>
-<area shape="poly" id="edge20_Node000018_Node000019" title=" " alt="" coords="1493,574,1493,607,1487,607,1487,574"/>
-<area shape="rect" id="Node000021" href="$context_8hpp.html" title="This file defines the context (registers) of the CPU." alt="" coords="1199,445,1402,471"/>
-<area shape="poly" id="edge22_Node000020_Node000021" title=" " alt="" coords="1161,380,1268,436,1265,441,1159,385"/>
-<area shape="rect" id="Node000022" href="$coprocessor__register__transfer_8hpp.html" title="This file defines a coprocessor register transfer (MRC, MCR)." alt="" coords="764,431,925,485"/>
-<area shape="poly" id="edge24_Node000020_Node000022" title=" " alt="" coords="1099,385,939,432,938,427,1098,380"/>
-<area shape="rect" id="Node000024" href="$coprocessor__data__transfer_8hpp.html" title="This file defines a coprocessor data transfer (LDC, STC)." alt="" coords="949,438,1175,478"/>
-<area shape="poly" id="edge26_Node000020_Node000024" title=" " alt="" coords="1130,385,1090,429,1086,426,1126,381"/>
-<area shape="rect" id="Node000025" href="$coprocessor__data__operation_8hpp.html" title="This file defines a coprocessor data operation (CDP)." alt="" coords="503,438,741,478"/>
-<area shape="poly" id="edge28_Node000020_Node000025" title=" " alt="" coords="1069,384,752,433,726,438,725,433,751,428,1068,378"/>
-<area shape="poly" id="edge23_Node000021_Node000018" title=" " alt="" coords="1325,468,1441,525,1438,530,1323,473"/>
-<area shape="rect" id="Node000023" href="$instruction_8hpp.html" title="This file defines the interface of a general ARM instruction." alt="" coords="785,541,904,566"/>
-<area shape="poly" id="edge25_Node000022_Node000023" title=" " alt="" coords="847,486,847,527,842,527,842,486"/>
-<area shape="poly" id="edge27_Node000024_Node000023" title=" " alt="" coords="1019,481,885,538,883,533,1017,476"/>
-<area shape="poly" id="edge29_Node000025_Node000023" title=" " alt="" coords="668,476,805,533,803,538,666,481"/>
-<area shape="rect" id="Node000027" href="$cp15_8hpp.html" title="This file defines coprocessor CP15." alt="" coords="1682,277,1887,302"/>
-<area shape="poly" id="edge31_Node000026_Node000027" title=" " alt="" coords="1335,212,1361,219,1447,236,1515,246,1670,267,1703,272,1702,277,1670,272,1514,251,1446,241,1360,224,1333,217"/>
-<area shape="rect" id="Node000034" href="$peripheral_8hpp.html" title="This file defines an interface for a memory&#45;mapped peripheral." alt="" coords="1227,277,1420,302"/>
-<area shape="poly" id="edge47_Node000026_Node000034" title=" " alt="" coords="1305,213,1319,262,1314,264,1300,215"/>
-<area shape="rect" id="Node000035" href="$exceptions_8hpp.html" title="This file defines all exceptions that can be thrown by the CPU during execution." alt="" coords="1445,277,1658,302"/>
-<area shape="poly" id="edge48_Node000026_Node000035" title=" " alt="" coords="1334,212,1505,270,1503,275,1332,217"/>
-<area shape="poly" id="edge46_Node000027_Node000018" title=" " alt="" coords="1725,305,1598,332,1545,347,1518,359,1506,377,1497,396,1486,439,1484,482,1487,519,1482,520,1479,482,1481,439,1491,395,1501,374,1515,355,1544,342,1597,327,1724,299"/>
-<area shape="poly" id="edge45_Node000027_Node000020" title=" " alt="" coords="1718,305,1670,312,1426,342,1221,363,1221,358,1425,337,1670,307,1718,299"/>
-<area shape="rect" id="Node000028" href="$c1_8hpp.html" title="This file defines the primary register C1 of coprocessor CP15." alt="" coords="1528,357,1593,383"/>
-<area shape="poly" id="edge32_Node000027_Node000028" title=" " alt="" coords="1753,305,1607,355,1605,350,1751,299"/>
-<area shape="rect" id="Node000029" href="$primary__reg_8hpp.html" title="This file defines a primary register interface of coprocessor CP15." alt="" coords="1675,445,1804,471"/>
-<area shape="poly" id="edge44_Node000027_Node000029" title=" " alt="" coords="1863,300,1909,311,1949,328,1963,340,1972,353,1973,368,1966,384,1935,414,1898,435,1858,448,1819,456,1818,450,1857,443,1896,430,1932,410,1961,381,1968,367,1967,354,1959,343,1946,333,1908,316,1861,305"/>
-<area shape="rect" id="Node000030" href="$c2_8hpp.html" title="This file defines the primary register C2 of coprocessor CP15." alt="" coords="1617,357,1683,383"/>
-<area shape="poly" id="edge36_Node000027_Node000030" title=" " alt="" coords="1766,304,1683,353,1680,348,1763,300"/>
-<area shape="rect" id="Node000031" href="$c3_8hpp.html" title="This file defines the primary register C3 of coprocessor CP15." alt="" coords="1707,357,1772,383"/>
-<area shape="poly" id="edge38_Node000027_Node000031" title=" " alt="" coords="1780,304,1755,347,1751,344,1776,301"/>
-<area shape="rect" id="Node000032" href="$c7_8hpp.html" title="This file defines the primary register C7 of coprocessor CP15." alt="" coords="1796,357,1861,383"/>
-<area shape="poly" id="edge40_Node000027_Node000032" title=" " alt="" coords="1793,301,1818,344,1813,347,1789,303"/>
-<area shape="rect" id="Node000033" href="$c8_8hpp.html" title="This file defines the primary register C8 of coprocessor CP15." alt="" coords="1885,357,1951,383"/>
-<area shape="poly" id="edge42_Node000027_Node000033" title=" " alt="" coords="1806,300,1888,348,1885,353,1803,304"/>
-<area shape="poly" id="edge35_Node000028_Node000018" title=" " alt="" coords="1559,384,1505,521,1500,519,1554,382"/>
-<area shape="poly" id="edge33_Node000028_Node000029" title=" " alt="" coords="1586,380,1704,437,1702,442,1584,385"/>
-<area shape="poly" id="edge34_Node000029_Node000018" title=" " alt="" coords="1710,473,1554,531,1552,526,1708,468"/>
-<area shape="poly" id="edge37_Node000030_Node000029" title=" " alt="" coords="1664,381,1719,433,1715,437,1660,385"/>
-<area shape="poly" id="edge39_Node000031_Node000029" title=" " alt="" coords="1742,383,1742,431,1737,431,1737,383"/>
-<area shape="poly" id="edge41_Node000032_Node000029" title=" " alt="" coords="1818,385,1764,437,1760,433,1815,381"/>
-<area shape="poly" id="edge43_Node000033_Node000029" title=" " alt="" coords="1895,385,1777,442,1775,437,1893,380"/>
-<area shape="poly" id="edge50_Node000035_Node000021" title=" " alt="" coords="1536,304,1331,440,1328,435,1533,300"/>
-<area shape="rect" id="Node000036" title=" " alt="" coords="939,357,1044,383"/>
-<area shape="poly" id="edge49_Node000035_Node000036" title=" " alt="" coords="1482,305,1433,312,1247,335,1058,360,1057,355,1247,330,1432,307,1481,299"/>
+<area shape="rect" id="Node000001" title="This file defines a window that displays data (information) related to coprocessor 10 (FPU)." alt="" coords="538,5,698,50"/>
+<area shape="rect" id="Node000002" href="$window_8hpp.html" title="This file defines an interface for all windows that will be rendered by the application." alt="" coords="482,106,593,134"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="601,48,561,97,557,93,597,52"/>
+<area shape="rect" id="Node000004" href="$cp10_8hpp.html" title="This file defines coprocessor CP10 (single&#45;precision FPU)." alt="" coords="926,98,1088,143"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="698,45,913,96,908,98,699,50"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="171,199,283,227"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="489,137,296,193,285,196,282,192,294,188,492,133"/>
+<area shape="rect" id="Node000005" href="$fpexc_8hpp.html" title="This file defines the FPEXC register of coprocessor CP10." alt="" coords="1363,199,1448,227"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="1088,131,1214,154,1352,188,1363,193,1357,194,1350,193,1212,160,1089,137"/>
+<area shape="rect" id="Node000006" href="$fpscr_8hpp.html" title="This file defines the FPSCR register of coprocessor CP10." alt="" coords="1472,199,1552,227"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="1088,126,1261,147,1362,165,1461,188,1472,193,1467,194,1460,193,1361,170,1261,152,1089,131"/>
+<area shape="rect" id="Node000007" href="$register_8hpp.html" title="This file defines a custom single&#45;precision floating point register." alt="" coords="307,199,406,227"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="923,127,696,148,557,167,418,193,406,196,403,192,417,188,556,162,695,143,928,125"/>
+<area shape="rect" id="Node000008" href="$coprocessors_2cp10_2isa_2isa_8hpp.html" title="This file combines different instruction type includes together." alt="" coords="429,199,521,227"/>
+<area shape="poly" id="edge7_Node000004_Node000008" title=" " alt="" coords="923,129,744,153,638,170,533,193,522,196,520,192,532,188,637,165,744,147,928,127"/>
+<area shape="rect" id="Node000014" href="$cp__data__processing__inst_8hpp.html" title="This file defines a general CP10 data processing instruction." alt="" coords="921,191,1093,235"/>
+<area shape="poly" id="edge13_Node000004_Node000014" title=" " alt="" coords="1008,141,1009,177,1005,174,1006,145"/>
+<area shape="rect" id="Node000016" href="$cp__data__transfer__inst_8hpp.html" title="This file defines a general CP10 data transfer instruction (load and store)." alt="" coords="545,191,698,235"/>
+<area shape="poly" id="edge15_Node000004_Node000016" title=" " alt="" coords="923,142,714,193,713,188,928,139"/>
+<area shape="rect" id="Node000017" href="$cp__register__transfer__inst_8hpp.html" title="This file defines a general CP10 register transfer instruction." alt="" coords="722,191,897,235"/>
+<area shape="poly" id="edge17_Node000004_Node000017" title=" " alt="" coords="957,144,872,186,869,182,962,142"/>
+<area shape="rect" id="Node000018" href="$logging__system_8hpp.html" title="This file defines a logging system that is used in the project." alt="" coords="1397,561,1572,606"/>
+<area shape="poly" id="edge19_Node000004_Node000018" title=" " alt="" coords="1062,140,1101,161,1136,189,1151,207,1161,225,1173,258,1185,291,1209,326,1235,350,1260,367,1308,388,1357,409,1383,426,1410,450,1446,498,1472,548,1467,546,1442,500,1406,453,1380,430,1355,414,1306,393,1257,371,1232,354,1205,330,1180,293,1168,260,1157,227,1147,210,1132,193,1098,166,1062,146"/>
+<area shape="rect" id="Node000020" href="$coprocessor_8hpp.html" title="This file defines a general interface of a coprocessor." alt="" coords="1062,376,1200,404"/>
+<area shape="poly" id="edge21_Node000004_Node000020" title=" " alt="" coords="1054,141,1084,162,1108,189,1127,233,1136,280,1138,325,1136,362,1132,359,1133,325,1131,281,1122,235,1103,192,1080,166,1053,146"/>
+<area shape="rect" id="Node000026" href="$bus_8hpp.html" title="This file defines an interface the CPU uses to access different memory&#45;mapped peripherals." alt="" coords="1243,199,1339,227"/>
+<area shape="poly" id="edge30_Node000004_Node000026" title=" " alt="" coords="1075,141,1238,194,1233,194,1075,146"/>
+<area shape="rect" id="Node000009" href="$vmsr_8hpp.html" title="This file defines a VMSR instruction (ARM register to a special FPU register)." alt="" coords="562,292,644,320"/>
+<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="494,225,575,282,569,283,493,230"/>
+<area shape="rect" id="Node000010" href="$vmrs_8hpp.html" title="This file defines a VMRS instruction (FPU special register to an ARM register)." alt="" coords="667,292,750,320"/>
+<area shape="poly" id="edge9_Node000008_Node000010" title=" " alt="" coords="509,225,656,281,664,285,659,286,654,286,510,230"/>
+<area shape="rect" id="Node000011" href="$coprocessors_2cp10_2isa_2data__processing_8hpp.html" title="This file defines a data processing instruction." alt="" coords="5,292,161,320"/>
+<area shape="poly" id="edge10_Node000008_Node000011" title=" " alt="" coords="440,229,418,238,350,255,296,264,173,286,154,290,150,286,172,281,295,259,349,250,417,233,444,226"/>
+<area shape="rect" id="Node000012" href="$data__transfer_8hpp.html" title="This file defines a data transfer instruction." alt="" coords="185,292,320,320"/>
+<area shape="poly" id="edge11_Node000008_Node000012" title=" " alt="" coords="441,229,300,288,297,283,445,226"/>
+<area shape="rect" id="Node000013" href="$vmov__arm__register__single__precision__register_8hpp.html" title="This file defines a VMOV instruction between an ARM register and an FPU register." alt="" coords="344,283,539,328"/>
+<area shape="poly" id="edge12_Node000008_Node000013" title=" " alt="" coords="472,225,457,270,453,267,469,229"/>
+<area shape="rect" id="Node000015" href="$cp__instruction_8hpp.html" title="This file defines a general CP10 instruction." alt="" coords="774,292,914,320"/>
+<area shape="poly" id="edge14_Node000014_Node000015" title=" " alt="" coords="970,235,882,286,880,282,966,237"/>
+<area shape="poly" id="edge16_Node000016_Node000015" title=" " alt="" coords="675,233,801,285,796,286,675,239"/>
+<area shape="poly" id="edge18_Node000017_Node000015" title=" " alt="" coords="819,233,836,278,831,276,817,238"/>
+<area shape="rect" id="Node000019" href="$logger_8hpp.html" title="This file defines a general logger interface." alt="" coords="1440,654,1529,682"/>
+<area shape="poly" id="edge20_Node000018_Node000019" title=" " alt="" coords="1486,605,1486,640,1482,637,1482,608"/>
+<area shape="rect" id="Node000021" href="$context_8hpp.html" title="This file defines the context (registers) of the CPU." alt="" coords="1194,469,1396,496"/>
+<area shape="poly" id="edge22_Node000020_Node000021" title=" " alt="" coords="1155,402,1261,461,1255,461,1154,407"/>
+<area shape="rect" id="Node000022" href="$coprocessor__register__transfer_8hpp.html" title="This file defines a coprocessor register transfer (MRC, MCR)." alt="" coords="762,452,922,513"/>
+<area shape="poly" id="edge24_Node000020_Node000022" title=" " alt="" coords="1090,404,938,453,936,448,1085,405"/>
+<area shape="rect" id="Node000024" href="$coprocessor__data__transfer_8hpp.html" title="This file defines a coprocessor data transfer (LDC, STC)." alt="" coords="946,460,1170,505"/>
+<area shape="poly" id="edge26_Node000020_Node000024" title=" " alt="" coords="1123,403,1086,450,1083,446,1118,405"/>
+<area shape="rect" id="Node000025" href="$coprocessor__data__operation_8hpp.html" title="This file defines a coprocessor data operation (CDP)." alt="" coords="501,460,737,505"/>
+<area shape="poly" id="edge28_Node000020_Node000025" title=" " alt="" coords="1059,403,750,454,726,459,725,454,749,449,1064,401"/>
+<area shape="poly" id="edge23_Node000021_Node000018" title=" " alt="" coords="1321,494,1432,554,1427,553,1320,500"/>
+<area shape="rect" id="Node000023" href="$instruction_8hpp.html" title="This file defines the interface of a general ARM instruction." alt="" coords="782,570,901,598"/>
+<area shape="poly" id="edge25_Node000022_Node000023" title=" " alt="" coords="843,512,844,556,840,552,840,516"/>
+<area shape="poly" id="edge27_Node000024_Node000023" title=" " alt="" coords="1013,505,885,566,883,561,1008,506"/>
+<area shape="poly" id="edge29_Node000025_Node000023" title=" " alt="" coords="668,503,801,563,795,563,667,508"/>
+<area shape="rect" id="Node000027" href="$cp15_8hpp.html" title="This file defines coprocessor CP15." alt="" coords="1672,292,1876,320"/>
+<area shape="poly" id="edge31_Node000026_Node000027" title=" " alt="" coords="1325,225,1352,233,1437,251,1505,261,1573,268,1661,281,1693,288,1687,289,1660,286,1573,273,1505,266,1437,256,1350,238,1325,230"/>
+<area shape="rect" id="Node000034" href="$peripheral_8hpp.html" title="This file defines an interface for a memory&#45;mapped peripheral." alt="" coords="1219,292,1411,320"/>
+<area shape="poly" id="edge47_Node000026_Node000034" title=" " alt="" coords="1296,225,1310,278,1305,276,1293,230"/>
+<area shape="rect" id="Node000035" href="$exceptions_8hpp.html" title="This file defines all exceptions that can be thrown by the CPU during execution." alt="" coords="1436,292,1648,320"/>
+<area shape="poly" id="edge48_Node000026_Node000035" title=" " alt="" coords="1328,225,1494,286,1488,286,1327,230"/>
+<area shape="poly" id="edge46_Node000027_Node000018" title=" " alt="" coords="1711,320,1587,351,1537,366,1511,378,1499,396,1489,417,1479,462,1477,507,1480,548,1476,545,1472,507,1473,462,1484,415,1494,394,1508,374,1535,361,1586,346,1706,321"/>
+<area shape="poly" id="edge45_Node000027_Node000020" title=" " alt="" coords="1705,321,1661,331,1419,362,1216,383,1215,378,1418,357,1660,325,1710,320"/>
+<area shape="rect" id="Node000028" href="$c1_8hpp.html" title="This file defines the primary register C1 of coprocessor CP15." alt="" coords="1522,376,1586,404"/>
+<area shape="poly" id="edge32_Node000027_Node000028" title=" " alt="" coords="1741,319,1601,374,1600,369,1736,321"/>
+<area shape="rect" id="Node000029" href="$primary__reg_8hpp.html" title="This file defines a primary register interface of coprocessor CP15." alt="" coords="1666,469,1794,496"/>
+<area shape="poly" id="edge44_Node000027_Node000029" title=" " alt="" coords="1851,317,1897,330,1936,348,1950,360,1958,373,1959,389,1952,405,1923,435,1887,456,1848,470,1809,478,1809,473,1847,465,1885,451,1920,431,1947,402,1954,388,1953,375,1946,363,1933,353,1895,335,1850,323"/>
+<area shape="rect" id="Node000030" href="$c2_8hpp.html" title="This file defines the primary register C2 of coprocessor CP15." alt="" coords="1610,376,1674,404"/>
+<area shape="poly" id="edge36_Node000027_Node000030" title=" " alt="" coords="1755,319,1677,370,1675,365,1750,321"/>
+<area shape="rect" id="Node000031" href="$c3_8hpp.html" title="This file defines the primary register C3 of coprocessor CP15." alt="" coords="1698,376,1762,404"/>
+<area shape="poly" id="edge38_Node000027_Node000031" title=" " alt="" coords="1769,319,1745,364,1742,360,1764,322"/>
+<area shape="rect" id="Node000032" href="$c7_8hpp.html" title="This file defines the primary register C7 of coprocessor CP15." alt="" coords="1786,376,1850,404"/>
+<area shape="poly" id="edge40_Node000027_Node000032" title=" " alt="" coords="1782,318,1806,363,1801,361,1780,322"/>
+<area shape="rect" id="Node000033" href="$c8_8hpp.html" title="This file defines the primary register C8 of coprocessor CP15." alt="" coords="1874,376,1938,404"/>
+<area shape="poly" id="edge42_Node000027_Node000033" title=" " alt="" coords="1795,317,1874,368,1869,367,1794,323"/>
+<area shape="poly" id="edge35_Node000028_Node000018" title=" " alt="" coords="1551,403,1499,549,1495,545,1547,406"/>
+<area shape="poly" id="edge33_Node000028_Node000029" title=" " alt="" coords="1580,402,1693,461,1688,461,1579,407"/>
+<area shape="poly" id="edge34_Node000029_Node000018" title=" " alt="" coords="1700,496,1553,558,1552,552,1694,497"/>
+<area shape="poly" id="edge37_Node000030_Node000029" title=" " alt="" coords="1655,402,1709,458,1704,457,1653,407"/>
+<area shape="poly" id="edge39_Node000031_Node000029" title=" " alt="" coords="1731,402,1732,455,1728,452,1728,406"/>
+<area shape="poly" id="edge41_Node000032_Node000029" title=" " alt="" coords="1807,403,1754,460,1752,455,1803,405"/>
+<area shape="poly" id="edge43_Node000033_Node000029" title=" " alt="" coords="1883,404,1770,464,1768,459,1878,405"/>
+<area shape="poly" id="edge50_Node000035_Node000021" title=" " alt="" coords="1526,319,1326,462,1324,458,1521,321"/>
+<area shape="rect" id="Node000036" title=" " alt="" coords="934,376,1038,404"/>
+<area shape="poly" id="edge49_Node000035_Node000036" title=" " alt="" coords="1468,321,1423,331,1240,354,1054,378,1053,373,1239,349,1423,325,1473,320"/>
 </map>

@@ -1,5 +1,5 @@
 <map id="src/core/arm1176jzf_s/isa/block_data_transfer.hpp" name="src/core/arm1176jzf_s/isa/block_data_transfer.hpp">
-<area shape="rect" id="Node000001" title="This file defines a block data transfer instruction (LDM, STM)." alt="" coords="5,5,224,45"/>
-<area shape="rect" id="Node000002" href="$instruction_8hpp.html" title="This file defines the interface of a general ARM instruction." alt="" coords="55,93,174,119"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,46,117,79,112,79,112,46"/>
+<area shape="rect" id="Node000001" title="This file defines a block data transfer instruction (LDM, STM)." alt="" coords="5,5,224,50"/>
+<area shape="rect" id="Node000002" href="$instruction_8hpp.html" title="This file defines the interface of a general ARM instruction." alt="" coords="55,98,174,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,48,117,83,112,81,113,52"/>
 </map>

@@ -1,17 +1,17 @@
 <map id="zero_mate::arm1176jzf_s::mmu::CMMU::Verify_Access" name="zero_mate::arm1176jzf_s::mmu::CMMU::Verify_Access">
-<area shape="rect" id="Node000001" title="Verifies page access (calls a chain of functions that validate the access)." alt="" coords="5,164,180,219"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1mmu_1_1CMMU.html#a0e32ece3d5ac208c69fa5573fcea3205" title="Verifies access privileges when accessing a page (virtual address)." alt="" coords="228,104,403,159"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,165,214,156,216,161,181,170"/>
-<area shape="rect" id="Node000007" href="$classzero__mate_1_1arm1176jzf__s_1_1mmu_1_1CMMU.html#ac834a31f545bceaea03c3fa127bf0fa1" title="Verifies the access type." alt="" coords="228,203,403,257"/>
-<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="181,204,215,210,214,215,180,209"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1mmu_1_1CPage__Entry.html#a005e8820c6fa2cdcaa49471491760fa8" title="Returns page access privileges." alt="" coords="451,5,627,60"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="377,102,450,69,462,63,465,68,452,74,379,106"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1arm1176jzf__s_1_1mmu_1_1CPage__Entry.html#a3c5fdd9febd92dc1fb1a41d2f936abc3" title="Returns privileged mode page access restrictions (R/RW)." alt="" coords="452,84,625,139"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="403,121,438,118,438,123,403,126"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Context.html#a573470217091c27cf30f1411ea453e5d" title="Checks if the CPU is in a privileged mode." alt="" coords="452,163,625,217"/>
-<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="404,152,439,161,438,166,403,157"/>
-<area shape="rect" id="Node000006" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Context.html#aa740f9219bb413d707ac72f373e60d3a" title="Returns the current mode of the CPU." alt="" coords="675,163,848,217"/>
-<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="626,187,661,187,661,193,626,193"/>
-<area shape="rect" id="Node000008" href="$classzero__mate_1_1arm1176jzf__s_1_1mmu_1_1CPage__Entry.html#adefd9403af02fbb79298b706f7d6c7e3" title="Returns the page access type." alt="" coords="452,241,625,296"/>
-<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="404,243,439,249,438,254,403,248"/>
+<area shape="rect" id="Node000001" title="Verifies page access (calls a chain of functions that validate the access)." alt="" coords="5,176,179,238"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1mmu_1_1CMMU.html#a0e32ece3d5ac208c69fa5573fcea3205" title="Verifies access privileges when accessing a page (virtual address)." alt="" coords="227,112,400,174"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,179,214,171,209,174,180,184"/>
+<area shape="rect" id="Node000007" href="$classzero__mate_1_1arm1176jzf__s_1_1mmu_1_1CMMU.html#ac834a31f545bceaea03c3fa127bf0fa1" title="Verifies the access type." alt="" coords="227,219,400,280"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="179,221,214,229,208,230,179,226"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1mmu_1_1CPage__Entry.html#a005e8820c6fa2cdcaa49471491760fa8" title="Returns page access privileges." alt="" coords="448,5,623,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="378,109,458,73,454,75,381,114"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1arm1176jzf__s_1_1mmu_1_1CPage__Entry.html#a3c5fdd9febd92dc1fb1a41d2f936abc3" title="Returns privileged mode page access restrictions (R/RW)." alt="" coords="450,91,622,152"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="400,132,436,131,431,132,401,137"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Context.html#a573470217091c27cf30f1411ea453e5d" title="Checks if the CPU is in a privileged mode." alt="" coords="450,176,622,238"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="400,165,437,178,432,178,400,170"/>
+<area shape="rect" id="Node000006" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Context.html#aa740f9219bb413d707ac72f373e60d3a" title="Returns the current mode of the CPU." alt="" coords="671,176,844,238"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="622,204,658,207,653,207,623,209"/>
+<area shape="rect" id="Node000008" href="$classzero__mate_1_1arm1176jzf__s_1_1mmu_1_1CPage__Entry.html#adefd9403af02fbb79298b706f7d6c7e3" title="Returns the page access type." alt="" coords="450,261,622,323"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="400,263,437,273,432,273,400,269"/>
 </map>

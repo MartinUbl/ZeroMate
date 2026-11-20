@@ -1,7 +1,7 @@
 <map id="zero_mate::coprocessor::cp15::CC1" name="zero_mate::coprocessor::cp15::CC1">
-<area shape="rect" id="Node000001" title="This class represents primary register C1 of coprocessor CP15." alt="" coords="14,197,191,237"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1IPrimary__Reg.html" title="This interface defines common functionality of every primary register of coprocessor CP15." alt="" coords="14,108,191,148"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,162,105,197,100,197,100,162"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1utils_1_1CLogging__System.html" title="This class defines a logging system that is used throughout the project." alt="" coords="5,5,200,45"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="105,59,105,108,100,108,100,59"/>
+<area shape="rect" id="Node000001" title="This class represents primary register C1 of coprocessor CP15." alt="" coords="14,217,191,262"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1IPrimary__Reg.html" title="This interface defines common functionality of every primary register of coprocessor CP15." alt="" coords="14,123,191,168"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="104,181,105,217,100,216,101,185"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1utils_1_1CLogging__System.html" title="This class defines a logging system that is used throughout the project." alt="" coords="5,5,200,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="104,64,105,123,100,122,101,68"/>
 </map>

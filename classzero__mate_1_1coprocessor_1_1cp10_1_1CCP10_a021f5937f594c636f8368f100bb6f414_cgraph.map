@@ -1,0 +1,21 @@
+<map id="zero_mate::coprocessor::cp10::CCP10::Execute_VNMLA_VNMLS_VNMUL" name="zero_mate::coprocessor::cp10::CCP10::Execute_VNMLA_VNMLS_VNMUL">
+<area shape="rect" id="Node000001" title="Executes VNMLA, VNMLS, and VNMUL floating point instructions." alt="" coords="5,304,190,366"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Processing.html#a8740e17ba3318dca9ca9953d79c6a7ab" title="Returns a collection of indexes of all three registers (Vd, Vn, and Vm)." alt="" coords="238,219,450,280"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,301,240,284,236,288,190,306"/>
+<area shape="rect" id="Node000009" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Processing.html#a4933f170fdb865477bc2456f0252ea82" title="Checks whether the instruction is an accumulate instruction or not." alt="" coords="238,304,450,366"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="190,332,224,334,220,336,191,337"/>
+<area shape="rect" id="Node000010" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Processing.html#a8fe7079c2fcb75db28f44513c732b998" title="Checks whether the 6th bit is set or not (OP bit 1)." alt="" coords="238,389,450,451"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="189,364,241,383,236,384,189,369"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Processing.html#ac3c2b7fa00ff41b0a305cf96b9b40e8a" title="Returns the index of the Vd register." alt="" coords="498,5,710,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="364,217,419,148,456,110,496,77,506,73,501,77,500,81,459,114,423,151,368,220"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Processing.html#a9a722758da0bd85e78a6c1f41c28443a" title="Returns the offset of the Vd register (S{x} vs D{x})." alt="" coords="498,91,710,152"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="396,216,497,162,511,158,507,160,499,167,399,220"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Processing.html#a12adf6834479667289a3618f05623ecd" title="Returns the index of the Vm register." alt="" coords="498,176,710,238"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="449,230,485,226,480,228,451,235"/>
+<area shape="rect" id="Node000006" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Processing.html#a69ce6e81e4f529840566e3bee36c5d20" title="Returns the offset of the Vm register (S{x} vs D{x})." alt="" coords="498,261,710,323"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="450,264,485,272,480,273,451,270"/>
+<area shape="rect" id="Node000007" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Processing.html#ac2c5b27964fdd49fc4f960c6b52f3936" title="Returns the index of the Vn register." alt="" coords="498,347,710,408"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="430,278,452,290,476,312,500,333,508,340,503,339,496,337,472,315,448,294,429,283"/>
+<area shape="rect" id="Node000008" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Processing.html#a9dd5cfa2e388b6e6019ba523e966d875" title="Returns the offset of the Vn register (S{x} vs D{x})." alt="" coords="498,432,710,494"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="437,278,452,290,465,307,472,324,477,356,481,387,488,403,500,418,502,423,497,421,496,422,483,405,476,389,471,357,467,325,460,310,448,294,436,283"/>
+</map>

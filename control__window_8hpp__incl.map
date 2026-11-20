@@ -1,148 +1,148 @@
 <map id="src/gui/windows/control_window.hpp" name="src/gui/windows/control_window.hpp">
-<area shape="rect" id="Node000001" title="This file defines a window that allows the user to control CPU execution." alt="" coords="3437,5,3611,45"/>
-<area shape="rect" id="Node000002" href="$window_8hpp.html" title="This file defines an interface for all windows that will be rendered by the application." alt="" coords="3090,101,3201,126"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="3441,48,3209,100,3208,95,3440,43"/>
-<area shape="rect" id="Node000004" href="$logging__system_8hpp.html" title="This file defines a logging system that is used in the project." alt="" coords="3517,592,3691,632"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="3488,48,3417,90,3378,119,3342,151,3311,187,3291,226,3283,266,3285,287,3292,308,3316,355,3347,399,3382,440,3420,477,3496,539,3561,583,3558,587,3493,543,3416,481,3378,444,3343,402,3312,358,3287,310,3280,288,3278,266,3286,224,3307,184,3338,147,3375,114,3414,86,3485,43"/>
-<area shape="rect" id="Node000006" href="$core_8hpp.html" title="This file defines a class that represents a CPU core (arm1176jzf_s)." alt="" coords="3709,93,3861,133"/>
-<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="3582,43,3716,86,3714,92,3581,48"/>
-<area shape="rect" id="Node000043" href="$peripheral_8hpp.html" title="This file defines an interface for a memory&#45;mapped peripheral." alt="" coords="4387,357,4581,383"/>
-<area shape="poly" id="edge96_Node000001_Node000043" title=" " alt="" coords="3612,31,3793,49,4016,80,4125,100,4226,123,4309,149,4370,179,4410,216,4441,261,4464,306,4479,343,4474,345,4459,308,4437,264,4406,220,4366,184,4307,154,4224,128,4124,105,4015,85,3792,55,3611,36"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="3064,189,3176,214"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="3144,127,3130,176,3125,175,3139,125"/>
-<area shape="rect" id="Node000005" href="$logger_8hpp.html" title="This file defines a general logger interface." alt="" coords="3559,680,3649,705"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="3607,632,3607,666,3601,666,3601,632"/>
-<area shape="poly" id="edge87_Node000006_Node000004" title=" " alt="" coords="3710,134,3656,153,3601,181,3576,199,3553,220,3533,244,3518,270,3506,312,3504,356,3509,400,3520,442,3552,521,3586,579,3581,582,3548,523,3515,444,3504,401,3499,356,3501,311,3514,268,3529,241,3549,216,3572,195,3598,177,3654,148,3708,129"/>
-<area shape="rect" id="Node000007" href="$context_8hpp.html" title="This file defines the context (registers) of the CPU." alt="" coords="4167,511,4265,537"/>
-<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="3862,117,3983,125,4121,139,4239,157,4279,167,4302,179,4328,213,4345,246,4354,279,4355,312,4350,346,4339,381,4302,457,4280,485,4253,506,4249,502,4276,481,4298,455,4334,379,4345,345,4350,312,4349,280,4340,248,4324,216,4298,183,4277,172,4238,162,4120,144,3983,131,3861,122"/>
-<area shape="rect" id="Node000008" href="$exceptions_8hpp.html" title="This file defines all exceptions that can be thrown by the CPU during execution." alt="" coords="4173,357,4294,383"/>
-<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="3862,111,3971,113,4094,122,4153,131,4205,143,4247,159,4275,180,4288,199,4293,221,4293,244,4289,267,4272,311,4252,347,4247,344,4267,309,4283,266,4288,243,4288,222,4283,201,4271,183,4244,163,4203,148,4152,136,4094,127,3971,118,3862,116"/>
-<area shape="rect" id="Node000010" href="$arm1176jzf__s_2isa_2isa_8hpp.html" title="This file is just a helper file for including all ARM instructions supported by the emulator." alt="" coords="1757,431,1849,456"/>
-<area shape="poly" id="edge11_Node000006_Node000010" title=" " alt="" coords="3710,131,3188,224,2406,351,1863,436,1862,430,2405,346,3188,219,3709,126"/>
-<area shape="rect" id="Node000033" href="$isa__decoder_8hpp.html" title="This file defines an instruction decoder." alt="" coords="3302,277,3453,302"/>
-<area shape="poly" id="edge55_Node000006_Node000033" title=" " alt="" coords="3709,120,3655,127,3594,138,3532,157,3473,184,3448,202,3426,223,3393,267,3389,263,3422,220,3445,198,3471,179,3530,152,3592,133,3654,121,3709,115"/>
-<area shape="rect" id="Node000034" href="$bus_8hpp.html" title="This file defines an interface the CPU uses to access different memory&#45;mapped peripherals." alt="" coords="4163,277,4248,302"/>
-<area shape="poly" id="edge57_Node000006_Node000034" title=" " alt="" coords="3862,124,3949,145,3996,160,4040,179,4067,198,4092,219,4173,268,4170,272,4089,224,4064,202,4037,184,3994,165,3948,150,3861,129"/>
-<area shape="rect" id="Node000035" href="$cp15_8hpp.html" title="This file defines coprocessor CP15." alt="" coords="3757,357,3963,383"/>
-<area shape="poly" id="edge95_Node000006_Node000035" title=" " alt="" coords="3736,136,3705,155,3681,183,3676,201,3681,220,3693,243,3708,263,3744,300,3785,328,3822,349,3819,354,3782,333,3741,304,3704,267,3688,246,3676,222,3670,201,3676,180,3701,151,3733,131"/>
-<area shape="rect" id="Node000044" href="$mmu_8hpp.html" title="This file defines the MMU (memory management unit) of the CPU." alt="" coords="3904,189,4027,214"/>
-<area shape="poly" id="edge80_Node000006_Node000044" title=" " alt="" coords="3826,131,3930,181,3928,185,3824,136"/>
-<area shape="rect" id="Node000047" href="$math_8hpp.html" title="This file defines and implements a variety of handy helper functions that are used throughout the pro..." alt="" coords="3691,189,3880,214"/>
-<area shape="poly" id="edge86_Node000006_Node000047" title=" " alt="" coords="3788,134,3788,175,3783,175,3783,134"/>
-<area shape="rect" id="Node000048" href="$external__peripheral_8hpp.html" title="This file defines an interface for external peripherals that can be attached to the system via GPIO p..." alt="" coords="3528,269,3677,309"/>
-<area shape="poly" id="edge88_Node000006_Node000048" title=" " alt="" coords="3712,136,3671,155,3637,183,3625,200,3617,218,3608,256,3603,255,3612,217,3621,197,3633,180,3668,150,3710,131"/>
-<area shape="rect" id="Node000049" href="$interrupt__controller_8hpp.html" title="This file defines the interrupt controller used in BCM2835." alt="" coords="4529,269,4695,309"/>
-<area shape="poly" id="edge90_Node000006_Node000049" title=" " alt="" coords="3862,114,3964,119,4091,130,4230,149,4369,179,4423,196,4477,218,4567,260,4565,265,4475,222,4422,201,4367,184,4229,154,4090,135,3963,124,3862,119"/>
-<area shape="rect" id="Node000050" href="$system__clock__listener_8hpp.html" title="This file defines an interface for a CPU clock listener." alt="" coords="4102,181,4261,221"/>
-<area shape="poly" id="edge94_Node000006_Node000050" title=" " alt="" coords="3862,129,4089,177,4088,183,3861,134"/>
-<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="4167,535,3706,599,3705,594,4166,530"/>
-<area shape="poly" id="edge10_Node000008_Node000007" title=" " alt="" coords="4250,381,4278,414,4286,435,4284,457,4267,484,4246,505,4242,501,4263,480,4279,455,4281,436,4273,416,4246,385"/>
-<area shape="rect" id="Node000009" title=" " alt="" coords="4163,431,4269,456"/>
-<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="4233,384,4225,418,4219,417,4228,382"/>
-<area shape="rect" id="Node000011" href="$instruction_8hpp.html" title="This file defines the interface of a general ARM instruction." alt="" coords="1743,599,1862,625"/>
-<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="1756,447,1406,448,885,455,626,462,403,473,241,487,192,496,168,506,162,515,160,524,162,533,168,542,191,552,237,561,391,576,603,587,852,596,1362,605,1730,608,1730,613,1362,610,852,601,603,592,390,581,236,566,189,557,165,546,157,535,155,524,157,513,165,502,190,491,240,482,402,467,626,457,885,449,1406,443,1756,442"/>
-<area shape="rect" id="Node000012" href="$branch__and__exchange_8hpp.html" title="This file defines a branch and exchange instruction (BX)." alt="" coords="179,511,373,537"/>
-<area shape="poly" id="edge13_Node000010_Node000012" title=" " alt="" coords="1757,447,1543,448,1206,455,801,473,591,488,386,507,348,512,347,506,385,501,591,482,801,468,1206,450,1543,443,1757,442"/>
-<area shape="rect" id="Node000013" href="$branch_8hpp.html" title="This file defines a branch instruction (B, BL)." alt="" coords="398,511,493,537"/>
-<area shape="poly" id="edge15_Node000010_Node000013" title=" " alt="" coords="1757,448,1511,452,1148,462,776,479,621,491,504,507,490,510,488,505,504,501,620,486,776,474,1148,456,1511,446,1756,442"/>
-<area shape="rect" id="Node000014" href="$arm1176jzf__s_2isa_2data__processing_8hpp.html" title="This file defines a data processing instruction." alt="" coords="517,511,673,537"/>
-<area shape="poly" id="edge17_Node000010_Node000014" title=" " alt="" coords="1757,447,1583,449,1318,457,1005,475,843,489,684,507,656,511,655,506,684,501,842,483,1004,469,1318,452,1583,444,1757,442"/>
-<area shape="rect" id="Node000015" href="$multiply_8hpp.html" title="This file defines a multiplication instruction (MUL, MLA)." alt="" coords="697,511,799,537"/>
-<area shape="poly" id="edge19_Node000010_Node000015" title=" " alt="" coords="1757,449,1290,468,1014,485,899,495,812,507,795,510,794,505,812,501,899,490,1014,479,1290,462,1756,443"/>
-<area shape="rect" id="Node000016" href="$multiply__long_8hpp.html" title="This file defines a multiplication (long) instruction." alt="" coords="824,511,963,537"/>
-<area shape="poly" id="edge21_Node000010_Node000016" title=" " alt="" coords="1757,448,1623,452,1430,462,1204,479,975,507,951,511,950,506,974,501,1204,474,1429,457,1623,447,1757,443"/>
-<area shape="rect" id="Node000017" href="$single__data__transfer_8hpp.html" title="This file defines single data transfer instruction (LDR, STR)." alt="" coords="987,511,1170,537"/>
-<area shape="poly" id="edge23_Node000010_Node000017" title=" " alt="" coords="1757,450,1511,470,1348,486,1183,507,1151,512,1150,506,1182,501,1348,481,1511,465,1756,445"/>
-<area shape="rect" id="Node000018" href="$block__data__transfer_8hpp.html" title="This file defines a block data transfer instruction (LDM, STM)." alt="" coords="1195,511,1373,537"/>
-<area shape="poly" id="edge25_Node000010_Node000018" title=" " alt="" coords="1757,453,1386,507,1358,511,1357,506,1385,501,1756,448"/>
-<area shape="rect" id="Node000019" href="$halfword__data__transfer_8hpp.html" title="This file defines a Halfword data transfer instruction." alt="" coords="1398,511,1597,537"/>
-<area shape="poly" id="edge27_Node000010_Node000019" title=" " alt="" coords="1759,459,1556,511,1554,505,1758,453"/>
-<area shape="rect" id="Node000020" href="$extend_8hpp.html" title="This file defines an extend instruction." alt="" coords="1621,511,1715,537"/>
-<area shape="poly" id="edge29_Node000010_Node000020" title=" " alt="" coords="1784,458,1701,507,1698,502,1781,454"/>
-<area shape="rect" id="Node000021" href="$psr__transfer_8hpp.html" title="This file defines a PSR instruction (MRS, MSR)." alt="" coords="1739,511,1866,537"/>
-<area shape="poly" id="edge31_Node000010_Node000021" title=" " alt="" coords="1805,456,1805,497,1800,497,1800,456"/>
-<area shape="rect" id="Node000022" href="$cps_8hpp.html" title="This file defines a change processor state instruction (CPS)." alt="" coords="1891,511,1963,537"/>
-<area shape="poly" id="edge33_Node000010_Node000022" title=" " alt="" coords="1822,454,1898,502,1895,506,1820,458"/>
-<area shape="rect" id="Node000023" href="$coprocessor__register__transfer_8hpp.html" title="This file defines a coprocessor register transfer (MRC, MCR)." alt="" coords="3132,504,3289,544"/>
-<area shape="poly" id="edge35_Node000010_Node000023" title=" " alt="" coords="1849,441,2047,442,2358,448,2731,466,2926,481,3118,502,3118,507,2925,487,2731,471,2357,453,2047,447,1849,447"/>
-<area shape="rect" id="Node000024" href="$coprocessor__data__transfer_8hpp.html" title="This file defines a coprocessor data transfer (LDC, STC)." alt="" coords="2628,511,2849,537"/>
-<area shape="poly" id="edge37_Node000010_Node000024" title=" " alt="" coords="1849,444,2170,463,2391,479,2616,501,2657,507,2656,512,2616,507,2391,485,2170,468,1849,449"/>
-<area shape="rect" id="Node000025" href="$coprocessor__data__operation_8hpp.html" title="This file defines a coprocessor data operation (CDP)." alt="" coords="2874,511,3107,537"/>
-<area shape="poly" id="edge39_Node000010_Node000025" title=" " alt="" coords="1849,443,2264,459,2559,476,2862,501,2907,507,2906,512,2861,507,2559,482,2264,464,1849,448"/>
-<area shape="rect" id="Node000026" href="$srs_8hpp.html" title="This file defines an SRS instruction (store return state onto a stack)." alt="" coords="1987,511,2056,537"/>
-<area shape="poly" id="edge41_Node000010_Node000026" title=" " alt="" coords="1838,453,1976,501,1981,504,1979,509,1974,507,1836,459"/>
-<area shape="rect" id="Node000027" href="$rfe_8hpp.html" title="This file defines an RFE instruction (return from exception)." alt="" coords="2081,511,2149,537"/>
-<area shape="poly" id="edge43_Node000010_Node000027" title=" " alt="" coords="1849,450,1951,471,2069,501,2076,504,2075,509,2067,507,1949,476,1848,455"/>
-<area shape="rect" id="Node000028" href="$clz_8hpp.html" title="This file defines a count leading zeros instruction (CLZ)." alt="" coords="2173,511,2241,537"/>
-<area shape="poly" id="edge45_Node000010_Node000028" title=" " alt="" coords="1849,446,1990,465,2076,481,2161,501,2169,504,2167,509,2159,507,2074,486,1989,470,1849,452"/>
-<area shape="rect" id="Node000029" href="$smulxy_8hpp.html" title="This file defines a SMULxy instruction." alt="" coords="2265,511,2361,537"/>
-<area shape="poly" id="edge47_Node000010_Node000029" title=" " alt="" coords="1849,446,2027,464,2140,480,2253,501,2267,505,2265,510,2251,507,2139,486,2026,470,1849,451"/>
-<area shape="rect" id="Node000030" href="$smulwy_8hpp.html" title="This file implements a SMULWy instruction." alt="" coords="2385,511,2484,537"/>
-<area shape="poly" id="edge49_Node000010_Node000030" title=" " alt="" coords="1849,444,2076,460,2224,477,2374,501,2389,505,2388,510,2373,507,2224,482,2075,465,1849,449"/>
-<area shape="rect" id="Node000031" href="$smlaxy_8hpp.html" title="This file defines a SMLAxy instruction." alt="" coords="2508,511,2604,537"/>
-<area shape="poly" id="edge51_Node000010_Node000031" title=" " alt="" coords="1849,443,1964,446,2125,455,2310,473,2497,501,2512,505,2510,510,2495,507,2309,478,2124,460,1963,451,1849,448"/>
-<area shape="rect" id="Node000032" href="$smlawy_8hpp.html" title="This file defines a SMLAWy instruction." alt="" coords="5,511,104,537"/>
-<area shape="poly" id="edge53_Node000010_Node000032" title=" " alt="" coords="1757,448,1448,450,974,459,483,476,278,490,123,507,104,511,103,505,122,501,277,484,483,471,974,453,1448,445,1757,442"/>
-<area shape="poly" id="edge14_Node000012_Node000011" title=" " alt="" coords="335,534,386,541,582,560,782,575,1171,595,1503,605,1729,608,1729,613,1503,610,1170,600,782,580,581,565,385,547,334,539"/>
-<area shape="poly" id="edge16_Node000013_Node000011" title=" " alt="" coords="477,534,505,541,616,556,763,569,1117,589,1471,601,1730,607,1730,612,1471,606,1117,594,762,574,615,562,503,547,475,539"/>
-<area shape="poly" id="edge18_Node000014_Node000011" title=" " alt="" coords="643,534,684,541,834,559,988,573,1287,593,1546,603,1730,607,1730,613,1546,609,1286,598,987,579,834,564,684,547,642,539"/>
-<area shape="poly" id="edge20_Node000015_Node000011" title=" " alt="" coords="783,534,813,541,942,561,1075,577,1336,597,1564,606,1729,608,1729,614,1564,612,1336,603,1075,582,942,567,811,547,781,539"/>
-<area shape="poly" id="edge22_Node000016_Node000011" title=" " alt="" coords="938,534,975,541,1189,569,1402,588,1730,606,1730,611,1402,593,1189,574,974,547,937,539"/>
-<area shape="poly" id="edge24_Node000017_Node000011" title=" " alt="" coords="1138,534,1183,541,1487,578,1730,602,1729,607,1486,584,1182,547,1138,539"/>
-<area shape="poly" id="edge26_Node000018_Node000011" title=" " alt="" coords="1345,534,1386,541,1730,597,1729,602,1385,547,1344,539"/>
-<area shape="poly" id="edge28_Node000019_Node000011" title=" " alt="" coords="1539,534,1749,593,1748,598,1538,539"/>
-<area shape="poly" id="edge30_Node000020_Node000011" title=" " alt="" coords="1688,535,1775,590,1772,594,1685,539"/>
-<area shape="poly" id="edge32_Node000021_Node000011" title=" " alt="" coords="1805,537,1805,585,1800,585,1800,537"/>
-<area shape="poly" id="edge34_Node000022_Node000011" title=" " alt="" coords="1911,539,1832,594,1829,589,1908,535"/>
-<area shape="poly" id="edge36_Node000023_Node000011" title=" " alt="" coords="3132,545,3119,547,2939,567,2754,582,2396,602,2089,611,1876,613,1876,608,2089,606,2396,597,2754,577,2938,561,3118,541,3131,540"/>
-<area shape="poly" id="edge38_Node000024_Node000011" title=" " alt="" coords="2670,539,2616,547,2406,569,2198,586,1876,609,1876,604,2197,581,2405,563,2616,541,2669,534"/>
-<area shape="poly" id="edge40_Node000025_Node000011" title=" " alt="" coords="2920,539,2862,547,2576,572,2295,591,1876,611,1876,605,2295,585,2576,567,2861,541,2919,534"/>
-<area shape="poly" id="edge42_Node000026_Node000011" title=" " alt="" coords="1994,539,1976,546,1846,597,1844,592,1974,542,1992,534"/>
-<area shape="poly" id="edge44_Node000027_Node000011" title=" " alt="" coords="2089,539,2069,547,1965,576,1871,599,1870,594,1964,571,2067,541,2087,534"/>
-<area shape="poly" id="edge46_Node000028_Node000011" title=" " alt="" coords="2182,539,2161,547,2010,582,1876,604,1875,599,2009,577,2159,541,2180,534"/>
-<area shape="poly" id="edge48_Node000029_Node000011" title=" " alt="" coords="2280,539,2253,547,2151,567,2049,584,1876,606,1875,601,2048,578,2150,562,2251,541,2278,534"/>
-<area shape="poly" id="edge50_Node000030_Node000011" title=" " alt="" coords="2402,539,2374,547,2237,571,2100,589,1876,609,1876,604,2099,584,2236,566,2373,541,2401,534"/>
-<area shape="poly" id="edge52_Node000031_Node000011" title=" " alt="" coords="2524,539,2497,547,2323,575,2150,594,1995,605,1876,611,1876,606,1995,600,2150,589,2323,570,2495,541,2523,534"/>
-<area shape="poly" id="edge54_Node000032_Node000011" title=" " alt="" coords="91,534,123,541,271,558,468,572,939,592,1404,603,1729,607,1729,613,1404,608,939,597,468,577,271,563,122,547,89,539"/>
-<area shape="poly" id="edge56_Node000033_Node000011" title=" " alt="" coords="3381,302,3381,349,3372,416,3363,452,3349,487,3329,519,3303,546,3280,555,3236,562,3096,575,2677,595,2214,607,1876,612,1876,607,2214,601,2677,589,3096,570,3235,557,3279,549,3300,542,3325,516,3344,485,3358,451,3367,415,3375,349,3375,302"/>
-<area shape="poly" id="edge79_Node000034_Node000008" title=" " alt="" coords="4212,301,4227,343,4222,345,4207,303"/>
-<area shape="poly" id="edge58_Node000034_Node000035" title=" " alt="" coords="4163,303,3924,357,3923,352,4162,298"/>
-<area shape="poly" id="edge78_Node000034_Node000043" title=" " alt="" coords="4247,299,4431,351,4430,356,4245,305"/>
-<area shape="poly" id="edge77_Node000035_Node000004" title=" " alt="" coords="3758,384,3663,403,3625,416,3602,432,3592,449,3586,467,3582,506,3586,544,3595,578,3590,579,3581,545,3576,506,3580,465,3587,446,3598,429,3623,411,3661,398,3757,379"/>
-<area shape="rect" id="Node000036" href="$c1_8hpp.html" title="This file defines the primary register C1 of coprocessor CP15." alt="" coords="3613,431,3678,456"/>
-<area shape="poly" id="edge59_Node000035_Node000036" title=" " alt="" coords="3826,385,3692,429,3690,424,3825,380"/>
-<area shape="rect" id="Node000037" href="$primary__reg_8hpp.html" title="This file defines a primary register interface of coprocessor CP15." alt="" coords="3759,511,3889,537"/>
-<area shape="poly" id="edge71_Node000035_Node000037" title=" " alt="" coords="3867,383,3874,416,3875,436,3872,457,3861,481,3846,502,3842,499,3856,479,3867,455,3870,436,3869,417,3862,384"/>
-<area shape="rect" id="Node000038" href="$c2_8hpp.html" title="This file defines the primary register C2 of coprocessor CP15." alt="" coords="3933,431,3998,456"/>
-<area shape="poly" id="edge63_Node000035_Node000038" title=" " alt="" coords="3878,380,3938,421,3936,425,3875,385"/>
-<area shape="rect" id="Node000039" href="$c3_8hpp.html" title="This file defines the primary register C3 of coprocessor CP15." alt="" coords="4022,431,4087,456"/>
-<area shape="poly" id="edge65_Node000035_Node000039" title=" " alt="" coords="3892,380,4011,423,4009,428,3890,385"/>
-<area shape="rect" id="Node000040" href="$c7_8hpp.html" title="This file defines the primary register C7 of coprocessor CP15." alt="" coords="3702,431,3767,456"/>
-<area shape="poly" id="edge67_Node000035_Node000040" title=" " alt="" coords="3841,385,3768,426,3766,421,3839,380"/>
-<area shape="rect" id="Node000041" href="$c8_8hpp.html" title="This file defines the primary register C8 of coprocessor CP15." alt="" coords="3791,431,3857,456"/>
-<area shape="poly" id="edge69_Node000035_Node000041" title=" " alt="" coords="3856,384,3838,420,3834,417,3852,382"/>
-<area shape="rect" id="Node000042" href="$coprocessor_8hpp.html" title="This file defines a general interface of a coprocessor." alt="" coords="3141,431,3280,456"/>
-<area shape="poly" id="edge72_Node000035_Node000042" title=" " alt="" coords="3757,385,3294,436,3293,430,3757,380"/>
-<area shape="poly" id="edge62_Node000036_Node000004" title=" " alt="" coords="3645,457,3615,579,3609,578,3640,455"/>
-<area shape="poly" id="edge60_Node000036_Node000037" title=" " alt="" coords="3672,454,3787,503,3785,508,3670,458"/>
-<area shape="poly" id="edge61_Node000037_Node000004" title=" " alt="" coords="3795,539,3666,589,3664,584,3793,534"/>
-<area shape="poly" id="edge64_Node000038_Node000037" title=" " alt="" coords="3946,459,3858,507,3856,502,3943,454"/>
-<area shape="poly" id="edge66_Node000039_Node000037" title=" " alt="" coords="4022,458,3872,509,3870,504,4021,453"/>
-<area shape="poly" id="edge68_Node000040_Node000037" title=" " alt="" coords="3750,454,3802,500,3799,504,3746,458"/>
-<area shape="poly" id="edge70_Node000041_Node000037" title=" " alt="" coords="3827,456,3827,497,3821,497,3821,456"/>
-<area shape="poly" id="edge73_Node000042_Node000007" title=" " alt="" coords="3280,447,4153,515,4152,520,3280,453"/>
-<area shape="poly" id="edge74_Node000042_Node000023" title=" " alt="" coords="3213,456,3213,490,3208,490,3208,456"/>
-<area shape="poly" id="edge75_Node000042_Node000024" title=" " alt="" coords="3142,459,2821,512,2821,506,3142,453"/>
-<area shape="poly" id="edge76_Node000042_Node000025" title=" " alt="" coords="3180,459,3037,509,3035,504,3178,453"/>
-<area shape="poly" id="edge84_Node000044_Node000007" title=" " alt="" coords="3975,213,4046,314,4154,454,4196,500,4192,503,4150,458,4041,317,3971,216"/>
-<area shape="poly" id="edge81_Node000044_Node000034" title=" " alt="" coords="3999,212,4161,270,4160,275,3997,217"/>
-<area shape="poly" id="edge85_Node000044_Node000035" title=" " alt="" coords="3963,216,3945,259,3916,311,3884,349,3880,346,3911,308,3940,256,3958,213"/>
-<area shape="rect" id="Node000045" href="$page__table_8hpp.html" title="This file defines a page table." alt="" coords="3779,277,3901,302"/>
-<area shape="poly" id="edge82_Node000044_Node000045" title=" " alt="" coords="3950,216,3870,271,3867,267,3947,212"/>
-<area shape="rect" id="Node000046" href="$page__entry_8hpp.html" title="This file defines a page table entry." alt="" coords="3611,357,3733,383"/>
-<area shape="poly" id="edge83_Node000045_Node000046" title=" " alt="" coords="3817,304,3710,354,3707,349,3814,300"/>
-<area shape="poly" id="edge89_Node000048_Node000004" title=" " alt="" coords="3599,311,3588,353,3577,411,3571,477,3577,543,3589,578,3584,580,3572,545,3566,477,3571,410,3582,352,3594,309"/>
-<area shape="poly" id="edge93_Node000049_Node000004" title=" " alt="" coords="4621,309,4627,344,4626,364,4621,384,4606,411,4588,429,4539,458,4470,495,4413,516,4354,531,4278,547,4123,574,3966,593,3823,604,3705,610,3705,605,3822,599,3966,587,4122,569,4277,541,4353,525,4412,511,4468,490,4536,454,4585,425,4601,408,4616,382,4621,364,4622,345,4616,310"/>
-<area shape="poly" id="edge92_Node000049_Node000007" title=" " alt="" coords="4616,310,4613,347,4606,367,4595,384,4562,417,4524,444,4482,466,4439,484,4353,508,4280,520,4279,515,4352,503,4437,479,4480,461,4521,440,4559,413,4591,381,4601,364,4607,346,4611,309"/>
-<area shape="poly" id="edge91_Node000049_Node000043" title=" " alt="" coords="4582,312,4516,352,4513,348,4580,307"/>
+<area shape="rect" id="Node000001" title="This file defines a window that allows the user to control CPU execution." alt="" coords="3418,5,3592,50"/>
+<area shape="rect" id="Node000002" href="$window_8hpp.html" title="This file defines an interface for all windows that will be rendered by the application." alt="" coords="3074,106,3184,134"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="3420,49,3199,105,3198,100,3415,51"/>
+<area shape="rect" id="Node000004" href="$logging__system_8hpp.html" title="This file defines a logging system that is used in the project." alt="" coords="3511,620,3686,665"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="3467,50,3396,99,3357,129,3322,164,3292,201,3272,242,3265,284,3267,305,3274,327,3299,375,3330,420,3366,462,3404,500,3482,564,3551,612,3546,611,3479,568,3401,504,3362,465,3326,423,3295,378,3269,329,3262,306,3260,284,3267,240,3287,199,3318,160,3354,125,3393,94,3463,52"/>
+<area shape="rect" id="Node000006" href="$core_8hpp.html" title="This file defines a class that represents a CPU core (arm1176jzf_s)." alt="" coords="3690,98,3841,143"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="3568,48,3691,93,3686,92,3567,53"/>
+<area shape="rect" id="Node000043" href="$peripheral_8hpp.html" title="This file defines an interface for a memory&#45;mapped peripheral." alt="" coords="4362,376,4555,404"/>
+<area shape="poly" id="edge96_Node000001_Node000043" title=" " alt="" coords="3593,34,3774,54,3995,86,4104,106,4203,130,4286,158,4345,188,4367,207,4386,228,4417,274,4439,321,4453,363,4449,360,4434,323,4412,277,4382,231,4363,210,4342,193,4284,163,4202,136,4103,112,3994,91,3773,59,3593,39"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="3047,199,3158,227"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="3127,133,3112,186,3109,183,3123,136"/>
+<area shape="rect" id="Node000005" href="$logger_8hpp.html" title="This file defines a general logger interface." alt="" coords="3554,713,3643,740"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="3600,663,3600,699,3597,695,3597,667"/>
+<area shape="poly" id="edge87_Node000006_Node000004" title=" " alt="" coords="3692,140,3636,163,3581,192,3555,211,3532,232,3513,257,3498,284,3482,331,3479,353,3481,378,3502,450,3553,571,3574,609,3569,607,3548,573,3497,452,3476,379,3474,352,3477,330,3493,282,3508,254,3528,229,3552,207,3578,188,3634,158,3687,141"/>
+<area shape="rect" id="Node000007" href="$context_8hpp.html" title="This file defines the context (registers) of the CPU." alt="" coords="4145,536,4244,564"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="3841,124,3963,134,4099,148,4216,166,4257,177,4279,189,4307,224,4325,259,4334,293,4336,328,4330,364,4319,401,4281,481,4260,508,4233,530,4231,525,4256,504,4276,478,4314,399,4325,363,4331,328,4329,294,4320,261,4302,227,4275,193,4255,182,4215,171,4099,153,3962,139,3841,129"/>
+<area shape="rect" id="Node000008" href="$exceptions_8hpp.html" title="This file defines all exceptions that can be thrown by the CPU during execution." alt="" coords="4154,376,4275,404"/>
+<area shape="poly" id="edge8_Node000006_Node000008" title=" " alt="" coords="3841,118,3950,121,4072,131,4130,140,4182,152,4223,168,4251,189,4264,209,4270,232,4271,256,4267,280,4252,326,4232,365,4229,360,4247,324,4262,279,4266,255,4265,233,4259,211,4247,192,4221,173,4180,157,4129,145,4072,136,3949,126,3842,124"/>
+<area shape="rect" id="Node000010" href="$arm1176jzf__s_2isa_2isa_8hpp.html" title="This file is just a helper file for including all ARM instructions supported by the emulator." alt="" coords="1748,452,1839,479"/>
+<area shape="poly" id="edge11_Node000006_Node000010" title=" " alt="" coords="3692,135,3400,193,3171,238,2394,371,1854,457,1853,452,2393,365,3170,233,3399,188,3686,136"/>
+<area shape="rect" id="Node000033" href="$isa__decoder_8hpp.html" title="This file defines an instruction decoder." alt="" coords="3284,292,3433,320"/>
+<area shape="poly" id="edge55_Node000006_Node000033" title=" " alt="" coords="3686,125,3634,134,3573,146,3511,165,3453,193,3429,212,3407,234,3374,281,3371,276,3403,231,3425,208,3450,188,3509,160,3572,140,3634,128,3692,124"/>
+<area shape="rect" id="Node000034" href="$bus_8hpp.html" title="This file defines an interface the CPU uses to access different memory&#45;mapped peripherals." alt="" coords="4143,292,4227,320"/>
+<area shape="poly" id="edge57_Node000006_Node000034" title=" " alt="" coords="3841,131,3929,152,3975,168,4018,188,4035,199,4045,210,4069,233,4150,285,4144,284,4066,237,4041,214,4031,203,4016,193,3973,173,3927,157,3841,136"/>
+<area shape="rect" id="Node000035" href="$cp15_8hpp.html" title="This file defines coprocessor CP15." alt="" coords="3742,376,3946,404"/>
+<area shape="poly" id="edge95_Node000006_Node000035" title=" " alt="" coords="3713,142,3683,165,3661,192,3655,213,3661,234,3672,257,3686,279,3722,315,3762,345,3802,369,3796,368,3759,349,3718,319,3682,282,3667,260,3656,236,3650,213,3656,189,3680,161,3708,144"/>
+<area shape="rect" id="Node000044" href="$mmu_8hpp.html" title="This file defines the MMU (memory management unit) of the CPU." alt="" coords="3883,199,4004,227"/>
+<area shape="poly" id="edge80_Node000006_Node000044" title=" " alt="" coords="3808,141,3907,192,3902,191,3808,146"/>
+<area shape="rect" id="Node000047" href="$math_8hpp.html" title="This file defines and implements a variety of handy helper functions that are used throughout the pro..." alt="" coords="3671,199,3859,227"/>
+<area shape="poly" id="edge86_Node000006_Node000047" title=" " alt="" coords="3767,141,3767,185,3763,182,3763,145"/>
+<area shape="rect" id="Node000048" href="$external__peripheral_8hpp.html" title="This file defines an interface for external peripherals that can be attached to the system via GPIO p..." alt="" coords="3508,283,3657,328"/>
+<area shape="poly" id="edge88_Node000006_Node000048" title=" " alt="" coords="3692,141,3650,164,3616,192,3605,210,3597,229,3587,270,3583,266,3592,227,3600,207,3613,189,3648,160,3687,143"/>
+<area shape="rect" id="Node000049" href="$interrupt__controller_8hpp.html" title="This file defines the interrupt controller used in BCM2835." alt="" coords="4498,283,4664,328"/>
+<area shape="poly" id="edge90_Node000006_Node000049" title=" " alt="" coords="3841,120,3943,125,4069,136,4208,156,4345,188,4397,206,4448,228,4535,276,4530,275,4445,233,4395,211,4343,193,4207,162,4069,142,3942,130,3841,126"/>
+<area shape="rect" id="Node000050" href="$system__clock__listener_8hpp.html" title="This file defines an interface for a CPU clock listener." alt="" coords="4079,191,4238,235"/>
+<area shape="poly" id="edge94_Node000006_Node000050" title=" " alt="" coords="3842,136,4067,190,4061,190,3841,142"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="4147,558,3701,628,3701,623,4142,559"/>
+<area shape="poly" id="edge10_Node000008_Node000007" title=" " alt="" coords="4230,402,4256,436,4263,458,4261,480,4246,506,4225,528,4223,523,4241,503,4256,478,4258,459,4251,439,4227,406"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="4142,452,4247,479"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="4213,403,4204,439,4200,435,4209,406"/>
+<area shape="rect" id="Node000011" href="$instruction_8hpp.html" title="This file defines the interface of a general ARM instruction." alt="" coords="1734,628,1852,656"/>
+<area shape="poly" id="edge12_Node000010_Node000011" title=" " alt="" coords="1744,467,1399,471,881,478,623,485,401,496,240,511,191,520,168,529,161,539,159,550,161,560,168,570,190,580,236,589,388,604,599,616,846,624,1352,635,1721,641,1716,641,1352,640,846,630,599,621,388,609,236,594,189,585,165,574,156,562,154,550,156,537,165,525,190,514,240,505,401,491,623,480,881,472,1399,465,1750,466"/>
+<area shape="rect" id="Node000012" href="$branch__and__exchange_8hpp.html" title="This file defines a branch and exchange instruction (BX)." alt="" coords="179,536,373,564"/>
+<area shape="poly" id="edge13_Node000010_Node000012" title=" " alt="" coords="1745,467,1535,469,1200,476,798,494,590,509,385,530,351,535,350,530,385,525,589,504,798,489,1200,470,1535,464,1750,466"/>
+<area shape="rect" id="Node000013" href="$branch_8hpp.html" title="This file defines a branch instruction (B, BL)." alt="" coords="397,536,490,564"/>
+<area shape="poly" id="edge15_Node000010_Node000013" title=" " alt="" coords="1744,467,1502,473,1142,482,772,500,619,514,503,530,490,533,489,528,502,525,618,508,772,495,1141,477,1502,468,1750,467"/>
+<area shape="rect" id="Node000014" href="$arm1176jzf__s_2isa_2data__processing_8hpp.html" title="This file defines a data processing instruction." alt="" coords="514,536,670,564"/>
+<area shape="poly" id="edge17_Node000010_Node000014" title=" " alt="" coords="1745,467,1574,470,1311,477,1000,496,839,510,682,530,656,535,654,529,681,525,838,505,999,490,1311,472,1574,465,1750,466"/>
+<area shape="rect" id="Node000015" href="$multiply_8hpp.html" title="This file defines a multiplication instruction (MUL, MLA)." alt="" coords="693,536,794,564"/>
+<area shape="poly" id="edge19_Node000010_Node000015" title=" " alt="" coords="1744,468,1282,489,1007,506,893,517,807,530,792,533,791,528,806,525,892,512,1007,501,1282,483,1750,468"/>
+<area shape="rect" id="Node000016" href="$multiply__long_8hpp.html" title="This file defines a multiplication (long) instruction." alt="" coords="819,536,957,564"/>
+<area shape="poly" id="edge21_Node000010_Node000016" title=" " alt="" coords="1745,468,1614,473,1421,483,1197,501,970,530,948,534,947,529,969,525,1197,495,1421,477,1614,468,1750,467"/>
+<area shape="rect" id="Node000017" href="$single__data__transfer_8hpp.html" title="This file defines single data transfer instruction (LDR, STR)." alt="" coords="981,536,1162,564"/>
+<area shape="poly" id="edge23_Node000010_Node000017" title=" " alt="" coords="1745,470,1502,492,1340,508,1175,530,1146,535,1145,530,1174,525,1339,503,1502,486,1750,469"/>
+<area shape="rect" id="Node000018" href="$block__data__transfer_8hpp.html" title="This file defines a block data transfer instruction (LDM, STM)." alt="" coords="1187,536,1364,564"/>
+<area shape="poly" id="edge25_Node000010_Node000018" title=" " alt="" coords="1744,473,1584,497,1378,530,1351,535,1351,530,1377,525,1583,492,1749,472"/>
+<area shape="rect" id="Node000019" href="$halfword__data__transfer_8hpp.html" title="This file defines a Halfword data transfer instruction." alt="" coords="1389,536,1587,564"/>
+<area shape="poly" id="edge27_Node000010_Node000019" title=" " alt="" coords="1750,479,1552,534,1551,529,1745,480"/>
+<area shape="rect" id="Node000020" href="$extend_8hpp.html" title="This file defines an extend instruction." alt="" coords="1611,536,1706,564"/>
+<area shape="poly" id="edge29_Node000010_Node000020" title=" " alt="" coords="1774,479,1694,530,1692,525,1769,481"/>
+<area shape="rect" id="Node000021" href="$psr__transfer_8hpp.html" title="This file defines a PSR instruction (MRS, MSR)." alt="" coords="1730,536,1856,564"/>
+<area shape="poly" id="edge31_Node000010_Node000021" title=" " alt="" coords="1795,478,1795,522,1791,519,1791,482"/>
+<area shape="rect" id="Node000022" href="$cps_8hpp.html" title="This file defines a change processor state instruction (CPS)." alt="" coords="1880,536,1952,564"/>
+<area shape="poly" id="edge33_Node000010_Node000022" title=" " alt="" coords="1814,477,1886,528,1881,527,1812,483"/>
+<area shape="rect" id="Node000023" href="$coprocessor__register__transfer_8hpp.html" title="This file defines a coprocessor register transfer (MRC, MCR)." alt="" coords="3114,527,3270,572"/>
+<area shape="poly" id="edge35_Node000010_Node000023" title=" " alt="" coords="1839,465,2439,483,2813,501,2973,512,3101,527,3096,527,2973,517,2812,506,2439,489,1839,471"/>
+<area shape="rect" id="Node000024" href="$coprocessor__data__transfer_8hpp.html" title="This file defines a coprocessor data transfer (LDC, STC)." alt="" coords="2612,536,2833,564"/>
+<area shape="poly" id="edge37_Node000010_Node000024" title=" " alt="" coords="1839,466,2159,484,2378,501,2601,525,2641,533,2636,533,2601,530,2378,507,2158,489,1839,471"/>
+<area shape="rect" id="Node000025" href="$coprocessor__data__operation_8hpp.html" title="This file defines a coprocessor data operation (CDP)." alt="" coords="2857,536,3089,564"/>
+<area shape="poly" id="edge39_Node000010_Node000025" title=" " alt="" coords="1839,465,2252,480,2546,498,2845,525,2889,533,2884,533,2845,530,2545,503,2252,485,1840,470"/>
+<area shape="rect" id="Node000026" href="$srs_8hpp.html" title="This file defines an SRS instruction (store return state onto a stack)." alt="" coords="1975,536,2043,564"/>
+<area shape="poly" id="edge41_Node000010_Node000026" title=" " alt="" coords="1834,477,1965,525,1971,530,1966,529,1963,530,1833,483"/>
+<area shape="rect" id="Node000027" href="$rfe_8hpp.html" title="This file defines an RFE instruction (return from exception)." alt="" coords="2068,536,2135,564"/>
+<area shape="poly" id="edge43_Node000010_Node000027" title=" " alt="" coords="1839,472,1940,492,2057,525,2064,530,2059,529,2055,530,1939,497,1839,477"/>
+<area shape="rect" id="Node000028" href="$clz_8hpp.html" title="This file defines a count leading zeros instruction (CLZ)." alt="" coords="2160,536,2227,564"/>
+<area shape="poly" id="edge45_Node000010_Node000028" title=" " alt="" coords="1839,468,1979,487,2063,503,2147,525,2156,530,2151,529,2146,530,2062,508,1978,492,1839,474"/>
+<area shape="rect" id="Node000029" href="$smulxy_8hpp.html" title="This file defines a SMULxy instruction." alt="" coords="2251,536,2346,564"/>
+<area shape="poly" id="edge47_Node000010_Node000029" title=" " alt="" coords="1839,467,2016,485,2128,502,2239,525,2253,531,2248,530,2238,530,2127,507,2015,491,1839,473"/>
+<area shape="rect" id="Node000030" href="$smulwy_8hpp.html" title="This file implements a SMULWy instruction." alt="" coords="2371,536,2469,564"/>
+<area shape="poly" id="edge49_Node000010_Node000030" title=" " alt="" coords="1839,466,1935,471,2064,481,2211,498,2359,525,2374,531,2369,530,2358,530,2211,504,2064,486,1934,476,1839,471"/>
+<area shape="rect" id="Node000031" href="$smlaxy_8hpp.html" title="This file defines a SMLAxy instruction." alt="" coords="2494,536,2589,564"/>
+<area shape="poly" id="edge51_Node000010_Node000031" title=" " alt="" coords="1839,464,1953,467,2113,476,2297,494,2390,507,2482,525,2497,531,2491,530,2481,530,2389,513,2296,499,2113,481,1953,472,1839,470"/>
+<area shape="rect" id="Node000032" href="$smlawy_8hpp.html" title="This file defines a SMLAWy instruction." alt="" coords="5,536,104,564"/>
+<area shape="poly" id="edge53_Node000010_Node000032" title=" " alt="" coords="1744,467,1440,471,969,479,718,487,481,497,276,512,123,530,107,533,104,529,122,525,276,506,480,492,717,481,968,474,1440,466,1750,467"/>
+<area shape="poly" id="edge14_Node000012_Node000011" title=" " alt="" coords="335,561,386,569,580,590,778,606,1163,626,1493,636,1721,641,1716,641,1493,641,1163,632,778,611,579,595,385,575,336,567"/>
+<area shape="poly" id="edge16_Node000013_Node000011" title=" " alt="" coords="475,561,503,569,613,586,758,599,1109,619,1461,631,1721,640,1716,640,1461,637,1109,625,758,605,612,591,502,575,475,567"/>
+<area shape="poly" id="edge18_Node000014_Node000011" title=" " alt="" coords="641,561,682,569,830,589,982,604,1278,625,1536,635,1721,641,1716,641,1535,640,1278,630,981,609,829,594,681,575,641,567"/>
+<area shape="poly" id="edge20_Node000015_Node000011" title=" " alt="" coords="778,561,807,569,888,582,995,593,1254,613,1721,638,1716,638,1253,618,995,599,887,587,806,575,778,567"/>
+<area shape="poly" id="edge22_Node000016_Node000011" title=" " alt="" coords="933,561,970,569,1182,599,1392,618,1579,630,1721,639,1716,639,1579,636,1392,624,1181,604,969,575,933,567"/>
+<area shape="poly" id="edge24_Node000017_Node000011" title=" " alt="" coords="1131,561,1175,569,1326,591,1476,609,1721,635,1716,635,1476,614,1325,596,1174,575,1131,567"/>
+<area shape="poly" id="edge26_Node000018_Node000011" title=" " alt="" coords="1337,562,1378,569,1721,629,1716,630,1377,575,1337,567"/>
+<area shape="poly" id="edge28_Node000019_Node000011" title=" " alt="" coords="1533,561,1737,624,1731,623,1532,567"/>
+<area shape="poly" id="edge30_Node000020_Node000011" title=" " alt="" coords="1679,561,1764,620,1758,619,1677,566"/>
+<area shape="poly" id="edge32_Node000021_Node000011" title=" " alt="" coords="1795,562,1795,615,1791,612,1791,566"/>
+<area shape="poly" id="edge34_Node000022_Node000011" title=" " alt="" coords="1901,563,1824,621,1822,616,1896,565"/>
+<area shape="poly" id="edge36_Node000023_Node000011" title=" " alt="" coords="3116,570,3102,575,2923,597,2740,613,2385,634,2080,643,1868,644,1868,639,2080,638,2385,629,2740,608,2922,591,3101,569,3111,570"/>
+<area shape="poly" id="edge38_Node000024_Node000011" title=" " alt="" coords="2655,564,2602,575,2394,598,2188,617,1868,639,1868,634,2187,612,2393,593,2601,569,2650,564"/>
+<area shape="poly" id="edge40_Node000025_Node000011" title=" " alt="" coords="2904,564,2845,575,2563,602,2284,621,1868,641,1867,636,2284,616,2562,597,2845,569,2898,564"/>
+<area shape="poly" id="edge42_Node000026_Node000011" title=" " alt="" coords="1984,563,1965,574,1841,625,1840,620,1963,570,1979,565"/>
+<area shape="poly" id="edge44_Node000027_Node000011" title=" " alt="" coords="2078,563,2057,575,1959,605,1868,628,1867,623,1957,600,2055,569,2073,565"/>
+<area shape="poly" id="edge46_Node000028_Node000011" title=" " alt="" coords="2170,563,2147,575,2074,595,2000,612,1868,634,1867,629,1999,606,2073,590,2146,569,2164,565"/>
+<area shape="poly" id="edge48_Node000029_Node000011" title=" " alt="" coords="2267,564,2239,575,2139,596,2039,614,1868,636,1867,631,2038,609,2138,591,2238,569,2262,565"/>
+<area shape="poly" id="edge50_Node000030_Node000011" title=" " alt="" coords="2388,564,2359,575,2225,601,2089,619,1868,640,1868,634,2089,614,2224,595,2358,569,2383,565"/>
+<area shape="poly" id="edge52_Node000031_Node000011" title=" " alt="" coords="2511,564,2482,575,2311,605,2140,625,1987,636,1868,642,1868,637,1987,631,2140,620,2310,600,2481,569,2506,564"/>
+<area shape="poly" id="edge54_Node000032_Node000011" title=" " alt="" coords="90,562,123,569,270,588,464,602,932,623,1394,634,1721,640,1715,641,1394,639,932,628,464,608,269,593,122,575,92,567"/>
+<area shape="poly" id="edge56_Node000033_Node000011" title=" " alt="" coords="3361,318,3363,369,3355,439,3346,476,3331,513,3311,546,3284,574,3261,583,3218,590,3079,603,2664,624,2205,636,1868,643,1868,637,2205,631,2664,618,3079,598,3217,585,3260,577,3281,570,3307,543,3327,510,3341,475,3350,438,3357,368,3358,322"/>
+<area shape="poly" id="edge79_Node000034_Node000008" title=" " alt="" coords="4191,318,4207,363,4202,360,4188,322"/>
+<area shape="poly" id="edge58_Node000034_Node000035" title=" " alt="" coords="4145,317,3914,375,3913,369,4140,318"/>
+<area shape="poly" id="edge78_Node000034_Node000043" title=" " alt="" coords="4228,317,4403,371,4397,371,4228,322"/>
+<area shape="poly" id="edge77_Node000035_Node000004" title=" " alt="" coords="3744,402,3650,424,3614,437,3591,453,3581,470,3574,489,3571,529,3577,570,3586,607,3582,604,3571,571,3566,529,3569,488,3576,468,3587,450,3611,433,3648,419,3738,403"/>
+<area shape="rect" id="Node000036" href="$c1_8hpp.html" title="This file defines the primary register C1 of coprocessor CP15." alt="" coords="3601,452,3665,479"/>
+<area shape="poly" id="edge59_Node000035_Node000036" title=" " alt="" coords="3809,404,3681,451,3679,445,3804,405"/>
+<area shape="rect" id="Node000037" href="$primary__reg_8hpp.html" title="This file defines a primary register interface of coprocessor CP15." alt="" coords="3745,536,3873,564"/>
+<area shape="poly" id="edge71_Node000035_Node000037" title=" " alt="" coords="3850,402,3858,438,3859,459,3856,480,3846,504,3831,525,3829,521,3841,501,3851,479,3854,459,3853,439,3847,406"/>
+<area shape="rect" id="Node000038" href="$c2_8hpp.html" title="This file defines the primary register C2 of coprocessor CP15." alt="" coords="3916,452,3980,479"/>
+<area shape="poly" id="edge63_Node000035_Node000038" title=" " alt="" coords="3863,402,3920,443,3915,442,3862,407"/>
+<area shape="rect" id="Node000039" href="$c3_8hpp.html" title="This file defines the primary register C3 of coprocessor CP15." alt="" coords="4004,452,4068,479"/>
+<area shape="poly" id="edge65_Node000035_Node000039" title=" " alt="" coords="3879,402,3992,447,3987,446,3878,407"/>
+<area shape="rect" id="Node000040" href="$c7_8hpp.html" title="This file defines the primary register C7 of coprocessor CP15." alt="" coords="3689,452,3753,479"/>
+<area shape="poly" id="edge67_Node000035_Node000040" title=" " alt="" coords="3824,403,3757,446,3755,441,3819,405"/>
+<area shape="rect" id="Node000041" href="$c8_8hpp.html" title="This file defines the primary register C8 of coprocessor CP15." alt="" coords="3777,452,3841,479"/>
+<area shape="poly" id="edge69_Node000035_Node000041" title=" " alt="" coords="3840,403,3823,440,3820,435,3835,406"/>
+<area shape="rect" id="Node000042" href="$coprocessor_8hpp.html" title="This file defines a general interface of a coprocessor." alt="" coords="3123,452,3261,479"/>
+<area shape="poly" id="edge72_Node000035_Node000042" title=" " alt="" coords="3744,402,3277,457,3276,452,3739,403"/>
+<area shape="poly" id="edge62_Node000036_Node000004" title=" " alt="" coords="3633,478,3607,607,3604,603,3629,482"/>
+<area shape="poly" id="edge60_Node000036_Node000037" title=" " alt="" coords="3662,477,3770,529,3765,528,3661,483"/>
+<area shape="poly" id="edge61_Node000037_Node000004" title=" " alt="" coords="3781,564,3663,616,3662,611,3776,565"/>
+<area shape="poly" id="edge64_Node000038_Node000037" title=" " alt="" coords="3928,479,3845,530,3844,525,3923,481"/>
+<area shape="poly" id="edge66_Node000039_Node000037" title=" " alt="" coords="4006,478,3860,533,3859,528,4001,479"/>
+<area shape="poly" id="edge68_Node000040_Node000037" title=" " alt="" coords="3736,477,3787,526,3782,524,3734,482"/>
+<area shape="poly" id="edge70_Node000041_Node000037" title=" " alt="" coords="3811,478,3811,522,3807,519,3807,482"/>
+<area shape="poly" id="edge73_Node000042_Node000007" title=" " alt="" coords="3262,470,4133,543,4128,543,3261,475"/>
+<area shape="poly" id="edge74_Node000042_Node000023" title=" " alt="" coords="3194,478,3194,513,3190,510,3190,482"/>
+<area shape="poly" id="edge75_Node000042_Node000024" title=" " alt="" coords="3125,479,2813,535,2812,530,3119,479"/>
+<area shape="poly" id="edge76_Node000042_Node000025" title=" " alt="" coords="3159,479,3023,533,3022,527,3154,480"/>
+<area shape="poly" id="edge84_Node000044_Node000007" title=" " alt="" coords="3953,225,4025,332,4133,478,4174,526,4169,524,4128,481,4021,335,3951,230"/>
+<area shape="poly" id="edge81_Node000044_Node000034" title=" " alt="" coords="3979,225,4138,286,4133,286,3979,230"/>
+<area shape="poly" id="edge85_Node000044_Node000035" title=" " alt="" coords="3939,226,3882,329,3861,365,3858,360,3878,327,3934,229"/>
+<area shape="rect" id="Node000045" href="$page__table_8hpp.html" title="This file defines a page table." alt="" coords="3746,292,3867,320"/>
+<area shape="poly" id="edge82_Node000044_Node000045" title=" " alt="" coords="3927,226,3840,285,3838,280,3922,228"/>
+<area shape="rect" id="Node000046" href="$page__entry_8hpp.html" title="This file defines a page table entry." alt="" coords="3597,376,3717,404"/>
+<area shape="poly" id="edge83_Node000045_Node000046" title=" " alt="" coords="3785,319,3695,371,3694,366,3780,321"/>
+<area shape="poly" id="edge89_Node000048_Node000004" title=" " alt="" coords="3578,327,3569,374,3560,434,3557,503,3565,571,3579,608,3574,605,3560,573,3551,503,3554,434,3564,373,3574,330"/>
+<area shape="poly" id="edge93_Node000049_Node000004" title=" " alt="" coords="4591,327,4600,364,4599,385,4594,405,4579,432,4563,451,4515,482,4447,519,4391,542,4332,558,4256,575,4107,603,3955,622,3816,634,3701,641,3701,635,3816,629,3955,617,4106,597,4255,569,4331,553,4389,537,4445,515,4512,477,4559,447,4575,429,4589,403,4594,384,4594,365,4588,331"/>
+<area shape="poly" id="edge92_Node000049_Node000007" title=" " alt="" coords="4586,327,4585,367,4579,387,4569,405,4537,438,4500,466,4459,489,4417,507,4333,532,4259,545,4259,540,4332,527,4415,502,4457,484,4497,462,4533,434,4564,402,4574,385,4579,366,4582,331"/>
+<area shape="poly" id="edge91_Node000049_Node000043" title=" " alt="" coords="4551,328,4492,369,4490,364,4546,329"/>
 </map>

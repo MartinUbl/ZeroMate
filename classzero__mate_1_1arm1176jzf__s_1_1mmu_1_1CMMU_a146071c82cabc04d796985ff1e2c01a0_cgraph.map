@@ -1,7 +1,9 @@
 <map id="zero_mate::arm1176jzf_s::mmu::CMMU::Fetch_DL1_From_RAM" name="zero_mate::arm1176jzf_s::mmu::CMMU::Fetch_DL1_From_RAM">
-<area shape="rect" id="Node000001" title="Fetches the first level page tables (tbbr0, tbbr1) from the RAM." alt="" coords="5,5,179,60"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CC2.html#ae01856374ec8bac99ac7652c0d99de48" title="Returns the physical address of a given page table." alt="" coords="227,13,444,53"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,30,213,30,213,35,179,35"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CC2.html#ac31765da4a10567be0232abedeff1b75" title="Extracts bits determined by a given mask from a given secondary register." alt="" coords="492,5,673,60"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="444,30,478,30,478,35,444,35"/>
+<area shape="rect" id="Node000001" title="Fetches the first level page tables (tbbr0, tbbr1) from the RAM." alt="" coords="5,5,178,67"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CC2.html#ae01856374ec8bac99ac7652c0d99de48" title="Returns the physical address of a given page table." alt="" coords="226,14,442,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,34,213,36,207,36,178,39"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CC2.html#a254552682bdf6d29017d76ac916f542b" title="Returns the set boundary type that determines the use of either TTB0 or TTB1." alt="" coords="490,14,721,58"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="442,34,477,36,472,36,442,39"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CC2.html#ac791c544839c158bfba9aaa4d6a1aa91" title="Extract bits from the NCRm_C0_Register::Translation_Table_Base_Control register." alt="" coords="769,5,950,67"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="722,34,756,36,751,36,722,39"/>
 </map>

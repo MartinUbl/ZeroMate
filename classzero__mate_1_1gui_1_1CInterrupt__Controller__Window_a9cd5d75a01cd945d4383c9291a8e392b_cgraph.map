@@ -1,7 +1,7 @@
 <map id="zero_mate::gui::CInterrupt_Controller_Window::Render" name="zero_mate::gui::CInterrupt_Controller_Window::Render">
-<area shape="rect" id="Node000001" title="Renders interrupt controller registers (IGUI_Window interface)." alt="" coords="5,41,211,81"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CInterrupt__Controller__Window.html#a6d38f8d5ff7e7967b36161f14f5a174b" title="Renders information about IRQ sources." alt="" coords="259,5,493,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,45,245,40,245,46,211,50"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1gui_1_1CInterrupt__Controller__Window.html#ab276ca47a4de423a0460015a2d5e3d9b" title="Renders information about a pending interrupt." alt="" coords="273,70,479,125"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="211,72,260,79,259,84,210,78"/>
+<area shape="rect" id="Node000001" title="Renders interrupt controller registers (IGUI_Window interface)." alt="" coords="5,44,210,89"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CInterrupt__Controller__Window.html#a6d38f8d5ff7e7967b36161f14f5a174b" title="Renders information about IRQ sources." alt="" coords="258,5,492,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,49,245,46,240,48,211,54"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1gui_1_1CInterrupt__Controller__Window.html#ab276ca47a4de423a0460015a2d5e3d9b" title="Renders information about a pending interrupt." alt="" coords="273,74,477,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,78,260,88,255,88,210,84"/>
 </map>

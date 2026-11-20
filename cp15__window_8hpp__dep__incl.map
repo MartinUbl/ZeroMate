@@ -1,7 +1,7 @@
 <map id="src/gui/windows/cp15_window.hpp" name="src/gui/windows/cp15_window.hpp">
-<area shape="rect" id="Node000001" title="This file defines a window that displays data (information) related to coprocessor 15." alt="" coords="64,5,225,45"/>
-<area shape="rect" id="Node000002" href="$gui_8cpp.html" title="This file implements the main GUI entry function that takes care of creating and rendering all window..." alt="" coords="5,101,121,126"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="119,57,77,102,73,98,115,54"/>
-<area shape="rect" id="Node000003" href="$cp15__window_8cpp.html" title="This file implements a window that displays data (information) related to coprocessor 15." alt="" coords="145,93,307,133"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="174,54,210,91,206,95,170,57"/>
+<area shape="rect" id="Node000001" title="This file defines a window that displays data (information) related to coprocessor 15." alt="" coords="63,5,223,50"/>
+<area shape="rect" id="Node000002" href="$gui_8cpp.html" title="This file implements the main GUI entry function that takes care of creating and rendering all window..." alt="" coords="5,106,121,134"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,61,77,108,73,104,112,62"/>
+<area shape="rect" id="Node000003" href="$cp15__window_8cpp.html" title="This file implements a window that displays data (information) related to coprocessor 15." alt="" coords="144,98,304,143"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,59,208,98,203,98,171,64"/>
 </map>

@@ -1,13 +1,13 @@
 <map id="zero_mate::peripheral::CGPIO_Manager::Set_Pin_State" name="zero_mate::peripheral::CGPIO_Manager::Set_Pin_State">
-<area shape="rect" id="Node000001" title="Sets a new state of a given pin." alt="" coords="5,124,171,179"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CInterrupt__Controller.html#a35b97d4871edb1ee3a0fbda305c58b95" title="Returns the corresponding IRQ source for a given GPIO pin." alt="" coords="256,5,423,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,122,169,95,218,69,242,59,244,64,220,74,172,99,130,126"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1CGPIO__Manager.html#afb4a55159afdaa47cd3640dfd1e0106b" title="Mirrors the state of a given in in the GPLEV register." alt="" coords="248,84,431,139"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,136,234,125,234,131,171,141"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1peripheral_1_1CGPIO__Manager.html#a623c62636a57d6c63db1331a42100452" title="Notifies external peripherals that subscribe to the given pin about the change of its state." alt="" coords="248,163,431,217"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="171,161,234,171,234,176,170,167"/>
-<area shape="rect" id="Node000006" href="$classzero__mate_1_1peripheral_1_1CGPIO__Manager.html#a8e4591c379574b393dc9fcf6ecc5891c" title="Reflects the state of a pending IRQ in the GPEDS register." alt="" coords="219,242,460,282"/>
-<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="131,177,173,203,220,226,243,235,241,240,218,231,170,207,128,181"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1peripheral_1_1CGPIO__Manager.html#aa6b0515a8e4fecb78bebfbb79a13994b" title="Returns the index of the register (out of the two alternatives) based on the pin index." alt="" coords="508,84,675,139"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="431,109,494,109,494,114,431,114"/>
+<area shape="rect" id="Node000001" title="Sets a new state of a given pin." alt="" coords="5,133,170,195"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CInterrupt__Controller.html#a35b97d4871edb1ee3a0fbda305c58b95" title="Returns the corresponding IRQ source for a given GPIO pin." alt="" coords="255,5,420,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="128,131,170,103,216,76,243,66,239,70,219,81,173,107,132,135"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1CGPIO__Manager.html#afb4a55159afdaa47cd3640dfd1e0106b" title="Mirrors the state of a given in in the GPLEV register." alt="" coords="247,91,428,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="169,148,234,138,230,141,171,153"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1peripheral_1_1CGPIO__Manager.html#a623c62636a57d6c63db1331a42100452" title="Notifies external peripherals that subscribe to the given pin about the change of its state." alt="" coords="247,176,428,238"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="170,176,235,188,230,190,171,181"/>
+<area shape="rect" id="Node000006" href="$classzero__mate_1_1peripheral_1_1CGPIO__Manager.html#a8e4591c379574b393dc9fcf6ecc5891c" title="Reflects the state of a pending IRQ in the GPEDS register." alt="" coords="218,262,458,306"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="130,193,172,221,219,247,236,256,230,256,216,252,170,226,129,198"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1peripheral_1_1CGPIO__Manager.html#aa6b0515a8e4fecb78bebfbb79a13994b" title="Returns the index of the register (out of the two alternatives) based on the pin index." alt="" coords="506,91,671,152"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="429,119,493,121,488,122,430,124"/>
 </map>

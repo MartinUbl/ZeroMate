@@ -1,5 +1,12 @@
 <map id="zero_mate::arm1176jzf_s::CCPU_Core::Set_Interrupt_Mask_Bits" name="zero_mate::arm1176jzf_s::CCPU_Core::Set_Interrupt_Mask_Bits">
-<area shape="rect" id="Node000001" title="Sets interrupt mask bits (A, I, and F) in the given value that is treated as the new value of the CPS..." alt="" coords="5,5,215,60"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Context.html#a984bace2773aca71cf04701aa0ce9c54" title="Sets/resets a flag in the CPSR register of the current CPU mode." alt="" coords="263,13,465,53"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,30,249,30,249,35,215,35"/>
+<area shape="rect" id="Node000001" title="Sets interrupt mask bits (A, I, and F) in the given value that is treated as the new value of the CPS..." alt="" coords="5,101,214,162"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CCPS.html#a2583ff5d99f44afe2424ac8d38d3a5d1" title="Returns the value of the A bit (bit 8)." alt="" coords="266,5,458,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="174,98,261,60,281,54,276,57,263,65,177,103"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CCPS.html#aaed737a2ad540dcf7953556e5fac32be" title="Returns the value of the F bit (bit 6 = i nterrupts)." alt="" coords="267,75,458,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="213,115,254,111,249,113,215,120"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CCPS.html#a9f2533a907e445e2650ca948c8739128" title="Returns the value of the I bit (bit 7 = interrupts)." alt="" coords="269,144,456,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="214,143,256,151,250,152,214,149"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Context.html#a984bace2773aca71cf04701aa0ce9c54" title="Sets/resets a flag in the CPSR register of the current CPU mode." alt="" coords="262,237,463,282"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="173,160,305,229,300,231,171,166"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="315,235,313,227,321,218,338,213,362,211,390,213,407,222,402,222,388,218,362,216,339,218,324,223,318,229,319,238"/>
 </map>

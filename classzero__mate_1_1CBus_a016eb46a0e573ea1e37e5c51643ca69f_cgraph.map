@@ -1,6 +1,12 @@
 <map id="zero_mate::CBus::Get_Peripheral" name="zero_mate::CBus::Get_Peripheral">
-<area shape="rect" id="Node000001" title="Returns the corresponding peripheral based on the given address." alt="" coords="5,29,168,69"/>
-<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="47,30,44,20,51,10,65,5,87,3,112,6,125,13,123,18,110,11,87,8,66,10,54,15,49,21,52,28"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1CBus.html#a6331d83a0dcf19b139ff42a6f2693787" title="Checks if a peripheral was found and is accessible." alt="" coords="216,29,387,69"/>
-<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="168,47,202,47,202,52,168,52"/>
+<area shape="rect" id="Node000001" title="Returns the corresponding peripheral based on the given address." alt="" coords="5,40,168,85"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="42,39,41,30,48,21,64,15,87,13,112,16,128,24,123,25,110,21,86,19,65,21,51,25,46,31,47,40"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1CBus.html#a6331d83a0dcf19b139ff42a6f2693787" title="Checks if a peripheral was found and is accessible." alt="" coords="233,5,404,50"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="167,48,220,42,215,44,169,53"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1CBus.html#a3822e274a11c99cfc0584b5755af65f5" title="Checks for unaligned memory access." alt="" coords="216,75,421,119"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="168,72,203,79,198,80,168,77"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CC1.html#ac6b22a989b3f58443f36e32999150eb6" title=" " alt="" coords="469,66,645,128"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="421,94,456,97,451,97,422,100"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1IPrimary__Reg.html#a0780610d57b65a633a1776be372116a6" title="Checks whether a flag is set in a given register." alt="" coords="693,66,870,128"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="645,94,680,97,675,97,646,100"/>
 </map>

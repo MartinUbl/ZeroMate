@@ -1,0 +1,11 @@
+<map id="zero_mate::gui::IGUI_Window::IGUI_Window" name="zero_mate::gui::IGUI_Window::IGUI_Window">
+<area shape="rect" id="Node000001" title="Creates an instance of the class (default non&#45;parameterized constructor)." alt="" coords="228,109,402,154"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1IGUI__Window.html#a80003ddc9ed6c5da0bdc3dd6e30cdf54" title="Deleted copy constructor (rule of five)." alt="" coords="5,5,180,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="256,103,179,65,153,53,152,48,181,60,261,101"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1gui_1_1IGUI__Window.html#a2cc2994c84ccb5c491c49ba0c001807d" title="Deleted move constructor (rule of five)." alt="" coords="5,75,180,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="210,117,181,113,180,108,215,115"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1gui_1_1IGUI__Window.html#a12a6b7ecd35f3bca289cf50a40413751" title="Deleted assignment operator (rule of five)." alt="" coords="15,144,170,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="210,149,171,157,169,152,215,147"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1gui_1_1IGUI__Window.html#af29212b088827a3ab42c8e17e56fbbda" title="Deleted assignment operator with an r&#45;value reference (rule of five)." alt="" coords="15,213,170,258"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="261,161,181,203,154,215,152,210,179,199,256,163"/>
+</map>

@@ -1,6 +1,6 @@
 var classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core =
 [
-    [ "Coprocessors_t", "classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#aab345b997e1d12a5de1c8517bb1b3f7d", null ],
+    [ "Coprocessors_t", "classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#ade88c316acc0ee9c923deceb2b322b02", null ],
     [ "IC_t", "classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#ab3c93fbd672f13986c6a3934f79b4235", null ],
     [ "System_Clock_Listener_t", "classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a89a1a7cea70ce64266d50387d19fcb05", null ],
     [ "CCPU_Core", "classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a4bc657836c51962a710adb2b0ea80e06", null ],

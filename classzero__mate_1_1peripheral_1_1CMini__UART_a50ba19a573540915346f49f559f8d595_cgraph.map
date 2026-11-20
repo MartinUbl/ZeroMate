@@ -1,7 +1,7 @@
 <map id="zero_mate::peripheral::CMini_UART::UART_Receive_Payload" name="zero_mate::peripheral::CMini_UART::UART_Receive_Payload">
-<area shape="rect" id="Node000001" title="Receives another bit of the current payload (actual data)." alt="" coords="5,45,216,100"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a2f29b39f721b4ae5acf81f61ab210325" title="Returns the length of payload (7 or 8 bits)." alt="" coords="264,5,440,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="216,53,250,47,251,52,217,58"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a4e01dd26b71c9c13ec8a81510cbf2450" title="Returns the data length from a given enumeration." alt="" coords="264,84,440,139"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="217,87,251,92,250,98,216,92"/>
+<area shape="rect" id="Node000001" title="Receives another bit of the current payload (actual data)." alt="" coords="5,48,215,110"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a2f29b39f721b4ae5acf81f61ab210325" title="Returns the length of payload (7 or 8 bits)." alt="" coords="263,5,438,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,58,250,54,245,55,216,63"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a4e01dd26b71c9c13ec8a81510cbf2450" title="Returns the data length from a given enumeration." alt="" coords="263,91,438,152"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="215,95,250,103,245,103,215,100"/>
 </map>

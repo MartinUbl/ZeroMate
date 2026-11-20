@@ -1,5 +1,5 @@
 <map id="zero_mate::peripheral::CMini_UART::CMini_UART" name="zero_mate::peripheral::CMini_UART::CMini_UART">
-<area shape="rect" id="Node000001" title="Creates an instance of the class." alt="" coords="5,5,200,45"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a383d96a1016a6ae63f7e0adc292f2ebb" title="Resets UART." alt="" coords="248,5,413,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,23,234,23,234,28,200,28"/>
+<area shape="rect" id="Node000001" title="Creates an instance of the class." alt="" coords="5,5,200,50"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a383d96a1016a6ae63f7e0adc292f2ebb" title="Resets UART." alt="" coords="248,5,412,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,25,234,27,229,28,200,30"/>
 </map>

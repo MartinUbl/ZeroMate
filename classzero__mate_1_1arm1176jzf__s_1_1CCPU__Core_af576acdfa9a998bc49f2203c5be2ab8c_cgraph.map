@@ -1,5 +1,9 @@
 <map id="zero_mate::arm1176jzf_s::CCPU_Core::Execute" name="zero_mate::arm1176jzf_s::CCPU_Core::Execute">
-<area shape="rect" id="Node000001" title="Executes a CLZ instruction." alt="" coords="5,5,181,45"/>
-<area shape="rect" id="Node000002" href="$namespacezero__mate_1_1utils_1_1math.html#af7d93c996dab2ff1b91c5a399dcfe29f" title="Tests whether a bit is set in the given integral variable." alt="" coords="229,5,399,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,23,215,23,215,28,181,28"/>
+<area shape="rect" id="Node000001" title="Executes a CLZ instruction." alt="" coords="5,75,181,119"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CCLZ.html#a5ab20c88890058e46fe835bfed83350f" title="Returns the index of the destination register (Rd) where the result will be stored." alt="" coords="231,5,418,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,72,235,54,231,56,171,77"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CCLZ.html#a1958be9beba53d25525209e3511dc73f" title="Returns the index of the Rm register involved in the calculation of the number of leasing zeros." alt="" coords="229,75,420,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="180,94,215,96,210,98,181,100"/>
+<area shape="rect" id="Node000004" href="$namespacezero__mate_1_1utils_1_1math.html#af7d93c996dab2ff1b91c5a399dcfe29f" title="Tests whether a bit is set in the given integral variable." alt="" coords="240,144,408,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="170,117,236,138,230,140,170,123"/>
 </map>

@@ -1,0 +1,13 @@
+<map id="zero_mate::arm1176jzf_s::CCPU_Core::Perform_Shift" name="zero_mate::arm1176jzf_s::CCPU_Core::Perform_Shift">
+<area shape="rect" id="Node000001" title="Performs a shift on the given value." alt="" coords="478,109,690,154"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#ab8055407426b0f25544d2b33a89b22a7" title="Calculates the offset from the base address in a single data transfer instruction." alt="" coords="233,71,426,115"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="460,113,426,110,426,105,465,113"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#aa5b55276e454abfced2b5714b936e98d" title="Calculates the second operand of a data processing instruction." alt="" coords="229,140,430,201"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="465,150,431,158,430,152,460,150"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#ae5fc1112d78d8c344841fd94d1356635" title="Executes a halfword data transfer instruction." alt="" coords="5,5,181,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="229,67,177,53,176,48,234,65"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#ab4697275a93c62613b13cdd77726f81c" title="Executes a single data transfer instruction." alt="" coords="5,75,181,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="215,96,182,98,181,93,220,94"/>
+<area shape="rect" id="Node000006" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a92c997ad914fb73cec7feb5fa26d8ead" title="Executes a data processing instruction." alt="" coords="5,148,181,193"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="210,171,181,173,181,168,216,170"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="zero_mate::coprocessor::cp10::isa::CData_Processing::To_Integer" name="zero_mate::coprocessor::cp10::isa::CData_Processing::To_Integer">
+<area shape="rect" id="Node000001" title="Checks whether the CVT instruction is meant to convert a float to an integer." alt="" coords="492,14,704,76"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#ad824ae13f53109fd238a3f3bf0be77c8" title="Executes a VCVT and VCVTR floating point instructions." alt="" coords="230,5,444,84"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="474,45,445,47,444,42,479,45"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#ad976e02e1423e39d963927ffc922f653" title="Performs a coprocessor data operation instruction (ICoprocessor interface)." alt="" coords="5,14,182,76"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="211,45,182,47,182,42,217,44"/>
+</map>

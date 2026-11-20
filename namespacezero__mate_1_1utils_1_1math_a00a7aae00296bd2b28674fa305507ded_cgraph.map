@@ -1,5 +1,5 @@
 <map id="zero_mate::utils::math::ASR" name="zero_mate::utils::math::ASR">
-<area shape="rect" id="Node000001" title="Performs an ASR (arithmetic shift right) operation on the given integral value." alt="" coords="5,13,208,38"/>
-<area shape="rect" id="Node000002" href="$namespacezero__mate_1_1utils_1_1math.html#af7d93c996dab2ff1b91c5a399dcfe29f" title="Tests whether a bit is set in the given integral variable." alt="" coords="256,5,425,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,23,242,23,242,28,208,28"/>
+<area shape="rect" id="Node000001" title="Performs an ASR (arithmetic shift right) operation on the given integral value." alt="" coords="5,14,208,42"/>
+<area shape="rect" id="Node000002" href="$namespacezero__mate_1_1utils_1_1math.html#af7d93c996dab2ff1b91c5a399dcfe29f" title="Tests whether a bit is set in the given integral variable." alt="" coords="256,5,424,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,25,242,27,237,28,208,30"/>
 </map>

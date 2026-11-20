@@ -1,0 +1,14 @@
+<map id="zero_mate::CBus::Read" name="zero_mate::CBus::Read">
+<area shape="rect" id="Node000001" title="Reads data from the given address in the address space." alt="" coords="5,48,178,76"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1CBus.html#a016eb46a0e573ea1e37e5c51643ca69f" title="Returns the corresponding peripheral based on the given address." alt="" coords="226,40,388,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,60,212,62,207,63,178,65"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="266,38,264,30,271,21,286,15,307,13,330,16,346,25,340,25,329,21,307,19,287,21,274,25,269,31,270,41"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1CBus.html#a6331d83a0dcf19b139ff42a6f2693787" title="Checks if a peripheral was found and is accessible." alt="" coords="454,5,624,50"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="388,48,441,42,435,43,389,53"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1CBus.html#a3822e274a11c99cfc0584b5755af65f5" title="Checks for unaligned memory access." alt="" coords="436,75,641,119"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="388,72,423,79,418,79,388,77"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CC1.html#ac6b22a989b3f58443f36e32999150eb6" title=" " alt="" coords="689,66,866,128"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="642,94,676,97,671,97,642,100"/>
+<area shape="rect" id="Node000006" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1IPrimary__Reg.html#a0780610d57b65a633a1776be372116a6" title="Checks whether a flag is set in a given register." alt="" coords="914,66,1090,128"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="866,94,901,97,895,97,866,100"/>
+</map>

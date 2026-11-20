@@ -1,23 +1,23 @@
 <map id="zero_mate::gui::CSource_Code_Window::Render_Source_Codes" name="zero_mate::gui::CSource_Code_Window::Render_Source_Codes">
-<area shape="rect" id="Node000001" title="Renders the disassembled contents of all ELF loaded into the emulator." alt="" coords="5,149,277,189"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#a2088711954d53ac5f57e4a085770590f" title="Renders a single tab (ELF source file)." alt="" coords="325,149,528,189"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="277,167,312,167,312,172,277,172"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#af9afd629a519bacd1ce89faf8bbcdb9c" title="Renders a block of code (a single function/method)." alt="" coords="576,149,833,189"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="528,167,562,167,562,172,528,172"/>
-<area shape="rect" id="Node000004" href="$namespacezero__mate_1_1gui_1_1color.html#a60970f5b5a08721617863b63cc7cc292" title="Assigns a string its corresponding color based on its hash value." alt="" coords="919,5,1114,45"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="730,147,796,101,837,76,880,55,905,46,907,51,882,60,840,81,799,105,733,151"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#a8ab01667cca3406c621027962c2d22bd" title="Extracts the class name from a given label (function name)." alt="" coords="927,70,1107,125"/>
-<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="792,147,913,118,914,124,793,152"/>
-<area shape="rect" id="Node000006" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#ad8c35af3bc3c8881eeca1de82afc6b35" title="Renders a table that containing disassembled instructions." alt="" coords="889,149,1144,189"/>
-<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="834,167,876,167,876,172,834,172"/>
-<area shape="rect" id="Node000010" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#ad485f4213e9fff6ac5327683e2e6abc7" title="Checks if the block of code which is currently being rendered should be highlighted or not." alt="" coords="911,214,1123,269"/>
-<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="793,187,898,211,897,216,792,192"/>
-<area shape="rect" id="Node000011" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#a0fa8c26175b9585a867f343c1148d258" title="Skips a block of code (function) which is collapsed and therefore not visible to the user." alt="" coords="881,293,1152,333"/>
-<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="733,188,799,234,840,258,882,279,903,287,901,292,880,284,837,263,796,238,730,192"/>
-<area shape="rect" id="Node000007" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#a92af51ccb5ebca752cddaac27c38f1f8" title="Renders the body of a source code table." alt="" coords="1200,113,1455,153"/>
-<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1144,152,1186,147,1186,152,1144,157"/>
-<area shape="rect" id="Node000009" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#aa46c591d1c9bb994ccee55d371919e37" title="Renders table headings (breakpoint, address, opcode, disassembly)" alt="" coords="1220,178,1435,233"/>
-<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="1144,181,1207,189,1206,194,1144,187"/>
-<area shape="rect" id="Node000008" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#a854994af8a4bb90df17e2e24c8d7a3a5" title="Renders a single breakpoint." alt="" coords="1503,113,1755,153"/>
-<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1455,131,1489,131,1489,136,1455,136"/>
+<area shape="rect" id="Node000001" title="Renders the disassembled contents of all ELF loaded into the emulator." alt="" coords="5,160,277,205"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#a2088711954d53ac5f57e4a085770590f" title="Renders a single tab (ELF source file)." alt="" coords="325,160,527,205"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="277,180,312,182,307,183,278,185"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#af9afd629a519bacd1ce89faf8bbcdb9c" title="Renders a block of code (a single function/method)." alt="" coords="575,160,831,205"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="527,180,562,182,557,183,528,185"/>
+<area shape="rect" id="Node000004" href="$namespacezero__mate_1_1gui_1_1color.html#a60970f5b5a08721617863b63cc7cc292" title="Assigns a string its corresponding color based on its hash value." alt="" coords="917,5,1111,50"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="730,157,795,108,835,82,878,60,900,54,905,52,880,65,838,87,798,113,732,162"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#a8ab01667cca3406c621027962c2d22bd" title="Extracts the class name from a given label (function name)." alt="" coords="924,74,1104,136"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="795,157,912,130,907,132,797,162"/>
+<area shape="rect" id="Node000006" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#ad8c35af3bc3c8881eeca1de82afc6b35" title="Renders a table that containing disassembled instructions." alt="" coords="887,160,1141,205"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="831,180,874,182,868,183,832,185"/>
+<area shape="rect" id="Node000010" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#ad485f4213e9fff6ac5327683e2e6abc7" title="Checks if the block of code which is currently being rendered should be highlighted or not." alt="" coords="908,229,1120,290"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="796,203,896,230,891,230,796,208"/>
+<area shape="rect" id="Node000011" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#a0fa8c26175b9585a867f343c1148d258" title="Skips a block of code (function) which is collapsed and therefore not visible to the user." alt="" coords="879,315,1149,359"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="732,203,798,252,838,278,880,300,898,309,892,308,878,305,835,282,795,256,730,208"/>
+<area shape="rect" id="Node000007" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#a92af51ccb5ebca752cddaac27c38f1f8" title="Renders the body of a source code table." alt="" coords="1197,121,1451,166"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="1141,164,1184,161,1179,162,1142,169"/>
+<area shape="rect" id="Node000009" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#aa46c591d1c9bb994ccee55d371919e37" title="Renders table headings (breakpoint, address, opcode, disassembly)." alt="" coords="1217,190,1431,252"/>
+<area shape="poly" id="edge8_Node000006_Node000009" title=" " alt="" coords="1142,196,1204,206,1199,206,1142,201"/>
+<area shape="rect" id="Node000008" href="$classzero__mate_1_1gui_1_1CSource__Code__Window.html#a854994af8a4bb90df17e2e24c8d7a3a5" title="Renders a single breakpoint." alt="" coords="1499,121,1750,166"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="1451,141,1486,143,1481,144,1452,146"/>
 </map>

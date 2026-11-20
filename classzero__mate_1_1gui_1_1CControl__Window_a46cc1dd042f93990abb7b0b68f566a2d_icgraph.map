@@ -1,12 +1,12 @@
 <map id="zero_mate::gui::CControl_Window::Print_No_ELF_File_Loaded_Error_Msg" name="zero_mate::gui::CControl_Window::Print_No_ELF_File_Loaded_Error_Msg">
-<area shape="rect" id="Node000001" title="Log an error message saying that no ELF file (kernel) has been loaded yet." alt="" coords="740,30,943,85"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CControl__Window.html#ac547361a03efba8bcb05e216ae512dac" title="Renders the run control button." alt="" coords="474,5,690,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="726,46,690,41,691,36,727,41"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1gui_1_1CControl__Window.html#a9dabdbd3011cc2a5a13e7409a65deb3e" title="Renders the step control button." alt="" coords="472,69,692,109"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="727,74,692,78,692,73,726,69"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1gui_1_1CControl__Window.html#a9be0d8c611ece954a13f3763744b074f" title="Renders the control button (step, stop, run)" alt="" coords="236,30,424,85"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="461,43,425,48,424,43,460,38"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1gui_1_1CControl__Window.html#aabafaf7d45b7c4516719dce03772ee5a" title="Renders the window (IGUI_Window interface)." alt="" coords="5,37,188,77"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="222,60,188,60,188,55,222,55"/>
-<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="458,76,424,72,424,67,459,71"/>
+<area shape="rect" id="Node000001" title="Log an error message saying that no ELF file (kernel) has been loaded yet." alt="" coords="738,32,941,93"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CControl__Window.html#ac547361a03efba8bcb05e216ae512dac" title="Renders the run control button." alt="" coords="473,5,688,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="720,47,689,45,689,39,726,47"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1gui_1_1CControl__Window.html#a9dabdbd3011cc2a5a13e7409a65deb3e" title="Renders the step control button." alt="" coords="471,75,690,119"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="726,78,691,85,691,80,720,78"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1gui_1_1CControl__Window.html#a9be0d8c611ece954a13f3763744b074f" title="Renders the control button (step, stop, run)." alt="" coords="236,32,423,93"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="455,45,424,52,423,47,460,44"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1gui_1_1CControl__Window.html#aabafaf7d45b7c4516719dce03772ee5a" title="Renders the window (IGUI_Window interface)." alt="" coords="5,40,188,85"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="217,63,188,65,188,60,223,62"/>
+<area shape="poly" id="edge5_Node000005_Node000003" title=" " alt="" coords="453,80,423,78,424,73,458,80"/>
 </map>

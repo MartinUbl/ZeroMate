@@ -1,18 +1,18 @@
 <map id="src/core/peripherals/monitor.hpp" name="src/core/peripherals/monitor.hpp">
-<area shape="rect" id="Node000001" title="This file defines an 80x25 8&#45;bit memory&#45;mapped monitor which is used as a debug output." alt="" coords="168,5,319,45"/>
-<area shape="rect" id="Node000002" href="$monitor_8cpp.html" title="This file implements an 80x25 8&#45;bit memory&#45;mapped monitor which is used as a debug output." alt="" coords="5,93,156,133"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="197,54,118,96,115,91,194,49"/>
-<area shape="rect" id="Node000003" href="$soc_8hpp.html" title=" " alt="" coords="180,101,307,126"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="246,59,246,100,241,100,241,59"/>
-<area shape="rect" id="Node000007" href="$monitor__window_8hpp.html" title="This file defines a window that visualizes the memory&#45;mapped debug monitor." alt="" coords="331,93,534,133"/>
-<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="298,49,392,91,390,96,296,53"/>
-<area shape="rect" id="Node000004" href="$soc_8cpp.html" title=" " alt="" coords="40,189,167,214"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="214,136,124,191,121,186,211,131"/>
-<area shape="rect" id="Node000005" href="$gui_8cpp.html" title="This file implements the main GUI entry function that takes care of creating and rendering all window..." alt="" coords="320,189,436,214"/>
-<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="275,131,361,186,358,191,272,136"/>
-<area shape="rect" id="Node000006" href="$main_8cpp.html" title="This file defines and implements the main function of the application." alt="" coords="191,189,296,214"/>
-<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="246,140,246,188,241,188,241,140"/>
-<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="416,146,388,190,383,187,411,144"/>
-<area shape="rect" id="Node000008" href="$monitor__window_8cpp.html" title="This file implements a window that visualizes the memory&#45;mapped debug monitor." alt="" coords="461,181,663,221"/>
-<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="474,139,535,179,532,183,472,144"/>
+<area shape="rect" id="Node000001" title="This file defines an 80x25 8&#45;bit memory&#45;mapped monitor which is used as a debug output." alt="" coords="167,5,316,50"/>
+<area shape="rect" id="Node000002" href="$monitor_8cpp.html" title="This file implements an 80x25 8&#45;bit memory&#45;mapped monitor which is used as a debug output." alt="" coords="5,98,155,143"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,60,120,100,117,95,191,56"/>
+<area shape="rect" id="Node000003" href="$soc_8hpp.html" title=" " alt="" coords="178,106,304,134"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="243,63,244,107,239,105,240,68"/>
+<area shape="rect" id="Node000007" href="$monitor__window_8hpp.html" title="This file defines a window that visualizes the memory&#45;mapped debug monitor." alt="" coords="328,98,530,143"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="300,55,387,97,382,98,300,60"/>
+<area shape="rect" id="Node000004" href="$soc_8cpp.html" title=" " alt="" coords="40,199,165,227"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="211,143,124,201,122,196,206,143"/>
+<area shape="rect" id="Node000005" href="$gui_8cpp.html" title="This file implements the main GUI entry function that takes care of creating and rendering all window..." alt="" coords="317,199,432,227"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="274,141,358,198,353,199,272,146"/>
+<area shape="rect" id="Node000006" href="$main_8cpp.html" title="This file defines and implements the main function of the application." alt="" coords="189,199,294,227"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="243,148,244,200,239,197,239,151"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="411,155,384,201,381,196,406,157"/>
+<area shape="rect" id="Node000008" href="$monitor__window_8cpp.html" title="This file implements a window that visualizes the memory&#45;mapped debug monitor." alt="" coords="456,191,658,235"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="473,149,529,191,524,190,471,154"/>
 </map>

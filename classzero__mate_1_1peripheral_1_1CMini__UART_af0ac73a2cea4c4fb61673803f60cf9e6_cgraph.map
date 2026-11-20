@@ -1,19 +1,9 @@
 <map id="zero_mate::peripheral::CMini_UART::UART_Receive_Stop_Bit" name="zero_mate::peripheral::CMini_UART::UART_Receive_Stop_Bit">
-<area shape="rect" id="Node000001" title="Receives a stop bit." alt="" coords="5,138,216,193"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1utils_1_1CLogging__System.html#a57ed77e1a5cf822cea532cc5e05c3f60" title="Logs an error message via all registered loggers." alt="" coords="264,73,459,113"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,135,277,115,278,120,207,140"/>
-<area shape="rect" id="Node000007" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#aafdd369ea20fb588fdba59b98e20b3b8" title="Returns information about a receive interrupt is enabled." alt="" coords="268,138,455,193"/>
-<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="216,163,254,163,254,168,216,168"/>
-<area shape="rect" id="Node000008" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a8711d81118c89d5174a68d5b63ad3fac" title="Triggers an interrupt." alt="" coords="266,217,457,257"/>
-<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="207,190,278,211,277,216,206,195"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1utils_1_1CLogging__System.html#a71ed11c796553cbe8fd99773406a1060" title="Creates a formatted message to be logged." alt="" coords="507,30,709,85"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="458,77,493,71,494,77,459,82"/>
-<area shape="rect" id="Node000006" href="$classzero__mate_1_1utils_1_1CLogging__System.html#ad371c67ef65763966ccf9291002e86f3" title="Extract the filename from a given location within the source files." alt="" coords="509,109,707,149"/>
-<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="459,105,496,110,495,116,458,110"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1utils_1_1CLogging__System.html#aa70c102c805079042ffea2a6f2a5ad64" title="Formats a given timestamp." alt="" coords="757,5,971,45"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="709,42,743,38,744,43,710,47"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1utils_1_1CLogging__System.html#ae3ca637537dde05e0b9119145c840331" title="Returns the current timestamp that will be used in a log message." alt="" coords="767,69,961,109"/>
-<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="710,67,754,73,753,78,709,73"/>
-<area shape="rect" id="Node000009" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#aeedc743fe9b70dfb0019b775e2ea714a" title="Sets the type of a pending IRQ in the IIR register." alt="" coords="510,210,706,265"/>
-<area shape="poly" id="edge8_Node000008_Node000009" title=" " alt="" coords="457,235,496,235,496,240,457,240"/>
+<area shape="rect" id="Node000001" title="Receives a stop bit." alt="" coords="5,44,215,106"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#aafdd369ea20fb588fdba59b98e20b3b8" title="Returns information about a receive interrupt is enabled." alt="" coords="265,5,450,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,56,252,52,247,54,216,61"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a8711d81118c89d5174a68d5b63ad3fac" title="Triggers an interrupt." alt="" coords="263,91,452,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="215,89,250,96,245,97,215,94"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#aeedc743fe9b70dfb0019b775e2ea714a" title="Sets the type of a pending IRQ in the IIR register." alt="" coords="500,83,695,144"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="453,111,487,113,482,114,453,116"/>
 </map>

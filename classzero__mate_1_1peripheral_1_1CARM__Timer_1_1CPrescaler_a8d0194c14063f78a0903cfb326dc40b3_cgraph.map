@@ -1,0 +1,5 @@
+<map id="zero_mate::peripheral::CARM_Timer::CPrescaler::operator()" name="zero_mate::peripheral::CARM_Timer::CPrescaler::operator()">
+<area shape="rect" id="Node000001" title="Updates the prescaler." alt="" coords="5,5,196,67"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CARM__Timer_1_1CPrescaler.html#a4d59e407ab56764fc2088ad6efc3f378" title="Updates the internal prescaler counter (helper function)." alt="" coords="244,5,434,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,34,231,36,226,36,196,39"/>
+</map>

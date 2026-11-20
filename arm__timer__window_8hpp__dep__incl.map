@@ -1,7 +1,7 @@
 <map id="src/gui/windows/peripherals/arm_timer_window.hpp" name="src/gui/windows/peripherals/arm_timer_window.hpp">
-<area shape="rect" id="Node000001" title="This file defines a window that visualizes the contents of the ARM timer registers." alt="" coords="54,5,257,45"/>
-<area shape="rect" id="Node000002" href="$gui_8cpp.html" title="This file implements the main GUI entry function that takes care of creating and rendering all window..." alt="" coords="5,101,121,126"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="127,57,78,102,74,98,123,53"/>
-<area shape="rect" id="Node000003" href="$arm__timer__window_8cpp.html" title="This file implements a window that visualizes the contents of the ARM timer registers." alt="" coords="146,93,349,133"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,53,229,91,225,95,184,57"/>
+<area shape="rect" id="Node000001" title="This file defines a window that visualizes the contents of the ARM timer registers." alt="" coords="52,5,255,50"/>
+<area shape="rect" id="Node000002" href="$gui_8cpp.html" title="This file implements the main GUI entry function that takes care of creating and rendering all window..." alt="" coords="5,106,121,134"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,60,78,108,74,104,119,62"/>
+<area shape="rect" id="Node000003" href="$arm__timer__window_8cpp.html" title="This file implements a window that visualizes the contents of the ARM timer registers." alt="" coords="144,98,347,143"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="187,59,227,98,221,98,185,64"/>
 </map>

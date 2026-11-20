@@ -1,5 +1,5 @@
 <map id="zero_mate::arm1176jzf_s::mmu::CMMU::Get_Page_Table" name="zero_mate::arm1176jzf_s::mmu::CMMU::Get_Page_Table">
-<area shape="rect" id="Node000001" title="Returns the page table that will be used for address translation (boundary register C2 C0 2)." alt="" coords="312,5,551,45"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1mmu_1_1CMMU.html#a7bc1002a8f1032547deee07589cbbb84" title="Converts a given virtual address into a physical address." alt="" coords="5,5,264,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="298,28,264,28,264,23,298,23"/>
+<area shape="rect" id="Node000001" title="Returns the page table that will be used for address translation (boundary register C2 C0 2)." alt="" coords="311,5,549,50"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1mmu_1_1CMMU.html#a7bc1002a8f1032547deee07589cbbb84" title="Converts a given virtual address into a physical address." alt="" coords="5,5,263,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="292,28,263,30,263,25,297,28"/>
 </map>

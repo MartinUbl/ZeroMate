@@ -1,0 +1,9 @@
+<map id="zero_mate::coprocessor::cp10::isa::CCP_Instruction::CCP_Instruction" name="zero_mate::coprocessor::cp10::isa::CCP_Instruction::CCP_Instruction">
+<area shape="rect" id="Node000001" title="Creates an instance of the class." alt="" coords="260,116,457,178"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CCP__Data__Processing__Inst.html#a2c8474da4683ebd50847dadcf413f48b" title="Creates an instance of the class." alt="" coords="8,5,209,84"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="265,111,206,87,206,82,270,109"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CCP__Data__Transfer__Inst.html#a423a23b6267efa5bd87b25d256850cdb" title="Creates an instance of the class." alt="" coords="17,108,200,187"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="242,148,201,150,200,145,247,146"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CCP__Register__Transfer__Inst.html#af90c8be959a8ccc7ddda3a9aa443f812" title="Creates an instance of the class." alt="" coords="5,211,212,289"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="270,183,207,213,205,208,265,185"/>
+</map>

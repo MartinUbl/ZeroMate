@@ -1,7 +1,7 @@
 <map id="src/gui/windows/demo_window.hpp" name="src/gui/windows/demo_window.hpp">
-<area shape="rect" id="Node000001" title="This file defines a window that displays the ImGui and ImPlot demos (used for debugging)." alt="" coords="63,5,229,45"/>
-<area shape="rect" id="Node000002" href="$gui_8cpp.html" title="This file implements the main GUI entry function that takes care of creating and rendering all window..." alt="" coords="5,101,121,126"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,57,77,102,73,98,116,53"/>
-<area shape="rect" id="Node000003" href="$demo__window_8cpp.html" title="This file implements a window that displays the ImGui and ImPlot demos (used for debugging)." alt="" coords="145,93,312,133"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="176,54,212,91,208,95,172,57"/>
+<area shape="rect" id="Node000001" title="This file defines a window that displays the ImGui and ImPlot demos (used for debugging)." alt="" coords="62,5,229,50"/>
+<area shape="rect" id="Node000002" href="$gui_8cpp.html" title="This file implements the main GUI entry function that takes care of creating and rendering all window..." alt="" coords="5,106,121,134"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,61,77,108,73,104,113,62"/>
+<area shape="rect" id="Node000003" href="$demo__window_8cpp.html" title="This file implements a window that displays the ImGui and ImPlot demos (used for debugging)." alt="" coords="145,98,312,143"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="176,59,212,98,206,98,174,64"/>
 </map>

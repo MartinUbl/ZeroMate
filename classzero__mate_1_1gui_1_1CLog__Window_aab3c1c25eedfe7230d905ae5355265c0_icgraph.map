@@ -1,11 +1,11 @@
 <map id="zero_mate::gui::CLog_Window::Clear" name="zero_mate::gui::CLog_Window::Clear">
-<area shape="rect" id="Node000001" title="Clears all log messages." alt="" coords="679,41,837,81"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CLog__Window.html#a3aa41a902142abbf211f567d89b77f21" title="Creates an instance of the class." alt="" coords="452,5,631,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="665,49,630,43,631,38,665,43"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1gui_1_1CLog__Window.html#aada4dbfcfe761cd1f7f050a866a4e02c" title="Renders a clear button for clearing the message area." alt="" coords="454,70,629,125"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="665,79,629,85,628,80,664,74"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1gui_1_1CLog__Window.html#ab5d91eb4a2187a347f7c4a9ba84a527d" title="Renders the top bar of the window (the options, clear button, and the filter)" alt="" coords="212,77,404,117"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="440,100,404,100,404,95,440,95"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1gui_1_1CLog__Window.html#a679fe192aa1335396f06e63678bb71d5" title="Renders the window (IGUI_Window interface)." alt="" coords="5,77,164,117"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="198,100,164,100,164,95,198,95"/>
+<area shape="rect" id="Node000001" title="Clears all log messages." alt="" coords="677,44,836,89"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CLog__Window.html#a3aa41a902142abbf211f567d89b77f21" title="Creates an instance of the class." alt="" coords="451,5,629,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="659,49,630,46,630,41,665,49"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1gui_1_1CLog__Window.html#aada4dbfcfe761cd1f7f050a866a4e02c" title="Renders a clear button for clearing the message area." alt="" coords="453,74,627,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="665,83,628,92,627,87,659,84"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1gui_1_1CLog__Window.html#ab5d91eb4a2187a347f7c4a9ba84a527d" title="Renders the top bar of the window (the options, clear button, and the filter)." alt="" coords="212,83,403,127"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="435,105,404,108,404,102,440,105"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1gui_1_1CLog__Window.html#a679fe192aa1335396f06e63678bb71d5" title="Renders the window (IGUI_Window interface)." alt="" coords="5,83,164,127"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="193,105,164,108,164,102,199,105"/>
 </map>

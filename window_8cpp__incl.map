@@ -1,7 +1,7 @@
 <map id="src/gui/window.cpp" name="src/gui/window.cpp">
-<area shape="rect" id="Node000001" title="This file implements common functions that can be used throughout the GUI of the application." alt="" coords="5,5,151,31"/>
-<area shape="rect" id="Node000002" href="$window_8hpp.html" title="This file defines an interface for all windows that will be rendered by the application." alt="" coords="29,79,127,104"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,31,81,65,75,65,75,31"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="22,152,134,177"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,104,81,138,75,138,75,104"/>
+<area shape="rect" id="Node000001" title="This file implements common functions that can be used throughout the GUI of the application." alt="" coords="5,5,150,33"/>
+<area shape="rect" id="Node000002" href="$window_8hpp.html" title="This file defines an interface for all windows that will be rendered by the application." alt="" coords="28,81,127,109"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="78,31,80,66,75,65,77,36"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="22,157,133,184"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="79,107,80,142,75,140,76,111"/>
 </map>

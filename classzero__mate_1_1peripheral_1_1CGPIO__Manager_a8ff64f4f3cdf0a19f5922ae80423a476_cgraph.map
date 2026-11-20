@@ -1,5 +1,0 @@
-<map id="zero_mate::peripheral::CGPIO_Manager::Read_GPIO_Pin" name="zero_mate::peripheral::CGPIO_Manager::Read_GPIO_Pin">
-<area shape="rect" id="Node000001" title="Returns the current state of a given pin." alt="" coords="5,5,181,60"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CGPIO__Manager_1_1CPin.html#ab910baeb4caa3129739eccf087d06dd4" title="Returns the current state of the pin." alt="" coords="229,5,401,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,30,215,30,215,35,181,35"/>
-</map>

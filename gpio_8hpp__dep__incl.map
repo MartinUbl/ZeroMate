@@ -1,35 +1,35 @@
 <map id="src/core/peripherals/gpio.hpp" name="src/core/peripherals/gpio.hpp">
-<area shape="rect" id="Node000001" title="This file defines the GPIO controller used in BCM2835." alt="" coords="809,5,960,45"/>
-<area shape="rect" id="Node000002" href="$auxiliary_8hpp.html" title=" " alt="" coords="415,93,586,133"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="797,49,585,96,584,91,795,44"/>
-<area shape="rect" id="Node000005" href="$soc_8hpp.html" title=" " alt="" coords="904,189,1031,214"/>
-<area shape="poly" id="edge15_Node000001_Node000005" title=" " alt="" coords="891,58,898,95,912,132,934,163,956,187,952,190,929,166,908,135,893,96,886,59"/>
-<area shape="rect" id="Node000011" href="$bsc_8hpp.html" title="This file defines the BSC peripheral used in BCM2835." alt="" coords="923,93,1073,133"/>
-<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="922,52,975,91,971,95,919,56"/>
-<area shape="rect" id="Node000013" href="$gpio_8cpp.html" title="This file implements the GPIO controller used in BCM2835 (defined in gpio.hpp)." alt="" coords="1097,93,1248,133"/>
-<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="962,47,1110,91,1109,96,960,52"/>
-<area shape="rect" id="Node000014" href="$gpio__window_8hpp.html" title="This file defines a window that visualizes the states and information about GPIO pins." alt="" coords="645,93,847,133"/>
-<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="844,55,778,96,775,91,841,50"/>
-<area shape="rect" id="Node000003" href="$auxiliary_8cpp.html" title=" " alt="" coords="5,181,175,221"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="403,138,175,185,174,180,401,133"/>
-<area shape="rect" id="Node000004" href="$mini__uart_8cpp.html" title="This file implements the Mini UART auxiliary peripheral used in BCM2835." alt="" coords="199,181,375,221"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="442,141,335,184,333,179,440,136"/>
-<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="600,127,739,150,892,179,924,186,923,191,891,184,738,155,599,132"/>
-<area shape="rect" id="Node000009" href="$aux__window_8hpp.html" title="This file defines a window that visualizes the auxiliaries (UART1 &amp; SPI1, and SPI2) used in BCM2835." alt="" coords="399,181,602,221"/>
-<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="503,147,503,181,498,181,498,147"/>
-<area shape="rect" id="Node000006" href="$soc_8cpp.html" title=" " alt="" coords="973,277,1100,302"/>
-<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="988,223,1029,274,1025,278,983,227"/>
-<area shape="rect" id="Node000007" href="$gui_8cpp.html" title="This file implements the main GUI entry function that takes care of creating and rendering all window..." alt="" coords="604,277,720,302"/>
-<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="914,220,704,279,702,274,912,215"/>
-<area shape="rect" id="Node000008" href="$main_8cpp.html" title="This file defines and implements the main function of the application." alt="" coords="844,277,949,302"/>
-<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="951,226,909,278,904,274,947,223"/>
-<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="549,225,642,274,639,279,547,230"/>
-<area shape="rect" id="Node000010" href="$aux__window_8cpp.html" title="This file implements a window that visualizes the auxiliaries (UART1 &amp; SPI1, and SPI2) used in BCM283..." alt="" coords="377,269,579,309"/>
-<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="495,235,486,270,480,268,490,234"/>
-<area shape="poly" id="edge13_Node000011_Node000005" title=" " alt="" coords="989,147,974,189,969,187,984,145"/>
-<area shape="rect" id="Node000012" href="$bsc_8cpp.html" title="This file implements the BSC peripheral used in BCM2835." alt="" coords="1055,181,1205,221"/>
-<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="1040,139,1102,179,1099,183,1037,143"/>
-<area shape="poly" id="edge17_Node000014_Node000007" title=" " alt="" coords="702,143,682,161,667,183,659,207,657,233,662,276,657,276,652,233,654,206,662,180,678,157,698,139"/>
-<area shape="rect" id="Node000015" href="$gpio__window_8cpp.html" title="This file implements a window that visualizes the states and information about GPIO pins." alt="" coords="677,181,879,221"/>
-<area shape="poly" id="edge18_Node000014_Node000015" title=" " alt="" coords="760,145,773,180,768,182,755,147"/>
+<area shape="rect" id="Node000001" title="This file defines the GPIO controller used in BCM2835." alt="" coords="808,5,958,50"/>
+<area shape="rect" id="Node000002" href="$auxiliary_8hpp.html" title=" " alt="" coords="414,98,584,143"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="791,51,585,102,583,96,796,49"/>
+<area shape="rect" id="Node000005" href="$soc_8hpp.html" title=" " alt="" coords="901,199,1027,227"/>
+<area shape="poly" id="edge15_Node000001_Node000005" title=" " alt="" coords="888,63,897,103,911,141,931,172,953,200,948,198,926,176,906,144,892,104,885,68"/>
+<area shape="rect" id="Node000011" href="$bsc_8hpp.html" title="This file defines the BSC peripheral used in BCM2835." alt="" coords="920,98,1070,143"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="922,57,971,98,965,97,921,62"/>
+<area shape="rect" id="Node000013" href="$gpio_8cpp.html" title="This file implements the GPIO controller used in BCM2835 (defined in gpio.hpp)." alt="" coords="1094,98,1243,143"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="965,52,1103,97,1097,98,965,58"/>
+<area shape="rect" id="Node000014" href="$gpio__window_8hpp.html" title="This file defines a window that visualizes the states and information about GPIO pins." alt="" coords="643,98,845,143"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="840,58,778,100,776,95,835,60"/>
+<area shape="rect" id="Node000003" href="$auxiliary_8cpp.html" title=" " alt="" coords="5,191,174,235"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="398,146,175,196,173,191,400,141"/>
+<area shape="rect" id="Node000004" href="$mini__uart_8cpp.html" title="This file implements the Mini UART auxiliary peripheral used in BCM2835." alt="" coords="198,191,373,235"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="436,148,338,193,336,188,431,150"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="599,135,890,188,923,199,918,198,889,193,598,141"/>
+<area shape="rect" id="Node000009" href="$aux__window_8hpp.html" title="This file defines a window that visualizes the auxiliaries (UART1 &amp; SPI1, and SPI2) used in BCM2835." alt="" coords="398,191,600,235"/>
+<area shape="poly" id="edge8_Node000002_Node000009" title=" " alt="" coords="501,156,501,192,497,189,497,160"/>
+<area shape="rect" id="Node000006" href="$soc_8cpp.html" title=" " alt="" coords="971,292,1096,320"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="984,237,1026,292,1021,290,982,241"/>
+<area shape="rect" id="Node000007" href="$gui_8cpp.html" title="This file implements the main GUI entry function that takes care of creating and rendering all window..." alt="" coords="601,292,716,320"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="908,231,704,294,703,289,902,232"/>
+<area shape="rect" id="Node000008" href="$main_8cpp.html" title="This file defines and implements the main function of the application." alt="" coords="843,292,947,320"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="948,238,906,294,903,289,943,240"/>
+<area shape="poly" id="edge9_Node000009_Node000007" title=" " alt="" coords="551,241,638,292,633,291,550,246"/>
+<area shape="rect" id="Node000010" href="$aux__window_8cpp.html" title="This file implements a window that visualizes the auxiliaries (UART1 &amp; SPI1, and SPI2) used in BCM283..." alt="" coords="375,283,577,328"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="492,249,483,285,480,281,488,252"/>
+<area shape="poly" id="edge13_Node000011_Node000005" title=" " alt="" coords="985,156,970,201,967,197,981,159"/>
+<area shape="rect" id="Node000012" href="$bsc_8cpp.html" title="This file implements the BSC peripheral used in BCM2835." alt="" coords="1051,191,1200,235"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="1039,149,1097,191,1092,190,1037,154"/>
+<area shape="poly" id="edge17_Node000014_Node000007" title=" " alt="" coords="697,151,679,172,665,192,657,218,655,245,658,293,654,290,649,245,652,217,660,190,675,168,692,154"/>
+<area shape="rect" id="Node000015" href="$gpio__window_8cpp.html" title="This file implements a window that visualizes the states and information about GPIO pins." alt="" coords="675,191,877,235"/>
+<area shape="poly" id="edge18_Node000014_Node000015" title=" " alt="" coords="758,155,771,192,766,189,755,159"/>
 </map>

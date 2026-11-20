@@ -1,11 +1,11 @@
 <map id="zero_mate::coprocessor::cp15::CC7::CC7" name="zero_mate::coprocessor::cp15::CC7::CC7">
-<area shape="rect" id="Node000001" title="Creates an instance of the class." alt="" coords="5,101,183,141"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CC7.html#a1a496cc655b5b4bb5b89da2509cadb43" title="Initializes secondary register C10." alt="" coords="231,5,425,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="133,99,230,55,249,47,251,52,232,60,136,104"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CC7.html#a31c5fe8418ae116c34ad7bd06466ed55" title="Initializes secondary register C5." alt="" coords="235,69,421,109"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="182,107,221,101,222,107,183,112"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CC7.html#a29df49db0d8060ff3612b1a83f08f970" title="Initializes secondary register C6." alt="" coords="235,133,421,173"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="183,131,222,136,221,141,182,136"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CC7.html#af6479adb55ea09d7c11a0eb75d0f3c64" title="Initializes secondary register C7." alt="" coords="235,197,421,237"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="136,139,232,183,251,190,249,195,230,188,133,144"/>
+<area shape="rect" id="Node000001" title="Creates an instance of the class." alt="" coords="5,109,182,154"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CC7.html#a1a496cc655b5b4bb5b89da2509cadb43" title="Initializes secondary register C10." alt="" coords="230,5,423,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="135,106,229,60,247,55,242,58,231,65,137,111"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CC7.html#a31c5fe8418ae116c34ad7bd06466ed55" title="Initializes secondary register C5." alt="" coords="234,75,419,119"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,116,221,112,216,114,183,121"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CC7.html#a29df49db0d8060ff3612b1a83f08f970" title="Initializes secondary register C6." alt="" coords="234,144,419,189"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="182,142,221,150,216,151,182,147"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CC7.html#af6479adb55ea09d7c11a0eb75d0f3c64" title="Initializes secondary register C7." alt="" coords="234,213,419,258"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="137,152,231,199,247,207,242,207,229,203,136,157"/>
 </map>

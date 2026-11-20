@@ -1,13 +1,7 @@
 <map id="zero_mate::arm1176jzf_s::CCPU_Core::Perform_Halfword_Data_Transfer_Write" name="zero_mate::arm1176jzf_s::CCPU_Core::Perform_Halfword_Data_Transfer_Write">
-<area shape="rect" id="Node000001" title="Performs a halfword data write to a given address." alt="" coords="5,66,232,121"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1utils_1_1CLogging__System.html#a2bb4d37b178f29335f726875bad91bd4" title="Logs a warning message via all registered loggers." alt="" coords="280,73,475,113"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,91,266,91,266,96,232,96"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1utils_1_1CLogging__System.html#a71ed11c796553cbe8fd99773406a1060" title="Creates a formatted message to be logged." alt="" coords="523,30,725,85"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="474,77,509,71,510,77,475,82"/>
-<area shape="rect" id="Node000006" href="$classzero__mate_1_1utils_1_1CLogging__System.html#ad371c67ef65763966ccf9291002e86f3" title="Extract the filename from a given location within the source files." alt="" coords="525,109,723,149"/>
-<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="475,105,512,110,511,116,474,110"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1utils_1_1CLogging__System.html#aa70c102c805079042ffea2a6f2a5ad64" title="Formats a given timestamp." alt="" coords="773,5,987,45"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="725,42,759,38,760,43,726,47"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1utils_1_1CLogging__System.html#ae3ca637537dde05e0b9119145c840331" title="Returns the current timestamp that will be used in a log message." alt="" coords="783,69,977,109"/>
-<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="726,67,770,73,769,78,725,73"/>
+<area shape="rect" id="Node000001" title="Performs a halfword data write to a given address." alt="" coords="5,5,231,67"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a4e94818c05fb1ddd0a08762eb06e629d" title="Writes data to the bus." alt="" coords="279,14,451,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="231,34,266,36,260,36,231,39"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a0ea0a4bf2d64e0418882ab2d1840a8cb" title="Converts a given virtual address into a physical address using the MMU." alt="" coords="499,5,726,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="451,34,486,36,481,36,452,39"/>
 </map>

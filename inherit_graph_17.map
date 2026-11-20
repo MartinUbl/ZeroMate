@@ -1,9 +1,9 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="Node000000" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CCP__Instruction.html" title="This class represents a general CP10 instruction." alt="" coords="5,91,204,131"/>
-<area shape="rect" id="Node000001" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CCP__Data__Processing__Inst.html" title="This class represents a general CP10 data processing instruction." alt="" coords="255,5,432,60"/>
-<area shape="poly" id="edge31_Node000000_Node000001" title=" " alt="" coords="178,85,259,58,261,63,180,90"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CCP__Data__Transfer__Inst.html" title="This class represents a general CP10 data transfer instruction (load/store)." alt="" coords="255,84,432,139"/>
-<area shape="poly" id="edge32_Node000000_Node000002" title=" " alt="" coords="217,109,254,109,254,114,217,114"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CCP__Register__Transfer__Inst.html" title="This class represents a general CP10 register transfer instruction." alt="" coords="252,163,435,217"/>
-<area shape="poly" id="edge33_Node000000_Node000003" title=" " alt="" coords="180,133,261,160,259,165,178,138"/>
+<area shape="rect" id="Node000000" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CCP__Instruction.html" title="This class represents a general CP10 instruction." alt="" coords="5,99,203,144"/>
+<area shape="rect" id="Node000001" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CCP__Data__Processing__Inst.html" title="This class represents a general CP10 data processing instruction." alt="" coords="254,5,430,67"/>
+<area shape="poly" id="edge31_Node000000_Node000001" title=" " alt="" coords="181,91,256,66,252,69,183,96"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CCP__Data__Transfer__Inst.html" title="This class represents a general CP10 data transfer instruction (load/store)." alt="" coords="254,91,430,152"/>
+<area shape="poly" id="edge32_Node000000_Node000002" title=" " alt="" coords="218,119,256,121,251,122,219,124"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CCP__Register__Transfer__Inst.html" title="This class represents a general CP10 register transfer instruction." alt="" coords="251,176,433,238"/>
+<area shape="poly" id="edge33_Node000000_Node000003" title=" " alt="" coords="183,147,256,175,251,176,182,152"/>
 </map>

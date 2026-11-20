@@ -1,7 +1,7 @@
 <map id="src/gui/windows/registers_window.hpp" name="src/gui/windows/registers_window.hpp">
-<area shape="rect" id="Node000001" title="This file defines a window that displays the contents of all CPU registers." alt="" coords="58,5,245,45"/>
-<area shape="rect" id="Node000002" href="$gui_8cpp.html" title="This file implements the main GUI entry function that takes care of creating and rendering all window..." alt="" coords="5,101,121,126"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,57,77,102,74,98,120,53"/>
-<area shape="rect" id="Node000003" href="$registers__window_8cpp.html" title="This file implements a window that displays the contents of all CPU registers." alt="" coords="146,93,333,133"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="183,53,222,91,218,95,179,57"/>
+<area shape="rect" id="Node000001" title="This file defines a window that displays the contents of all CPU registers." alt="" coords="56,5,243,50"/>
+<area shape="rect" id="Node000002" href="$gui_8cpp.html" title="This file implements the main GUI entry function that takes care of creating and rendering all window..." alt="" coords="5,106,121,134"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="121,60,77,108,74,104,116,62"/>
+<area shape="rect" id="Node000003" href="$registers__window_8cpp.html" title="This file implements a window that displays the contents of all CPU registers." alt="" coords="144,98,331,143"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="182,59,220,98,214,98,180,64"/>
 </map>

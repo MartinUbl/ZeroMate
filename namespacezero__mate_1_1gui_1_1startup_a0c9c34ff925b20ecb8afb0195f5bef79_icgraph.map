@@ -1,5 +1,5 @@
 <map id="zero_mate::gui::startup::Parse_Args" name="zero_mate::gui::startup::Parse_Args">
-<area shape="rect" id="Node000001" title="Parses command line arguments passed into the application." alt="" coords="108,5,281,45"/>
-<area shape="rect" id="Node000002" href="$main_8cpp.html#ac0f2228420376f4db7e1274f2b41667c" title="Entry point of the application." alt="" coords="5,13,60,38"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="94,28,60,28,60,23,94,23"/>
+<area shape="rect" id="Node000001" title="Parses command line arguments passed into the application." alt="" coords="108,5,280,50"/>
+<area shape="rect" id="Node000002" href="$main_8cpp.html#ac0f2228420376f4db7e1274f2b41667c" title="Entry point of the application." alt="" coords="5,14,60,42"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="90,29,60,30,60,25,94,27"/>
 </map>

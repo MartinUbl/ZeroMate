@@ -1,52 +1,80 @@
 <map id="zero_mate::coprocessor::cp10::CCP10::Perform_Data_Operation" name="zero_mate::coprocessor::cp10::CCP10::Perform_Data_Operation">
-<area shape="rect" id="Node000001" title="Performs a coprocessor data operation instruction (ICoprocessor interface)." alt="" coords="5,551,183,605"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1utils_1_1CLogging__System.html#a57ed77e1a5cf822cea532cc5e05c3f60" title="Logs an error message via all registered loggers." alt="" coords="502,705,697,745"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="110,549,130,520,157,488,191,458,230,436,291,412,343,402,368,403,395,409,452,436,485,461,512,491,535,525,554,561,580,632,595,691,590,692,575,634,549,563,530,528,508,494,481,464,449,440,393,414,368,408,343,407,292,417,232,440,194,463,161,492,134,524,114,552"/>
-<area shape="rect" id="Node000007" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#a16093f04e482de31680843bad658a93a" title="Executes a VABS floating point instruction." alt="" coords="235,85,446,125"/>
-<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="93,550,98,469,105,416,116,358,133,298,157,239,189,183,229,135,233,131,237,135,233,139,193,187,162,241,139,300,122,359,110,417,103,470,98,550"/>
-<area shape="rect" id="Node000008" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#ada7b266c79cb6ab0b8cbbb33db8581c4" title="Executes a VADD floating point instruction." alt="" coords="233,149,448,189"/>
-<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="94,550,103,480,125,385,142,335,165,285,193,239,229,199,234,195,237,199,233,203,198,242,169,288,147,337,130,387,108,480,100,551"/>
-<area shape="rect" id="Node000009" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#a648564bc18e05cbdd009c5e76cace9b3" title="Executes a VCMP and CMPE float point instructions." alt="" coords="252,5,429,60"/>
-<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="92,550,94,460,100,400,111,333,128,263,152,194,185,129,229,71,239,61,242,65,233,74,190,132,157,196,133,265,116,334,106,400,100,461,97,550"/>
-<area shape="rect" id="Node000011" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#a8c8d7242a607176e4d1f58b1d622668d" title="Executes a VCVT (double&#45;precision to single&#45;precision) instruction." alt="" coords="249,306,432,375"/>
-<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="108,549,156,473,190,430,229,392,244,381,247,385,232,396,194,434,160,476,112,552"/>
-<area shape="rect" id="Node000012" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#ad824ae13f53109fd238a3f3bf0be77c8" title="Executes a VCVT and VCVTR floating point instructions." alt="" coords="233,213,448,282"/>
-<area shape="poly" id="edge11_Node000001_Node000012" title=" " alt="" coords="99,550,114,496,140,428,178,356,202,322,229,292,233,289,236,292,233,296,206,326,182,359,145,430,119,498,104,551"/>
-<area shape="rect" id="Node000015" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#a459029468d45e1d459286fcdc1c3c40f" title="Executes a VDIV floating point instruction." alt="" coords="236,450,445,490"/>
-<area shape="poly" id="edge14_Node000001_Node000015" title=" " alt="" coords="139,548,230,501,252,492,254,497,232,506,141,553"/>
-<area shape="rect" id="Node000016" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#aec78a50a1ff14c14ed085a80191ca6c3" title="Executes VMLA and VMLS floating point instructions." alt="" coords="252,515,429,569"/>
-<area shape="poly" id="edge15_Node000001_Node000016" title=" " alt="" coords="182,562,238,554,239,560,183,568"/>
-<area shape="rect" id="Node000017" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#afa890dda0cd156b82462bb078d87e760" title="Executes a VMOV floating point instruction." alt="" coords="232,594,449,634"/>
-<area shape="poly" id="edge16_Node000001_Node000017" title=" " alt="" coords="183,588,219,593,218,599,182,594"/>
-<area shape="rect" id="Node000018" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#a086d23f857f90771fc856d7086cec293" title="Executes a VMUL floating point instruction." alt="" coords="233,658,448,698"/>
-<area shape="poly" id="edge17_Node000001_Node000018" title=" " alt="" coords="146,603,232,644,253,651,251,656,230,648,143,608"/>
-<area shape="rect" id="Node000019" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#ab28b0d5642400307460b25383c7d1484" title="Executes a VNEG floating point instruction." alt="" coords="233,722,448,762"/>
-<area shape="poly" id="edge18_Node000001_Node000019" title=" " alt="" coords="119,604,167,657,198,684,232,708,244,714,242,719,229,712,195,688,163,661,115,608"/>
-<area shape="rect" id="Node000020" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#a021f5937f594c636f8368f100bb6f414" title="Executes VNMLA, VNMLS, and VNMUL floating point instructions." alt="" coords="248,787,433,841"/>
-<area shape="poly" id="edge19_Node000001_Node000020" title=" " alt="" coords="110,604,129,642,156,687,191,732,232,772,240,777,237,782,229,776,187,736,152,690,124,644,105,607"/>
-<area shape="rect" id="Node000021" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#aa2f1e79742997b349b0014d6550a16b0" title="Executes a VSQRT floating point instruction." alt="" coords="231,866,451,906"/>
-<area shape="poly" id="edge20_Node000001_Node000021" title=" " alt="" coords="104,605,118,658,143,724,181,793,205,825,232,852,239,857,235,861,229,856,201,828,176,796,138,727,113,659,99,606"/>
-<area shape="rect" id="Node000022" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#a6a54081b5426f55b309a71f3d7fa9754" title="Executes a VSUB floating point instruction." alt="" coords="234,930,447,970"/>
-<area shape="poly" id="edge21_Node000001_Node000022" title=" " alt="" coords="101,605,112,669,134,753,152,797,173,840,200,881,233,916,238,920,234,925,229,920,196,884,169,843,147,799,129,754,106,670,96,606"/>
-<area shape="rect" id="Node000023" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CCP__Data__Processing__Inst.html#a2cc04522678dbc4d71afc612e6db6f28" title="Returns the type of the instruction." alt="" coords="241,995,440,1049"/>
-<area shape="poly" id="edge22_Node000001_Node000023" title=" " alt="" coords="99,605,107,679,128,779,145,833,168,886,197,936,233,980,237,984,233,988,229,984,192,939,163,888,140,835,123,781,102,680,94,606"/>
-<area shape="rect" id="Node000024" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#a42519c95eeada09e8b8f277f899f9185" title="Checks whether the coprocessor is enabled or not." alt="" coords="252,1073,429,1128"/>
-<area shape="poly" id="edge23_Node000001_Node000024" title=" " alt="" coords="97,606,101,692,107,750,118,813,135,879,159,944,191,1006,233,1060,242,1069,239,1073,229,1064,187,1009,154,947,130,881,113,815,102,751,96,693,92,606"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1utils_1_1CLogging__System.html#a71ed11c796553cbe8fd99773406a1060" title="Creates a formatted message to be logged." alt="" coords="748,661,951,716"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="697,708,734,703,735,708,697,713"/>
-<area shape="rect" id="Node000006" href="$classzero__mate_1_1utils_1_1CLogging__System.html#ad371c67ef65763966ccf9291002e86f3" title="Extract the filename from a given location within the source files." alt="" coords="750,741,949,781"/>
-<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="697,736,737,742,736,747,697,741"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1utils_1_1CLogging__System.html#aa70c102c805079042ffea2a6f2a5ad64" title="Formats a given timestamp." alt="" coords="999,637,1212,677"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="950,673,985,669,985,674,951,679"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1utils_1_1CLogging__System.html#ae3ca637537dde05e0b9119145c840331" title="Returns the current timestamp that will be used in a log message." alt="" coords="1008,701,1203,741"/>
-<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="951,699,995,704,994,709,950,704"/>
-<area shape="rect" id="Node000010" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CFPSCR.html#a93a3f7ff894b184a01146047be25c3d5" title="Sets a given flag in the register value." alt="" coords="507,13,691,53"/>
-<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="429,30,493,30,493,35,429,35"/>
-<area shape="rect" id="Node000013" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#ae202127183b1981232465e8d4dee2a07" title="Converts (casts) a floating point value into an integer." alt="" coords="511,260,688,315"/>
-<area shape="poly" id="edge12_Node000012_Node000013" title=" " alt="" coords="449,261,498,269,497,274,448,267"/>
-<area shape="rect" id="Node000014" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#aba83e81d43442cb7b7f01fb21a296d8c" title="Converts (casts) an integer value into a floating point value." alt="" coords="511,181,688,236"/>
-<area shape="poly" id="edge13_Node000012_Node000014" title=" " alt="" coords="448,229,497,221,498,227,449,234"/>
-<area shape="poly" id="edge24_Node000024_Node000002" title=" " alt="" coords="428,1075,449,1060,480,1026,507,987,530,945,548,903,575,821,590,758,595,759,580,823,553,904,535,947,512,990,485,1029,452,1064,431,1079"/>
-<area shape="rect" id="Node000025" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CFPEXC.html#a1e9712b7b92c2a1ef3e09f00ada91cf9" title="Checks whether a given flag is set or not." alt="" coords="499,1081,700,1121"/>
-<area shape="poly" id="edge25_Node000024_Node000025" title=" " alt="" coords="429,1098,485,1098,485,1103,429,1103"/>
+<area shape="rect" id="Node000001" title="Performs a coprocessor data operation instruction (ICoprocessor interface)." alt="" coords="5,565,182,627"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#a16093f04e482de31680843bad658a93a" title="Executes a VABS floating point instruction." alt="" coords="234,299,444,344"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="102,564,119,517,145,461,181,404,203,377,228,354,236,350,234,354,231,358,207,381,185,407,150,464,124,520,107,565"/>
+<area shape="rect" id="Node000010" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#ada7b266c79cb6ab0b8cbbb33db8581c4" title="Executes a VADD floating point instruction." alt="" coords="233,368,446,413"/>
+<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="109,564,157,492,190,454,228,422,236,419,233,423,231,426,193,458,161,495,114,566"/>
+<area shape="rect" id="Node000011" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#a648564bc18e05cbdd009c5e76cace9b3" title="Executes a VCMP and CMPE float point instructions." alt="" coords="251,5,428,67"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="91,565,94,472,100,410,110,343,127,272,152,203,185,136,228,77,240,68,238,72,232,81,189,139,156,205,132,274,116,344,105,411,99,472,96,565"/>
+<area shape="rect" id="Node000013" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#a8c8d7242a607176e4d1f58b1d622668d" title="Executes a VCVT (double&#45;precision to single&#45;precision) instruction." alt="" coords="248,437,430,516"/>
+<area shape="poly" id="edge14_Node000001_Node000013" title=" " alt="" coords="153,563,228,524,240,521,237,525,231,529,157,567"/>
+<area shape="rect" id="Node000014" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#ad824ae13f53109fd238a3f3bf0be77c8" title="Executes a VCVT and VCVTR floating point instructions." alt="" coords="232,746,446,825"/>
+<area shape="poly" id="edge16_Node000001_Node000014" title=" " alt="" coords="119,625,170,679,231,733,236,737,231,738,228,737,166,683,120,630"/>
+<area shape="rect" id="Node000020" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#a459029468d45e1d459286fcdc1c3c40f" title="Executes a VDIV floating point instruction." alt="" coords="235,539,444,584"/>
+<area shape="poly" id="edge23_Node000001_Node000020" title=" " alt="" coords="181,582,222,577,218,580,184,586"/>
+<area shape="rect" id="Node000021" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#aec78a50a1ff14c14ed085a80191ca6c3" title="Executes VMLA and VMLS floating point instructions." alt="" coords="251,849,428,911"/>
+<area shape="poly" id="edge25_Node000001_Node000021" title=" " alt="" coords="105,625,125,672,151,727,187,784,231,834,241,843,236,844,228,838,182,788,146,730,120,674,105,630"/>
+<area shape="rect" id="Node000023" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#afa890dda0cd156b82462bb078d87e760" title="Executes a VMOV floating point instruction." alt="" coords="231,608,448,653"/>
+<area shape="poly" id="edge28_Node000001_Node000023" title=" " alt="" coords="181,606,218,612,213,615,184,611"/>
+<area shape="rect" id="Node000024" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#a086d23f857f90771fc856d7086cec293" title="Executes a VMUL floating point instruction." alt="" coords="232,678,446,722"/>
+<area shape="poly" id="edge30_Node000001_Node000024" title=" " alt="" coords="150,625,231,663,249,671,244,673,229,668,152,630"/>
+<area shape="rect" id="Node000025" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#ab28b0d5642400307460b25383c7d1484" title="Executes a VNEG floating point instruction." alt="" coords="233,91,446,136"/>
+<area shape="poly" id="edge32_Node000001_Node000025" title=" " alt="" coords="92,565,97,483,105,429,116,371,133,311,157,251,188,196,228,146,234,143,231,148,232,150,192,199,162,254,138,312,122,372,110,430,103,483,97,565"/>
+<area shape="rect" id="Node000026" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#a021f5937f594c636f8368f100bb6f414" title="Executes VNMLA, VNMLS, and VNMUL floating point instructions." alt="" coords="247,935,432,996"/>
+<area shape="poly" id="edge34_Node000001_Node000026" title=" " alt="" coords="99,625,115,688,139,766,156,808,177,849,202,887,232,921,237,927,232,928,228,925,198,890,172,851,151,810,134,768,110,689,99,630"/>
+<area shape="rect" id="Node000028" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#aa2f1e79742997b349b0014d6550a16b0" title="Executes a VSQRT floating point instruction." alt="" coords="230,160,449,205"/>
+<area shape="poly" id="edge38_Node000001_Node000028" title=" " alt="" coords="94,564,104,493,125,400,143,350,165,302,193,256,228,216,235,212,232,217,232,219,197,259,170,304,148,352,130,401,109,494,100,565"/>
+<area shape="rect" id="Node000029" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#a6a54081b5426f55b309a71f3d7fa9754" title="Executes a VSUB floating point instruction." alt="" coords="233,230,446,274"/>
+<area shape="poly" id="edge40_Node000001_Node000029" title=" " alt="" coords="97,564,110,505,135,430,152,391,173,352,198,317,228,285,235,281,232,286,232,289,202,320,177,355,157,393,140,432,115,507,102,565"/>
+<area shape="rect" id="Node000030" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CCP__Data__Processing__Inst.html#a2cc04522678dbc4d71afc612e6db6f28" title="Returns the type of the instruction." alt="" coords="241,1020,438,1082"/>
+<area shape="poly" id="edge42_Node000001_Node000030" title=" " alt="" coords="96,625,107,703,128,804,145,858,168,911,196,962,232,1006,234,1010,228,1010,228,1010,192,964,163,914,140,860,123,805,102,704,96,630"/>
+<area shape="rect" id="Node000032" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CInstruction.html#a33fb155ea33d9b963e8cf9009fb5adef" title="Returns the 32&#45;bit value (encoding of the instruction)." alt="" coords="253,1105,426,1167"/>
+<area shape="poly" id="edge44_Node000001_Node000032" title=" " alt="" coords="94,625,101,717,107,776,118,840,135,907,159,973,190,1036,232,1092,243,1104,238,1104,228,1095,186,1039,154,975,130,908,113,841,102,776,95,717,94,630"/>
+<area shape="rect" id="Node000033" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#a42519c95eeada09e8b8f277f899f9185" title="Checks whether the coprocessor is enabled or not." alt="" coords="251,1191,428,1252"/>
+<area shape="poly" id="edge45_Node000001_Node000033" title=" " alt="" coords="98,625,116,747,144,911,162,995,182,1071,206,1134,232,1177,241,1188,236,1187,228,1180,201,1136,177,1073,156,996,138,912,111,748,98,630"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Processing.html#a8740e17ba3318dca9ca9953d79c6a7ab" title="Returns a collection of indexes of all three registers (Vd, Vn, and Vm)." alt="" coords="497,419,709,480"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="419,342,450,354,500,380,547,409,542,411,497,384,448,359,421,347"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Processing.html#ac3c2b7fa00ff41b0a305cf96b9b40e8a" title="Returns the index of the Vd register." alt="" coords="757,205,970,267"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="623,417,679,348,715,310,756,277,765,273,761,277,759,281,719,314,683,351,628,420"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Processing.html#a9a722758da0bd85e78a6c1f41c28443a" title="Returns the offset of the Vd register (S{x} vs D{x})." alt="" coords="757,291,970,352"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="655,416,756,362,771,357,766,361,759,367,659,420"/>
+<area shape="rect" id="Node000006" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Processing.html#a12adf6834479667289a3618f05623ecd" title="Returns the index of the Vm register." alt="" coords="757,376,970,438"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="708,430,744,425,740,428,711,434"/>
+<area shape="rect" id="Node000007" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Processing.html#a69ce6e81e4f529840566e3bee36c5d20" title="Returns the offset of the Vm register (S{x} vs D{x})." alt="" coords="757,461,970,523"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="709,464,744,471,739,473,710,469"/>
+<area shape="rect" id="Node000008" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Processing.html#ac2c5b27964fdd49fc4f960c6b52f3936" title="Returns the index of the Vn register." alt="" coords="757,547,970,608"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="688,478,711,490,735,512,759,533,767,539,762,540,756,537,732,515,708,494,689,483"/>
+<area shape="rect" id="Node000009" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Processing.html#a9dd5cfa2e388b6e6019ba523e966d875" title="Returns the offset of the Vn register (S{x} vs D{x})." alt="" coords="757,632,970,694"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="696,478,711,490,724,507,731,524,736,556,740,587,747,603,759,618,762,622,757,622,755,622,743,605,735,589,731,557,726,525,720,510,707,494,696,483"/>
+<area shape="poly" id="edge10_Node000010_Node000003" title=" " alt="" coords="442,411,484,421,479,424,444,416"/>
+<area shape="poly" id="edge13_Node000011_Node000003" title=" " alt="" coords="427,60,451,77,483,114,511,156,535,200,554,245,582,332,597,404,592,403,576,334,549,247,530,202,507,159,479,117,447,81,429,66"/>
+<area shape="rect" id="Node000012" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Processing.html#a124767c4321406f82b277d8851dd9fd6" title="Checks whether a CPM should be done against zero or not." alt="" coords="497,5,709,67"/>
+<area shape="poly" id="edge12_Node000011_Node000012" title=" " alt="" coords="427,34,484,35,479,38,429,38"/>
+<area shape="poly" id="edge15_Node000013_Node000003" title=" " alt="" coords="430,465,484,460,480,463,432,469"/>
+<area shape="poly" id="edge19_Node000014_Node000003" title=" " alt="" coords="437,744,447,733,465,702,473,672,473,643,470,613,466,584,467,553,475,522,495,491,500,489,496,493,499,494,480,524,472,554,472,583,475,613,478,642,478,673,470,704,451,736,441,748"/>
+<area shape="rect" id="Node000015" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#ae202127183b1981232465e8d4dee2a07" title="Converts (casts) a floating point value into an integer." alt="" coords="515,504,691,566"/>
+<area shape="poly" id="edge17_Node000014_Node000015" title=" " alt="" coords="436,744,447,733,460,713,467,694,470,656,473,617,480,596,495,576,504,570,501,574,499,579,485,599,478,618,475,656,472,695,465,716,451,737,440,748"/>
+<area shape="rect" id="Node000016" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#aba83e81d43442cb7b7f01fb21a296d8c" title="Converts (casts) an integer value into a floating point value." alt="" coords="515,589,691,651"/>
+<area shape="poly" id="edge18_Node000014_Node000016" title=" " alt="" coords="433,744,447,733,462,715,470,697,479,679,495,661,504,657,500,661,499,665,483,682,475,700,467,718,451,737,437,747"/>
+<area shape="rect" id="Node000017" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Processing.html#a34b70573982240c62bb2e996a7d03446" title="Checks whether the 7th bit is set or not (OP bit 2)." alt="" coords="497,675,709,736"/>
+<area shape="poly" id="edge20_Node000014_Node000017" title=" " alt="" coords="446,751,487,740,482,743,448,755"/>
+<area shape="rect" id="Node000018" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Processing.html#a2ca0e6902dcddf14622d49901f328840" title="Checks whether the CVT instruction involves a signed integer or not." alt="" coords="497,760,709,822"/>
+<area shape="poly" id="edge21_Node000014_Node000018" title=" " alt="" coords="446,785,484,787,479,789,448,790"/>
+<area shape="rect" id="Node000019" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Processing.html#acd153ba78dd5bbeccf2cf749763175ef" title="Checks whether the CVT instruction is meant to convert a float to an integer." alt="" coords="497,845,709,907"/>
+<area shape="poly" id="edge22_Node000014_Node000019" title=" " alt="" coords="446,820,499,839,494,840,447,825"/>
+<area shape="poly" id="edge24_Node000020_Node000003" title=" " alt="" coords="420,537,448,525,472,508,496,490,507,486,503,489,498,494,475,512,450,529,423,541"/>
+<area shape="poly" id="edge26_Node000021_Node000003" title=" " alt="" coords="426,853,447,834,462,812,472,791,481,748,478,706,470,665,463,623,460,580,469,536,480,513,495,491,499,489,496,494,499,494,484,516,474,538,465,580,468,622,476,664,484,706,486,748,477,792,466,815,451,838,429,857"/>
+<area shape="rect" id="Node000022" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Processing.html#a8fe7079c2fcb75db28f44513c732b998" title="Checks whether the 6th bit is set or not (OP bit 1)." alt="" coords="497,931,709,992"/>
+<area shape="poly" id="edge27_Node000021_Node000022" title=" " alt="" coords="428,905,489,925,484,926,428,910"/>
+<area shape="poly" id="edge29_Node000023_Node000003" title=" " alt="" coords="431,606,447,594,458,582,465,570,471,544,477,518,484,504,495,490,501,488,498,492,499,494,488,507,482,519,476,545,470,572,463,585,451,598,434,610"/>
+<area shape="poly" id="edge31_Node000024_Node000003" title=" " alt="" coords="432,676,447,664,462,643,470,622,471,580,472,536,480,513,495,491,500,489,496,493,499,494,484,516,478,537,477,580,475,623,467,645,451,667,436,679"/>
+<area shape="poly" id="edge33_Node000025_Node000003" title=" " alt="" coords="431,134,451,146,479,174,505,206,545,275,574,344,593,404,588,403,569,346,541,278,500,209,475,178,447,150,432,139"/>
+<area shape="poly" id="edge35_Node000026_Node000003" title=" " alt="" coords="430,937,447,921,465,893,477,866,484,839,487,813,482,760,471,708,459,656,454,603,457,575,464,548,476,519,495,491,499,489,496,494,499,494,481,522,469,549,462,576,460,603,464,655,476,707,488,759,492,813,490,840,482,868,470,896,451,925,434,941"/>
+<area shape="poly" id="edge37_Node000026_Node000022" title=" " alt="" coords="431,962,484,962,479,964,433,967"/>
+<area shape="rect" id="Node000027" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Processing.html#a4933f170fdb865477bc2456f0252ea82" title="Checks whether the instruction is an accumulate instruction or not." alt="" coords="497,1016,709,1078"/>
+<area shape="poly" id="edge36_Node000026_Node000027" title=" " alt="" coords="432,991,489,1010,484,1011,432,997"/>
+<area shape="poly" id="edge39_Node000028_Node000003" title=" " alt="" coords="429,203,451,215,496,258,534,308,564,359,586,405,581,404,559,361,530,311,492,262,447,220,430,208"/>
+<area shape="poly" id="edge41_Node000029_Node000003" title=" " alt="" coords="426,273,450,285,487,311,520,342,574,405,568,406,516,346,483,316,448,289,427,278"/>
+<area shape="rect" id="Node000031" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CCP__Instruction.html#a1fec8014d2a13654b6f041242041da5d" title="Returns the type of the instruction." alt="" coords="504,1101,702,1163"/>
+<area shape="poly" id="edge43_Node000030_Node000031" title=" " alt="" coords="439,1079,493,1097,487,1098,439,1084"/>
 </map>

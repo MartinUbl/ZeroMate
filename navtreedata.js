@@ -53,7 +53,6 @@ var NAVTREE =
       [ "File Members", "globals.html", [
         [ "All", "globals.html", null ],
         [ "Functions", "globals_func.html", null ],
-        [ "Variables", "globals_vars.html", null ],
         [ "Macros", "globals_defs.html", null ]
       ] ]
     ] ]
@@ -63,22 +62,23 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "alu_8cpp.html",
-"classzero__mate_1_1arm1176jzf__s_1_1CCPU__Context.html#aa740f9219bb413d707ac72f373e60d3a",
-"classzero__mate_1_1arm1176jzf__s_1_1exceptions_1_1CSoftware__Interrupt.html#a8fce2fe1700ce2ebbf65ca33d5ee97f8",
-"classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CExtend.html#a83eca2d609f9bc462ff85362e974a97da37c721cf7b39941d068e3434e43c2256",
-"classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CRFE.html#aac382e9e8d096c16007809ffe28f4c82",
-"classzero__mate_1_1coprocessor_1_1ICoprocessor.html#ae7b875b62fc669d82d9d13c420c3d42a",
-"classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CCP__Register__Transfer__Inst.html#a98e36115f15fc9f2204dbe2596c8b5aea62235bbccfa317659855ea68064b7bd1",
-"classzero__mate_1_1coprocessor_1_1cp15_1_1CC3.html#a19fafbfa257760f447dcc14e747a8c23a77517d42260e63abbc5bbcdd7c880495",
-"classzero__mate_1_1gui_1_1CControl__Window.html#a8b6e19a1b2df84c201297cbdf0cba7be",
-"classzero__mate_1_1peripheral_1_1CARM__Timer.html#a011cb47b95a355e3fa9b874ddd42b19ba4d1c8263ba1036754f8db14a98f9f006",
-"classzero__mate_1_1peripheral_1_1CBSC.html#aec40cdcf9f04dabed279f6e856764409",
-"classzero__mate_1_1peripheral_1_1CInterrupt__Controller.html#a8c0ac5183c20a4955f29c2954a18ff29",
-"classzero__mate_1_1peripheral_1_1CRAM.html#a96af986ac0df7c1246dce8795233f95a",
-"elf__loader_8hpp.html#a168db2218bf676ff9e0baa59f6fd6696a7b3655191e25bd671e35caf4f5b23a7e",
-"namespacezero__mate_1_1soc.html#af3adf39477e146d5d7ff7452f3818203",
-"structzero__mate_1_1gui_1_1startup_1_1Args.html"
+"classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a00f4cf1169d774a50886f60f5f166f8b",
+"classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CBlock__Data__Transfer.html#afc073c4eebe574287cdcc74da9abb7e3a03895f91b58717b678dd94bd941d7a72",
+"classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CHalfword__Data__Transfer.html#a3638a3a690aca9ec4b755b2d5148e4eaaebd46e14fa2bc348bb1d1b095e0f073e",
+"classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CSMLAxy.html",
+"classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#a42519c95eeada09e8b8f277f899f9185",
+"classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Processing.html#a55f4829c7dcf80e4c84c74dd80062e28",
+"classzero__mate_1_1coprocessor_1_1cp15_1_1CC3.html#a1d9d1752af4234a41be4bfd2916c55a2aae94be3cd532ce4a025884819eb08c98",
+"classzero__mate_1_1gui_1_1CGPIO__Window.html#a8addf86639ebf0c35e62027b82b2b526",
+"classzero__mate_1_1peripheral_1_1CARM__Timer.html#a921256b8ced4f1129732297a4663ee1d",
+"classzero__mate_1_1peripheral_1_1CGPIO__Manager.html#a19409e7e50658ff0ca681e3cbb504698a0cbc6611f5540bd0809a388dc95a615b",
+"classzero__mate_1_1peripheral_1_1CInterrupt__Controller.html#a9db75b3b07d35b57fdf2195405ead711a3e4bed05a2e4e069bb52d131ae37ed2b",
+"classzero__mate_1_1peripheral_1_1CTRNG.html#a0314504cad90415d8c1223e7fbbba859af6068daa29dbb05a7ead1e3b5a48bbee",
+"functions_func_i.html",
+"psr__transfer_8hpp.html",
+"vmsr_8cpp.html"
 ];
 
-var SYNCONMSG = 'click to disable panel synchronisation';
-var SYNCOFFMSG = 'click to enable panel synchronisation';
+var SYNCONMSG = 'click to disable panel synchronization';
+var SYNCOFFMSG = 'click to enable panel synchronization';
+var LISTOFALLMEMBERS = 'List of all members';

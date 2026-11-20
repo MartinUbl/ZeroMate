@@ -1,5 +1,5 @@
 <map id="zero_mate::peripheral::CTRNG::Get_Rnd_Number" name="zero_mate::peripheral::CTRNG::Get_Rnd_Number">
-<area shape="rect" id="Node000001" title="Returns a random number. If the USE_REAL_RND_NUMBER_GENERATOR macro is defined, the function uses a b..." alt="" coords="219,5,417,45"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CTRNG.html#a095899f3e801669d288974fc96553902" title="Reads data from the peripheral (IPeripheral interface)." alt="" coords="5,5,171,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="205,28,171,28,171,23,205,23"/>
+<area shape="rect" id="Node000001" title="Returns a random number. If the USE_REAL_RND_NUMBER_GENERATOR macro is defined, the function uses a b..." alt="" coords="218,5,415,50"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CTRNG.html#a095899f3e801669d288974fc96553902" title="Reads data from the peripheral (IPeripheral interface)." alt="" coords="5,5,170,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,28,170,30,170,25,205,27"/>
 </map>

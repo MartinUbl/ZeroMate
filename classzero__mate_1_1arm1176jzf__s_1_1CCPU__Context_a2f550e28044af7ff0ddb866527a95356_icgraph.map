@@ -1,9 +1,7 @@
 <map id="zero_mate::arm1176jzf_s::CCPU_Context::Init_Registers" name="zero_mate::arm1176jzf_s::CCPU_Context::Init_Registers">
-<area shape="rect" id="Node000001" title="Initializes (resets) all CPU registers." alt="" coords="467,45,640,100"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Context.html#a286edf7ca93bc920f9896b5b777b4b8b" title="Resets the context of the CPU." alt="" coords="236,53,419,93"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="453,75,419,75,419,70,453,70"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Context.html#afb2bc49ac16284a27b81cec3322f8898" title="Constructor of the class." alt="" coords="5,5,188,60"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="222,57,188,51,189,46,223,52"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#acb9dcca2bec495d4424c6183c6ac7064" title="Resets the CPU context." alt="" coords="10,84,183,139"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="223,93,184,99,183,94,222,88"/>
+<area shape="rect" id="Node000001" title="Initializes (resets) all CPU registers." alt="" coords="465,5,637,67"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Context.html#a286edf7ca93bc920f9896b5b777b4b8b" title="Resets the context of the CPU." alt="" coords="235,14,417,58"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="446,36,418,39,417,34,452,36"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Context.html#afb2bc49ac16284a27b81cec3322f8898" title="Constructor of the class." alt="" coords="5,5,187,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="216,36,187,39,187,34,222,36"/>
 </map>

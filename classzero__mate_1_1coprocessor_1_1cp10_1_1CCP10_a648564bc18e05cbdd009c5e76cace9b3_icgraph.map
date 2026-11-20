@@ -1,5 +1,5 @@
 <map id="zero_mate::coprocessor::cp10::CCP10::Execute_VCMP_VCMPE" name="zero_mate::coprocessor::cp10::CCP10::Execute_VCMP_VCMPE">
-<area shape="rect" id="Node000001" title="Executes a VCMP and CMPE float point instructions." alt="" coords="231,5,408,60"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#ad976e02e1423e39d963927ffc922f653" title="Performs a coprocessor data operation instruction (ICoprocessor interface)." alt="" coords="5,5,183,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,35,183,35,183,30,217,30"/>
+<area shape="rect" id="Node000001" title="Executes a VCMP and CMPE float point instructions." alt="" coords="230,5,406,67"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#ad976e02e1423e39d963927ffc922f653" title="Performs a coprocessor data operation instruction (ICoprocessor interface)." alt="" coords="5,5,182,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,36,182,39,182,34,217,36"/>
 </map>

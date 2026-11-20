@@ -1,11 +1,21 @@
 <map id="zero_mate::arm1176jzf_s::CCPU_Core::Get_Offset" name="zero_mate::arm1176jzf_s::CCPU_Core::Get_Offset">
-<area shape="rect" id="Node000001" title="Calculates the offset from the base address in a single data transfer instruction." alt="" coords="5,131,200,171"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CData__Processing.html#a73d5c3a98f3fe036a1348d4d7485d0e9" title="Returns the index of the second operand register (Rm)." alt="" coords="248,5,436,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="136,129,247,69,259,63,261,68,249,74,139,134"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CData__Processing.html#ae851afadd74822ec9363797ab332f45a" title="Returns the shift amount used when constructing the second operand (immediate second operand)." alt="" coords="248,84,436,139"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="200,132,234,127,235,132,201,138"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CData__Processing.html#ae43548d291eecc463c519086e7527ff2" title="Returns the shift type used when constructing the second operand." alt="" coords="248,163,436,217"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="201,164,235,170,234,175,200,170"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CData__Processing.html#a1dc73c441b156452b1467eaa5cab46f5" title="Returns the value of the I bit (bit 25 = immediate second operand)." alt="" coords="248,241,436,296"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="141,169,249,226,264,233,261,238,247,231,138,174"/>
+<area shape="rect" id="Node000001" title="Calculates the offset from the base address in a single data transfer instruction." alt="" coords="5,74,199,119"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#afeea0a05cdda26114d6e03102f2d3a78" title="Performs a shift on the given value." alt="" coords="247,74,459,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,94,234,96,229,97,200,99"/>
+<area shape="rect" id="Node000003" href="$namespacezero__mate_1_1utils_1_1math.html#a00a7aae00296bd2b28674fa305507ded" title="Performs an ASR (arithmetic shift right) operation on the given integral value." alt="" coords="759,5,962,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="458,71,507,62,746,31,741,33,507,67,459,76"/>
+<area shape="rect" id="Node000005" href="$namespacezero__mate_1_1utils_1_1math.html#a6c9f1b8e3c02df97e6776206de0234d1" title="Performs an LSL (logical shift left) operation on the given integral value." alt="" coords="761,57,960,85"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="459,89,748,76,743,78,460,94"/>
+<area shape="rect" id="Node000006" href="$namespacezero__mate_1_1utils_1_1math.html#a35568bdda3e11a28f911c31a50dc0a48" title="Performs an LSR (logical shift right) operation on the given integral value." alt="" coords="509,108,709,136"/>
+<area shape="poly" id="edge6_Node000002_Node000006" title=" " alt="" coords="459,104,496,110,491,111,460,110"/>
+<area shape="rect" id="Node000008" href="$namespacezero__mate_1_1utils_1_1math.html#acec3045831345d7d2e2b3a20ff2fd4fd" title="Performs an ROR (rotate right extended) operation on the given integral value." alt="" coords="507,193,711,221"/>
+<area shape="poly" id="edge10_Node000002_Node000008" title=" " alt="" coords="407,117,563,186,558,187,406,122"/>
+<area shape="rect" id="Node000004" href="$namespacezero__mate_1_1utils_1_1math.html#af7d93c996dab2ff1b91c5a399dcfe29f" title="Tests whether a bit is set in the given integral variable." alt="" coords="1010,100,1178,144"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="926,31,963,43,1007,65,1049,91,1043,90,1004,70,961,48,926,36"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="927,83,997,100,992,100,927,88"/>
+<area shape="poly" id="edge7_Node000006_Node000004" title=" " alt="" coords="710,119,997,121,991,122,710,124"/>
+<area shape="rect" id="Node000007" href="$namespacezero__mate_1_1utils_1_1math.html#a64baae537d736f483631d0256c6c44c1" title="Checks whether the given integral value is negative by examining the MSB." alt="" coords="776,160,945,204"/>
+<area shape="poly" id="edge8_Node000006_Node000007" title=" " alt="" coords="670,134,764,158,759,158,670,139"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="945,158,992,148,998,147,946,163"/>
+<area shape="poly" id="edge11_Node000008_Node000004" title=" " alt="" coords="676,219,738,228,810,233,886,230,924,224,961,214,988,203,1014,187,1057,156,1062,154,1017,192,990,207,963,219,925,229,887,235,810,238,737,233,676,224"/>
 </map>

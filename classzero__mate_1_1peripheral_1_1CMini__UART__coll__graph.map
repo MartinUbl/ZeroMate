@@ -1,13 +1,13 @@
 <map id="zero_mate::peripheral::CMini_UART" name="zero_mate::peripheral::CMini_UART">
-<area shape="rect" id="Node000001" title="This class represents the Mini UART used in BCM2835." alt="" coords="639,112,804,152"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CAUX.html" title="This class represents the auxiliaries (UART1 &amp; SPI1, and SPI2)." alt="" coords="376,69,541,109"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="555,102,639,116,638,121,554,108"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1IPeripheral.html" title="This class represents a general interface of a memory&#45;mapped peripheral." alt="" coords="20,5,185,45"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="199,40,376,72,375,77,198,45"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1peripheral_1_1ISystem__Clock__Listener.html" title="This class represents a general interface for a CPU clock listener." alt="" coords="10,69,195,109"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="209,87,376,87,376,92,209,92"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1utils_1_1CLogging__System.html" title="This class defines a logging system that is used throughout the project." alt="" coords="5,133,200,173"/>
-<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="213,132,352,107,375,102,376,108,352,112,214,137"/>
-<area shape="rect" id="Node000006" href="$structzero__mate_1_1peripheral_1_1CMini__UART_1_1TState__Machine__Data.html" title="Encapsulation of state machine related data (transmission/reception)." alt="" coords="376,134,541,189"/>
-<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="555,157,614,152,638,148,639,154,615,157,555,162"/>
+<area shape="rect" id="Node000001" title="This class represents the Mini UART used in BCM2835." alt="" coords="643,115,807,159"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CAUX.html" title="This class represents the auxiliaries (UART1 &amp; SPI1, and SPI2)." alt="" coords="379,75,543,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="559,109,645,124,640,125,559,114"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1IPeripheral.html" title="This class represents a general interface of a memory&#45;mapped peripheral." alt="" coords="20,5,185,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="200,44,380,80,376,83,200,49"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1peripheral_1_1ISystem__Clock__Listener.html" title="This class represents a general interface for a CPU clock listener." alt="" coords="10,75,195,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="210,94,380,95,376,99,210,100"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1utils_1_1CLogging__System.html" title="This class defines a logging system that is used throughout the project." alt="" coords="5,144,200,189"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="215,149,354,125,382,120,387,119,355,130,216,155"/>
+<area shape="rect" id="Node000006" href="$structzero__mate_1_1peripheral_1_1CMini__UART_1_1TState__Machine__Data.html" title="Encapsulation of state machine related data (transmission/reception)." alt="" coords="379,145,543,206"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="559,177,619,171,667,160,672,159,619,176,559,182"/>
 </map>

@@ -1,12 +1,12 @@
 <map id="zero_mate::arm1176jzf_s::CCPU_Core" name="zero_mate::arm1176jzf_s::CCPU_Core">
-<area shape="rect" id="Node000001" title="Raspberry Pi Zero CPU core (arm1176jzf_s)." alt="" coords="772,83,945,123"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="376,5,571,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="585,34,665,46,749,63,806,80,804,85,747,68,665,51,584,39"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Context.html" title="This class represents the context (registers) of the CPU." alt="" coords="387,132,560,172"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="574,137,748,115,772,112,772,117,748,120,574,142"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1utils_1_1CLogging__System.html" title="This class defines a logging system that is used throughout the project." alt="" coords="5,91,200,131"/>
-<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="214,103,224,103,526,99,772,99,772,105,526,104,224,108,214,108"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="214,120,387,140,386,145,213,126"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CISA__Decoder.html" title="This class represents an instruction decoder." alt="" coords="387,196,560,236"/>
-<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="573,198,659,180,747,155,822,120,824,125,749,160,660,186,575,204"/>
+<area shape="rect" id="Node000001" title="Raspberry Pi Zero CPU core (arm1176jzf_s)." alt="" coords="776,101,948,146"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="379,5,572,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="587,42,669,58,753,78,811,101,806,101,751,84,668,63,587,47"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Context.html" title="This class represents the context (registers) of the CPU." alt="" coords="389,148,562,193"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="577,160,752,141,778,139,773,140,752,146,577,165"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1utils_1_1CLogging__System.html" title="This class defines a logging system that is used throughout the project." alt="" coords="5,112,200,157"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="214,116,224,116,376,109,528,109,778,118,773,120,528,114,376,115,224,121,216,122"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="215,142,391,161,387,164,215,148"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CISA__Decoder.html" title="This class represents an instruction decoder." alt="" coords="389,217,562,262"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="577,228,663,213,751,188,793,167,828,147,833,146,795,172,753,192,664,218,577,233"/>
 </map>

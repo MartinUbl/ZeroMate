@@ -1,13 +1,13 @@
 <map id="zero_mate::peripheral::CMini_UART::Is_Receiver_Enabled" name="zero_mate::peripheral::CMini_UART::Is_Receiver_Enabled">
-<area shape="rect" id="Node000001" title="Returns information about whether the receiver is enabled or not." alt="" coords="708,30,899,85"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CAUX__Window.html#a84134555bb7100075f909c0de2f0829b" title="Renders information related to the mini UART auxiliary peripheral." alt="" coords="449,5,660,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="694,46,660,42,661,36,695,41"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a6b04378225c55c43c00805cb5bdb99b3" title="Updates the reception state machines." alt="" coords="461,69,649,109"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="695,74,649,80,648,75,694,69"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1gui_1_1CAUX__Window.html#a1441eb934e43fe96d1324da6f0b9d2a0" title="Renders GPIO pins (IGUI_Window interface)." alt="" coords="237,5,401,45"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="436,28,401,28,401,23,436,23"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a3b75064597a5fbfe9c4c7d1f2e0c7e5f" title="Updates the state machines (transmission/reception)." alt="" coords="236,69,401,109"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="447,92,402,92,402,87,447,87"/>
-<area shape="rect" id="Node000006" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#aae5f7e2bbffa6e3881675058a0aedf6f" title="Updates the number of passed CPU cycles (forwarded from the AUX peripheral)." alt="" coords="5,62,188,117"/>
-<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="222,92,188,92,188,87,222,87"/>
+<area shape="rect" id="Node000001" title="Returns information about whether the receiver is enabled or not." alt="" coords="705,32,896,93"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CAUX__Window.html#a84134555bb7100075f909c0de2f0829b" title="Renders information related to the mini UART auxiliary peripheral." alt="" coords="447,5,657,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="687,47,658,45,658,40,693,47"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a6b04378225c55c43c00805cb5bdb99b3" title="Updates the reception state machines." alt="" coords="458,75,646,119"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="693,77,647,87,646,81,687,78"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1gui_1_1CAUX__Window.html#a1441eb934e43fe96d1324da6f0b9d2a0" title="Renders GPIO pins (IGUI_Window interface)." alt="" coords="235,5,398,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="429,28,399,30,399,25,434,27"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#a3b75064597a5fbfe9c4c7d1f2e0c7e5f" title="Updates the state machines (transmission/reception)." alt="" coords="235,75,399,119"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="440,97,399,100,399,94,445,97"/>
+<area shape="rect" id="Node000006" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#aae5f7e2bbffa6e3881675058a0aedf6f" title="Updates the number of passed CPU cycles (forwarded from the AUX peripheral)." alt="" coords="5,66,187,128"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="217,97,187,100,187,94,222,97"/>
 </map>

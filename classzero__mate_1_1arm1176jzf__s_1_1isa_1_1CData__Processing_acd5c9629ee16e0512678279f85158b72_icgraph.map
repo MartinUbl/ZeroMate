@@ -1,9 +1,0 @@
-<map id="zero_mate::arm1176jzf_s::isa::CData_Processing::Get_Rotate" name="zero_mate::arm1176jzf_s::isa::CData_Processing::Get_Rotate">
-<area shape="rect" id="Node000001" title="Returns the shift amount to be applied to the immediate value." alt="" coords="740,5,928,60"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a4b9e6a828e9739a227ab6da615fb4b15" title="Calculates the second immediate operand of a given instruction." alt="" coords="489,5,692,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="726,35,692,35,692,30,726,30"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#abe7461d09a52f28f99037717f61975c6" title="Executes an MSR instruction (move data to CPSR/SPSR from an ARM register)." alt="" coords="229,13,441,53"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="475,35,442,35,442,30,475,30"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a3a90c040b3cbe4545a9acc5e35acdd45" title="Executes a PSR transfer instruction." alt="" coords="5,13,181,53"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="216,35,182,35,182,30,216,30"/>
-</map>

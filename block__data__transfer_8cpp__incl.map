@@ -1,7 +1,7 @@
 <map id="src/core/arm1176jzf_s/isa/block_data_transfer.cpp" name="src/core/arm1176jzf_s/isa/block_data_transfer.cpp">
-<area shape="rect" id="Node000001" title="This file implements a block data transfer instruction (LDM, STM) as defined in block_data_transfer...." alt="" coords="5,5,224,45"/>
-<area shape="rect" id="Node000002" href="$block__data__transfer_8hpp.html" title="This file defines a block data transfer instruction (LDM, STM)." alt="" coords="25,93,204,119"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,46,117,79,112,79,112,46"/>
-<area shape="rect" id="Node000003" href="$instruction_8hpp.html" title="This file defines the interface of a general ARM instruction." alt="" coords="55,167,174,192"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="117,119,117,153,112,153,112,119"/>
+<area shape="rect" id="Node000001" title="This file implements a block data transfer instruction (LDM, STM) as defined in block_data_transfer...." alt="" coords="5,5,223,50"/>
+<area shape="rect" id="Node000002" href="$block__data__transfer_8hpp.html" title="This file defines a block data transfer instruction (LDM, STM)." alt="" coords="25,98,203,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,48,117,83,111,82,113,53"/>
+<area shape="rect" id="Node000003" href="$instruction_8hpp.html" title="This file defines the interface of a general ARM instruction." alt="" coords="55,174,173,201"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="116,124,116,159,112,157,112,128"/>
 </map>

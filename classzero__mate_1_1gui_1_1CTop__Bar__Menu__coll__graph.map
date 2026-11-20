@@ -1,7 +1,7 @@
 <map id="zero_mate::gui::CTop_Bar_Menu" name="zero_mate::gui::CTop_Bar_Menu">
-<area shape="rect" id="Node000001" title="This class represents a top bar through which the user can load ELF files." alt="" coords="102,108,261,148"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1IGUI__Window.html" title="Common interface for all GUI windows." alt="" coords="5,5,160,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,54,165,106,161,110,109,57"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1utils_1_1CLogging__System.html" title="This class defines a logging system that is used throughout the project." alt="" coords="184,5,379,45"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="255,57,202,110,198,106,251,53"/>
+<area shape="rect" id="Node000001" title="This class represents a top bar through which the user can load ELF files." alt="" coords="102,123,260,168"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1IGUI__Window.html" title="Common interface for all GUI windows." alt="" coords="5,5,160,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="112,60,165,122,160,123,110,64"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1utils_1_1CLogging__System.html" title="This class defines a logging system that is used throughout the project." alt="" coords="184,5,378,50"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="255,61,202,125,198,120,250,63"/>
 </map>

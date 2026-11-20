@@ -1,7 +1,11 @@
 <map id="zero_mate::arm1176jzf_s::CCPU_Core::Determine_CPU_Mode" name="zero_mate::arm1176jzf_s::CCPU_Core::Determine_CPU_Mode">
-<area shape="rect" id="Node000001" title="Determines the mode of the CPU that should be used in a block data transfer instruction." alt="" coords="5,41,200,96"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Context.html#aa740f9219bb413d707ac72f373e60d3a" title="Returns the current mode of the CPU." alt="" coords="248,5,421,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="200,51,234,46,235,51,201,56"/>
-<area shape="rect" id="Node000003" href="$namespacezero__mate_1_1utils_1_1math.html#af7d93c996dab2ff1b91c5a399dcfe29f" title="Tests whether a bit is set in the given integral variable." alt="" coords="250,85,419,125"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="201,81,237,87,236,92,200,86"/>
+<area shape="rect" id="Node000001" title="Determines the mode of the CPU that should be used in a block data transfer instruction." alt="" coords="5,121,199,183"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CBlock__Data__Transfer.html#a13942f150d4adefab57c5c34aef1a104" title="Returns a list of registers to be transferred." alt="" coords="247,5,449,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,118,246,76,260,72,256,75,248,81,164,123"/>
+<area shape="rect" id="Node000003" href="$namespacezero__mate_1_1utils_1_1math.html#af7d93c996dab2ff1b91c5a399dcfe29f" title="Tests whether a bit is set in the given integral variable." alt="" coords="264,91,432,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,134,251,128,246,130,200,139"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CBlock__Data__Transfer.html#aa2342ef2d946e48ad5f19e6fd04d9a3f" title="Returns the value of the L bit (bit 20)." alt="" coords="262,160,434,222"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="199,165,249,174,244,176,199,170"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CBlock__Data__Transfer.html#a1a3153bfc2aa11e2c86d55eea07e4c5a" title="Returns the value of the S bit (bit 22)." alt="" coords="262,245,434,307"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="156,181,248,231,260,239,254,238,245,236,154,186"/>
 </map>

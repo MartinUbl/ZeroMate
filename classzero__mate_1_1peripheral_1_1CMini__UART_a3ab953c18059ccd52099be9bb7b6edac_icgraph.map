@@ -1,9 +1,9 @@
 <map id="zero_mate::peripheral::CMini_UART::Get_Baud_Rate_Counter" name="zero_mate::peripheral::CMini_UART::Get_Baud_Rate_Counter">
-<area shape="rect" id="Node000001" title="Returns the set up baud rate." alt="" coords="476,41,655,96"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#aae5f7e2bbffa6e3881675058a0aedf6f" title="Updates the number of passed CPU cycles (forwarded from the AUX peripheral)." alt="" coords="231,5,414,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="462,56,414,49,414,44,463,51"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1gui_1_1CAUX__Window.html#a84134555bb7100075f909c0de2f0829b" title="Renders information related to the mini UART auxiliary peripheral." alt="" coords="217,85,428,125"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="463,86,429,92,428,86,462,81"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1gui_1_1CAUX__Window.html#a1441eb934e43fe96d1324da6f0b9d2a0" title="Renders GPIO pins (IGUI_Window interface)." alt="" coords="5,85,169,125"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="204,107,170,107,170,102,204,102"/>
+<area shape="rect" id="Node000001" title="Returns the set up baud rate." alt="" coords="475,44,653,106"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CMini__UART.html#aae5f7e2bbffa6e3881675058a0aedf6f" title="Updates the number of passed CPU cycles (forwarded from the AUX peripheral)." alt="" coords="231,5,412,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="457,58,413,53,413,48,462,58"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1gui_1_1CAUX__Window.html#a84134555bb7100075f909c0de2f0829b" title="Renders information related to the mini UART auxiliary peripheral." alt="" coords="217,91,427,136"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="462,91,428,99,427,94,457,92"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1gui_1_1CAUX__Window.html#a1441eb934e43fe96d1324da6f0b9d2a0" title="Renders GPIO pins (IGUI_Window interface)." alt="" coords="5,91,169,136"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="198,114,169,116,169,111,204,113"/>
 </map>

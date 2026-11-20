@@ -1,7 +1,7 @@
 <map id="zero_mate::peripheral::CGPIO_Manager" name="zero_mate::peripheral::CGPIO_Manager">
-<area shape="rect" id="Node000001" title="This class represents a GPIO (general&#45;purpose I/O) manager." alt="" coords="107,108,272,148"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1IPeripheral.html" title="This class represents a general interface of a memory&#45;mapped peripheral." alt="" coords="5,5,171,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,53,172,106,168,110,115,57"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1utils_1_1CLogging__System.html" title="This class defines a logging system that is used throughout the project." alt="" coords="195,5,389,45"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="265,57,210,110,207,106,261,53"/>
+<area shape="rect" id="Node000001" title="This class represents a GPIO (general&#45;purpose I/O) manager." alt="" coords="107,123,271,168"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1IPeripheral.html" title="This class represents a general interface of a memory&#45;mapped peripheral." alt="" coords="5,5,170,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="118,60,172,122,167,123,115,64"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1utils_1_1CLogging__System.html" title="This class defines a logging system that is used throughout the project." alt="" coords="194,5,389,50"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="264,61,210,125,206,120,260,63"/>
 </map>

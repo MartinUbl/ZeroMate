@@ -1,7 +1,7 @@
 <map id="zero_mate::peripheral::CInterrupt_Controller::Initialize_Basic_IRQ_Sources" name="zero_mate::peripheral::CInterrupt_Controller::Initialize_Basic_IRQ_Sources">
-<area shape="rect" id="Node000001" title="Initializes the collection of basic IRQ sources." alt="" coords="435,5,601,75"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CInterrupt__Controller.html#ae7fe10265670800403226ebc23a96179" title="Resets/re&#45;initializes the interrupt controller (IPeripheral interface)." alt="" coords="220,13,387,67"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="421,43,387,43,387,37,421,37"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1CInterrupt__Controller.html#afa2b9bbd779dc5d6958c5fba99b5b72f" title="Creates an instance of the class." alt="" coords="5,13,172,67"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="206,43,172,43,172,37,206,37"/>
+<area shape="rect" id="Node000001" title="Initializes the collection of basic IRQ sources." alt="" coords="432,5,597,84"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CInterrupt__Controller.html#ae7fe10265670800403226ebc23a96179" title="Resets/re&#45;initializes the interrupt controller (IPeripheral interface)." alt="" coords="219,14,384,76"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="414,45,385,47,384,42,419,45"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1CInterrupt__Controller.html#afa2b9bbd779dc5d6958c5fba99b5b72f" title="Creates an instance of the class." alt="" coords="5,14,171,76"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="201,45,171,47,171,42,206,44"/>
 </map>

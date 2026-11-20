@@ -1,5 +1,5 @@
 <map id="zero_mate::arm1176jzf_s::CCPU_Core::Write" name="zero_mate::arm1176jzf_s::CCPU_Core::Write">
-<area shape="rect" id="Node000001" title="Writes data to the bus." alt="" coords="5,13,179,53"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a0ea0a4bf2d64e0418882ab2d1840a8cb" title="Converts a given virtual address into a physical address using the MMU." alt="" coords="227,5,455,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,30,213,30,213,35,179,35"/>
+<area shape="rect" id="Node000001" title="Writes data to the bus." alt="" coords="5,14,178,58"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a0ea0a4bf2d64e0418882ab2d1840a8cb" title="Converts a given virtual address into a physical address using the MMU." alt="" coords="226,5,453,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="178,34,213,36,207,36,178,39"/>
 </map>

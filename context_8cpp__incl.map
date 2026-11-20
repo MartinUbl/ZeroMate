@@ -1,18 +1,18 @@
 <map id="src/core/arm1176jzf_s/context.cpp" name="src/core/arm1176jzf_s/context.cpp">
-<area shape="rect" id="Node000001" title="This file implements the context (registers) of the CPU." alt="" coords="152,5,303,45"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,93,140,119"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="191,48,109,89,106,85,189,43"/>
-<area shape="rect" id="Node000003" href="$context_8hpp.html" title="This file defines the context (registers) of the CPU." alt="" coords="129,167,227,192"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="223,47,207,94,188,154,183,153,202,93,218,45"/>
-<area shape="rect" id="Node000006" href="$exceptions_8hpp.html" title="This file defines all exceptions that can be thrown by the CPU during execution." alt="" coords="216,93,337,119"/>
-<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="242,44,264,80,260,83,237,47"/>
-<area shape="rect" id="Node000008" href="$singleton_8hpp.html" title="This file defines and implements a generic class that is used to treat other classes as singletons." alt="" coords="361,93,576,119"/>
-<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="286,43,421,86,419,92,284,48"/>
-<area shape="rect" id="Node000004" href="$logging__system_8hpp.html" title="This file defines a logging system that is used in the project." alt="" coords="91,240,265,280"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="181,192,181,226,175,226,175,192"/>
-<area shape="rect" id="Node000005" href="$logger_8hpp.html" title="This file defines a general logger interface." alt="" coords="133,328,223,353"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="181,280,181,314,175,314,175,280"/>
-<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="262,121,207,161,204,156,259,117"/>
-<area shape="rect" id="Node000007" title=" " alt="" coords="252,167,357,192"/>
-<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="284,118,298,153,293,155,279,120"/>
+<area shape="rect" id="Node000001" title="This file implements the context (registers) of the CPU." alt="" coords="149,5,299,50"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,98,139,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="182,53,111,92,108,88,185,48"/>
+<area shape="rect" id="Node000003" href="$context_8hpp.html" title="This file defines the context (registers) of the CPU." alt="" coords="127,174,225,201"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="218,48,204,99,186,160,181,158,199,97,216,52"/>
+<area shape="rect" id="Node000006" href="$exceptions_8hpp.html" title="This file defines all exceptions that can be thrown by the CPU during execution." alt="" coords="213,98,334,126"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="237,48,260,85,255,85,237,53"/>
+<area shape="rect" id="Node000008" href="$singleton_8hpp.html" title="This file defines and implements a generic class that is used to treat other classes as singletons." alt="" coords="358,98,572,126"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="288,48,415,92,410,94,288,53"/>
+<area shape="rect" id="Node000004" href="$logging__system_8hpp.html" title="This file defines a logging system that is used in the project." alt="" coords="89,249,263,294"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="177,200,179,234,173,232,175,204"/>
+<area shape="rect" id="Node000005" href="$logger_8hpp.html" title="This file defines a general logger interface." alt="" coords="131,342,221,370"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="178,292,178,328,174,325,174,296"/>
+<area shape="poly" id="edge7_Node000006_Node000003" title=" " alt="" coords="254,128,207,166,203,162,258,124"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="249,174,354,201"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="279,124,294,160,288,159,277,129"/>
 </map>

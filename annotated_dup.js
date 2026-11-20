@@ -7,13 +7,13 @@ var annotated_dup =
         ] ],
         [ "exceptions", "namespacezero__mate_1_1arm1176jzf__s_1_1exceptions.html", [
           [ "CCPU_Exception", "classzero__mate_1_1arm1176jzf__s_1_1exceptions_1_1CCPU__Exception.html", "classzero__mate_1_1arm1176jzf__s_1_1exceptions_1_1CCPU__Exception" ],
-          [ "CData_Abort", "classzero__mate_1_1arm1176jzf__s_1_1exceptions_1_1CData__Abort.html", "classzero__mate_1_1arm1176jzf__s_1_1exceptions_1_1CData__Abort" ],
-          [ "CFIQ", "classzero__mate_1_1arm1176jzf__s_1_1exceptions_1_1CFIQ.html", "classzero__mate_1_1arm1176jzf__s_1_1exceptions_1_1CFIQ" ],
-          [ "CIRQ", "classzero__mate_1_1arm1176jzf__s_1_1exceptions_1_1CIRQ.html", "classzero__mate_1_1arm1176jzf__s_1_1exceptions_1_1CIRQ" ],
-          [ "CPrefetch_Abort", "classzero__mate_1_1arm1176jzf__s_1_1exceptions_1_1CPrefetch__Abort.html", "classzero__mate_1_1arm1176jzf__s_1_1exceptions_1_1CPrefetch__Abort" ],
           [ "CReset", "classzero__mate_1_1arm1176jzf__s_1_1exceptions_1_1CReset.html", "classzero__mate_1_1arm1176jzf__s_1_1exceptions_1_1CReset" ],
+          [ "CUndefined_Instruction", "classzero__mate_1_1arm1176jzf__s_1_1exceptions_1_1CUndefined__Instruction.html", "classzero__mate_1_1arm1176jzf__s_1_1exceptions_1_1CUndefined__Instruction" ],
           [ "CSoftware_Interrupt", "classzero__mate_1_1arm1176jzf__s_1_1exceptions_1_1CSoftware__Interrupt.html", "classzero__mate_1_1arm1176jzf__s_1_1exceptions_1_1CSoftware__Interrupt" ],
-          [ "CUndefined_Instruction", "classzero__mate_1_1arm1176jzf__s_1_1exceptions_1_1CUndefined__Instruction.html", "classzero__mate_1_1arm1176jzf__s_1_1exceptions_1_1CUndefined__Instruction" ]
+          [ "CPrefetch_Abort", "classzero__mate_1_1arm1176jzf__s_1_1exceptions_1_1CPrefetch__Abort.html", "classzero__mate_1_1arm1176jzf__s_1_1exceptions_1_1CPrefetch__Abort" ],
+          [ "CData_Abort", "classzero__mate_1_1arm1176jzf__s_1_1exceptions_1_1CData__Abort.html", "classzero__mate_1_1arm1176jzf__s_1_1exceptions_1_1CData__Abort" ],
+          [ "CIRQ", "classzero__mate_1_1arm1176jzf__s_1_1exceptions_1_1CIRQ.html", "classzero__mate_1_1arm1176jzf__s_1_1exceptions_1_1CIRQ" ],
+          [ "CFIQ", "classzero__mate_1_1arm1176jzf__s_1_1exceptions_1_1CFIQ.html", "classzero__mate_1_1arm1176jzf__s_1_1exceptions_1_1CFIQ" ]
         ] ],
         [ "isa", "namespacezero__mate_1_1arm1176jzf__s_1_1isa.html", [
           [ "CBlock_Data_Transfer", "classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CBlock__Data__Transfer.html", "classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CBlock__Data__Transfer" ],
@@ -80,56 +80,56 @@ var annotated_dup =
         ] ],
         [ "ICoprocessor", "classzero__mate_1_1coprocessor_1_1ICoprocessor.html", "classzero__mate_1_1coprocessor_1_1ICoprocessor" ]
       ] ],
+      [ "peripheral", "namespacezero__mate_1_1peripheral.html", [
+        [ "CARM_Timer", "classzero__mate_1_1peripheral_1_1CARM__Timer.html", "classzero__mate_1_1peripheral_1_1CARM__Timer" ],
+        [ "CAUX", "classzero__mate_1_1peripheral_1_1CAUX.html", "classzero__mate_1_1peripheral_1_1CAUX" ],
+        [ "CMini_UART", "classzero__mate_1_1peripheral_1_1CMini__UART.html", "classzero__mate_1_1peripheral_1_1CMini__UART" ],
+        [ "CBSC", "classzero__mate_1_1peripheral_1_1CBSC.html", "classzero__mate_1_1peripheral_1_1CBSC" ],
+        [ "CGPIO_Manager", "classzero__mate_1_1peripheral_1_1CGPIO__Manager.html", "classzero__mate_1_1peripheral_1_1CGPIO__Manager" ],
+        [ "CInterrupt_Controller", "classzero__mate_1_1peripheral_1_1CInterrupt__Controller.html", "classzero__mate_1_1peripheral_1_1CInterrupt__Controller" ],
+        [ "CMonitor", "classzero__mate_1_1peripheral_1_1CMonitor.html", "classzero__mate_1_1peripheral_1_1CMonitor" ],
+        [ "IPeripheral", "classzero__mate_1_1peripheral_1_1IPeripheral.html", "classzero__mate_1_1peripheral_1_1IPeripheral" ],
+        [ "CRAM", "classzero__mate_1_1peripheral_1_1CRAM.html", "classzero__mate_1_1peripheral_1_1CRAM" ],
+        [ "ISystem_Clock_Listener", "classzero__mate_1_1peripheral_1_1ISystem__Clock__Listener.html", "classzero__mate_1_1peripheral_1_1ISystem__Clock__Listener" ],
+        [ "CTRNG", "classzero__mate_1_1peripheral_1_1CTRNG.html", "classzero__mate_1_1peripheral_1_1CTRNG" ]
+      ] ],
       [ "gui", "namespacezero__mate_1_1gui.html", [
-        [ "color", "namespacezero__mate_1_1gui_1_1color.html", [
-          [ "TRGB", "structzero__mate_1_1gui_1_1color_1_1TRGB.html", "structzero__mate_1_1gui_1_1color_1_1TRGB" ]
-        ] ],
         [ "startup", "namespacezero__mate_1_1gui_1_1startup.html", [
           [ "Args", "structzero__mate_1_1gui_1_1startup_1_1Args.html", "structzero__mate_1_1gui_1_1startup_1_1Args" ]
         ] ],
-        [ "CARM_Timer_Window", "classzero__mate_1_1gui_1_1CARM__Timer__Window.html", "classzero__mate_1_1gui_1_1CARM__Timer__Window" ],
-        [ "CAUX_Window", "classzero__mate_1_1gui_1_1CAUX__Window.html", "classzero__mate_1_1gui_1_1CAUX__Window" ],
-        [ "CCircular_Log_Buffer", "classzero__mate_1_1gui_1_1CCircular__Log__Buffer.html", "classzero__mate_1_1gui_1_1CCircular__Log__Buffer" ],
+        [ "color", "namespacezero__mate_1_1gui_1_1color.html", [
+          [ "TRGB", "structzero__mate_1_1gui_1_1color_1_1TRGB.html", "structzero__mate_1_1gui_1_1color_1_1TRGB" ]
+        ] ],
+        [ "IGUI_Window", "classzero__mate_1_1gui_1_1IGUI__Window.html", "classzero__mate_1_1gui_1_1IGUI__Window" ],
         [ "CControl_Window", "classzero__mate_1_1gui_1_1CControl__Window.html", "classzero__mate_1_1gui_1_1CControl__Window" ],
         [ "CCP10_Window", "classzero__mate_1_1gui_1_1CCP10__Window.html", "classzero__mate_1_1gui_1_1CCP10__Window" ],
         [ "CCP15_Window", "classzero__mate_1_1gui_1_1CCP15__Window.html", "classzero__mate_1_1gui_1_1CCP15__Window" ],
         [ "CDemo_Window", "classzero__mate_1_1gui_1_1CDemo__Window.html", "classzero__mate_1_1gui_1_1CDemo__Window" ],
+        [ "CCircular_Log_Buffer", "classzero__mate_1_1gui_1_1CCircular__Log__Buffer.html", "classzero__mate_1_1gui_1_1CCircular__Log__Buffer" ],
+        [ "CLog_Window", "classzero__mate_1_1gui_1_1CLog__Window.html", "classzero__mate_1_1gui_1_1CLog__Window" ],
+        [ "CARM_Timer_Window", "classzero__mate_1_1gui_1_1CARM__Timer__Window.html", "classzero__mate_1_1gui_1_1CARM__Timer__Window" ],
+        [ "CAUX_Window", "classzero__mate_1_1gui_1_1CAUX__Window.html", "classzero__mate_1_1gui_1_1CAUX__Window" ],
         [ "CGPIO_Window", "classzero__mate_1_1gui_1_1CGPIO__Window.html", "classzero__mate_1_1gui_1_1CGPIO__Window" ],
         [ "CInterrupt_Controller_Window", "classzero__mate_1_1gui_1_1CInterrupt__Controller__Window.html", "classzero__mate_1_1gui_1_1CInterrupt__Controller__Window" ],
-        [ "CLog_Window", "classzero__mate_1_1gui_1_1CLog__Window.html", "classzero__mate_1_1gui_1_1CLog__Window" ],
         [ "CMonitor_Window", "classzero__mate_1_1gui_1_1CMonitor__Window.html", "classzero__mate_1_1gui_1_1CMonitor__Window" ],
         [ "CRAM_Window", "classzero__mate_1_1gui_1_1CRAM__Window.html", "classzero__mate_1_1gui_1_1CRAM__Window" ],
         [ "CRegisters_Window", "classzero__mate_1_1gui_1_1CRegisters__Window.html", "classzero__mate_1_1gui_1_1CRegisters__Window" ],
         [ "CSource_Code_Window", "classzero__mate_1_1gui_1_1CSource__Code__Window.html", "classzero__mate_1_1gui_1_1CSource__Code__Window" ],
-        [ "CTop_Bar_Menu", "classzero__mate_1_1gui_1_1CTop__Bar__Menu.html", "classzero__mate_1_1gui_1_1CTop__Bar__Menu" ],
-        [ "IGUI_Window", "classzero__mate_1_1gui_1_1IGUI__Window.html", "classzero__mate_1_1gui_1_1IGUI__Window" ]
-      ] ],
-      [ "peripheral", "namespacezero__mate_1_1peripheral.html", [
-        [ "CARM_Timer", "classzero__mate_1_1peripheral_1_1CARM__Timer.html", "classzero__mate_1_1peripheral_1_1CARM__Timer" ],
-        [ "CAUX", "classzero__mate_1_1peripheral_1_1CAUX.html", "classzero__mate_1_1peripheral_1_1CAUX" ],
-        [ "CBSC", "classzero__mate_1_1peripheral_1_1CBSC.html", "classzero__mate_1_1peripheral_1_1CBSC" ],
-        [ "CGPIO_Manager", "classzero__mate_1_1peripheral_1_1CGPIO__Manager.html", "classzero__mate_1_1peripheral_1_1CGPIO__Manager" ],
-        [ "CInterrupt_Controller", "classzero__mate_1_1peripheral_1_1CInterrupt__Controller.html", "classzero__mate_1_1peripheral_1_1CInterrupt__Controller" ],
-        [ "CMini_UART", "classzero__mate_1_1peripheral_1_1CMini__UART.html", "classzero__mate_1_1peripheral_1_1CMini__UART" ],
-        [ "CMonitor", "classzero__mate_1_1peripheral_1_1CMonitor.html", "classzero__mate_1_1peripheral_1_1CMonitor" ],
-        [ "CRAM", "classzero__mate_1_1peripheral_1_1CRAM.html", "classzero__mate_1_1peripheral_1_1CRAM" ],
-        [ "CTRNG", "classzero__mate_1_1peripheral_1_1CTRNG.html", "classzero__mate_1_1peripheral_1_1CTRNG" ],
-        [ "IPeripheral", "classzero__mate_1_1peripheral_1_1IPeripheral.html", "classzero__mate_1_1peripheral_1_1IPeripheral" ],
-        [ "ISystem_Clock_Listener", "classzero__mate_1_1peripheral_1_1ISystem__Clock__Listener.html", "classzero__mate_1_1peripheral_1_1ISystem__Clock__Listener" ]
+        [ "CTop_Bar_Menu", "classzero__mate_1_1gui_1_1CTop__Bar__Menu.html", "classzero__mate_1_1gui_1_1CTop__Bar__Menu" ]
       ] ],
       [ "utils", "namespacezero__mate_1_1utils.html", [
         [ "elf", "namespacezero__mate_1_1utils_1_1elf.html", [
-          [ "TSource_Code", "structzero__mate_1_1utils_1_1elf_1_1TSource__Code.html", "structzero__mate_1_1utils_1_1elf_1_1TSource__Code" ],
+          [ "TText_Section_Record", "structzero__mate_1_1utils_1_1elf_1_1TText__Section__Record.html", "structzero__mate_1_1utils_1_1elf_1_1TText__Section__Record" ],
           [ "TStatus", "structzero__mate_1_1utils_1_1elf_1_1TStatus.html", "structzero__mate_1_1utils_1_1elf_1_1TStatus" ],
-          [ "TText_Section_Record", "structzero__mate_1_1utils_1_1elf_1_1TText__Section__Record.html", "structzero__mate_1_1utils_1_1elf_1_1TText__Section__Record" ]
+          [ "TSource_Code", "structzero__mate_1_1utils_1_1elf_1_1TSource__Code.html", "structzero__mate_1_1utils_1_1elf_1_1TSource__Code" ]
         ] ],
         [ "math", "namespacezero__mate_1_1utils_1_1math.html", [
           [ "TShift_Result", "structzero__mate_1_1utils_1_1math_1_1TShift__Result.html", "structzero__mate_1_1utils_1_1math_1_1TShift__Result" ]
         ] ],
         [ "CLogger_STDO", "classzero__mate_1_1utils_1_1CLogger__STDO.html", "classzero__mate_1_1utils_1_1CLogger__STDO" ],
+        [ "ILogger", "classzero__mate_1_1utils_1_1ILogger.html", "classzero__mate_1_1utils_1_1ILogger" ],
         [ "CLogging_System", "classzero__mate_1_1utils_1_1CLogging__System.html", "classzero__mate_1_1utils_1_1CLogging__System" ],
-        [ "CSingleton", "classzero__mate_1_1utils_1_1CSingleton.html", null ],
-        [ "ILogger", "classzero__mate_1_1utils_1_1ILogger.html", "classzero__mate_1_1utils_1_1ILogger" ]
+        [ "CSingleton", "classzero__mate_1_1utils_1_1CSingleton.html", null ]
       ] ],
       [ "CBus", "classzero__mate_1_1CBus.html", "classzero__mate_1_1CBus" ],
       [ "IExternal_Peripheral", "classzero__mate_1_1IExternal__Peripheral.html", "classzero__mate_1_1IExternal__Peripheral" ]

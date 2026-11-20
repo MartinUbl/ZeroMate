@@ -1,0 +1,5 @@
+<map id="zero_mate::utils::math::Check_Overflow_Subtraction" name="zero_mate::utils::math::Check_Overflow_Subtraction">
+<area shape="rect" id="Node000001" title="Checks if performing op1 &#45; op2 would either an overflow or underflow." alt="" coords="222,5,437,50"/>
+<area shape="rect" id="Node000002" href="$namespacezero__mate_1_1utils_1_1math.html#a6982f28e8dee9d4673f319616fa1b756" title="Checks if adding or subtracting the two operands (including the carry flag) causes an overflow/underf..." alt="" coords="5,5,174,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="203,28,174,30,174,25,209,27"/>
+</map>

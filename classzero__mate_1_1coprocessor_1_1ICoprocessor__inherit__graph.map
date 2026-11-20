@@ -1,7 +1,7 @@
 <map id="zero_mate::coprocessor::ICoprocessor" name="zero_mate::coprocessor::ICoprocessor">
-<area shape="rect" id="Node000001" title="This class represents an interface of a coprocessor." alt="" coords="105,5,283,45"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html" title="This class represents coprocessor 10 (single&#45;precision FPU)." alt="" coords="5,93,183,133"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="163,56,118,95,114,91,160,52"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CCP15.html" title="This class represents coprocessor CP15." alt="" coords="207,93,384,133"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="229,52,275,91,271,95,225,56"/>
+<area shape="rect" id="Node000001" title="This class represents an interface of a coprocessor." alt="" coords="105,5,282,50"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html" title="This class represents coprocessor 10 (single&#45;precision FPU)." alt="" coords="5,98,182,143"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,59,119,100,116,95,156,62"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CCP15.html" title="This class represents coprocessor CP15." alt="" coords="205,98,382,143"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="230,58,272,98,267,97,228,63"/>
 </map>

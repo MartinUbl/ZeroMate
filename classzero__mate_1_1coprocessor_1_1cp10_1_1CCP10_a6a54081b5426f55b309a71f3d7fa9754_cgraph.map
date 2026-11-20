@@ -1,0 +1,17 @@
+<map id="zero_mate::coprocessor::cp10::CCP10::Execute_VSUB" name="zero_mate::coprocessor::cp10::CCP10::Execute_VSUB">
+<area shape="rect" id="Node000001" title="Executes a VSUB floating point instruction." alt="" coords="5,227,218,272"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Processing.html#a8740e17ba3318dca9ca9953d79c6a7ab" title="Returns a collection of indexes of all three registers (Vd, Vn, and Vm)." alt="" coords="266,219,478,280"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,247,253,248,248,251,219,252"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Processing.html#ac3c2b7fa00ff41b0a305cf96b9b40e8a" title="Returns the index of the Vd register." alt="" coords="526,5,738,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="392,217,447,148,484,110,524,77,534,74,529,77,528,81,487,114,451,151,396,220"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Processing.html#a9a722758da0bd85e78a6c1f41c28443a" title="Returns the offset of the Vd register (S{x} vs D{x})." alt="" coords="526,91,738,152"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="424,216,525,162,539,158,535,160,527,167,427,220"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Processing.html#a12adf6834479667289a3618f05623ecd" title="Returns the index of the Vm register." alt="" coords="526,176,738,238"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="478,230,513,226,508,228,479,235"/>
+<area shape="rect" id="Node000006" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Processing.html#a69ce6e81e4f529840566e3bee36c5d20" title="Returns the offset of the Vm register (S{x} vs D{x})." alt="" coords="526,261,738,323"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="478,264,513,272,508,273,479,270"/>
+<area shape="rect" id="Node000007" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Processing.html#ac2c5b27964fdd49fc4f960c6b52f3936" title="Returns the index of the Vn register." alt="" coords="526,347,738,408"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="426,278,527,332,540,340,534,340,525,337,425,284"/>
+<area shape="rect" id="Node000008" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Processing.html#a9dd5cfa2e388b6e6019ba523e966d875" title="Returns the offset of the Vn register (S{x} vs D{x})." alt="" coords="526,432,738,494"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="395,278,451,348,487,385,528,418,534,424,529,423,524,422,484,389,447,351,393,283"/>
+</map>

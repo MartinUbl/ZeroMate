@@ -1,6 +1,6 @@
 <map id="zero_mate::arm1176jzf_s::alu::Execute" name="zero_mate::arm1176jzf_s::alu::Execute">
-<area shape="rect" id="Node000001" title="Performs an ALU operation." alt="" coords="229,29,403,69"/>
-<area shape="poly" id="edge2_Node000001_Node000001" title=" " alt="" coords="354,18,340,11,316,8,295,10,282,15,277,21,280,28,275,30,272,20,279,10,294,5,316,3,342,6,356,13"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a92c997ad914fb73cec7feb5fa26d8ead" title="Executes a data processing instruction." alt="" coords="5,29,181,69"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="215,52,182,52,182,47,215,47"/>
+<area shape="rect" id="Node000001" title="Performs an ALU operation." alt="" coords="229,29,401,74"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="349,14,338,10,315,8,294,10,281,15,276,21,277,30,273,27,271,19,278,10,293,5,315,3,339,5,355,14"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1CCPU__Core.html#a92c997ad914fb73cec7feb5fa26d8ead" title="Executes a data processing instruction." alt="" coords="5,29,181,74"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="210,52,181,54,181,49,215,51"/>
 </map>

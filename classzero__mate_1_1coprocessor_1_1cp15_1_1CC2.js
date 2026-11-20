@@ -17,8 +17,7 @@ var classzero__mate_1_1coprocessor_1_1cp15_1_1CC2 =
     ] ],
     [ "NC0_TTB_Flags", "classzero__mate_1_1coprocessor_1_1cp15_1_1CC2.html#a6af13186244db4c58cf623b6e502824d", [
       [ "Inner_Cacheable", "classzero__mate_1_1coprocessor_1_1cp15_1_1CC2.html#a6af13186244db4c58cf623b6e502824da9636dbb7438a18ace58b09cb1ed04400", null ],
-      [ "Shared", "classzero__mate_1_1coprocessor_1_1cp15_1_1CC2.html#a6af13186244db4c58cf623b6e502824daa6156ea9d66fef24e87e841fbabf7cca", null ],
-      [ "Address", "classzero__mate_1_1coprocessor_1_1cp15_1_1CC2.html#a6af13186244db4c58cf623b6e502824dadd7bf230fde8d4836917806aff6a6b27", null ]
+      [ "Shared", "classzero__mate_1_1coprocessor_1_1cp15_1_1CC2.html#a6af13186244db4c58cf623b6e502824daa6156ea9d66fef24e87e841fbabf7cca", null ]
     ] ],
     [ "NCRm", "classzero__mate_1_1coprocessor_1_1cp15_1_1CC2.html#a8c5e6bcba6bd36ab3573be31e598be6c", [
       [ "C0", "classzero__mate_1_1coprocessor_1_1cp15_1_1CC2.html#a8c5e6bcba6bd36ab3573be31e598be6ca9c5959e6f08f10d0edbadf5be1f33c53", null ]
@@ -31,7 +30,6 @@ var classzero__mate_1_1coprocessor_1_1cp15_1_1CC2 =
     [ "CC2", "classzero__mate_1_1coprocessor_1_1cp15_1_1CC2.html#a643cb1529b6e6dc6d72ba2881d2523bc", null ],
     [ "Extract_Bits_From_TTB_Ctrl", "classzero__mate_1_1coprocessor_1_1cp15_1_1CC2.html#ac791c544839c158bfba9aaa4d6a1aa91", null ],
     [ "Extract_Bits_From_TTBR", "classzero__mate_1_1coprocessor_1_1cp15_1_1CC2.html#ac31765da4a10567be0232abedeff1b75", null ],
-    [ "Get_Boundary", "classzero__mate_1_1coprocessor_1_1cp15_1_1CC2.html#a62e92636b35bed43391605a1d9eb0593", null ],
     [ "Get_Boundary_Type", "classzero__mate_1_1coprocessor_1_1cp15_1_1CC2.html#a254552682bdf6d29017d76ac916f542b", null ],
     [ "Get_TTB_Address", "classzero__mate_1_1coprocessor_1_1cp15_1_1CC2.html#ae01856374ec8bac99ac7652c0d99de48", null ],
     [ "Init_CRm_R0", "classzero__mate_1_1coprocessor_1_1cp15_1_1CC2.html#a8b3c58869c09461063c3d3252e06d412", null ],

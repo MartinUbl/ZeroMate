@@ -1,12 +1,12 @@
 <map id="src/core/peripherals/interrupt_controller.hpp" name="src/core/peripherals/interrupt_controller.hpp">
-<area shape="rect" id="Node000001" title="This file defines the interrupt controller used in BCM2835." alt="" coords="158,5,337,45"/>
-<area shape="rect" id="Node000002" href="$peripheral_8hpp.html" title="This file defines an interface for a memory&#45;mapped peripheral." alt="" coords="5,93,121,119"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,48,104,90,102,85,202,43"/>
-<area shape="rect" id="Node000003" href="$context_8hpp.html" title="This file defines the context (registers) of the CPU." alt="" coords="146,93,349,119"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="250,46,250,79,245,79,245,46"/>
-<area shape="rect" id="Node000004" href="$logging__system_8hpp.html" title="This file defines a logging system that is used in the project." alt="" coords="229,167,404,207"/>
-<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="304,43,337,63,363,92,368,109,365,127,348,158,343,155,360,125,363,109,358,95,334,67,302,48"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="260,117,293,155,289,158,256,121"/>
-<area shape="rect" id="Node000005" href="$logger_8hpp.html" title="This file defines a general logger interface." alt="" coords="271,255,362,280"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="319,207,319,241,314,241,314,207"/>
+<area shape="rect" id="Node000001" title="This file defines the interrupt controller used in BCM2835." alt="" coords="157,5,334,50"/>
+<area shape="rect" id="Node000002" href="$peripheral_8hpp.html" title="This file defines an interface for a memory&#45;mapped peripheral." alt="" coords="5,98,121,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="196,53,108,93,105,89,199,48"/>
+<area shape="rect" id="Node000003" href="$context_8hpp.html" title="This file defines the context (registers) of the CPU." alt="" coords="144,98,347,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="247,48,248,83,243,81,244,53"/>
+<area shape="rect" id="Node000004" href="$logging__system_8hpp.html" title="This file defines a logging system that is used in the project." alt="" coords="228,174,402,218"/>
+<area shape="poly" id="edge5_Node000001_Node000004" title=" " alt="" coords="305,48,337,68,361,97,366,114,364,131,348,163,344,160,359,129,361,114,357,99,333,72,304,53"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="258,124,290,162,284,161,256,129"/>
+<area shape="rect" id="Node000005" href="$logger_8hpp.html" title="This file defines a general logger interface." alt="" coords="270,266,360,294"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="317,217,317,252,313,249,313,221"/>
 </map>

@@ -1,24 +1,24 @@
 <map id="src/gui/windows/peripherals/arm_timer_window.hpp" name="src/gui/windows/peripherals/arm_timer_window.hpp">
-<area shape="rect" id="Node000001" title="This file defines a window that visualizes the contents of the ARM timer registers." alt="" coords="69,5,272,45"/>
-<area shape="rect" id="Node000002" href="$window_8hpp.html" title="This file defines an interface for all windows that will be rendered by the application." alt="" coords="27,101,149,126"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,47,111,92,107,89,150,44"/>
-<area shape="rect" id="Node000004" href="$arm__timer_8hpp.html" title="This file defines the ARM timer used in BCM2835." alt="" coords="199,93,361,133"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="197,44,247,83,243,87,193,48"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="5,181,117,207"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="87,127,72,169,67,168,82,125"/>
-<area shape="rect" id="Node000005" href="$peripheral_8hpp.html" title="This file defines an interface for a memory&#45;mapped peripheral." alt="" coords="6,255,122,280"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="252,136,182,184,92,248,89,244,178,179,249,131"/>
-<area shape="rect" id="Node000006" href="$interrupt__controller_8hpp.html" title="This file defines the interrupt controller used in BCM2835." alt="" coords="193,181,367,207"/>
-<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="283,134,283,167,277,167,277,134"/>
-<area shape="rect" id="Node000008" href="$logging__system_8hpp.html" title="This file defines a logging system that is used in the project." alt="" coords="299,328,474,368"/>
-<area shape="poly" id="edge12_Node000004_Node000008" title=" " alt="" coords="325,131,356,152,381,180,395,214,400,250,400,285,396,315,391,314,394,284,395,250,390,215,376,183,352,156,322,136"/>
-<area shape="rect" id="Node000010" href="$system__clock__listener_8hpp.html" title="This file defines an interface for a CPU clock listener." alt="" coords="475,181,669,207"/>
-<area shape="poly" id="edge11_Node000004_Node000010" title=" " alt="" coords="351,131,517,175,515,180,349,136"/>
-<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="246,209,113,253,111,248,244,204"/>
-<area shape="rect" id="Node000007" href="$context_8hpp.html" title="This file defines the context (registers) of the CPU." alt="" coords="147,255,349,280"/>
-<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="277,208,261,243,256,241,272,206"/>
-<area shape="poly" id="edge10_Node000006_Node000008" title=" " alt="" coords="305,205,335,224,364,253,378,283,386,314,381,315,373,285,359,256,332,229,302,209"/>
-<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="270,278,343,319,340,324,267,283"/>
-<area shape="rect" id="Node000009" href="$logger_8hpp.html" title="This file defines a general logger interface." alt="" coords="341,416,432,441"/>
-<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="389,368,389,402,384,402,384,368"/>
+<area shape="rect" id="Node000001" title="This file defines a window that visualizes the contents of the ARM timer registers." alt="" coords="68,5,271,50"/>
+<area shape="rect" id="Node000002" href="$window_8hpp.html" title="This file defines an interface for all windows that will be rendered by the application." alt="" coords="26,106,148,134"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="149,53,112,96,107,93,151,48"/>
+<area shape="rect" id="Node000004" href="$arm__timer_8hpp.html" title="This file defines the ARM timer used in BCM2835." alt="" coords="198,98,360,143"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="195,48,244,87,239,89,196,53"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="6,191,117,218"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="82,137,73,177,68,175,84,132"/>
+<area shape="rect" id="Node000005" href="$peripheral_8hpp.html" title="This file defines an interface for a memory&#45;mapped peripheral." alt="" coords="5,266,121,294"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="246,145,182,193,94,259,90,255,179,189,249,141"/>
+<area shape="rect" id="Node000006" href="$interrupt__controller_8hpp.html" title="This file defines the interrupt controller used in BCM2835." alt="" coords="192,191,366,218"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="280,141,282,176,276,174,278,146"/>
+<area shape="rect" id="Node000008" href="$logging__system_8hpp.html" title="This file defines a logging system that is used in the project." alt="" coords="297,342,472,387"/>
+<area shape="poly" id="edge12_Node000004_Node000008" title=" " alt="" coords="326,140,356,161,380,189,394,224,399,260,399,296,394,328,390,325,393,296,394,261,388,225,375,192,353,165,326,146"/>
+<area shape="rect" id="Node000010" href="$system__clock__listener_8hpp.html" title="This file defines an interface for a CPU clock listener." alt="" coords="473,191,666,218"/>
+<area shape="poly" id="edge11_Node000004_Node000010" title=" " alt="" coords="356,141,511,185,506,187,356,146"/>
+<area shape="poly" id="edge6_Node000006_Node000005" title=" " alt="" coords="239,221,117,263,114,259,242,217"/>
+<area shape="rect" id="Node000007" href="$context_8hpp.html" title="This file defines the context (registers) of the CPU." alt="" coords="144,266,347,294"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="275,217,260,254,256,251,271,221"/>
+<area shape="poly" id="edge10_Node000006_Node000008" title=" " alt="" coords="304,216,335,237,361,265,376,295,383,327,378,325,370,297,357,268,331,241,304,222"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="268,292,337,333,332,334,268,297"/>
+<area shape="rect" id="Node000009" href="$logger_8hpp.html" title="This file defines a general logger interface." alt="" coords="340,435,429,462"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="386,385,386,421,382,417,382,389"/>
 </map>

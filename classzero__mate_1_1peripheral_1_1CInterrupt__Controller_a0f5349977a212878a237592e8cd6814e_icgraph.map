@@ -1,5 +1,5 @@
 <map id="zero_mate::peripheral::CInterrupt_Controller::Has_Pending_IRQ" name="zero_mate::peripheral::CInterrupt_Controller::Has_Pending_IRQ">
-<area shape="rect" id="Node000001" title="Checks whether there is a pending interrupt triggered by an IRQ source." alt="" coords="231,5,397,60"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CInterrupt__Controller.html#aea7c1519af8962e9327048e552a8cc4c" title="Returns information about whether there is a pending IRQ." alt="" coords="5,5,183,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="217,35,183,35,183,30,217,30"/>
+<area shape="rect" id="Node000001" title="Checks whether there is a pending interrupt triggered by an IRQ source." alt="" coords="230,5,395,67"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CInterrupt__Controller.html#aea7c1519af8962e9327048e552a8cc4c" title="Returns information about whether there is a pending IRQ." alt="" coords="5,5,182,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,36,182,39,182,34,217,36"/>
 </map>

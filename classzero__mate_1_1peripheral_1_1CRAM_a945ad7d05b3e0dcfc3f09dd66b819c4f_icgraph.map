@@ -1,9 +1,9 @@
 <map id="zero_mate::peripheral::CRAM::Reset" name="zero_mate::peripheral::CRAM::Reset">
-<area shape="rect" id="Node000001" title="Resets/re&#45;initializes the RAM (IPeripheral interface)." alt="" coords="432,37,597,77"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CRAM.html#ab231821e251900b34a6a8beddb6b90a5" title="Initializes the RAM." alt="" coords="219,37,384,77"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="418,60,384,60,384,55,418,55"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1CRAM.html#ae877434289c7f006b1c8a2f89d3e4b4b" title="Creates an instance of the class." alt="" coords="5,5,171,45"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="205,46,171,40,171,35,206,40"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1peripheral_1_1CRAM.html#a6b5614c93b9064c353097e8c32570c96" title="Creates an instance of the class." alt="" coords="5,69,171,109"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="206,74,171,80,171,74,205,69"/>
+<area shape="rect" id="Node000001" title="Resets/re&#45;initializes the RAM (IPeripheral interface)." alt="" coords="430,40,594,85"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CRAM.html#ab231821e251900b34a6a8beddb6b90a5" title="Initializes the RAM." alt="" coords="218,40,382,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="412,63,383,65,382,60,417,62"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1CRAM.html#ae877434289c7f006b1c8a2f89d3e4b4b" title="Creates an instance of the class." alt="" coords="5,5,170,50"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="200,47,170,44,170,38,205,46"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1peripheral_1_1CRAM.html#a6b5614c93b9064c353097e8c32570c96" title="Creates an instance of the class." alt="" coords="5,75,170,119"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="200,79,171,86,170,81,205,78"/>
 </map>

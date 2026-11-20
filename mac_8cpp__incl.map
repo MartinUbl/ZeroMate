@@ -1,14 +1,14 @@
 <map id="src/core/arm1176jzf_s/mac.cpp" name="src/core/arm1176jzf_s/mac.cpp">
-<area shape="rect" id="Node000001" title="This file implements the functionality of the CPU multiplier (MAC unit)." alt="" coords="155,5,306,45"/>
-<area shape="rect" id="Node000002" href="$mac_8hpp.html" title="This file defines the functionality of the CPU multiplier (MAC unit)." alt="" coords="113,93,191,119"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="214,47,175,85,172,82,210,44"/>
-<area shape="rect" id="Node000006" href="$math_8hpp.html" title="This file defines and implements a variety of handy helper functions that are used throughout the pro..." alt="" coords="216,93,405,119"/>
-<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="252,44,291,82,287,85,248,47"/>
-<area shape="rect" id="Node000003" href="$multiply_8hpp.html" title="This file defines a multiplication instruction (MUL, MLA)." alt="" coords="5,167,131,192"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="140,121,94,160,91,155,137,117"/>
-<area shape="rect" id="Node000005" href="$multiply__long_8hpp.html" title="This file defines a multiplication (long) instruction." alt="" coords="155,167,317,192"/>
-<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="167,117,213,155,210,160,164,121"/>
-<area shape="rect" id="Node000004" href="$instruction_8hpp.html" title="This file defines the interface of a general ARM instruction." alt="" coords="93,240,211,265"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="83,190,129,229,126,233,80,194"/>
-<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="224,194,178,233,175,229,221,190"/>
+<area shape="rect" id="Node000001" title="This file implements the functionality of the CPU multiplier (MAC unit)." alt="" coords="154,5,304,50"/>
+<area shape="rect" id="Node000002" href="$mac_8hpp.html" title="This file defines the functionality of the CPU multiplier (MAC unit)." alt="" coords="112,98,189,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,52,175,88,171,85,210,48"/>
+<area shape="rect" id="Node000006" href="$math_8hpp.html" title="This file defines and implements a variety of handy helper functions that are used throughout the pro..." alt="" coords="213,98,402,126"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="250,48,287,86,282,87,249,53"/>
+<area shape="rect" id="Node000003" href="$multiply_8hpp.html" title="This file defines a multiplication instruction (MUL, MLA)." alt="" coords="5,174,130,201"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="134,128,95,165,92,161,137,124"/>
+<area shape="rect" id="Node000005" href="$multiply__long_8hpp.html" title="This file defines a multiplication (long) instruction." alt="" coords="154,174,315,201"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="166,124,210,163,205,164,165,129"/>
+<area shape="rect" id="Node000004" href="$instruction_8hpp.html" title="This file defines the interface of a general ARM instruction." alt="" coords="91,249,209,277"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="83,199,127,238,122,240,81,204"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="222,201,178,241,175,237,217,203"/>
 </map>

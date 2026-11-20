@@ -1,18 +1,18 @@
 <map id="src/gui/windows/peripherals/interrupt_controller_window.hpp" name="src/gui/windows/peripherals/interrupt_controller_window.hpp">
-<area shape="rect" id="Node000001" title="This file defines a window that visualizes the interrupt controller IC." alt="" coords="104,5,339,45"/>
-<area shape="rect" id="Node000002" href="$window_8hpp.html" title="This file defines an interface for all windows that will be rendered by the application." alt="" coords="73,101,196,126"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,48,158,92,155,89,200,44"/>
-<area shape="rect" id="Node000004" href="$interrupt__controller_8hpp.html" title="This file defines the interrupt controller used in BCM2835." alt="" coords="257,93,436,133"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="251,43,309,83,306,88,248,48"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="5,181,117,207"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="126,128,84,173,80,169,122,124"/>
-<area shape="rect" id="Node000005" href="$peripheral_8hpp.html" title="This file defines an interface for a memory&#45;mapped peripheral." alt="" coords="142,181,258,207"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="313,136,235,177,232,172,310,131"/>
-<area shape="rect" id="Node000006" href="$context_8hpp.html" title="This file defines the context (registers) of the CPU." alt="" coords="283,181,485,207"/>
-<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="358,132,375,168,370,170,353,135"/>
-<area shape="rect" id="Node000007" href="$logging__system_8hpp.html" title="This file defines a logging system that is used in the project." alt="" coords="366,255,541,295"/>
-<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="434,131,470,150,486,164,500,180,505,197,503,214,485,246,480,243,498,212,500,197,495,183,483,167,467,155,431,136"/>
-<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="396,205,430,243,426,246,392,209"/>
-<area shape="rect" id="Node000008" href="$logger_8hpp.html" title="This file defines a general logger interface." alt="" coords="408,343,499,368"/>
-<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="456,295,456,329,451,329,451,295"/>
+<area shape="rect" id="Node000001" title="This file defines a window that visualizes the interrupt controller IC." alt="" coords="104,5,338,50"/>
+<area shape="rect" id="Node000002" href="$window_8hpp.html" title="This file defines an interface for all windows that will be rendered by the application." alt="" coords="73,106,196,134"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,53,159,97,155,94,202,48"/>
+<area shape="rect" id="Node000004" href="$interrupt__controller_8hpp.html" title="This file defines the interrupt controller used in BCM2835." alt="" coords="255,98,432,143"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="250,48,305,88,300,89,250,53"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,191,117,218"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="121,137,85,181,80,178,124,132"/>
+<area shape="rect" id="Node000005" href="$peripheral_8hpp.html" title="This file defines an interface for a memory&#45;mapped peripheral." alt="" coords="141,191,256,218"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="303,145,236,185,233,181,307,142"/>
+<area shape="rect" id="Node000006" href="$context_8hpp.html" title="This file defines the context (registers) of the CPU." alt="" coords="280,191,482,218"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="354,141,371,177,366,176,353,146"/>
+<area shape="rect" id="Node000007" href="$logging__system_8hpp.html" title="This file defines a logging system that is used in the project." alt="" coords="363,266,538,311"/>
+<area shape="poly" id="edge8_Node000004_Node000007" title=" " alt="" coords="433,140,469,160,497,189,502,206,501,223,484,256,480,252,496,222,497,207,492,192,466,165,433,146"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="393,216,425,255,420,254,391,221"/>
+<area shape="rect" id="Node000008" href="$logger_8hpp.html" title="This file defines a general logger interface." alt="" coords="406,359,495,387"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="452,310,452,345,448,342,448,313"/>
 </map>

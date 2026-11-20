@@ -1,27 +1,22 @@
 <map id="zero_mate::gui::CLog_Window::Render" name="zero_mate::gui::CLog_Window::Render">
-<area shape="rect" id="Node000001" title="Renders the window (IGUI_Window interface)." alt="" coords="5,167,164,207"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CLog__Window.html#ac72abb295653473388e92ec658b85e7e" title="Renders the message scrolling area." alt="" coords="212,91,448,131"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="150,165,250,133,252,138,151,170"/>
-<area shape="rect" id="Node000007" href="$classzero__mate_1_1gui_1_1CLog__Window.html#ab5d91eb4a2187a347f7c4a9ba84a527d" title="Renders the top bar of the window (the options, clear button, and the filter)" alt="" coords="234,206,426,246"/>
-<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="165,197,221,206,220,211,164,202"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1gui_1_1CLog__Window.html#a67b875f7111438d9100d927992e27c4f" title="Renders all log messages (no filter activated)." alt="" coords="499,5,687,60"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="397,89,487,61,489,67,398,94"/>
-<area shape="rect" id="Node000006" href="$classzero__mate_1_1gui_1_1CLog__Window.html#adb7453fd69db4264b631251e48b68201" title="Renders log messages that satisfy the criteria given by a message filter." alt="" coords="497,84,688,139"/>
-<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="448,109,484,109,484,114,448,114"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1gui_1_1CCircular__Log__Buffer.html#a6881d9292ac339ecee1a025426bb708b" title="Returns a collection of log messages currently stored in the buffer." alt="" coords="767,87,953,127"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="688,56,775,81,774,86,686,61"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1gui_1_1CLog__Window.html#acd4c871dccefcf04fb9b3bb8973086c0" title="Sets the color of a log message based on its type (error, info, etc.)" alt="" coords="737,17,983,57"/>
-<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="687,31,724,32,724,37,687,37"/>
-<area shape="poly" id="edge6_Node000006_Node000004" title=" " alt="" coords="688,107,752,106,752,112,688,113"/>
-<area shape="poly" id="edge7_Node000006_Node000005" title=" " alt="" coords="687,82,773,58,775,63,689,87"/>
-<area shape="rect" id="Node000008" href="$classzero__mate_1_1gui_1_1CLog__Window.html#aada4dbfcfe761cd1f7f050a866a4e02c" title="Renders a clear button for clearing the message area." alt="" coords="505,163,680,217"/>
-<area shape="poly" id="edge9_Node000007_Node000008" title=" " alt="" coords="426,210,492,201,492,206,427,215"/>
-<area shape="rect" id="Node000011" href="$classzero__mate_1_1gui_1_1CLog__Window.html#a249f1f3cca8a46de6d042bdf3f837ace" title="Renders a message filer." alt="" coords="505,242,680,282"/>
-<area shape="poly" id="edge12_Node000007_Node000011" title=" " alt="" coords="427,237,492,246,492,251,426,242"/>
-<area shape="rect" id="Node000012" href="$classzero__mate_1_1gui_1_1CLog__Window.html#a0126c0d93a1bfb3689f3b9cb35f8e996" title="Renders a popup menu (options)." alt="" coords="496,307,689,361"/>
-<area shape="poly" id="edge13_Node000007_Node000012" title=" " alt="" coords="381,244,514,299,512,304,379,249"/>
-<area shape="rect" id="Node000009" href="$classzero__mate_1_1gui_1_1CLog__Window.html#aab3c1c25eedfe7230d905ae5355265c0" title="Clears all log messages." alt="" coords="781,170,939,210"/>
-<area shape="poly" id="edge10_Node000008_Node000009" title=" " alt="" coords="680,187,767,187,767,193,680,193"/>
-<area shape="rect" id="Node000010" href="$classzero__mate_1_1gui_1_1CCircular__Log__Buffer.html#af165b3edecdde5d0ea7a10957849921b" title="Clears the circular buffer (deletes all log messages)." alt="" coords="1031,170,1217,210"/>
-<area shape="poly" id="edge11_Node000009_Node000010" title=" " alt="" coords="939,187,1017,187,1017,193,939,193"/>
+<area shape="rect" id="Node000001" title="Renders the window (IGUI_Window interface)." alt="" coords="5,180,164,225"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1gui_1_1CLog__Window.html#ac72abb295653473388e92ec658b85e7e" title="Renders the message scrolling area." alt="" coords="212,99,447,144"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="153,178,247,147,243,151,155,182"/>
+<area shape="rect" id="Node000006" href="$classzero__mate_1_1gui_1_1CLog__Window.html#ab5d91eb4a2187a347f7c4a9ba84a527d" title="Renders the top bar of the window (the options, clear button, and the filter)." alt="" coords="234,223,425,268"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="164,214,221,225,216,227,165,219"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1gui_1_1CLog__Window.html#a67b875f7111438d9100d927992e27c4f" title="Renders all log messages (no filter activated)." alt="" coords="498,5,685,67"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="399,96,485,70,480,73,402,101"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1gui_1_1CLog__Window.html#adb7453fd69db4264b631251e48b68201" title="Renders log messages that satisfy the criteria given by a message filter." alt="" coords="496,91,686,152"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="447,119,483,121,478,122,448,124"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1gui_1_1CLog__Window.html#acd4c871dccefcf04fb9b3bb8973086c0" title="Sets the color of a log message based on its type (error, info, etc.)." alt="" coords="735,56,980,101"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="685,49,723,56,717,57,686,54"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="685,104,723,100,717,102,687,109"/>
+<area shape="rect" id="Node000007" href="$classzero__mate_1_1gui_1_1CLog__Window.html#aada4dbfcfe761cd1f7f050a866a4e02c" title="Renders a clear button for clearing the message area." alt="" coords="504,176,678,238"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="425,229,491,221,486,223,426,234"/>
+<area shape="rect" id="Node000009" href="$classzero__mate_1_1gui_1_1CLog__Window.html#a249f1f3cca8a46de6d042bdf3f837ace" title="Renders a message filer." alt="" coords="504,262,678,306"/>
+<area shape="poly" id="edge9_Node000006_Node000009" title=" " alt="" coords="425,257,492,269,486,269,425,262"/>
+<area shape="rect" id="Node000010" href="$classzero__mate_1_1gui_1_1CLog__Window.html#a0126c0d93a1bfb3689f3b9cb35f8e996" title="Renders a popup menu (options)." alt="" coords="495,331,687,392"/>
+<area shape="poly" id="edge10_Node000006_Node000010" title=" " alt="" coords="382,266,509,324,503,324,381,271"/>
+<area shape="rect" id="Node000008" href="$classzero__mate_1_1gui_1_1CLog__Window.html#aab3c1c25eedfe7230d905ae5355265c0" title="Clears all log messages." alt="" coords="778,184,937,229"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="679,204,765,206,760,207,679,209"/>
 </map>

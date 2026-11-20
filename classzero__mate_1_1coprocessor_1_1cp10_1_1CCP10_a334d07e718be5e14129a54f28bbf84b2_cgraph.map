@@ -1,24 +1,32 @@
 <map id="zero_mate::coprocessor::cp10::CCP10::Perform_Data_Transfer" name="zero_mate::coprocessor::cp10::CCP10::Perform_Data_Transfer">
-<area shape="rect" id="Node000001" title="Performs a coprocessor data transfer instruction (ICoprocessor interface)." alt="" coords="5,116,183,171"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1utils_1_1CLogging__System.html#a57ed77e1a5cf822cea532cc5e05c3f60" title="Logs an error message via all registered loggers." alt="" coords="462,98,657,138"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="114,114,163,64,194,40,230,22,279,7,320,3,361,9,411,22,444,34,475,51,527,87,524,92,472,56,442,39,410,27,360,14,320,8,280,12,232,27,197,45,166,68,118,118"/>
-<area shape="rect" id="Node000007" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#a035900a2965ea8fb03d14f020a5adab1" title="Executes a VLDR and VSTR floating point instructions." alt="" coords="232,37,409,92"/>
-<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="173,113,227,94,229,99,175,118"/>
-<area shape="rect" id="Node000008" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#ae51b18ce5475147e5deb626eb7439b6e" title="Executes a VSTM and VLDM floating point instructions." alt="" coords="232,116,409,171"/>
-<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="183,141,218,141,218,146,183,146"/>
-<area shape="rect" id="Node000009" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CCP__Data__Transfer__Inst.html#ac490656635197503e5b572d091f56067" title="Returns the type of the instruction." alt="" coords="231,195,411,249"/>
-<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="175,168,229,187,227,193,173,173"/>
-<area shape="rect" id="Node000010" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#a42519c95eeada09e8b8f277f899f9185" title="Checks whether the coprocessor is enabled or not." alt="" coords="232,273,409,328"/>
-<area shape="poly" id="edge9_Node000001_Node000010" title=" " alt="" coords="124,169,172,214,232,260,240,264,237,269,229,264,169,218,120,173"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1utils_1_1CLogging__System.html#a71ed11c796553cbe8fd99773406a1060" title="Creates a formatted message to be logged." alt="" coords="708,55,911,109"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="657,101,694,96,695,101,657,107"/>
-<area shape="rect" id="Node000006" href="$classzero__mate_1_1utils_1_1CLogging__System.html#ad371c67ef65763966ccf9291002e86f3" title="Extract the filename from a given location within the source files." alt="" coords="710,134,909,174"/>
-<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="657,129,697,135,696,140,657,135"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1utils_1_1CLogging__System.html#aa70c102c805079042ffea2a6f2a5ad64" title="Formats a given timestamp." alt="" coords="959,30,1172,70"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="910,67,945,62,945,68,911,72"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1utils_1_1CLogging__System.html#ae3ca637537dde05e0b9119145c840331" title="Returns the current timestamp that will be used in a log message." alt="" coords="968,94,1163,134"/>
-<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="911,92,955,97,954,103,910,97"/>
-<area shape="poly" id="edge10_Node000010_Node000002" title=" " alt="" coords="390,271,409,260,445,233,478,203,531,147,535,150,481,207,448,237,412,264,393,276"/>
-<area shape="rect" id="Node000011" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CFPEXC.html#a1e9712b7b92c2a1ef3e09f00ada91cf9" title="Checks whether a given flag is set or not." alt="" coords="459,281,660,321"/>
-<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="410,298,445,298,445,303,410,303"/>
+<area shape="rect" id="Node000001" title="Performs a coprocessor data transfer instruction (ICoprocessor interface)." alt="" coords="5,347,182,408"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#a035900a2965ea8fb03d14f020a5adab1" title="Executes a VLDR and VSTR floating point instructions." alt="" coords="231,176,408,238"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,345,169,296,228,247,237,244,233,248,231,252,172,300,125,348"/>
+<area shape="rect" id="Node000008" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#ae51b18ce5475147e5deb626eb7439b6e" title="Executes a VSTM and VLDM floating point instructions." alt="" coords="231,261,408,323"/>
+<area shape="poly" id="edge7_Node000001_Node000008" title=" " alt="" coords="175,344,224,327,220,331,178,348"/>
+<area shape="rect" id="Node000010" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CCP__Data__Transfer__Inst.html#ac490656635197503e5b572d091f56067" title="Returns the type of the instruction." alt="" coords="230,347,409,408"/>
+<area shape="poly" id="edge14_Node000001_Node000010" title=" " alt="" coords="181,375,216,376,212,379,183,380"/>
+<area shape="rect" id="Node000012" href="$classzero__mate_1_1arm1176jzf__s_1_1isa_1_1CInstruction.html#a33fb155ea33d9b963e8cf9009fb5adef" title="Returns the 32&#45;bit value (encoding of the instruction)." alt="" coords="233,432,406,494"/>
+<area shape="poly" id="edge16_Node000001_Node000012" title=" " alt="" coords="177,406,224,425,219,427,177,411"/>
+<area shape="rect" id="Node000013" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1CCP10.html#a42519c95eeada09e8b8f277f899f9185" title="Checks whether the coprocessor is enabled or not." alt="" coords="231,517,408,579"/>
+<area shape="poly" id="edge17_Node000001_Node000013" title=" " alt="" coords="123,406,172,455,231,503,238,509,233,509,228,508,169,459,122,411"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Transfer.html#ab412903500cad394c63ea4ee845892b6" title="Returns the immediate value (multiple of 4)." alt="" coords="458,176,653,238"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="407,204,446,206,441,208,409,209"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Transfer.html#a068a959c4c3c62f18cd57ee97236d558" title="Returns the index of an ARM register encoded in the instruction." alt="" coords="458,261,653,323"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="406,235,456,255,451,256,407,241"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Transfer.html#a1c4066c60a44cb63e60c2b8031525f10" title="Returns the index of the Vd register." alt="" coords="458,347,653,408"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="395,236,411,248,428,270,435,291,443,312,459,333,462,337,457,337,455,337,438,315,430,293,423,273,407,251,395,241"/>
+<area shape="rect" id="Node000006" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Transfer.html#a9bf894ad02d47a4b0263547bcd7cbf70" title="Returns the offset of the Vd register (S{x} vs D{x})." alt="" coords="458,5,653,67"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="346,174,395,125,455,77,465,73,461,77,459,81,398,129,350,178"/>
+<area shape="rect" id="Node000007" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Transfer.html#a97119054087804d8f1cfb2faa70b180a" title="Checks if the U bit is set (add/subtract)." alt="" coords="458,91,653,152"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="405,173,456,157,452,160,408,178"/>
+<area shape="poly" id="edge8_Node000008_Node000003" title=" " alt="" coords="405,259,456,242,452,245,408,263"/>
+<area shape="poly" id="edge9_Node000008_Node000004" title=" " alt="" coords="407,290,446,291,441,293,408,295"/>
+<area shape="poly" id="edge10_Node000008_Node000005" title=" " alt="" coords="406,321,457,340,451,341,406,326"/>
+<area shape="poly" id="edge11_Node000008_Node000006" title=" " alt="" coords="395,259,407,248,421,226,428,205,430,164,432,122,440,100,455,77,456,80,460,76,459,80,445,102,437,123,435,164,433,206,426,228,411,251,399,263"/>
+<area shape="poly" id="edge12_Node000008_Node000007" title=" " alt="" coords="393,259,407,248,423,226,430,206,438,184,455,162,462,160,458,164,459,166,443,187,435,208,428,229,411,251,396,263"/>
+<area shape="rect" id="Node000009" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CData__Transfer.html#ad1d4b385c601945cc67e0988f15b4fd6" title="Checks if the W bit is set (write&#45;back)." alt="" coords="458,432,653,494"/>
+<area shape="poly" id="edge13_Node000008_Node000009" title=" " alt="" coords="395,321,411,333,428,355,435,377,443,397,459,418,462,423,457,422,455,422,438,400,430,379,423,358,407,337,395,326"/>
+<area shape="rect" id="Node000011" href="$classzero__mate_1_1coprocessor_1_1cp10_1_1isa_1_1CCP__Instruction.html#a1fec8014d2a13654b6f041242041da5d" title="Returns the type of the instruction." alt="" coords="457,517,654,579"/>
+<area shape="poly" id="edge15_Node000010_Node000011" title=" " alt="" coords="395,406,411,418,428,441,435,462,443,483,459,504,462,508,457,507,455,507,438,485,430,464,423,443,407,422,394,411"/>
 </map>

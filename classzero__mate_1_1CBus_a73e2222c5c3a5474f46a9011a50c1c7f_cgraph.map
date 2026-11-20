@@ -1,8 +1,14 @@
 <map id="zero_mate::CBus::Attach_Peripheral" name="zero_mate::CBus::Attach_Peripheral">
-<area shape="rect" id="Node000001" title="Attaches a peripheral to the bus." alt="" coords="5,29,188,69"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1CBus.html#a016eb46a0e573ea1e37e5c51643ca69f" title="Returns the corresponding peripheral based on the given address." alt="" coords="236,29,399,69"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="189,47,222,47,222,52,189,52"/>
-<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="277,30,275,20,281,10,296,5,317,3,342,6,356,13,353,18,341,11,317,8,297,10,285,15,280,21,282,28"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1CBus.html#a6331d83a0dcf19b139ff42a6f2693787" title="Checks if a peripheral was found and is accessible." alt="" coords="447,29,617,69"/>
-<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="399,47,433,47,433,52,399,52"/>
+<area shape="rect" id="Node000001" title="Attaches a peripheral to the bus." alt="" coords="5,40,187,85"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1CBus.html#a016eb46a0e573ea1e37e5c51643ca69f" title="Returns the corresponding peripheral based on the given address." alt="" coords="235,40,397,85"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,60,222,62,217,63,187,65"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="274,38,272,30,280,21,294,15,316,13,340,16,355,25,350,25,338,21,316,19,295,21,283,25,278,31,279,41"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1CBus.html#a6331d83a0dcf19b139ff42a6f2693787" title="Checks if a peripheral was found and is accessible." alt="" coords="462,5,633,50"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="397,48,450,42,444,43,398,53"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1CBus.html#a3822e274a11c99cfc0584b5755af65f5" title="Checks for unaligned memory access." alt="" coords="445,75,650,119"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="397,72,432,79,427,79,397,77"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1CC1.html#ac6b22a989b3f58443f36e32999150eb6" title=" " alt="" coords="698,66,875,128"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="651,94,685,97,680,97,651,100"/>
+<area shape="rect" id="Node000006" href="$classzero__mate_1_1coprocessor_1_1cp15_1_1IPrimary__Reg.html#a0780610d57b65a633a1776be372116a6" title="Checks whether a flag is set in a given register." alt="" coords="923,66,1099,128"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="875,94,910,97,904,97,875,100"/>
 </map>

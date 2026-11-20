@@ -1,14 +1,14 @@
 <map id="src/gui/windows/log_window.cpp" name="src/gui/windows/log_window.cpp">
-<area shape="rect" id="Node000001" title="This file implements a window that displays log messages." alt="" coords="33,5,183,45"/>
-<area shape="rect" id="Node000002" href="$log__window_8hpp.html" title="This file defines a window that displays log messages." alt="" coords="45,93,171,119"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="111,46,111,79,105,79,105,46"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="5,255,117,280"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="89,121,63,141,42,168,38,186,39,205,51,242,46,243,34,206,33,186,38,166,59,137,85,117"/>
-<area shape="rect" id="Node000004" href="$window_8hpp.html" title="This file defines an interface for all windows that will be rendered by the application." alt="" coords="53,174,163,199"/>
-<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="111,119,111,160,105,160,105,119"/>
-<area shape="rect" id="Node000005" href="$logging__system_8hpp.html" title="This file defines a logging system that is used in the project." alt="" coords="187,167,362,207"/>
-<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="133,116,223,158,221,163,131,121"/>
-<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="103,201,78,244,73,241,99,198"/>
-<area shape="rect" id="Node000006" href="$logger_8hpp.html" title="This file defines a general logger interface." alt="" coords="229,255,320,280"/>
-<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="277,207,277,241,272,241,272,207"/>
+<area shape="rect" id="Node000001" title="This file implements a window that displays log messages." alt="" coords="32,5,181,50"/>
+<area shape="rect" id="Node000002" href="$log__window_8hpp.html" title="This file defines a window that displays log messages." alt="" coords="44,98,169,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="107,48,109,83,104,82,106,53"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,266,117,294"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="83,128,62,148,42,175,37,194,38,214,50,252,44,253,33,215,32,193,37,173,58,144,86,124"/>
+<area shape="rect" id="Node000004" href="$window_8hpp.html" title="This file defines an interface for all windows that will be rendered by the application." alt="" coords="51,182,162,210"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="107,124,109,167,104,166,105,129"/>
+<area shape="rect" id="Node000005" href="$logging__system_8hpp.html" title="This file defines a logging system that is used in the project." alt="" coords="186,174,360,218"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="133,124,217,165,213,167,133,129"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="101,209,78,254,73,251,97,212"/>
+<area shape="rect" id="Node000006" href="$logger_8hpp.html" title="This file defines a general logger interface." alt="" coords="228,266,318,294"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="275,217,275,252,271,249,271,221"/>
 </map>

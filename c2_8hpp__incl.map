@@ -1,9 +1,9 @@
 <map id="src/core/coprocessors/cp15/c2.hpp" name="src/core/coprocessors/cp15/c2.hpp">
-<area shape="rect" id="Node000001" title="This file defines the primary register C2 of coprocessor CP15." alt="" coords="11,5,174,45"/>
-<area shape="rect" id="Node000002" href="$primary__reg_8hpp.html" title="This file defines a primary register interface of coprocessor CP15." alt="" coords="28,93,157,119"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,46,95,79,90,79,90,46"/>
-<area shape="rect" id="Node000003" href="$logging__system_8hpp.html" title="This file defines a logging system that is used in the project." alt="" coords="5,167,180,207"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="95,119,95,153,90,153,90,119"/>
-<area shape="rect" id="Node000004" href="$logger_8hpp.html" title="This file defines a general logger interface." alt="" coords="47,255,138,280"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="95,207,95,241,90,241,90,207"/>
+<area shape="rect" id="Node000001" title="This file defines the primary register C2 of coprocessor CP15." alt="" coords="12,5,173,50"/>
+<area shape="rect" id="Node000002" href="$primary__reg_8hpp.html" title="This file defines a primary register interface of coprocessor CP15." alt="" coords="28,98,157,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,48,95,83,90,82,92,53"/>
+<area shape="rect" id="Node000003" href="$logging__system_8hpp.html" title="This file defines a logging system that is used in the project." alt="" coords="5,174,180,218"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="93,124,95,158,90,157,92,129"/>
+<area shape="rect" id="Node000004" href="$logger_8hpp.html" title="This file defines a general logger interface." alt="" coords="48,266,137,294"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="94,217,95,252,90,250,91,221"/>
 </map>

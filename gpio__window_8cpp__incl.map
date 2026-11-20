@@ -1,29 +1,29 @@
 <map id="src/gui/windows/peripherals/gpio_window.cpp" name="src/gui/windows/peripherals/gpio_window.cpp">
-<area shape="rect" id="Node000001" title="This file implements a window that visualizes the states and information about GPIO pins." alt="" coords="50,5,253,45"/>
-<area shape="rect" id="Node000002" title=" " alt="" coords="5,93,140,119"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="134,47,96,85,92,82,130,44"/>
-<area shape="rect" id="Node000003" href="$gpio__window_8hpp.html" title="This file defines a window that visualizes the states and information about GPIO pins." alt="" coords="164,93,299,119"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="173,44,211,82,208,85,169,47"/>
-<area shape="rect" id="Node000004" href="$window_8hpp.html" title="This file defines an interface for all windows that will be rendered by the application." alt="" coords="74,174,197,199"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="219,121,162,167,158,163,215,117"/>
-<area shape="rect" id="Node000006" href="$gpio_8hpp.html" title="This file defines the GPIO controller used in BCM2835." alt="" coords="246,167,409,207"/>
-<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="247,117,295,156,292,160,244,121"/>
-<area shape="rect" id="Node000005" title=" " alt="" coords="53,255,165,280"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="134,200,119,243,114,241,129,199"/>
-<area shape="rect" id="Node000007" href="$peripheral_8hpp.html" title="This file defines an interface for a memory&#45;mapped peripheral." alt="" coords="53,335,169,361"/>
-<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="299,209,229,257,137,328,134,324,226,253,296,205"/>
-<area shape="rect" id="Node000008" href="$interrupt__controller_8hpp.html" title="This file defines the interrupt controller used in BCM2835." alt="" coords="240,255,415,280"/>
-<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="330,207,330,241,325,241,325,207"/>
-<area shape="rect" id="Node000010" href="$logging__system_8hpp.html" title="This file defines a logging system that is used in the project." alt="" coords="372,416,547,456"/>
-<area shape="poly" id="edge13_Node000006_Node000010" title=" " alt="" coords="372,204,403,225,430,253,447,290,458,330,464,402,458,402,453,331,442,292,425,256,400,229,369,209"/>
-<area shape="rect" id="Node000012" href="$external__peripheral_8hpp.html" title="This file defines an interface for external peripherals that can be attached to the system via GPIO p..." alt="" coords="522,328,671,368"/>
-<area shape="poly" id="edge14_Node000006_Node000012" title=" " alt="" coords="397,204,451,224,505,252,543,283,575,316,571,319,540,287,502,257,449,229,395,209"/>
-<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="297,283,156,333,155,328,295,278"/>
-<area shape="rect" id="Node000009" href="$context_8hpp.html" title="This file defines the context (registers) of the CPU." alt="" coords="194,335,397,361"/>
-<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="325,281,308,323,303,321,320,279"/>
-<area shape="poly" id="edge12_Node000008_Node000010" title=" " alt="" coords="350,278,381,298,411,326,435,364,451,402,447,404,430,367,407,330,377,303,347,282"/>
-<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="319,358,413,407,410,412,316,363"/>
-<area shape="rect" id="Node000011" href="$logger_8hpp.html" title="This file defines a general logger interface." alt="" coords="414,504,505,529"/>
-<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="462,456,462,490,457,490,457,456"/>
-<area shape="poly" id="edge15_Node000012_Node000010" title=" " alt="" coords="568,370,503,411,500,406,565,366"/>
+<area shape="rect" id="Node000001" title="This file implements a window that visualizes the states and information about GPIO pins." alt="" coords="50,5,252,50"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,98,139,126"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="129,53,98,88,93,85,131,48"/>
+<area shape="rect" id="Node000003" href="$gpio__window_8hpp.html" title="This file defines a window that visualizes the states and information about GPIO pins." alt="" coords="163,98,296,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="171,48,209,86,204,87,172,53"/>
+<area shape="rect" id="Node000004" href="$window_8hpp.html" title="This file defines an interface for all windows that will be rendered by the application." alt="" coords="72,182,194,210"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="212,128,162,174,158,170,215,124"/>
+<area shape="rect" id="Node000006" href="$gpio_8hpp.html" title="This file defines the GPIO controller used in BCM2835." alt="" coords="244,174,406,218"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="245,124,291,163,286,164,245,129"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="52,266,164,294"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="130,208,119,253,114,251,128,213"/>
+<area shape="rect" id="Node000007" href="$peripheral_8hpp.html" title="This file defines an interface for a memory&#45;mapped peripheral." alt="" coords="52,350,167,378"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="291,221,228,268,137,343,133,339,225,264,295,217"/>
+<area shape="rect" id="Node000008" href="$interrupt__controller_8hpp.html" title="This file defines the interrupt controller used in BCM2835." alt="" coords="239,266,412,294"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="326,216,328,252,323,250,324,221"/>
+<area shape="rect" id="Node000010" href="$logging__system_8hpp.html" title="This file defines a logging system that is used in the project." alt="" coords="369,435,543,479"/>
+<area shape="poly" id="edge13_Node000006_Node000010" title=" " alt="" coords="371,216,402,237,426,265,444,303,455,345,460,385,460,421,456,418,454,385,450,346,439,305,422,268,398,241,371,222"/>
+<area shape="rect" id="Node000012" href="$external__peripheral_8hpp.html" title="This file defines an interface for external peripherals that can be attached to the system via GPIO p..." alt="" coords="519,342,668,387"/>
+<area shape="poly" id="edge14_Node000006_Node000012" title=" " alt="" coords="400,216,452,237,501,264,539,295,571,331,565,330,535,299,499,269,450,242,400,222"/>
+<area shape="poly" id="edge8_Node000008_Node000007" title=" " alt="" coords="289,297,159,347,157,342,292,292"/>
+<area shape="rect" id="Node000009" href="$context_8hpp.html" title="This file defines the context (registers) of the CPU." alt="" coords="191,350,393,378"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="322,293,305,338,301,335,318,297"/>
+<area shape="poly" id="edge12_Node000008_Node000010" title=" " alt="" coords="349,292,379,313,407,340,431,379,448,421,443,419,427,382,403,344,376,317,348,297"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="316,376,406,427,401,427,315,381"/>
+<area shape="rect" id="Node000011" href="$logger_8hpp.html" title="This file defines a general logger interface." alt="" coords="411,527,501,555"/>
+<area shape="poly" id="edge11_Node000010_Node000011" title=" " alt="" coords="458,478,458,513,454,510,454,482"/>
+<area shape="poly" id="edge15_Node000012_Node000010" title=" " alt="" coords="563,386,503,428,500,423,558,388"/>
 </map>

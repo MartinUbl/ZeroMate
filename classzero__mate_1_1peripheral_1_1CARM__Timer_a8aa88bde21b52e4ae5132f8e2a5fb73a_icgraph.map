@@ -1,20 +1,20 @@
 <map id="zero_mate::peripheral::CARM_Timer::Get_Reg" name="zero_mate::peripheral::CARM_Timer::Get_Reg">
-<area shape="rect" id="Node000001" title="Returns the current content of a register." alt="" coords="539,149,716,189"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CARM__Timer.html#a9f2ae98d766d97f06f4b153a99bafcaa" title="Clear a pending interrupt (helper function)." alt="" coords="261,5,489,45"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="593,142,546,103,489,66,447,48,449,43,492,62,549,99,596,138"/>
-<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1CARM__Timer.html#adb5da1b77debf34bb53e590c1774af34" title="Writes data to the peripheral (IPeripheral interface)." alt="" coords="26,35,191,75"/>
-<area shape="poly" id="edge10_Node000001_Node000003" title=" " alt="" coords="576,145,535,127,490,111,412,92,332,78,191,62,192,57,333,72,413,86,491,105,537,122,578,141"/>
-<area shape="rect" id="Node000004" href="$classzero__mate_1_1peripheral_1_1CARM__Timer.html#a6f089d92275345a7f7a363c942bc8692" title="Returns the current content of the control register." alt="" coords="260,120,491,160"/>
-<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="525,160,490,156,491,151,525,155"/>
-<area shape="rect" id="Node000005" href="$classzero__mate_1_1peripheral_1_1CARM__Timer.html#afc4c9659823762252dd1ea58b8a76e1e" title="Updates the timer (ISystem_Clock_Listener interface)." alt="" coords="15,170,203,225"/>
-<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="525,177,203,195,203,190,525,172"/>
-<area shape="rect" id="Node000006" href="$classzero__mate_1_1peripheral_1_1CARM__Timer.html#a98d9eb00ca1545607ed62e4051063eb7" title="Resets/re&#45;initializes the ARM timer (IPeripheral interface)." alt="" coords="293,315,458,355"/>
-<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="604,202,556,255,525,282,492,305,460,320,457,315,489,300,522,278,552,251,600,199"/>
-<area shape="rect" id="Node000008" href="$classzero__mate_1_1peripheral_1_1CARM__Timer.html#a9abc7d434c8ec8120e49e2add79e7346" title="This procedure is called whenever the timer reaches 0 (helper function)." alt="" coords="279,235,471,290"/>
-<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="561,197,451,238,449,233,559,192"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="248,42,192,48,191,43,247,37"/>
-<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="269,166,203,180,202,175,268,160"/>
-<area shape="rect" id="Node000007" href="$classzero__mate_1_1peripheral_1_1CARM__Timer.html#a6e04a50b8de25f632bd3fd6f0650ca89" title="Creates an instance of the class." alt="" coords="5,315,212,355"/>
-<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="279,337,212,337,212,332,279,332"/>
-<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="265,239,202,223,203,218,267,233"/>
+<area shape="rect" id="Node000001" title="Returns the current content of a register." alt="" coords="537,156,713,201"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CARM__Timer.html#a9f2ae98d766d97f06f4b153a99bafcaa" title="Clear a pending interrupt (helper function)." alt="" coords="260,5,488,50"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="587,145,542,108,488,71,450,53,450,48,490,67,545,104,592,145"/>
+<area shape="rect" id="Node000003" href="$classzero__mate_1_1peripheral_1_1CARM__Timer.html#adb5da1b77debf34bb53e590c1774af34" title="Writes data to the peripheral (IPeripheral interface)." alt="" coords="26,36,190,81"/>
+<area shape="poly" id="edge10_Node000001_Node000003" title=" " alt="" coords="569,148,531,132,488,116,411,96,331,81,191,65,190,60,332,76,412,90,490,110,533,127,574,148"/>
+<area shape="rect" id="Node000004" href="$classzero__mate_1_1peripheral_1_1CARM__Timer.html#a6f089d92275345a7f7a363c942bc8692" title="Returns the current content of the control register." alt="" coords="259,125,489,170"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="519,166,490,164,489,159,524,165"/>
+<area shape="rect" id="Node000005" href="$classzero__mate_1_1peripheral_1_1CARM__Timer.html#afc4c9659823762252dd1ea58b8a76e1e" title="Updates the timer (ISystem_Clock_Listener interface)." alt="" coords="14,177,202,238"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="520,187,203,205,202,200,523,182"/>
+<area shape="rect" id="Node000006" href="$classzero__mate_1_1peripheral_1_1CARM__Timer.html#a98d9eb00ca1545607ed62e4051063eb7" title="Resets/re&#45;initializes the ARM timer (IPeripheral interface)." alt="" coords="292,331,456,375"/>
+<area shape="poly" id="edge6_Node000001_Node000006" title=" " alt="" coords="601,212,553,269,523,297,490,321,457,336,456,331,488,316,520,293,549,266,596,215"/>
+<area shape="rect" id="Node000008" href="$classzero__mate_1_1peripheral_1_1CARM__Timer.html#a9abc7d434c8ec8120e49e2add79e7346" title="This procedure is called whenever the timer reaches 0 (helper function)." alt="" coords="278,245,470,306"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="554,206,456,247,454,242,549,207"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="243,44,192,51,189,47,247,41"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="255,175,203,189,201,184,259,173"/>
+<area shape="rect" id="Node000007" href="$classzero__mate_1_1peripheral_1_1CARM__Timer.html#a6e04a50b8de25f632bd3fd6f0650ca89" title="Creates an instance of the class." alt="" coords="5,331,211,375"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="273,353,211,356,211,350,279,353"/>
+<area shape="poly" id="edge9_Node000008_Node000005" title=" " alt="" coords="261,248,202,234,202,229,266,247"/>
 </map>

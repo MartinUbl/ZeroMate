@@ -1,17 +1,17 @@
 <map id="src/utils/elf_loader.hpp" name="src/utils/elf_loader.hpp">
-<area shape="rect" id="Node000001" title="This file defines the functionality of an ELF loader." alt="" coords="225,5,394,31"/>
-<area shape="rect" id="Node000002" href="$source__code__window_8cpp.html" title="This file implements a window that displays loaded ELF files (disassembled instructions of the source..." alt="" coords="5,167,179,207"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="212,32,162,50,139,63,119,80,106,100,98,123,94,167,89,166,93,122,101,98,115,77,136,59,159,45,210,27"/>
-<area shape="rect" id="Node000003" href="$source__code__window_8hpp.html" title="This file defines a window that displays loaded ELF files (disassembled instructions of the source co..." alt="" coords="129,79,303,119"/>
-<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="287,42,240,81,237,76,283,38"/>
-<area shape="rect" id="Node000005" href="$top__bar__menu_8hpp.html" title=" " alt="" coords="327,79,478,119"/>
-<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="335,38,382,76,378,81,332,42"/>
-<area shape="rect" id="Node000007" href="$elf__loader_8cpp.html" title="This file implements the functionality of an ELF loader defined in elf_loader.hpp." alt="" coords="503,86,671,111"/>
-<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="363,32,547,83,546,89,362,37"/>
-<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="179,129,121,169,118,164,176,124"/>
-<area shape="rect" id="Node000004" href="$gui_8cpp.html" title="This file implements the main GUI entry function that takes care of creating and rendering all window..." alt="" coords="203,174,319,199"/>
-<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="235,129,257,172,253,175,230,132"/>
-<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="361,128,282,176,279,172,359,124"/>
-<area shape="rect" id="Node000006" href="$top__bar__menu_8cpp.html" title=" " alt="" coords="343,167,494,207"/>
-<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="411,132,418,166,413,167,406,133"/>
+<area shape="rect" id="Node000001" title="This file defines the functionality of an ELF loader." alt="" coords="223,5,392,33"/>
+<area shape="rect" id="Node000002" href="$source__code__window_8cpp.html" title="This file implements a window that displays loaded ELF files (disassembled instructions of the source..." alt="" coords="5,174,178,218"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="206,33,160,52,138,66,119,83,105,104,97,128,93,174,88,172,92,127,100,101,115,79,135,62,158,48,210,30"/>
+<area shape="rect" id="Node000003" href="$source__code__window_8hpp.html" title="This file defines a window that displays loaded ELF files (disassembled instructions of the source co..." alt="" coords="129,81,302,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="283,42,242,82,238,78,279,45"/>
+<area shape="rect" id="Node000005" href="$top__bar__menu_8hpp.html" title=" " alt="" coords="326,81,476,126"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="334,41,379,80,373,80,333,46"/>
+<area shape="rect" id="Node000007" href="$elf__loader_8cpp.html" title="This file implements the functionality of an ELF loader defined in elf_loader.hpp." alt="" coords="500,90,667,117"/>
+<area shape="poly" id="edge8_Node000001_Node000007" title=" " alt="" coords="367,35,542,88,537,90,366,41"/>
+<area shape="poly" id="edge4_Node000003_Node000002" title=" " alt="" coords="176,134,123,175,120,171,172,136"/>
+<area shape="rect" id="Node000004" href="$gui_8cpp.html" title="This file implements the main GUI entry function that takes care of creating and rendering all window..." alt="" coords="202,182,317,210"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="234,137,256,182,251,181,231,142"/>
+<area shape="poly" id="edge6_Node000005_Node000004" title=" " alt="" coords="357,134,281,184,279,179,352,135"/>
+<area shape="rect" id="Node000006" href="$top__bar__menu_8cpp.html" title=" " alt="" coords="342,174,492,218"/>
+<area shape="poly" id="edge7_Node000005_Node000006" title=" " alt="" coords="409,139,415,175,411,172,406,143"/>
 </map>

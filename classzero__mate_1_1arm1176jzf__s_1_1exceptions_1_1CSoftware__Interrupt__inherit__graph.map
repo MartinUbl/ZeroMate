@@ -1,7 +1,7 @@
 <map id="zero_mate::arm1176jzf_s::exceptions::CSoftware_Interrupt" name="zero_mate::arm1176jzf_s::exceptions::CSoftware_Interrupt">
-<area shape="rect" id="Node000001" title="This class represents the software interrupt (SWI) exception." alt="" coords="5,181,195,236"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1exceptions_1_1CCPU__Exception.html" title="This class represents a parent class for all the CPU exceptions." alt="" coords="13,79,187,133"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="103,147,103,181,97,181,97,147"/>
-<area shape="rect" id="Node000003" title=" " alt="" coords="31,5,169,31"/>
-<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="103,44,103,79,97,79,97,44"/>
+<area shape="rect" id="Node000001" title="This class represents the software interrupt (SWI) exception." alt="" coords="5,191,194,252"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1exceptions_1_1CCPU__Exception.html" title="This class represents a parent class for all the CPU exceptions." alt="" coords="13,81,186,143"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="101,156,102,191,97,189,98,160"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="30,5,169,33"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="100,46,102,81,97,80,99,51"/>
 </map>

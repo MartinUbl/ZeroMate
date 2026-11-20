@@ -1,5 +1,5 @@
 <map id="zero_mate::arm1176jzf_s::mmu::CMMU::Verify_Access_Type" name="zero_mate::arm1176jzf_s::mmu::CMMU::Verify_Access_Type">
-<area shape="rect" id="Node000001" title="Verifies the access type." alt="" coords="5,5,180,60"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1mmu_1_1CPage__Entry.html#adefd9403af02fbb79298b706f7d6c7e3" title="Returns the page access type." alt="" coords="228,5,401,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,30,214,30,214,35,180,35"/>
+<area shape="rect" id="Node000001" title="Verifies the access type." alt="" coords="5,5,179,67"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1arm1176jzf__s_1_1mmu_1_1CPage__Entry.html#adefd9403af02fbb79298b706f7d6c7e3" title="Returns the page access type." alt="" coords="227,5,399,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,34,214,36,208,36,179,39"/>
 </map>

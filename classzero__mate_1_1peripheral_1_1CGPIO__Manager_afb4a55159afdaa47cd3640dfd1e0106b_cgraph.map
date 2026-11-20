@@ -1,5 +1,5 @@
 <map id="zero_mate::peripheral::CGPIO_Manager::Mirror_Pin_State_In_GPLEVn" name="zero_mate::peripheral::CGPIO_Manager::Mirror_Pin_State_In_GPLEVn">
-<area shape="rect" id="Node000001" title="Mirrors the state of a given in in the GPLEV register." alt="" coords="5,5,188,60"/>
-<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CGPIO__Manager.html#aa6b0515a8e4fecb78bebfbb79a13994b" title="Returns the index of the register (out of the two alternatives) based on the pin index." alt="" coords="236,5,403,60"/>
-<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="188,30,222,30,222,35,188,35"/>
+<area shape="rect" id="Node000001" title="Mirrors the state of a given in in the GPLEV register." alt="" coords="5,5,187,67"/>
+<area shape="rect" id="Node000002" href="$classzero__mate_1_1peripheral_1_1CGPIO__Manager.html#aa6b0515a8e4fecb78bebfbb79a13994b" title="Returns the index of the register (out of the two alternatives) based on the pin index." alt="" coords="235,5,400,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="187,34,222,36,217,36,187,39"/>
 </map>
