@@ -34,7 +34,27 @@ namespace zero_mate::coprocessor::cp15
 
     std::uint32_t CC2::Get_TTB_Address(NCRm_C0_Register reg) const
     {
-        return Extract_Bits_From_TTBR(reg, NC0_TTB_Flags::Address);
+        const auto crm_idx = static_cast<std::uint32_t>(NCRm::C0);
+        const auto reg_idx = static_cast<std::uint32_t>(reg);
+        const std::uint32_t raw_value = m_regs.at(crm_idx).at(reg_idx);
+
+        std::uint32_t address_mask = 0xFFFFC000U;
+
+        // TTBR0 base is bits [31:14-N]
+        if (reg == NCRm_C0_Register::Translation_Table_Base_0) {
+            const auto n = static_cast<std::uint32_t>(Get_Boundary_Type());
+            const std::uint32_t alignment_bits = 14U - n;
+            address_mask = ~((1U << alignment_bits) - 1U);
+        }
+        // TTBR1 base is always bits [31:14]
+        else if (reg == NCRm_C0_Register::Translation_Table_Base_1) {
+            address_mask = 0xFFFFC000U;
+        }
+        else {
+            return 0;
+        }
+
+        return raw_value & address_mask;
     }
 
     bool CC2::Is_TTB_Shared(NCRm_C0_Register reg) const
@@ -50,38 +70,6 @@ namespace zero_mate::coprocessor::cp15
     CC2::NBoundary CC2::Get_Boundary_Type() const
     {
         return static_cast<NBoundary>(Extract_Bits_From_TTB_Ctrl(NC0_TTB_Control_Flags::Boundary));
-    }
-
-    std::uint32_t CC2::Get_Boundary() const
-    {
-        switch (Get_Boundary_Type())
-        {
-            case NBoundary::KB_16:
-                return 16 * 1024 * 1024;
-
-            case NBoundary::KB_8:
-                return 8 * 1024 * 1024;
-
-            case NBoundary::KB_4:
-                return 4 * 1024 * 1024;
-
-            case NBoundary::KB_2:
-                return 2 * 1024 * 1024;
-
-            case NBoundary::KB_1:
-                return 1 * 1024 * 1024;
-
-            case NBoundary::B_512:
-                return 512 * 1024;
-
-            case NBoundary::B_256:
-                return 128 * 1024;
-
-            case NBoundary::B_128:
-                break;
-        }
-
-        return 0;
     }
 
     bool CC2::Is_PD0_Set() const

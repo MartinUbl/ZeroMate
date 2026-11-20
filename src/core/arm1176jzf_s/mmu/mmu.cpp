@@ -72,7 +72,7 @@ namespace zero_mate::arm1176jzf_s::mmu
         // Check if it needs to updated (fetched from the RAM).
         if (tbbr1_addr != m_TTBR1_addr || force)
         {
-            m_TTBR0_addr = tbbr1_addr;
+            m_TTBR1_addr = tbbr1_addr;
             m_page_table_1 = m_bus->Read<CPage_Table>(m_TTBR1_addr);
         }
     }
@@ -194,14 +194,17 @@ namespace zero_mate::arm1176jzf_s::mmu
         const auto cp15_c2 =
         m_cp15->Get_Primary_Register<coprocessor::cp15::CC2>(coprocessor::cp15::NPrimary_Register::C2);
 
-        // TODO something to reason about
-        // https://stackoverflow.com/questions/14460752/linux-kernel-arm-translation-table-base-ttb0-and-ttb1
-        if ((cp15_c2->Get_Boundary() * (1 * 1024 * 1024 / 4)) > virtual_addr) [[unlikely]]
-        {
-            return m_page_table_1;
+        const auto n = static_cast<std::uint32_t>(cp15_c2->Get_Boundary_Type());
+
+        // use TTBR0 when n == 0 (boundary spans the whole address space)
+        if (n == 0) {
+            return m_page_table_0;
         }
 
-        return m_page_table_0;
+        // use TTBR0 if by shifting the address to the boundary produces an empty upper part
+        const bool use_ttbr0 = ((virtual_addr >> (32U - n)) == 0);
+
+        return use_ttbr0 ? m_page_table_0 : m_page_table_1;
     }
 
     std::uint32_t

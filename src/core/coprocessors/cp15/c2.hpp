@@ -53,7 +53,6 @@ namespace zero_mate::coprocessor::cp15
         {
             Inner_Cacheable = 0b1U << 0U,                       ///< Table is inner cacheable
             Shared = 0b1U << 1U,                                ///< Table can be shared among multiple cores
-            Address = 0b1111'1111'1111'1111'1100'0000'0000'0000 ///< Mask of the table's physical address
         };
 
         // -------------------------------------------------------------------------------------------------------------
@@ -63,8 +62,8 @@ namespace zero_mate::coprocessor::cp15
         enum class NC0_TTB_Control_Flags : std::uint32_t
         {
             Boundary = 0b111U, ///< Mask of the boundary (first 3 bits)
-            PD0 = 0b1U << 4U,  ///< Perform a page table walk (TTB0)
-            PD1 = 0b1U << 5U,  ///< Perform a page table walk (TTB1)
+            PD0 = 0b1U << 4U,  ///< Disable page table walk (TTBR0)
+            PD1 = 0b1U << 5U,  ///< Disable page table walk (TTBR1)
         };
 
         // -------------------------------------------------------------------------------------------------------------
@@ -123,12 +122,6 @@ namespace zero_mate::coprocessor::cp15
         /// \return Boundary (type) that splits the use of TTB0 and TTB1
         // -------------------------------------------------------------------------------------------------------------
         [[nodiscard]] NBoundary Get_Boundary_Type() const;
-
-        // -------------------------------------------------------------------------------------------------------------
-        /// \brief Returns the boundary value that determines the use of either TTB0 or TTB1
-        /// \return  Boundary value that splits the use of TTB0 and TTB1
-        // -------------------------------------------------------------------------------------------------------------
-        [[nodiscard]] std::uint32_t Get_Boundary() const;
 
         // -------------------------------------------------------------------------------------------------------------
         /// \brief Returns whether the PD0 is set or not (performing a page table walk).
